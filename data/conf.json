@@ -1,0 +1,7 @@
+[
+	{
+		"database":"DBLP",
+		"conference":["WWW", "SIGMOD", "ICDM", "IJCAI", "ACL", "ICDE", "SIGIR", "VLDB", "ICML"]
+
+	}
+]

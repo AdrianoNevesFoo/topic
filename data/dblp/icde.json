@@ -1,0 +1,187 @@
+[
+	{
+		"id": 0,
+		"topic": "",
+		"target": [1,2,3,4,5,6]
+	},
+	{
+		"id": 1,
+		"topic": "natural language, noun phrase, spoken dialogue systems, speech recognition, language model, tree adjoining, tree grammars, language, dependency parsing, analysis, semantic, grammars, adjoining grammars, parsing grammars, parsing, phrase structure, language processing, language generation, structure, statistical language, semantic noun, spoken language, approach generation, structure grammars, semantic model, discourse, approach analysis, dialogue, model, spoken, generation, approach language, computational, speech, representation, model parsing, model grammars, parser, japanese, linguistic, understanding, approach, syntactic, interpretation, dependencies, issues, english, case, reference, functional, study, aspect, descriptions, hierarchical, unification-based, conversation, grammatical, corpus, treebank, linear, dialog, compositional, flexible, multimodal, graphical, theory, process, empirical, classifier, abstract, perspective, generating, interactive, base, incremental, computer, interface, modeling, lexical, automatic, constraints, classification, feature, information, applications, text, algorithm, learning, ",
+		"target": [7,8,9,10,11]
+	},
+	{
+		"id": 2,
+		"topic": "support vector machine, machine translation, statistical machine translation, word sense disambiguation, feature selection, dimensionality reduction, named entity, information extraction, active learning, matrix factorization, semi-supervised learning, entity recognition, word, density estimation, markov model, learning, statistical model, text categorization, word alignment, learning classification, machine learning, word segmentation, text mining, model word, text, extraction, method, unsupervised learning, feature, model learning, disambiguation, word translation, word text, model translation, based, classification text, statistical, selection, statistical learning, relations, alignment, kernel, segmentation, bilingual, tagging, unsupervised, problem, estimation, discriminative, corpora, supervised, classification, lexical, automatic, summarization, order, structural, optimal, multilingual, chinese, sentence, resolution, identification, acquisition, sampling, domain, maximum, part-of-speech, transducers, topic, hidden, bootstrapping, resources, spectral, improved, combining, training, projection, lattice, hierarchy, adaptation, global, propagation, random, collaborative, inference, level, information, filtering, stochastic, ranking, large-scale, dependency, bayesian, distribution, knowledge, exploiting, techniques, documents, fast, ",
+		"target": [12,13,14,15,16]
+	},
+	{
+		"id": 3,
+		"topic": "mining patterns, high dimensional, mining, mining frequent, mining frequent itemsets, mining closed, mining database, efficient algorithm, efficient, mining association rules, transitive closure, mining frequent patterns, data mining, mining sequential patterns, algorithm, gene expressions, mining sequences, mining graph, xml documents, patterns data, discovery patterns, clustering graph, efficient computation, graph, efficient sequences, discovering patterns, large, similarity search, large database, mining algorithm, efficient database, sequences, large graph, efficient mining, patterns graph, algorithm tree, high data, indexing, clustering algorithm, tree, discovery, efficient structure, efficient search, mining sets, algorithm graph, efficient xml, patterns sequences, patterns database, efficient discovery, rules, efficient patterns, efficient data, xml, finding, fast, event, documents, similarity, space, constraints, generalized, datasets, efficiently, partial, expressions, approximate, computing, string, spatio-temporal, temporal, functions, searching, counting, search, subsequence, protein, scientific, knowledge, prediction, region, automated, distance, range, querying, index, recursive, path, time-series, video, weighted, keyword, subspace, cluster, incremental, support, matching, spatial, framework, time, queries, ",
+		"target": [17,18,19,20,21]
+	},
+	{
+		"id": 4,
+		"topic": "database systems, database, systems, relational database, distributed systems, concurrency control, object-oriented database, data management, distributed database, distributed database systems, management systems, design systems, materialized views, query database, relational database systems, approach database, design database systems, data systems, management, distributed, information retrieval, evaluation database systems, - data, active database, database management systems, information systems, adaptive systems, language database, design, integration database, object-oriented database systems, data environment, temporal database, multimedia database, processing database, deductive database, queries database, design evaluation, object, techniques database, data design, performance, object database, data database, performance database, load systems, large database, database tool, database applications, environment, implementation systems, interface systems, data information, modeling database, model database, heterogeneous systems, heterogeneous database, image database, supporting database, storage systems, xml systems, concurrency database, management distributed, transaction database, services, performance systems, updates, views, access, updates database, database environment, query systems, storage, control database, protocol, disk, server, information database, efficient database, distributed data, architecture, -, transaction, software, file, implementation, retrieval, scheduling, buffer, heterogeneous, platform, security, allocation, replication, content, recovery, replicated, maintaining, declarative, broadcast, ",
+		"target": [22,23,24,25,26]
+	},
+	{
+		"id": 5,
+		"topic": "data streams, data, time series, data mining, model data, sensor networks, social networks, clustering data, support vector, clustering, data sets, clustering data streams, uncertain data, mining data streams, privacy preserving, mining data applications, outlier detection, data applications, distributed detection, analysis data, networks, distributed data, continuous queries, data approach, cluster data, learning data, data techniques, queries data, detection, text data, efficient data, subspace clustering, online streams, top-k queries, data dissemination, applications, massive data, streams processing, classification data, distributed streams, framework data, clustering algorithm, categorical data, online data, semantic data, adaptive data, probabilistic data, dynamic, load data, privacy data, dynamic clustering, data networks, subspace data, framework, data sensor, dynamic data, detection data, probabilistic, scalable data, processing data, online, privacy, data spatial, queries, monitoring, data time, data systems, top-k, evolving, robust, adaptive, aggregates, binary, continuous, scalable, streaming, privacy-preserving, decision, variable, regression, ensemble, approximation, constrained, aggregation, record, spatial, communities, measures, latent, detecting, hybrid, tracking, shedding, relationship, noise, distribution, attribute, general, bayesian, complex, ",
+		"target": [27,28,29,30,31]
+	},
+	{
+		"id": 6,
+		"topic": "query processing, nearest neighbor, query, nearest neighbor search, question answering, data warehouses, efficient processing, query optimization, query processing data, reverse neighbor, processing, efficient query, streams processing, data integration, join, semantic query, distributed processing, web search, parallel join, data parallel, query evaluation, parallel, web, query web, schema, query systems, improving, business, sources, results, statistics, integration, multiple, strategies, decomposition, cost, modeling, quality, role, summaries, exploiting, runtime, olap, tables, construction, correlation, processor, operator, transformation, exploration, visual, term, matching, warehousing, engine, memory, optimizing, accuracy, evaluation, evaluating, cluster, cube, user, large-scale, search, automatic, estimation, rules, queries, xml, selection, method, information, applications, performance, algorithm, systems, data, ",
+		"target": [32,33,34,35,36]
+	},
+	{
+		"id": 7,
+		"topic": "speech recognition, dialogue, parser, study, case, descriptions, multimodal, interpretation, interactive, ",
+		"target": []
+	},
+	{
+		"id": 8,
+		"topic": "spoken dialogue systems, natural language, language model, language processing, statistical language, approach generation, language generation, spoken language, language, approach language, approach, generation, spoken, flexible, lexical, abstract, graphical, discourse, understanding, grammatical, learning, ",
+		"target": []
+	},
+	{
+		"id": 9,
+		"topic": "tree adjoining, tree grammars, dependency parsing, adjoining grammars, model, parsing, parsing grammars, grammars, computational, syntactic, model grammars, process, model parsing, reference, base, unification-based, perspective, ",
+		"target": []
+	},
+	{
+		"id": 10,
+		"topic": "noun phrase, phrase structure, semantic, analysis, semantic noun, representation, japanese, corpus, issues, english, conversation, constraints, text, ",
+		"target": []
+	},
+	{
+		"id": 11,
+		"topic": "structure, structure grammars, linguistic, dependencies, functional, linear, classifier, dialog, incremental, ",
+		"target": []
+	},
+	{
+		"id": 12,
+		"topic": "matrix factorization, automatic, lexical, acquisition, identification, collaborative, domain, combining, large-scale, filtering, hierarchy, transducers, stochastic, clustering, ",
+		"target": []
+	},
+	{
+		"id": 13,
+		"topic": "feature selection, markov model, density estimation, based, estimation, model, optimal, segmentation, kernel, tagging, order, structural, discriminative, chinese, resources, spectral, part-of-speech, hidden, fast, language, clustering, word, ",
+		"target": []
+	},
+	{
+		"id": 14,
+		"topic": "dimensionality reduction, named entity, active learning, learning, entity recognition, semi-supervised learning, learning classification, classification, summarization, resolution, algorithm, sentence, multilingual, topic, sampling, propagation, clustering, based, ",
+		"target": []
+	},
+	{
+		"id": 15,
+		"topic": "word sense disambiguation, information extraction, text categorization, word alignment, text, word, information, extraction, word text, disambiguation, unsupervised, alignment, bilingual, supervised, mining, analysis, maximum, ranking, bootstrapping, improved, probabilistic, distribution, exploiting, approach, web, model, method, ",
+		"target": []
+	},
+	{
+		"id": 16,
+		"topic": "support vector machine, machine translation, statistical machine translation, statistical model, machine learning, statistical learning, statistical, model translation, method, relations, problem, corpora, lattice, inference, dependency, random, training, level, language, ",
+		"target": []
+	},
+	{
+		"id": 17,
+		"topic": "efficient algorithm, association rules, transitive closure, xml documents, efficient, efficient database, xml, rules, efficient xml, indexing, documents, queries, temporal, partial, path, distance, region, searching, spatial, based, recursive, structure, ",
+		"target": []
+	},
+	{
+		"id": 18,
+		"topic": "high dimensional, tree, search, similarity search, similarity, fast, generalized, space, approximate, querying, index, string, scientific, keyword, data, ",
+		"target": []
+	},
+	{
+		"id": 19,
+		"topic": "mining patterns, data mining, mining database, mining frequent itemsets, mining frequent, mining, mining closed, mining frequent patterns, mining sequences, mining sequential patterns, efficient mining, patterns data, efficient patterns, discovering patterns, patterns database, efficiently, support, method, ",
+		"target": []
+	},
+	{
+		"id": 20,
+		"topic": "mining algorithm, large database, large graph, algorithm, algorithm graph, clustering algorithm, large, sequences, finding, knowledge, functions, datasets, prediction, spatio-temporal, computing, weighted, cluster, ",
+		"target": []
+	},
+	{
+		"id": 21,
+		"topic": "discovery patterns, efficient computation, gene expressions, mining graph, graph, efficient discovery, discovery, constraints, patterns graph, event, expressions, incremental, time, subsequence, ",
+		"target": []
+	},
+	{
+		"id": 22,
+		"topic": "concurrency control, systems, database systems, data systems, information retrieval, information systems, information, services, retrieval, file, maintaining, based, declarative, scheme, replicated, peer-to-peer, user, web, integrating, composition, ",
+		"target": []
+	},
+	{
+		"id": 23,
+		"topic": "design systems, design database systems, evaluation database systems, database tool, performance database, supporting database, heterogeneous database, implementation systems, storage systems, data design, object-oriented systems, performance systems, design evaluation, design, performance, access, storage, recovery, interface, object-oriented, autonomous, modeling, method, ",
+		"target": []
+	},
+	{
+		"id": 24,
+		"topic": "database systems, relational database, relational database systems, object-oriented database, database, query database, approach database, integration database, queries database, multimedia database, deductive database, object database, database applications, data database, model database, object, scheduling, software, platform, dbms, engineering, evolution, mechanism, integrity, ",
+		"target": []
+	},
+	{
+		"id": 25,
+		"topic": "active database, materialized views, image database, views, updates database, updates, disk, server, allocation, maintenance, content, multiple, broadcast, power, locking, highly, transaction, index, integrated, ",
+		"target": []
+	},
+	{
+		"id": 26,
+		"topic": "distributed database, distributed database systems, management systems, data management, database management systems, techniques database, - data, data environment, distributed, management, distributed data, environment, management distributed, architecture, -, protocol, support, buffer, security, dynamic, replication, operations, analysis, performance, ",
+		"target": []
+	},
+	{
+		"id": 27,
+		"topic": "data streams, time series, mining data streams, data sets, framework data, massive data, categorical data, online data, data time, framework, online streams, online, ensemble, approximation, measures, general, attribute, detecting, noise, tracking, ",
+		"target": []
+	},
+	{
+		"id": 28,
+		"topic": "queries data, social networks, sensor networks, data networks, networks, probabilistic data, data sensor, queries, continuous queries, probabilistic, top-k queries, top-k, continuous, aggregation, skyline, aggregates, peer-to-peer, moving, complex, distribution, compression, communities, object, query, approximate, efficient, ",
+		"target": []
+	},
+	{
+		"id": 29,
+		"topic": "clustering data, clustering, distributed detection, detection data, detection, outlier detection, subspace data, dynamic data, scalable data, clustering streams, clustering algorithm, dynamic, subspace clustering, dynamic clustering, robust, scalable, spatial, local, constrained, privacy-preserving, scheme, evolving, high-dimensional, bayesian, load, cluster, ",
+		"target": []
+	},
+	{
+		"id": 30,
+		"topic": "data applications, mining data applications, data approach, support vector, applications, privacy data, privacy preserving, classification data, approach, privacy, classification, regression, techniques, relationship, variable, hybrid, latent, record, ",
+		"target": []
+	},
+	{
+		"id": 31,
+		"topic": "data, data mining, model data, uncertain data, data dissemination, adaptive data, decision, binary, monitoring, streaming, tree, mobile, ",
+		"target": []
+	},
+	{
+		"id": 32,
+		"topic": "query optimization, optimization, business, exploiting, cluster, correlation, visual, transformation, runtime, systems, data, ",
+		"target": []
+	},
+	{
+		"id": 33,
+		"topic": "query processing, query, query processing data, efficient processing, processing, streams processing, efficient query, distributed processing, evaluation, query evaluation, statistics, strategies, xml, cost, quality, large-scale, automatic, ",
+		"target": []
+	},
+	{
+		"id": 34,
+		"topic": "data warehouses, question answering, search, matching, decomposition, term, processor, olap, engine, tables, query, ",
+		"target": []
+	},
+	{
+		"id": 35,
+		"topic": "join, web, parallel join, parallel, improving, modeling, results, multiple, operator, optimizing, algorithm, performance, accuracy, summaries, cube, estimation, data, ",
+		"target": []
+	},
+	{
+		"id": 36,
+		"topic": "nearest neighbor, reverse neighbor, data integration, schema, integration, sources, selection, construction, role, user, memory, warehousing, queries, semantic, ",
+		"target": []
+	}
+]

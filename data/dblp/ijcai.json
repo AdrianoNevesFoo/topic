@@ -1,0 +1,187 @@
+[
+	{
+		"id": 0,
+		"topic": "",
+		"target": [1,2,3,4,5,6]
+	},
+	{
+		"id": 1,
+		"topic": "constraint satisfaction, logic programming, logic, reasoning, logic programs, arc consistency, description logic, temporal reasoning, answer sets, situation calculus, qualitative reasoning, default logic, concept formation, complexity results, consistency csp, reasoning knowledge, modal logic, temporal planning, nonmonotonic logic, model checking, automatic programming, temporal, programs, reasoning action, constraint, dynamic programming, action, model planning, logic belief, logic knowledge, model logic, reasoning time, planning domains, based logic, logic system, relations logic, complexity, first-order logic, planning action, constraint problems, model reasoning, calculus, logic action, first-order, relations, domains, general, computational, concept, propositional, reasoning system, tractable, logical, reasoning constraint, theories, probabilistic, causal, csp, reasoning logic, perspective, procedures, integrating, extended, circumscription, decomposition, abduction, clauses, plans, ordering, case, stable, partial, formulas, grounded, physical, autoepistemic, elimination, disjunctive, case-based, operators, form, propagation, diagnostic, efficiency, arguments, non-monotonic, weak, algebra, specific, time, maintenance, concurrent, point, effects, aggregation, structural, foundations, interval, possibilistic, generalizing, ",
+		"target": [7,8,9,10,11]
+	},
+	{
+		"id": 2,
+		"topic": "mobile robot, bayesian networks, learning, fault diagnosis, neural networks, learning bayesian networks, gaussian process, time series, active learning, model-based diagnosis, robot control, approach, learning networks, semi-supervised learning, text classification, planning robot, classification data, robot, diagnosis system, classification, learning relational, metric learning, learning model, learning data, image interpretation, clustering data, diagnosis, structure networks, control, machine learning, structure, learning approach, multiple learning, image, networks, motion, modeling, data, dynamic, shape, detection, object, distributed, discovery, approach data, clustering, learning classification, 3-d, surface, exploiting, process, task, interaction, identification, finding, determining, autonomous, learning algorithm, robust, structured, spatial, perception, automatic, stereo, mapping, kernel, context, line, reduction, parameter, filtering, streams, sparse, navigation, interpretation, improved, adaptive, observation, decision-theoretic, construction, coordination, class, global, boosting, inferring, filter, planner, real, variable, 3d, connectionist, iterative, multiple, matching, execution, uncertainty, hierarchical, hidden, vision, classifiers, ",
+		"target": [12,13,14,15,16]
+	},
+	{
+		"id": 3,
+		"topic": "problems solving, decision trees, heuristic search, search, reinforcement learning, problems, markov decision processes, algorithm, local search, constraint problems, satisfaction problems, word sense, solving constraint problems, phase transitions, sense disambiguation, neural networks, expected utility, path planning, combinatorial auctions, decision, planning, heuristic, trees, genetic algorithm, learning heuristic, games trees, learning rules, planning goal, scheduling problems, fast algorithm, search algorithm, learning local, induction learning, solution problems, rules, - algorithm, optimization problems, heuristic problems, analysis search, approach problems, learning algorithm, search problems, planning problems, optimal, efficient algorithm, learning search, algorithm networks, scheduling, algorithm decision, efficient, induction, optimization, stochastic, trees search, learning problems, incremental, constrained, auctions, satisfiability, learning planning, algorithm problems, markov, anytime, resource, mdps, fast, pomdps, bound, hybrid, improving, search planning, optimizing, approximate, approximation, solver, -, production, partitioning, strategy, symbolic, algebraic, identifying, iteration, performance, policy, probabilities, sequential, project, equations, exploration, quality, hard, alternative, admissible, policies, classes, coalition, generalization, preferences, making, ",
+		"target": [17,18,19,20,21]
+	},
+	{
+		"id": 4,
+		"topic": "natural language, matrix factorization, language, nonnegative factorization, model, natural language understanding, expert system, nonnegative matrix, semantic, activity recognition, information retrieval, language processing, speech recognition, analysis, qualitative simulation, syntactic semantic, language generation, knowledge expert, language system, visual recognition, vision system, generation, based model, model information, understanding, semantic model, intelligent system, knowledge representation, semantic language, knowledge language, semantic analysis, semantic information, information system, model language, processing, analysis system, qualitative, parsing, inference, behavior, analysis model, model system, recognition, visual, integration, simulation, expert, intelligent, ai, knowledge system, world, conceptual, role, social, scene, continuous, latent, aspect, combining, generating, real-time, experiments, multimedia, information, procedural, spoken, lexical, noun, compounds, challenges, linguistic, sentences, monitoring, analyzing, extracting, quantitative, explicit, expression, flexible, evaluation, prediction, frame, transfer, perceptual, processor, building, parser, multimodal, research, functions, tool, components, specification, relationships, boolean, interface, disambiguation, vision, representing, tracking, ",
+		"target": [22,23,24,25,26]
+	},
+	{
+		"id": 5,
+		"topic": "artificial intelligence, expert system, theorem proving, system, support vector machine, knowledge system, knowledge representation, preliminary report, multi-agent system, agents, representation system, machine, distributed system, architecture, design, application, space, architecture system, parallel, representation, design system, environment, games, reasoning system, negotiation, support, automated, computer, agents system, application system, resolution, explanation, proof, translation, mechanism, management, knowledge-based, interactive, memory, human, legal, layered, methodology, ii, implementation, theory, oriented, examples, communication, techniques, subsumption, nonlinear, formal, error, practical, view, constructive, statistical, verification, allocation, types, abstract, robotic, laws, extending, cooperative, correspondence, evaluating, genetic, bounded, results, protocol, hidden, hierarchical, uncertainty, multiagent, utility, state, tool, acquisition, -, task, information, heuristic, programming, programs, model, approach, logic, reasoning, search, learning, ",
+		"target": [27,28,29,30,31]
+	},
+	{
+		"id": 6,
+		"topic": "knowledge base, mining patterns, mining frequent, web search, information extraction, mining frequent patterns, mining data, feature selection, web page, belief revision, mining, random fields, knowledge acquisition, frequent itemsets, case study, web, knowledge, based, web mining, knowledge representation, data base, learning web, based system, approach mining, knowledge based, based model, based method, method, based data, feature, text, belief, knowledge system, sequences, user, query, document, computing, study, graph, databases, conditional, prolog, collaborative, cluster, update, simple, summarization, map, sets, similarity, maximum, ranking, change, formalism, empirical, predictive, relational, large, problem-solving, test, argumentation, computation, detecting, access, generalized, effective, refinement, regression, abstraction, state, estimation, association, measure, extension, probability, fuzzy, adaptation, sources, training, discourse, hierarchies, inheritance, event, inductive, online, grammar, strategies, framework, complex, functions, description, information, multiple, clustering, efficient, dynamic, rules, data, semantic, ",
+		"target": [32,33,34,35,36]
+	},
+	{
+		"id": 7,
+		"topic": "concept formation, complexity, general, computational, concept, causal, theories, framework, logical, theory, circumscription, case-based, physical, non-monotonic, operators, ordering, arguments, model, reasoning, ",
+		"target": []
+	},
+	{
+		"id": 8,
+		"topic": "reasoning, situation calculus, temporal reasoning, qualitative reasoning, temporal planning, temporal, model reasoning, calculus, plans, partial, procedures, complex, preferences, clauses, grounded, efficiency, model, concurrent, aggregation, point, event, possibilistic, stable, ",
+		"target": []
+	},
+	{
+		"id": 9,
+		"topic": "description logic, default logic, complexity results, model checking, reasoning action, action, planning action, logic action, first-order logic, probabilistic, propositional, first-order, case, tractable, formulas, knowledge, generalizing, base, common, maintenance, algebra, ",
+		"target": []
+	},
+	{
+		"id": 10,
+		"topic": "logic, logic programming, arc consistency, logic programs, answer sets, consistency csp, automatic programming, modal logic, nonmonotonic logic, model logic, relations, logic belief, relations logic, csp, abduction, diagnostic, elimination, inductive, interval, ",
+		"target": []
+	},
+	{
+		"id": 11,
+		"topic": "constraint satisfaction, constraint, domains, constraint problems, planning domains, planning, decomposition, integrating, time, extended, perspective, propagation, structural, disjunctive, effects, weak, ",
+		"target": []
+	},
+	{
+		"id": 12,
+		"topic": "image, object, motion, interpretation, image interpretation, automatic, spatial, surface, 3-d, kernel, matching, determining, identification, line, mapping, recognition, iterative, 3d, boosting, parameter, coordination, ",
+		"target": []
+	},
+	{
+		"id": 13,
+		"topic": "bayesian networks, structure networks, text classification, learning classification, learning data, classification data, clustering data, data, classification, distributed, clustering, structure, robust, improved, variable, streams, linear, analysis, hierarchical, based, shape, information, algorithm, model, ",
+		"target": []
+	},
+	{
+		"id": 14,
+		"topic": "learning, semi-supervised learning, control, detection, metric learning, machine learning, reduction, plans, model-based, observation, connectionist, sparse, ",
+		"target": []
+	},
+	{
+		"id": 15,
+		"topic": "mobile robot, neural networks, fault diagnosis, robot control, learning approach, planning robot, learning networks, diagnosis system, approach, networks, robot, diagnosis, discovery, multiple, interaction, finding, uncertainty, navigation, application, model, ",
+		"target": []
+	},
+	{
+		"id": 16,
+		"topic": "gaussian process, time series, dynamic, modeling, task, exploiting, filtering, structured, autonomous, perception, active, planner, adaptive, stereo, class, global, vision, context, ",
+		"target": []
+	},
+	{
+		"id": 17,
+		"topic": "heuristic search, search, planning, path planning, planning goal, analysis search, stochastic, improving, resource, domains, approximate, strategies, techniques, exploration, anytime, solver, hard, alternative, sat, search planning, ",
+		"target": []
+	},
+	{
+		"id": 18,
+		"topic": "reinforcement learning, learning heuristic, learning rules, learning local, induction learning, learning, rules, efficient, local, incremental, induction, heuristic, -, symbolic, solution, sequential, multiagent, admissible, coalition, quality, probabilities, algebraic, approach, networks, ",
+		"target": []
+	},
+	{
+		"id": 19,
+		"topic": "problems solving, constraint problems, phase transitions, problems, satisfaction problems, search problems, heuristic problems, algorithm problems, solving constraint, learning problems, scheduling problems, optimization problems, optimal, optimization, scheduling, constrained, hybrid, satisfiability, fast, bound, distributed, mdps, graph, policies, partitioning, time, project, moving, ",
+		"target": []
+	},
+	{
+		"id": 20,
+		"topic": "neural networks, expected utility, markov processes, decision, combinatorial auctions, decision processes, markov decision, markov, auctions, preferences, multiple, classifiers, part, approaches, making, protocol, generalized, geometric, optimizing, ",
+		"target": []
+	},
+	{
+		"id": 21,
+		"topic": "decision trees, algorithm, word sense, sense disambiguation, trees, games trees, learning algorithm, algorithm decision, linear, performance, strategy, approximation, iteration, matching, policy, generalization, large, pomdps, identifying, ",
+		"target": []
+	},
+	{
+		"id": 22,
+		"topic": "analysis, qualitative, information, understanding, ai, integration, tool, generating, monitoring, components, quantitative, dynamic, syntactic, aspect, sentences, research, system, ",
+		"target": []
+	},
+	{
+		"id": 23,
+		"topic": "natural language, language generation, natural understanding, language system, knowledge representation, language understanding, language processing, language, semantic language, knowledge language, inference, processing, world, representation, experiments, scene, knowledge, social, interface, probabilistic, building, analyzing, evaluation, spoken, specification, -, structure, processor, relationships, image, grammar, approach, parsing, ",
+		"target": []
+	},
+	{
+		"id": 24,
+		"topic": "expert system, model, based model, semantic, model system, expert, semantic model, latent, interpretation, disambiguation, word, lexical, noun, online, hierarchical, compounds, ",
+		"target": []
+	},
+	{
+		"id": 25,
+		"topic": "matrix factorization, nonnegative factorization, nonnegative matrix, role, conceptual, combining, simulation, functions, transfer, prediction, retrieval, extracting, continuous, perceptual, procedural, parser, frame, ",
+		"target": []
+	},
+	{
+		"id": 26,
+		"topic": "activity recognition, vision system, speech recognition, visual recognition, recognition, generation, intelligent, behavior, visual, vision, real-time, flexible, system, challenges, object, parsing, representing, multimodal, tracking, graph, ",
+		"target": []
+	},
+	{
+		"id": 27,
+		"topic": "theorem proving, knowledge representation, representation system, representation, design, automated, techniques, human, results, genetic, ii, practical, hidden, correspondence, extending, ",
+		"target": []
+	},
+	{
+		"id": 28,
+		"topic": "support vector, vector machine, support machine, machine, application, environment, support, mechanism, translation, examples, view, statistical, management, methodology, tool, learning, approach, search, design, ",
+		"target": []
+	},
+	{
+		"id": 29,
+		"topic": "artificial intelligence, agents, agents system, theory, interactive, communication, formal, hierarchical, allocation, legal, types, ",
+		"target": []
+	},
+	{
+		"id": 30,
+		"topic": "system, expert system, knowledge system, multi-agent system, parallel, explanation, proof, knowledge-based, uncertainty, constructive, error, protocol, abstract, oriented, ",
+		"target": []
+	},
+	{
+		"id": 31,
+		"topic": "space, games, architecture, resolution, negotiation, memory, computer, implementation, layered, utility, nonlinear, laws, state, search, ",
+		"target": []
+	},
+	{
+		"id": 32,
+		"topic": "knowledge base, knowledge based, based method, knowledge acquisition, knowledge representation, knowledge, method, sets, large, computing, state, generalized, argumentation, cluster, predictive, test, functions, learning, data, ",
+		"target": []
+	},
+	{
+		"id": 33,
+		"topic": "web, belief, web page, belief revision, sequences, change, selection, update, strategies, abstraction, probability, measure, inheritance, detecting, similarity, fuzzy, ",
+		"target": []
+	},
+	{
+		"id": 34,
+		"topic": "random fields, based model, based, user, prolog, document, relational, conditional, map, simple, maximum, summarization, extension, regression, online, description, discourse, training, event, learning, ",
+		"target": []
+	},
+	{
+		"id": 35,
+		"topic": "information extraction, information, text, graph, feature, study, computation, clustering, ranking, empirical, inductive, hierarchies, learning, ",
+		"target": []
+	},
+	{
+		"id": 36,
+		"topic": "mining patterns, mining frequent, mining data, frequent itemsets, frequent patterns, mining, approach mining, query, databases, framework, efficient, effective, association, estimation, formalism, rules, complex, adaptation, grammar, collaborative, feature, ",
+		"target": []
+	}
+]

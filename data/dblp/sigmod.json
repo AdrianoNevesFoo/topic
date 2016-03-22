@@ -1,0 +1,187 @@
+[
+	{
+		"id": 0,
+		"topic": "",
+		"target": [1,2,3,4,5,6]
+	},
+	{
+		"id": 1,
+		"topic": "search engine, social networks, web search, search, bayesian networks, search results, information extraction, information retrieval, search queries, queries web, keyword search, social, networks, based search, data networks, online, search user, queries networks, mobile search, search data, extraction, ranking, user, automatic, finding, feedback, collaborative, tagging, information, personalized, relational, discovering, structure, communities, community, sharing, media, topic, comparison, news, relevance, construction, improving, mobile, structured, representation, personal, variable, answering, events, relationship, study, collections, probabilistic, games, image, content, mining, knowledge, analysis, semantic, systems, model, query, learning, data, web, ",
+		"target": [7,8,9,10,11]
+	},
+	{
+		"id": 2,
+		"topic": "decision trees, model, data model, concurrency control, pruning decision, markov model, process model, pruning trees, access control, learning model, algorithms, model database, approach, trees data, model selection, approach data, control, methods, optimization, estimation, space, selection, access, metric, constraints, cost-sensitive, regions, hybrid, processes, class, detection, statistical, minimizing, inference, optimal, detecting, sampling, local, high, temporal, state, improvement, tables, distribution, planning, parallel, transactions, business, spatial, probabilistic, kernel, index, views, techniques, active, performance, dynamic, clustering, classification, search, data, ",
+		"target": [12,13,14,15,16]
+	},
+	{
+		"id": 3,
+		"topic": "web, semantic web, web services, web page, information systems, management systems, web sites, web data, systems, web content, web applications, management, semantic services, data management, database management, database systems, distributed systems, database applications, approach web, web browsing, web information, data applications, learning web, distributed management, dynamic web, framework, world web, applications, web documents, web engine, model web, based web, web systems, management web, framework web, performance web, dynamic, integrating, multimedia, architecture, performance, implementation, heterogeneous, research, attacks, server, integration, interactive, internet, engineering, enabling, open, assessment, security, object-oriented, automated, composition, rdf, behavior, design, development, interface, generation, searching, wireless, graphical, resources, evolution, ontology, link, generic, olap, annotation, monitoring, business, environment, views, mobile, tool, -, objects, information, user, distributed, rule, analysis, based, database, ",
+		"target": [17,18,19,20,21]
+	},
+	{
+		"id": 4,
+		"topic": "query processing, data, xml documents, data streams, query, database, queries, processing, streams processing, relational database, complex objects, xml, continuous queries, similarity measure, data warehouse, efficient, large database, efficient data, xml schema, xml data, database systems, xml based, data environment, aggregate queries, approach processing, processing queries, distributed query, database language, distributed database, query evaluation, data mining, efficient processing, queries objects, query systems, distributed processing, relational data, querying data, distributed data, query data, queries database, schema, queries systems, querying, processing data, query database, efficient query, scalable, evaluation, continuous data, data systems, processing database, data database, approach data, query xml, queries data, xml queries, efficient queries, complex, join, storage, distributed, efficient database, indexing, xpath, sql, xquery, physical, random, cluster, tool, efficiently, optimizing, disambiguation, range, aggregation, adaptive, structural, sequences, approximate, caching, scientific, tracking, matching, nearest-neighbor, refinement, conditional, word, p2p, bridging, uncertain, multi-dimensional, supporting, logical, workflow, skyline, flexible, privacy, time, files, views, ",
+		"target": [22,23,24,25,26]
+	},
+	{
+		"id": 5,
+		"topic": "nearest neighbor, support vector, feature selection, vector machine, case study, large scale, support machine, mining patterns, classification, large graph, text classification, analysis, large, based, text, clustering, feature, mining, ensembles, set, hierarchical, classifiers, patterns, bayes, fast, pairwise, function, naive, regression, semi-supervised, training, recognition, computation, techniques, predictive, sequential, estimating, mapping, graph, labeling, reduction, retrieval, svm, prediction, bases, approximation, dependencies, quality, sparse, objects, visual, error, modeling, discretization, hidden, kernel, machine, image, documents, similarity, indexing, applications, approach, algorithms, efficient, model, web, data, learning, ",
+		"target": [27,28,29,30,31]
+	},
+	{
+		"id": 6,
+		"topic": "extended abstract, inductive logic programming, learning, reinforcement learning, knowledge discovery, machine learning, neural networks, logic programs, active learning, learning rule, learning abstract, learning networks, learning data, learning examples, learning systems, knowledge learning, bayesian learning, systems extended, learning extended, transfer learning, learning problem, systems abstract, learning trees, learning algorithms, learning concept, induction, relational learning, learning methods, approach learning, knowledge, learning classification, inductive learning, learning feature, theory, learning logic, boosting, complexity, domain, case-based, incremental, attributes, learners, -, robust, reasoning, genetic, predicate, term, linear, generalization, strategy, practice, tasks, convergence, instance, acquisition, description, overview, combining, recursive, handling, context, unsupervised, exploiting, multiple, games, relations, language, time, improving, classifiers, space, decision, based, database, ",
+		"target": [32,33,34,35,36]
+	},
+	{
+		"id": 7,
+		"topic": "user, extraction, mobile, personalized, image, feedback, structured, study, community, collections, discovering, queries, web, ",
+		"target": []
+	},
+	{
+		"id": 8,
+		"topic": "networks, ranking, relational, structure, probabilistic, answering, ",
+		"target": []
+	},
+	{
+		"id": 9,
+		"topic": "information retrieval, information, online, finding, improving, communities, games, construction, sharing, relationship, news, web, ",
+		"target": []
+	},
+	{
+		"id": 10,
+		"topic": "social networks, collaborative, comparison, topic, media, events, bayesian, ",
+		"target": []
+	},
+	{
+		"id": 11,
+		"topic": "search engine, web search, search results, search queries, search, keyword search, automatic, knowledge, tagging, query, ",
+		"target": []
+	},
+	{
+		"id": 12,
+		"topic": "approach data, algorithms, approach, methods, optimization, views, local, techniques, selection, ",
+		"target": []
+	},
+	{
+		"id": 13,
+		"topic": "markov, space, constraints, class, state, sampling, processes, detecting, active, ",
+		"target": []
+	},
+	{
+		"id": 14,
+		"topic": "data model, concurrency control, model, process model, control, model selection, selection, statistical, inference, optimal, transactions, probabilistic, ",
+		"target": []
+	},
+	{
+		"id": 15,
+		"topic": "access, metric, estimation, temporal, high, hybrid, parallel, index, minimizing, planning, performance, distribution, data, space, trees, ",
+		"target": []
+	},
+	{
+		"id": 16,
+		"topic": "decision trees, pruning decision, pruning trees, detection, cost-sensitive, kernel, spatial, business, ",
+		"target": []
+	},
+	{
+		"id": 17,
+		"topic": "management, performance, research, interactive, generation, distributed, browsing, assessment, ",
+		"target": []
+	},
+	{
+		"id": 18,
+		"topic": "semantic web, web applications, world web, multimedia, ontology, attacks, engineering, link, documents, tool, resources, data, ",
+		"target": []
+	},
+	{
+		"id": 19,
+		"topic": "management systems, web systems, information systems, dynamic web, database systems, distributed systems, systems, dynamic, design, integration, object-oriented, environment, heterogeneous, implementation, server, internet, behavior, mobile, evolution, data, based, ",
+		"target": []
+	},
+	{
+		"id": 20,
+		"topic": "web services, semantic services, approach web, framework web, framework, integrating, rdf, interface, automated, business, composition, enabling, ",
+		"target": []
+	},
+	{
+		"id": 21,
+		"topic": "web, web page, web sites, web content, architecture, development, ",
+		"target": []
+	},
+	{
+		"id": 22,
+		"topic": "queries, xml, querying, views, aggregation, xquery, sql, multiple, matching, structural, probabilistic, workflow, files, graph, xml queries, ",
+		"target": []
+	},
+	{
+		"id": 23,
+		"topic": "query processing, efficient data, streams processing, processing queries, distributed database, distributed data, processing data, distributed query, query data, query database, processing database, approach processing, efficient database, processing, efficient, efficient query, efficient processing, distributed processing, distributed, scalable, indexing, join, approximate, supporting, p2p, storage, flexible, retrieval, range, skyline, aggregate, systems, ",
+		"target": []
+	},
+	{
+		"id": 24,
+		"topic": "data, data streams, data warehouse, data environment, continuous, optimizing, time, continuous data, privacy, index, ",
+		"target": []
+	},
+	{
+		"id": 25,
+		"topic": "database, database systems, relational database, data database, similarity measure, database language, schema, tool, design, efficiently, bridging, scientific, scheme, physical, ",
+		"target": []
+	},
+	{
+		"id": 26,
+		"topic": "query, complex objects, query evaluation, evaluation, random, adaptive, sequences, refinement, conditional, caching, relations, cluster, logical, xpath, execution, ",
+		"target": []
+	},
+	{
+		"id": 27,
+		"topic": "feature selection, classification, feature, ensembles, objects, pairwise, recognition, hierarchical, model, data, learning, based, ",
+		"target": []
+	},
+	{
+		"id": 28,
+		"topic": "mining patterns, mining, patterns, text, techniques, kernel, sequential, svm, hidden, dependencies, computation, efficient, learning, ",
+		"target": []
+	},
+	{
+		"id": 29,
+		"topic": "analysis, clustering, classifiers, retrieval, documents, bayes, mapping, naive, similarity, image, ",
+		"target": []
+	},
+	{
+		"id": 30,
+		"topic": "nearest neighbor, large scale, large, based, fast, graph, large graph, set, reduction, quality, training, discretization, ",
+		"target": []
+	},
+	{
+		"id": 31,
+		"topic": "support vector, vector machine, case study, support machine, regression, function, modeling, prediction, applications, predictive, bases, approximation, sparse, ",
+		"target": []
+	},
+	{
+		"id": 32,
+		"topic": "learning rule, learning problem, relational learning, rule, programs, attributes, combining, recursive, ",
+		"target": []
+	},
+	{
+		"id": 33,
+		"topic": "active learning, learning concept, reasoning, case-based, feature, exploiting, strategy, instance, generalization, term, description, context, linear, ",
+		"target": []
+	},
+	{
+		"id": 34,
+		"topic": "reinforcement learning, learning, knowledge discovery, machine learning, neural networks, learning networks, learning data, learning examples, transfer learning, knowledge learning, learning algorithms, knowledge, domain, complexity, tasks, time, convergence, improving, games, ",
+		"target": []
+	},
+	{
+		"id": 35,
+		"topic": "logic programming, inductive logic, inductive programming, inductive learning, -, incremental, language, multiple, predicate, genetic, practice, ",
+		"target": []
+	},
+	{
+		"id": 36,
+		"topic": "extended abstract, learning abstract, learning extended, systems extended, systems abstract, induction, systems, boosting, decision, classifiers, approach, theory, ",
+		"target": []
+	}
+]

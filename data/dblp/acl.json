@@ -1,0 +1,187 @@
+[
+	{
+		"id": 0,
+		"topic": "",
+		"target": [1,2,3,4,5,6]
+	},
+	{
+		"id": 1,
+		"topic": "question answering, conditional random fields, answer question, probabilistic models, descriptions logic, logic, algorithm, heuristic search, local search, search, temporal, reasoning, heuristic, local, probabilistic, coherence, belief, parser, planning, action, evaluating, ordering, multiple, expressions, efficient, domain, ccg, selection, dynamic, interpretation, ranking, definition, functions, logical, programs, discourse, distributed, application, topological, performance, complex, events, consistency, case, framework, inference, problems, sentence, study, retrieval, evaluation, processing, resolution, generation, information, ",
+		"target": [7,8,9,10,11]
+	},
+	{
+		"id": 2,
+		"topic": "semantic role, role labeling, semantic labeling, semantic, neural networks, automatic, text, automatic text, approach, automatic identification, classification, semantic web, semantic analysis, semantic classification, identification, networks, analysis, based, detection, annotation, extracting, document, data, english, error, conversation, topic, image, improving, summarization, entailment, dictionary, hybrid, segmentation, query, names, generating, news, noun, prediction, object, social, textual, relational, unknown, representation, web, online, vector, similarity, robot, resources, predicting, identifying, graphs, chinese, multilingual, base, patterns, user, linguistic, phrase, modeling, structure, recognition, speech, unsupervised, information, word, learning, language, models, ",
+		"target": [12,13,14,15,16]
+	},
+	{
+		"id": 3,
+		"topic": "natural language, coreference resolution, spoken dialogue, language, system, dialogue system, natural language interfaces, spoken system, language generation, natural language generation, natural language processing, language models, expert system, natural language system, knowledge acquisition, language understanding, knowledge, user system, semantic natural, learning language, processing, knowledge system, spoken language, development, database, -, acquisition, linguistic, constraints, automatically, automated, robust, nlp, computer, architecture, building, multimodal, dialog, strategies, panel, construction, power, sources, modelling, joint, human, integrating, generative, problems, computational, representation, discourse, text, learning, ",
+		"target": [17,18,19,20,21]
+	},
+	{
+		"id": 4,
+		"topic": "information retrieval, grammars, parsing, dependency parsing, tree adjoining, efficient parsing, parsing grammars, tree grammars, adjoining grammars, synchronous grammars, information extraction, context-free grammars, shallow parsing, decision tree, tree, information, grammars induction, structure, method, bayesian, syntactic, linear, induction, optimal, kernels, space, unification, indexing, structural, concept, preferences, deep, rules, techniques, context, complexity, stochastic, inducing, incremental, syntax, accurate, experiments, properties, comparison, computing, ambiguity, term, computational, approaches, german, sentence, inference, descriptions, application, strategies, domain, constraints, probabilistic, analysis, approach, semantic, learning, language, ",
+		"target": [22,23,24,25,26]
+	},
+	{
+		"id": 5,
+		"topic": "statistical machine translation, models statistical machine translation, maximum entropy, models, machine learning, phrase-based translation, learning statistical machine translation, phrase-based statistical machine, language models, language modeling, evaluation machine translation, phrase translation, log-linear models, modeling speech, unsupervised models, speech recognition, machine system, models parsing, alignment statistical, automatic translation, alignment models, models data, improved models, speech, word translation, word machine, alignment translation, models word, learning models, language machine, alignment, language translation, training, tagging, discriminative, training models, modeling, models speech, evaluation, sequence, mt, global, hierarchical, markov, decoding, improve, conversion, repairs, arabic, latent, prosodic, act, good, results, finite-state, variable, weighted, framework, segmentation, syntactic, based, algorithm, approach, word, ",
+		"target": [27,28,29,30,31]
+	},
+	{
+		"id": 6,
+		"topic": "word sense, named entity recognition, sense disambiguation, word disambiguation, information extraction, empirical study, word, bilingual corpora, active learning, parallel corpora, comparable corpora, speech recognition, domain adaptation, learning, relations extraction, word alignment, unsupervised learning, word segmentation, semi-supervised learning, extraction, relations, chinese word, corpora, unsupervised, syntactic word, recognition, learning word, features, corpus, lexical, supervised, japanese, combining, large, lexicon, clustering, transliteration, verb, monolingual, morphological, entities, mining, collocation, discovery, exploiting, predicates, paraphrases, conversational, patterns, sentence, multilingual, similarity, web, rules, induction, acquisition, extracting, method, data, based, analysis, approach, text, system, automatic, semantic, language, models, ",
+		"target": [32,33,34,35,36]
+	},
+	{
+		"id": 7,
+		"topic": "probabilistic models, local search, search, algorithm, probabilistic, belief, coherence, problems, resolution, topological, generation, ",
+		"target": []
+	},
+	{
+		"id": 8,
+		"topic": "logic, descriptions logic, domain, heuristic, action, ordering, interpretation, planning, dynamic, functions, sentence, ",
+		"target": []
+	},
+	{
+		"id": 9,
+		"topic": "reasoning, temporal, parser, discourse, expressions, events, ccg, inference, framework, ",
+		"target": []
+	},
+	{
+		"id": 10,
+		"topic": "conditional random fields, efficient, multiple, selection, application, distributed, ranking, ",
+		"target": []
+	},
+	{
+		"id": 11,
+		"topic": "question answering, answer question, evaluating, definition, performance, case, complex, evaluation, ",
+		"target": []
+	},
+	{
+		"id": 12,
+		"topic": "semantic, extracting, semantic web, web, query, similarity, hybrid, names, patterns, graphs, ",
+		"target": []
+	},
+	{
+		"id": 13,
+		"topic": "semantic role, semantic labeling, role labeling, semantic analysis, semantic classification, classification, analysis, chinese, online, prediction, networks, multilingual, unsupervised, learning, ",
+		"target": []
+	},
+	{
+		"id": 14,
+		"topic": "text, annotation, summarization, identification, entailment, improving, image, phrase, dictionary, noun, identifying, textual, resources, models, ",
+		"target": []
+	},
+	{
+		"id": 15,
+		"topic": "automatic, data, based, detection, document, representation, topic, news, base, ",
+		"target": []
+	},
+	{
+		"id": 16,
+		"topic": "approach, error, english, conversation, generating, segmentation, object, neural, robot, vector, ",
+		"target": []
+	},
+	{
+		"id": 17,
+		"topic": "dialogue system, spoken dialogue, spoken system, user system, automatically, robust, modelling, discourse, learning, ",
+		"target": []
+	},
+	{
+		"id": 18,
+		"topic": "system, expert system, generation, architecture, development, ",
+		"target": []
+	},
+	{
+		"id": 19,
+		"topic": "knowledge, acquisition, knowledge acquisition, database, -, nlp, joint, sources, power, integrating, generative, multimodal, ",
+		"target": []
+	},
+	{
+		"id": 20,
+		"topic": "coreference resolution, linguistic, strategies, automated, computational, dialog, problems, ",
+		"target": []
+	},
+	{
+		"id": 21,
+		"topic": "natural language, language models, natural interfaces, language understanding, language interfaces, language processing, natural processing, processing, constraints, human, computer, building, semantic, ",
+		"target": []
+	},
+	{
+		"id": 22,
+		"topic": "tree grammars, adjoining grammars, synchronous grammars, dependency parsing, tree adjoining, tree, dependency, structure, context, indexing, kernels, syntax, domain, semantic, efficient, ",
+		"target": []
+	},
+	{
+		"id": 23,
+		"topic": "parsing, induction, space, linear, techniques, incremental, context-free, ",
+		"target": []
+	},
+	{
+		"id": 24,
+		"topic": "information retrieval, information, information extraction, syntactic, sentence, structural, approaches, shallow, comparison, accurate, deep, ",
+		"target": []
+	},
+	{
+		"id": 25,
+		"topic": "bayesian, rules, decision, concept, learning, experiments, term, computing, ",
+		"target": []
+	},
+	{
+		"id": 26,
+		"topic": "parsing grammars, grammars, context-free grammars, method, computational, optimal, complexity, unification, stochastic, approach, ",
+		"target": []
+	},
+	{
+		"id": 27,
+		"topic": "language models, models, log-linear models, improved models, markov, ",
+		"target": []
+	},
+	{
+		"id": 28,
+		"topic": "evaluation, improve, finite-state, ",
+		"target": []
+	},
+	{
+		"id": 29,
+		"topic": "maximum entropy, speech recognition, models speech, speech, tagging, discriminative, training, sequence, variable, latent, word, syntactic, results, repairs, act, segmentation, framework, ",
+		"target": []
+	},
+	{
+		"id": 30,
+		"topic": "statistical translation, models statistical, models translation, phrase-based translation, phrase-based statistical, phrase translation, statistical machine, machine translation, hierarchical, global, conversion, mt, ",
+		"target": []
+	},
+	{
+		"id": 31,
+		"topic": "machine translation, statistical machine, models machine, machine learning, language modeling, alignment statistical, learning translation, models translation, statistical translation, machine system, language translation, word translation, alignment translation, word machine, language machine, alignment, modeling, arabic, decoding, prosodic, based, approach, ",
+		"target": []
+	},
+	{
+		"id": 32,
+		"topic": "word sense, sense disambiguation, word disambiguation, unsupervised learning, word, chinese word, unsupervised, combining, method, similarity, exploiting, models, text, ",
+		"target": []
+	},
+	{
+		"id": 33,
+		"topic": "named entity, lexical, corpus, large, clustering, verb, transliteration, japanese, entities, ",
+		"target": []
+	},
+	{
+		"id": 34,
+		"topic": "information extraction, relations extraction, extraction, relations, features, patterns, supervised, web, mining, induction, collocation, text, discovery, unsupervised, ",
+		"target": []
+	},
+	{
+		"id": 35,
+		"topic": "empirical study, comparable corpora, parallel corpora, bilingual corpora, corpora, sentence, lexicon, morphological, monolingual, automatic, predicates, ",
+		"target": []
+	},
+	{
+		"id": 36,
+		"topic": "speech recognition, active learning, learning, semi-supervised learning, recognition, paraphrases, conversational, rules, multilingual, word, ",
+		"target": []
+	}
+]

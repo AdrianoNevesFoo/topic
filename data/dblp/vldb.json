@@ -1,0 +1,187 @@
+[
+	{
+		"id": 0,
+		"topic": "",
+		"target": [1,2,3,4,5,6]
+	},
+	{
+		"id": 1,
+		"topic": "web search, search engine, search, poster abstract, search results, demonstration abstract, user interface, digital libraries, web search results, web retrieval, user, web query, query search, search retrieval, search logs, federated search, improving search, quality web, search interface, web information, web logs, search user, information search, evaluation search, user results, search system, model search, user information, tool, user web, ir, resources, effectiveness, visualization, predicting, evaluating, browsing, interaction, estimating, multimedia, intent, exploring, behavior, ad, measuring, personalized, discovering, structured, sources, local, workshop, impact, content-based, access, translation, distributed, study, searching, selection, modeling, language, collections, image, queries, approach, analysis, relevance, retrieval, information, ",
+		"target": [7,8,9,10,11]
+	},
+	{
+		"id": 2,
+		"topic": "information retrieval, information retrieval system, model information retrieval, language information retrieval, natural language, text retrieval, evaluation information retrieval, cross-language information retrieval, image retrieval, approach information retrieval, learning information retrieval, information retrieval abstract, information retrieval based, translation information retrieval, interface information retrieval, text information retrieval, automatic information retrieval, user information retrieval, translation cross-language, study information retrieval, interface information system, design information retrieval, model retrieval system, user information system, text retrieval system, information retrieval application, architecture information retrieval, method information retrieval, retrieval system based, information retrieval theory, knowledge information retrieval, xml retrieval, information retrieval techniques, distributed information retrieval, intelligent information retrieval, - information retrieval, information retrieval research, document information retrieval, statistical information retrieval, retrieval experiments, retrieval environment, logic retrieval, automatic system, dynamic system, adaptive retrieval, dynamic information, information intelligence, system design, parallel retrieval, retrieval databases, research system, adaptive information, bibliographic retrieval, information environment, conceptual retrieval, data retrieval, databases, conceptual information, retrieval performance, dynamic, parallel information, databases system, evaluation system, information experiments, statistical, dynamic retrieval, project, textual, compression, personal, base, integration, clusters, generating, spatial, support, experimental, email, highly, management, retrieving, hypertext, objects, summaries, processing, ",
+		"target": [12,13,14,15,16]
+	},
+	{
+		"id": 3,
+		"topic": "collaborative filtering, text categorization, test collections, text, text classification, named entity, document clustering, feature selection, classification, text classifiers, event detection, learning rank, large collections, topic tracking, filtering, text search, document classification, clustering, evaluation algorithm, detection, web classification, algorithm, learning text, method text, topic, filtering algorithm, chinese text, clustering text, text retrieval, feature, news, hierarchical text, text document, collections, hierarchical, selection, segmentation, training, temporal, music, mining, similarity, fast, linear, wikipedia, english, enhancing, set, corpus, domain, construction, metrics, recognition, prior, approaches, context, scoring, fusion, comparative, framework, improving, adaptive, objects, learning, application, study, ranking, semantic, analysis, data, automatic, evaluation, based, model, system, web, document, information, ",
+		"target": [17,18,19,20,21]
+	},
+	{
+		"id": 4,
+		"topic": "multi-document summarization, file organization, method document, term weighting, web pages, image annotation, based theory, based, automatic, automatic web, automatic indexing, semantic indexing, based term, method based, document networks, approach, method, networks, image retrieval, image based, automatic document, image, based approach, summarization, retrieval based, automatic based, indexing, social, content, word, searching, automatic retrieval, video, efficient, extraction, file, effective, index, keyword, structure, spam, visual, expertise, inference, detecting, exploiting, online, phrase, recommendation, finding, title, disambiguation, advertising, table, inverted, tag, associations, improve, people, sentence, querying, context, application, term, hierarchical, modeling, ranking, queries, analysis, clustering, classification, query, system, web, search, information, text, document, retrieval, ",
+		"target": [22,23,24,25,26]
+	},
+	{
+		"id": 5,
+		"topic": "document retrieval, question answering, latent semantic indexing, document, probabilistic retrieval, probabilistic model retrieval, retrieval question answering, passage retrieval, spoken document retrieval, document information, interactive retrieval, model document retrieval, document representation, document retrieval system, representation knowledge, evaluation retrieval, link analysis, semantic retrieval, interactive system, latent analysis, question answers, analysis retrieval, relevant document, ranking retrieval, analysis system, probabilistic, evaluation, boolean retrieval, representation retrieval, semantic model, analysis, semantic analysis, multiple retrieval, retrieval large, effect retrieval, syntactic retrieval, semantic information, document collections, document ranking, model question, retrieval problem, document indexing, evaluation system, large document, document analysis, evaluation document, retrieval based, ranking, concept, retrieval performance, answers, expert, probabilistic document, large, problem, text retrieval, strategies, complex, qa, matching, memory, evidence, community, optimal, combination, patterns, building, pagerank, library, extended, multilingual, case, thesaurus, services, knowledge, incorporating, comparing, speech, processing, combining, dependency, performance, interface, map, design, access, finding, ir, image, databases, approach, user, based, query, text, system, information, ",
+		"target": [27,28,29,30,31]
+	},
+	{
+		"id": 6,
+		"topic": "query expansion, relevance feedback, language model, query, vector space model, relevance, query retrieval, model, model retrieval, language modeling, similarity measures, pseudo-relevance feedback, random fields, relevance judgments, query logs, query term, relevance document, relevance retrieval, query translation, feedback retrieval, machine learning, model based, implicit feedback, probabilistic model, query information, relevance model, relevance information, term retrieval, markov model, query based, query language, model query, based relevance, evaluation query, automatic query, model data, expansion term, learning model, term feedback, queries, term model, term relevance, data, query performance, model information, modeling query, model feedback, prediction, measures, modeling, queries query, random, study, query feedback, blog, score, graph, estimation, term, precision, optimization, click-through, opinion, active, comparison, time, types, distribution, generation, functions, robust, task, cluster-based, learning, high, relations, performance, combining, framework, improving, selection, ranking, topic, method, user, search, ",
+		"target": [32,33,34,35,36]
+	},
+	{
+		"id": 7,
+		"topic": "poster abstract, demonstration abstract, effectiveness, federated, estimating, content-based, translation, workshop, approach, retrieval, information, ",
+		"target": []
+	},
+	{
+		"id": 8,
+		"topic": "search engine, search, digital libraries, query search, search retrieval, information search, resources, distributed, multimedia, exploring, structured, personalized, ",
+		"target": []
+	},
+	{
+		"id": 9,
+		"topic": "web search, web retrieval, web, search logs, web query, web information, web logs, browsing, measuring, impact, study, analysis, ",
+		"target": []
+	},
+	{
+		"id": 10,
+		"topic": "search results, results, ir, tool, evaluating, visualization, discovering, improving, information, ",
+		"target": []
+	},
+	{
+		"id": 11,
+		"topic": "user interface, search user, user, search interface, user information, predicting, language, ad, interaction, quality, intent, modeling, ",
+		"target": []
+	},
+	{
+		"id": 12,
+		"topic": "xml retrieval, retrieval databases, retrieval experiments, application retrieval, retrieval techniques, databases, data retrieval, experimental, integration, personal, email, textual, design, ",
+		"target": []
+	},
+	{
+		"id": 13,
+		"topic": "information retrieval, cross-language information retrieval, model information retrieval, translation information retrieval, interface information retrieval, knowledge information retrieval, information retrieval theory, translation cross-language, intelligent information retrieval, parallel retrieval, conceptual retrieval, conceptual information, parallel information, clusters, support, summaries, generating, ",
+		"target": []
+	},
+	{
+		"id": 14,
+		"topic": "language information retrieval, natural language, distributed information retrieval, - information retrieval, information research, retrieval environment, dynamic information, dynamic system, information environment, information intelligence, architecture information, research retrieval, dynamic retrieval, dynamic, compression, retrieving, processing, highly, spatial, bibliographic, ",
+		"target": []
+	},
+	{
+		"id": 15,
+		"topic": "information retrieval, retrieval, model information retrieval, text retrieval, image retrieval, information retrieval abstract, hypertext, project, ",
+		"target": []
+	},
+	{
+		"id": 16,
+		"topic": "information retrieval system, evaluation information retrieval, statistical information retrieval, adaptive retrieval, adaptive information, evaluation system, statistical, management, objects, ",
+		"target": []
+	},
+	{
+		"id": 17,
+		"topic": "detection, topic tracking, news, event detection, hierarchical, mining, temporal, fast, ",
+		"target": []
+	},
+	{
+		"id": 18,
+		"topic": "text categorization, text classification, text classifiers, method text, web classification, classification, algorithm, training, linear, metrics, semantic, english, objects, analysis, data, ",
+		"target": []
+	},
+	{
+		"id": 19,
+		"topic": "collaborative filtering, feature selection, learning rank, selection, feature, learning, adaptive, music, framework, evaluation, ",
+		"target": []
+	},
+	{
+		"id": 20,
+		"topic": "test collections, text retrieval, large collections, text, chinese text, collections, improving, segmentation, domain, corpus, prior, construction, ",
+		"target": []
+	},
+	{
+		"id": 21,
+		"topic": "document clustering, named entity, clustering, similarity, topic, wikipedia, fusion, context, approaches, recognition, enhancing, set, data, ",
+		"target": []
+	},
+	{
+		"id": 22,
+		"topic": "file organization, file, exploiting, recommendation, spam, expertise, queries, tag, inverted, web, ",
+		"target": []
+	},
+	{
+		"id": 23,
+		"topic": "term weighting, semantic indexing, approach, indexing, searching, term, effective, finding, online, phrase, modeling, sentence, associations, text, retrieval, document, ",
+		"target": []
+	},
+	{
+		"id": 24,
+		"topic": "image retrieval, image, content, index, structure, video, visual, title, table, advertising, keyword, ",
+		"target": []
+	},
+	{
+		"id": 25,
+		"topic": "automatic retrieval, automatic document, automatic, networks, extraction, word, annotation, improve, inference, classification, document, ",
+		"target": []
+	},
+	{
+		"id": 26,
+		"topic": "multi-document summarization, method document, web pages, based theory, based, method, method based, summarization, efficient, detecting, ranking, querying, social, people, application, ",
+		"target": []
+	},
+	{
+		"id": 27,
+		"topic": "evaluation retrieval, analysis retrieval, evaluation document, document analysis, analysis system, link analysis, evaluation, evaluation system, analysis, expert, interface, design, building, ir, user, relevant, based, information, ",
+		"target": []
+	},
+	{
+		"id": 28,
+		"topic": "latent semantic, probabilistic retrieval, probabilistic model, latent indexing, semantic retrieval, model retrieval, boolean retrieval, probabilistic document, probabilistic, semantic information, semantic model, multiple retrieval, semantic indexing, problem, combining, evidence, combination, processing, ",
+		"target": []
+	},
+	{
+		"id": 29,
+		"topic": "question answering, retrieval question, retrieval answering, ranking retrieval, model question, question answers, ranking, answers, matching, community, complex, patterns, qa, services, pagerank, syntactic, ",
+		"target": []
+	},
+	{
+		"id": 30,
+		"topic": "document retrieval, document, interactive retrieval, document information, document system, document representation, representation knowledge, representation retrieval, spoken retrieval, interactive system, spoken document, concept, knowledge, strategies, memory, comparing, performance, ",
+		"target": []
+	},
+	{
+		"id": 31,
+		"topic": "passage retrieval, retrieval large, large document, effect retrieval, document retrieval, large, databases, optimal, multilingual, dependency, incorporating, library, thesaurus, retrieval, ",
+		"target": []
+	},
+	{
+		"id": 32,
+		"topic": "query expansion, query retrieval, query term, query, query logs, query translation, expansion term, combining, optimization, robust, opinion, relations, ",
+		"target": []
+	},
+	{
+		"id": 33,
+		"topic": "vector model, vector space, model data, space model, learning model, machine learning, data, learning, task, ranking, click-through, active, retrieval, ",
+		"target": []
+	},
+	{
+		"id": 34,
+		"topic": "queries, relevance judgments, study, prediction, performance, precision, comparison, blog, time, generation, implicit, ",
+		"target": []
+	},
+	{
+		"id": 35,
+		"topic": "relevance feedback, relevance model, relevance retrieval, feedback retrieval, similarity measures, relevance document, pseudo-relevance feedback, relevance information, model feedback, term retrieval, term feedback, term relevance, relevance, term, measures, graph, score, distribution, method, ",
+		"target": []
+	},
+	{
+		"id": 36,
+		"topic": "language model, model retrieval, language modeling, probabilistic model, random fields, model, markov model, modeling, random, cluster-based, estimation, ",
+		"target": []
+	}
+]

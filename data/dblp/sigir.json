@@ -1,0 +1,187 @@
+[
+	{
+		"id": 0,
+		"topic": "",
+		"target": [1,2,3,4,5,6]
+	},
+	{
+		"id": 1,
+		"topic": "query processing, query optimization, time series, queries, index structure, processing, efficient, join, continuous queries, streams processing, functional dependencies, optimization queries, optimizing queries, join processing, similarity search, queries database, efficient query processing, join algorithms, algorithms, query evaluation, pattern matching, spatial join, parallel join, query techniques, processing engine, query plan, adaptive query, continuous streams, processing queries, evaluation queries, efficient data, evaluation algorithms, fast algorithms, answering queries, similarity database, processing continuous, predicates queries, probabilistic queries, data processing, query execution, efficient method, efficient search, spatial, approximate, optimization techniques, parallel processing, tree queries, efficient evaluation, queries data, efficient queries, matching, queries streams, efficient database, efficient algorithms, evaluation, pattern, spatial processing, tree, similarity, fast, techniques, computation, indexing, streams, adaptive, efficient join, online, aggregation, optimal, execution, scalable, comparison, robust, clustering, xpath, results, processor, r-tree, evaluating, skyline, pipelined, multidimensional, answers, selection, space, arrays, windows, processing database, estimating, constraints, disk, size, progressive, expressions, multiple, event, retrieval, aggregate, large, graph, ",
+		"target": [7,8,9,10,11]
+	},
+	{
+		"id": 2,
+		"topic": "query language, keyword search, relational database, keyword search data, database language, xml relational system, relational data, extended abstract, search database, moving objects, xml, querying xml, query database, querying database, semistructured data, search engine, language, query optimizer, query, relational, query system, query optimization, xml data, programming language, schema mappings, search, relational query, schema data, query data, data model, complex objects, schema, database interface, model objects, visual query, querying, xml search, data objects, web query, programming database, query interface, model, xml database, objects language, interface, query xml, model relational, query processing, mappings, language data, engine, complex, relations, programming, objects, xquery, algebra, privacy, framework, nested, update, effective, extensible, publishing, entity, objects database, theory, rule-based, recursive, extending, graphical, functions, logical, -, image, prototype, exploring, logic, presence, retrieval, transformations, integrating, deductive, flexible, multiple, implementation, graph, structure, supporting, support, rules, approach, object-oriented, information, efficient, data, database, ",
+		"target": [12,13,14,15,16]
+	},
+	{
+		"id": 3,
+		"topic": "data, data streams, data management, web applications, web, data system, web services, information extraction, information, data warehouse, information integration, data integration, data model, web sites, database web, information system, dynamic web, streams management, data warehousing, data sources, services, content web, data platform, semantic data, data sharing, approach data, distributed data, web management, data mining, data services, uncertain data, web query, information management, data exploration, approach, data tutorial, interactive data, data access, world, enterprise, case, interactive, content, data database, business, experience, challenges, tutorial, data applications, real, open, building, data web, discovery, report, study, personal, wide, paper, data-driven, information data, streaming, practical, event, technology, operations, mobile, olap, automatic, -, architecture, ",
+		"target": [17,18,19,20,21]
+	},
+	{
+		"id": 4,
+		"topic": "sensor network, views maintenance, nearest neighbor, selectivity estimation, materialized views, data cubes, high dimensional, sampling estimation, views, hierarchical data, data analysis, estimation, large data, network, views data, document, analysis, histograms, supporting, sampling, collection, tool, user, text, incremental, summary, provenance, tables, quality, structured, scientific, workflow, efficiently, monitoring, multi-dimensional, large, aggregate, path, combining, massive, research, indexes, managing, extracting, store, programs, ranking, db2, exploiting, statistical, detection, sets, partitioning, multiple, expressions, automatic, olap, retrieval, space, clustering, structure, framework, objects, performance, search, information, efficient, management, queries, system, database, data, ",
+		"target": [22,23,24,25,26]
+	},
+	{
+		"id": 5,
+		"topic": "concurrency control, mining association rules, decision support, microsoft sql, sql server, microsoft server, access method, mining database, data mining, large graph, mining, mining large, mining system, sql, server, data access, access, rules, rules data, data parallel, support, scheme, parallel, dynamic, method, oracle, file, graph, multimedia, digital, replication, hashing, visualization, availability, replicated, providing, generation, groups, integrated, distribution, handling, finding, computing, protocols, probabilistic, issues, high, environment, based, index, indexing, algorithms, distributed, management, efficient, system, data, database, ",
+		"target": [27,28,29,30,31]
+	},
+	{
+		"id": 6,
+		"topic": "database system, database, management system, database management system, relational database system, object-oriented database, transaction processing, processing system, knowledge base, distributed database system, data management system, database applications, large database, main memory database, object-oriented database system, database design, performance evaluation, deductive database, design, database machine, physical design, design implementation, high performance, implementation database system, system applications, processing database, performance, query database system, distributed processing, processing database system, storage system, data database system, database approach, applications development, transaction, database based, objects database, database issues, database panel, object-oriented dbms, system supporting, objects database system, transaction management, knowledge database, semantic database, information system, techniques database, - database, database performance, transaction system, large system, temporal database, memory system, dbms, storage, base management, object-oriented applications, system semantic, management panel, database system applications, multidatabase system, evaluation database, analysis database, database specification, based system, base system, architecture, evaluation system, database architecture, database tuning, control database, recovery, database environment, recovery system, knowledge system, database caching, storage database, transaction database, system design, modeling, active, on-line, caching, highly, secure, concepts, manager, automated, client-server, advanced, environment, security, logging, implementing, integrity, real-time, problem, consistency, protocols, technology, ",
+		"target": [32,33,34,35,36]
+	},
+	{
+		"id": 7,
+		"topic": "time series, similarity search, pattern matching, similarity database, efficient data, efficient search, efficient database, efficient, indexing, matching, similarity, fast, pattern, computation, robust, retrieval, large, database, method, clustering, algorithms, ",
+		"target": []
+	},
+	{
+		"id": 8,
+		"topic": "index structure, tree, functional dependencies, adaptive, constraints, comparison, r-tree, windows, disk, arrays, ",
+		"target": []
+	},
+	{
+		"id": 9,
+		"topic": "join algorithms, spatial join, join, algorithms, approximate, spatial, online, optimal, processor, results, multidimensional, selection, size, answering, pipelined, estimating, database, query, ",
+		"target": []
+	},
+	{
+		"id": 10,
+		"topic": "query optimization, queries, query plan, efficient evaluation, optimizing queries, query evaluation, optimization, efficient queries, optimization queries, probabilistic queries, predicates queries, evaluation queries, evaluation, aggregation, space, skyline, progressive, multiple, ",
+		"target": []
+	},
+	{
+		"id": 11,
+		"topic": "query processing, continuous queries, processing queries, join processing, efficient query processing, streams processing, adaptive query, query techniques, data processing, processing engine, continuous streams, processing, queries streams, query execution, processing continuous, streams, techniques, scalable, execution, xpath, distributed, answers, ",
+		"target": []
+	},
+	{
+		"id": 12,
+		"topic": "extended abstract, schema data, schema mappings, schema, framework, mappings, update, relations, functions, extensible, entity, deductive, transformations, database, ",
+		"target": []
+	},
+	{
+		"id": 13,
+		"topic": "semistructured data, data model, moving objects, objects, objects language, model, data objects, objects database, complex objects, model objects, complex, effective, implementation, logical, recursive, extending, ",
+		"target": []
+	},
+	{
+		"id": 14,
+		"topic": "search database, keyword search, keyword search data, xml search, search, search engine, engine, privacy, retrieval, flexible, publishing, image, logic, efficient, exploring, graph, ",
+		"target": []
+	},
+	{
+		"id": 15,
+		"topic": "query language, query, query database, query system, query optimization, query data, query optimizer, query processing, database interface, visual query, query interface, interface, xquery, prototype, graphical, rule-based, ",
+		"target": []
+	},
+	{
+		"id": 16,
+		"topic": "relational database, xml relational system, relational data, database language, querying database, querying xml, relational, xml, xml data, programming language, querying, programming database, xml database, language, programming, nested, algebra, -, integrating, theory, presence, multiple, approach, ",
+		"target": []
+	},
+	{
+		"id": 17,
+		"topic": "world, experience, case, real, discovery, exploration, automatic, study, paper, olap, report, database, data, ",
+		"target": []
+	},
+	{
+		"id": 18,
+		"topic": "web, web applications, web services, web sites, dynamic web, content web, building, technology, business, event, ",
+		"target": []
+	},
+	{
+		"id": 19,
+		"topic": "approach data, interactive data, approach, interactive, sharing, enterprise, extraction, warehouse, uncertain, practical, ",
+		"target": []
+	},
+	{
+		"id": 20,
+		"topic": "data streams, data management, data, data system, data services, streams management, data warehousing, data platform, mobile, ",
+		"target": []
+	},
+	{
+		"id": 21,
+		"topic": "data integration, information extraction, information system, data sources, information integration, information, information data, challenges, tutorial, open, personal, ",
+		"target": []
+	},
+	{
+		"id": 22,
+		"topic": "data analysis, analysis, document, text, structured, user, tables, quality, summary, statistical, db2, automatic, extracting, scientific, path, data, database, ",
+		"target": []
+	},
+	{
+		"id": 23,
+		"topic": "data cubes, supporting, sampling, large, structure, efficiently, managing, sets, framework, ranking, olap, queries, ",
+		"target": []
+	},
+	{
+		"id": 24,
+		"topic": "network, sensor network, tool, research, collection, workflow, monitoring, multiple, expressions, massive, detection, indexes, ",
+		"target": []
+	},
+	{
+		"id": 25,
+		"topic": "views maintenance, materialized views, hierarchical data, views data, views, incremental, aggregate, retrieval, combining, exploiting, programs, efficient, provenance, ",
+		"target": []
+	},
+	{
+		"id": 26,
+		"topic": "nearest neighbor, selectivity estimation, high dimensional, estimation, histograms, search, multi-dimensional, space, partitioning, store, data, ",
+		"target": []
+	},
+	{
+		"id": 27,
+		"topic": "data mining, association rules, mining database, mining rules, mining association, mining system, mining, rules data, rules, visualization, oracle, finding, algorithms, groups, ",
+		"target": []
+	},
+	{
+		"id": 28,
+		"topic": "dynamic, parallel, scheme, multimedia, database, data, ",
+		"target": []
+	},
+	{
+		"id": 29,
+		"topic": "microsoft sql, microsoft server, sql server, sql, server, file, digital, issues, replicated, database, data, ",
+		"target": []
+	},
+	{
+		"id": 30,
+		"topic": "decision support, large graph, support, graph, replication, based, integrated, generation, probabilistic, indexing, environment, providing, data, ",
+		"target": []
+	},
+	{
+		"id": 31,
+		"topic": "concurrency control, data access, access method, access, method, availability, efficient, hashing, computing, distributed, ",
+		"target": []
+	},
+	{
+		"id": 32,
+		"topic": "database panel, knowledge base, objects database, knowledge database, base system, management panel, objects system, recovery system, knowledge system, recovery, environment, manager, multidatabase, problem, client-server, advanced, issues, active, development, concepts, ",
+		"target": []
+	},
+	{
+		"id": 33,
+		"topic": "management system, database management, processing system, transaction processing, distributed system, transaction system, data management, database based, data system, transaction database, based system, database caching, database system, transaction, transaction management, based, caching, model, ",
+		"target": []
+	},
+	{
+		"id": 34,
+		"topic": "database system, system, object-oriented database, relational system, database applications, temporal database, system applications, object-oriented system, applications, database architecture, dbms, object-oriented dbms, object-oriented applications, architecture, security, on-line, constraints, ",
+		"target": []
+	},
+	{
+		"id": 35,
+		"topic": "database, database system, relational database, main memory, distributed system, large database, distributed database, memory system, database machine, database applications, memory database, main database, storage, storage database, highly, automated, ",
+		"target": []
+	},
+	{
+		"id": 36,
+		"topic": "database design, database performance, performance, implementation database, techniques database, performance evaluation, design, semantic database, physical design, design implementation, database tuning, secure, modeling, integrity, control, analysis, ",
+		"target": []
+	}
+]
