@@ -403,26 +403,28 @@ var interval = window.setInterval( function(){
   		var qtdTopicarrTopic1 = arrTopic1.length; 
   		var qtdTopicarrTopic2 = arrTopic2.length;
 
-
+  		var qtdTopicosDiferentes = 0;
    		for( i in arrTopic2 ){
   			if( arrTopic1.indexOf( arrTopic2[i]) == -1){
   				arrTopic2[i] = '<span class="differ">'+arrTopic2[i]+'</span>';
+  				qtdTopicosDiferentes = qtdTopicosDiferentes+1;
   			}
   		}
   		
   		arrTopic2 = arrTopic2.join(","); 
   		$("#myModal").find("#han_topic").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+Tree.topic[0]+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);  		
-  		$("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2);
+  		$("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
 
 
-
+  		var qtdTopicosTotalDiferentes = 0;
   		for(i in topicDiffer2){
   			if( topicDiffer1.indexOf( topicDiffer2[i]) == -1){
   				topicDiffer2[i] = '<span class="totaldiffer">'+topicDiffer2[i]+'</span>';
+  				qtdTopicosTotalDiferentes = qtdTopicosTotalDiferentes+1;
   			}
   		}
   		topicDiffer2 = topicDiffer2.join(", ");
-  		$("#myModal").find("#my_term").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+topicDiffer2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2);
+  		$("#myModal").find("#my_term").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+topicDiffer2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos Totalmente diferentes: "+qtdTopicosTotalDiferentes);
 
 
 
