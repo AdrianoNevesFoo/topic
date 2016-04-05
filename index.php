@@ -14,12 +14,17 @@
 	<link href="js/select2.css" rel="stylesheet"/>
 	<script src="js/select2.js"></script>
 	<script src="lib/cytoscape-qtip.js"></script>
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="http://code.highcharts.com/modules/heatmap.js"></script>
+	<script src="js/heatmap.js"></script>
 
 	<script>
 		$(document).ready(function() { 
 			$("#database").select2(); 
 			$("#dataconferencia").select2(); 
 			$("#conferenceYear").select2(); 
+			
 		});
 	</script>
 </head>
@@ -118,6 +123,7 @@
 	    </div>
 	  </div>
 	</div>
+	<div id="container" ></div>
 
 	<script src="js/init.js"></script>
 	<script src="lib/bootstrap.min.js"></script>

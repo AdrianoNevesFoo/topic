@@ -45,6 +45,9 @@ $(document).ready(function(){
 												Tree.tree1 = -1;
 												Tree.tree2 = -1;
 												cosseno = data;
+
+												$('#container').css("height", "900px");
+												$('#container').highcharts(Heatmap.parse(cosseno));
 												
 												Tree.init("HAN", index, 'han');
 												Tree.init("MYTREE",index, confName);
@@ -432,13 +435,12 @@ var interval = window.setInterval( function(){
   		if(year == "ALL"){
   			objectName = conference;
   		}
-  		console.log(objectName);
+  		
 		var hanID = Tree.click[0];
 		var myID = Tree.click[1];
 		for( i in cosseno[0][objectName] ){
 			if(i == hanID){  		
-				$("#myModal").find("#cosseno").html(cosseno[0][objectName][i].cos[myID]+"  ");
-				console.log("COSSENO:"+(cosseno[0][objectName][i].cos[myID]));
+				$("#myModal").find("#cosseno").html(cosseno[0][objectName][i].cos[myID]+"  ");				
 			}
 			
 		}  	   		 
