@@ -396,30 +396,35 @@ var interval = window.setInterval( function(){
   		var arrTopic1 = Tree.topic[0].split(",");
   		var arrTopic2 = Tree.topic[1].split(",");
 
+  		var topicDiffer1 = Tree.topic[0].split(/(?:,| )+/);
+  		var topicDiffer2 = Tree.topic[1].split(/(?:,| )+/);
 
-  		var qtdTopicarrTopic1 = 0; 
-  		for(i in arrTopic1){
-  			qtdTopicarrTopic1 = qtdTopicarrTopic1+1;
-  		}
 
-  		var qtdTopicarrTopic2 = 0;
+  		var qtdTopicarrTopic1 = arrTopic1.length; 
+  		var qtdTopicarrTopic2 = arrTopic2.length;
+
+
    		for( i in arrTopic2 ){
-   			qtdTopicarrTopic2 = qtdTopicarrTopic2+1;
   			if( arrTopic1.indexOf( arrTopic2[i]) == -1){
   				arrTopic2[i] = '<span class="differ">'+arrTopic2[i]+'</span>';
   			}
   		}
-  		// console.log("topic1: "+qtdTopicarrTopic1+"   topic2: "+qtdTopicarrTopic2);
-
-  		arrTopic2 = arrTopic2.join(","); 
-
-  		// totalmenteDiferente2 = totalmenteDiferente2.join(",")
-  		console.log($("myModal").find("h3"));
-  		qtdTopicarrTopic1 = qtdTopicarrTopic1-1;
-  		qtdTopicarrTopic2 = qtdTopicarrTopic2-1;
-  		$("#myModal").find("#han_topic").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+Tree.topic[0]+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);
   		
+  		arrTopic2 = arrTopic2.join(","); 
+  		$("#myModal").find("#han_topic").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+Tree.topic[0]+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);  		
   		$("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2);
+
+
+
+  		for(i in topicDiffer2){
+  			if( topicDiffer1.indexOf( topicDiffer2[i]) == -1){
+  				topicDiffer2[i] = '<span class="totaldiffer">'+topicDiffer2[i]+'</span>';
+  			}
+  		}
+  		topicDiffer2 = topicDiffer2.join(", ");
+  		$("#myModal").find("#my_term").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+topicDiffer2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2);
+
+
 
   		var objectName = year;
   		if(year == "ALL"){
@@ -436,7 +441,6 @@ var interval = window.setInterval( function(){
 			
 		}  	   		 
   		
-  		// $("#myModal").find("#cosseno").html(cossineJSON);
   		$("#myModal").modal();
   		Tree.topic=[];
   		Tree.click=[];

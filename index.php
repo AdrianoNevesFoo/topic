@@ -95,8 +95,22 @@
 				</li>
 				<li>
 					<h3>My Topic Tree</h3>
-					<div id="my_topic"></div>
+					
+					<div>
 
+					  <!-- Nav tabs -->
+					  <ul class="nav nav-tabs" role="tablist">
+					    <li role="presentation" class="active"><a href="#different" aria-controls="different" role="tab" data-toggle="tab">Topic</a></li>
+					    <li role="presentation"><a href="#completelyDifferent" aria-controls="completelyDifferent" role="tab" data-toggle="tab">Term</a></li>
+					  </ul>
+
+					  <!-- Tab panes -->
+					  <div class="tab-content">
+					    <div role="tabpanel" class="tab-pane fade in active" id="different"><div id="my_topic"></div></div>
+					    <div role="tabpanel" class="tab-pane fade" id="completelyDifferent"><div id="my_term"></div></div>
+					  </div>
+
+					</div>
 				</li>	
 			</ul>
 			

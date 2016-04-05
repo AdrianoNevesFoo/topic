@@ -36,6 +36,10 @@ span.differ{
 	background: #DFF80B;
 }
 
+span.totaldiffer{
+  background: #66FFFF;
+}
+
 #trees{
   margin-left:5px;
   margin-top:15px;
@@ -58,4 +62,12 @@ span.differ{
 }
 #s2id_database  {
   width: 160px;
+  }
+  .tab-pane{
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    margin-top: -2px;
+    padding: 5px;
+    border-radius: 4px;
   }
