@@ -397,21 +397,6 @@ var interval = window.setInterval( function(){
   		var arrTopic2 = Tree.topic[1].split(",");
 
 
-
-  		// var join1 = arrTopic1.join(" ");
-  		// var join2 = arrTopic2.join(" ");
-
-  		// var totalmenteDiferente1 = join1.split(" ");
-  		// var totalmenteDiferente2 = join2.split(" ");
-		
-		// console.log(totalmenteDiferente1);
-  // 		console.log(totalmenteDiferente2);
-
-  		// for(i in totalmenteDiferente2){
-  		// 	if( totalmenteDiferente1.indexOf( totalmenteDiferente2[i]) == -1){
-  		// 		totalmenteDiferente2[i] = '<span class="differ">'+totalmenteDiferente2[i]+'</span>';
-  		// 	}
-  		// }
   		var qtdTopicarrTopic1 = 0; 
   		for(i in arrTopic1){
   			qtdTopicarrTopic1 = qtdTopicarrTopic1+1;
