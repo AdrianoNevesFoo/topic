@@ -1,7 +1,26 @@
 [
 	{
 		"database":"DBLP",
-		"conference":["WWW", "SIGMOD", "ICDM", "IJCAI", "ACL", "ICDE", "SIGIR", "VLDB", "ICML"]
-
+		"conference":{
+			"AAAI": ["ALL"],
+			"ACL": ["ALL"],
+			"ACM_MULTIMEDIA": ["ALL"],
+			"CG": ["ALL"],
+			"CIKM": ["ALL"],
+			"ICC": ["ALL", 2009, 2008, 2007, 2015, 2014, 2013, 2012, 2011, 2010],
+			"ICCD": ["ALL"],
+			"ICDE": ["ALL"],
+			"ICIP": ["ALL", 2009, 2008, 2007, 2006, 2005, 2015, 2014, 2013, 2012, 2011, 2010],
+			"ICML": ["ALL"],
+			"IEEE_TWC": ["ALL", 2009, 2008, 2007, 2013, 2012, 2011, 2010],
+			"IEICE": ["ALL", 2009, 2015, 2014, 2013, 2012, 2011, 2010],
+			"IJCAI": ["ALL"],
+			"ISCAS": ["ALL",2007, 2006, 2005, 2015, 2014, 2013, 2012, 2011, 2010],
+			"KDD": ["ALL"],
+			"PC": ["ALL"],
+			"SIGIR": ["ALL"],
+			"SIGMOD": ["ALL"],
+			"VLDB": ["ALL"]
+		}
 	}
 ]

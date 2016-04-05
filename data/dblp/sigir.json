@@ -1,187 +1,191 @@
 [
 	{
-		"id": 0,
-		"topic": "",
-		"target": [1,2,3,4,5,6]
-	},
-	{
-		"id": 1,
-		"topic": "query processing, query optimization, time series, queries, index structure, processing, efficient, join, continuous queries, streams processing, functional dependencies, optimization queries, optimizing queries, join processing, similarity search, queries database, efficient query processing, join algorithms, algorithms, query evaluation, pattern matching, spatial join, parallel join, query techniques, processing engine, query plan, adaptive query, continuous streams, processing queries, evaluation queries, efficient data, evaluation algorithms, fast algorithms, answering queries, similarity database, processing continuous, predicates queries, probabilistic queries, data processing, query execution, efficient method, efficient search, spatial, approximate, optimization techniques, parallel processing, tree queries, efficient evaluation, queries data, efficient queries, matching, queries streams, efficient database, efficient algorithms, evaluation, pattern, spatial processing, tree, similarity, fast, techniques, computation, indexing, streams, adaptive, efficient join, online, aggregation, optimal, execution, scalable, comparison, robust, clustering, xpath, results, processor, r-tree, evaluating, skyline, pipelined, multidimensional, answers, selection, space, arrays, windows, processing database, estimating, constraints, disk, size, progressive, expressions, multiple, event, retrieval, aggregate, large, graph, ",
-		"target": [7,8,9,10,11]
-	},
-	{
-		"id": 2,
-		"topic": "query language, keyword search, relational database, keyword search data, database language, xml relational system, relational data, extended abstract, search database, moving objects, xml, querying xml, query database, querying database, semistructured data, search engine, language, query optimizer, query, relational, query system, query optimization, xml data, programming language, schema mappings, search, relational query, schema data, query data, data model, complex objects, schema, database interface, model objects, visual query, querying, xml search, data objects, web query, programming database, query interface, model, xml database, objects language, interface, query xml, model relational, query processing, mappings, language data, engine, complex, relations, programming, objects, xquery, algebra, privacy, framework, nested, update, effective, extensible, publishing, entity, objects database, theory, rule-based, recursive, extending, graphical, functions, logical, -, image, prototype, exploring, logic, presence, retrieval, transformations, integrating, deductive, flexible, multiple, implementation, graph, structure, supporting, support, rules, approach, object-oriented, information, efficient, data, database, ",
-		"target": [12,13,14,15,16]
-	},
-	{
-		"id": 3,
-		"topic": "data, data streams, data management, web applications, web, data system, web services, information extraction, information, data warehouse, information integration, data integration, data model, web sites, database web, information system, dynamic web, streams management, data warehousing, data sources, services, content web, data platform, semantic data, data sharing, approach data, distributed data, web management, data mining, data services, uncertain data, web query, information management, data exploration, approach, data tutorial, interactive data, data access, world, enterprise, case, interactive, content, data database, business, experience, challenges, tutorial, data applications, real, open, building, data web, discovery, report, study, personal, wide, paper, data-driven, information data, streaming, practical, event, technology, operations, mobile, olap, automatic, -, architecture, ",
-		"target": [17,18,19,20,21]
-	},
-	{
-		"id": 4,
-		"topic": "sensor network, views maintenance, nearest neighbor, selectivity estimation, materialized views, data cubes, high dimensional, sampling estimation, views, hierarchical data, data analysis, estimation, large data, network, views data, document, analysis, histograms, supporting, sampling, collection, tool, user, text, incremental, summary, provenance, tables, quality, structured, scientific, workflow, efficiently, monitoring, multi-dimensional, large, aggregate, path, combining, massive, research, indexes, managing, extracting, store, programs, ranking, db2, exploiting, statistical, detection, sets, partitioning, multiple, expressions, automatic, olap, retrieval, space, clustering, structure, framework, objects, performance, search, information, efficient, management, queries, system, database, data, ",
-		"target": [22,23,24,25,26]
-	},
-	{
-		"id": 5,
-		"topic": "concurrency control, mining association rules, decision support, microsoft sql, sql server, microsoft server, access method, mining database, data mining, large graph, mining, mining large, mining system, sql, server, data access, access, rules, rules data, data parallel, support, scheme, parallel, dynamic, method, oracle, file, graph, multimedia, digital, replication, hashing, visualization, availability, replicated, providing, generation, groups, integrated, distribution, handling, finding, computing, protocols, probabilistic, issues, high, environment, based, index, indexing, algorithms, distributed, management, efficient, system, data, database, ",
-		"target": [27,28,29,30,31]
-	},
-	{
-		"id": 6,
-		"topic": "database system, database, management system, database management system, relational database system, object-oriented database, transaction processing, processing system, knowledge base, distributed database system, data management system, database applications, large database, main memory database, object-oriented database system, database design, performance evaluation, deductive database, design, database machine, physical design, design implementation, high performance, implementation database system, system applications, processing database, performance, query database system, distributed processing, processing database system, storage system, data database system, database approach, applications development, transaction, database based, objects database, database issues, database panel, object-oriented dbms, system supporting, objects database system, transaction management, knowledge database, semantic database, information system, techniques database, - database, database performance, transaction system, large system, temporal database, memory system, dbms, storage, base management, object-oriented applications, system semantic, management panel, database system applications, multidatabase system, evaluation database, analysis database, database specification, based system, base system, architecture, evaluation system, database architecture, database tuning, control database, recovery, database environment, recovery system, knowledge system, database caching, storage database, transaction database, system design, modeling, active, on-line, caching, highly, secure, concepts, manager, automated, client-server, advanced, environment, security, logging, implementing, integrity, real-time, problem, consistency, protocols, technology, ",
-		"target": [32,33,34,35,36]
-	},
-	{
-		"id": 7,
-		"topic": "time series, similarity search, pattern matching, similarity database, efficient data, efficient search, efficient database, efficient, indexing, matching, similarity, fast, pattern, computation, robust, retrieval, large, database, method, clustering, algorithms, ",
-		"target": []
-	},
-	{
-		"id": 8,
-		"topic": "index structure, tree, functional dependencies, adaptive, constraints, comparison, r-tree, windows, disk, arrays, ",
-		"target": []
-	},
-	{
-		"id": 9,
-		"topic": "join algorithms, spatial join, join, algorithms, approximate, spatial, online, optimal, processor, results, multidimensional, selection, size, answering, pipelined, estimating, database, query, ",
-		"target": []
-	},
-	{
-		"id": 10,
-		"topic": "query optimization, queries, query plan, efficient evaluation, optimizing queries, query evaluation, optimization, efficient queries, optimization queries, probabilistic queries, predicates queries, evaluation queries, evaluation, aggregation, space, skyline, progressive, multiple, ",
-		"target": []
-	},
-	{
-		"id": 11,
-		"topic": "query processing, continuous queries, processing queries, join processing, efficient query processing, streams processing, adaptive query, query techniques, data processing, processing engine, continuous streams, processing, queries streams, query execution, processing continuous, streams, techniques, scalable, execution, xpath, distributed, answers, ",
-		"target": []
-	},
-	{
-		"id": 12,
-		"topic": "extended abstract, schema data, schema mappings, schema, framework, mappings, update, relations, functions, extensible, entity, deductive, transformations, database, ",
-		"target": []
-	},
-	{
-		"id": 13,
-		"topic": "semistructured data, data model, moving objects, objects, objects language, model, data objects, objects database, complex objects, model objects, complex, effective, implementation, logical, recursive, extending, ",
-		"target": []
-	},
-	{
-		"id": 14,
-		"topic": "search database, keyword search, keyword search data, xml search, search, search engine, engine, privacy, retrieval, flexible, publishing, image, logic, efficient, exploring, graph, ",
-		"target": []
-	},
-	{
-		"id": 15,
-		"topic": "query language, query, query database, query system, query optimization, query data, query optimizer, query processing, database interface, visual query, query interface, interface, xquery, prototype, graphical, rule-based, ",
-		"target": []
-	},
-	{
-		"id": 16,
-		"topic": "relational database, xml relational system, relational data, database language, querying database, querying xml, relational, xml, xml data, programming language, querying, programming database, xml database, language, programming, nested, algebra, -, integrating, theory, presence, multiple, approach, ",
-		"target": []
-	},
-	{
-		"id": 17,
-		"topic": "world, experience, case, real, discovery, exploration, automatic, study, paper, olap, report, database, data, ",
-		"target": []
-	},
-	{
-		"id": 18,
-		"topic": "web, web applications, web services, web sites, dynamic web, content web, building, technology, business, event, ",
-		"target": []
-	},
-	{
-		"id": 19,
-		"topic": "approach data, interactive data, approach, interactive, sharing, enterprise, extraction, warehouse, uncertain, practical, ",
-		"target": []
-	},
-	{
-		"id": 20,
-		"topic": "data streams, data management, data, data system, data services, streams management, data warehousing, data platform, mobile, ",
-		"target": []
-	},
-	{
-		"id": 21,
-		"topic": "data integration, information extraction, information system, data sources, information integration, information, information data, challenges, tutorial, open, personal, ",
-		"target": []
-	},
-	{
-		"id": 22,
-		"topic": "data analysis, analysis, document, text, structured, user, tables, quality, summary, statistical, db2, automatic, extracting, scientific, path, data, database, ",
-		"target": []
-	},
-	{
-		"id": 23,
-		"topic": "data cubes, supporting, sampling, large, structure, efficiently, managing, sets, framework, ranking, olap, queries, ",
-		"target": []
-	},
-	{
-		"id": 24,
-		"topic": "network, sensor network, tool, research, collection, workflow, monitoring, multiple, expressions, massive, detection, indexes, ",
-		"target": []
-	},
-	{
-		"id": 25,
-		"topic": "views maintenance, materialized views, hierarchical data, views data, views, incremental, aggregate, retrieval, combining, exploiting, programs, efficient, provenance, ",
-		"target": []
-	},
-	{
-		"id": 26,
-		"topic": "nearest neighbor, selectivity estimation, high dimensional, estimation, histograms, search, multi-dimensional, space, partitioning, store, data, ",
-		"target": []
-	},
-	{
-		"id": 27,
-		"topic": "data mining, association rules, mining database, mining rules, mining association, mining system, mining, rules data, rules, visualization, oracle, finding, algorithms, groups, ",
-		"target": []
-	},
-	{
-		"id": 28,
-		"topic": "dynamic, parallel, scheme, multimedia, database, data, ",
-		"target": []
-	},
-	{
-		"id": 29,
-		"topic": "microsoft sql, microsoft server, sql server, sql, server, file, digital, issues, replicated, database, data, ",
-		"target": []
-	},
-	{
-		"id": 30,
-		"topic": "decision support, large graph, support, graph, replication, based, integrated, generation, probabilistic, indexing, environment, providing, data, ",
-		"target": []
-	},
-	{
-		"id": 31,
-		"topic": "concurrency control, data access, access method, access, method, availability, efficient, hashing, computing, distributed, ",
-		"target": []
-	},
-	{
-		"id": 32,
-		"topic": "database panel, knowledge base, objects database, knowledge database, base system, management panel, objects system, recovery system, knowledge system, recovery, environment, manager, multidatabase, problem, client-server, advanced, issues, active, development, concepts, ",
-		"target": []
-	},
-	{
-		"id": 33,
-		"topic": "management system, database management, processing system, transaction processing, distributed system, transaction system, data management, database based, data system, transaction database, based system, database caching, database system, transaction, transaction management, based, caching, model, ",
-		"target": []
-	},
-	{
-		"id": 34,
-		"topic": "database system, system, object-oriented database, relational system, database applications, temporal database, system applications, object-oriented system, applications, database architecture, dbms, object-oriented dbms, object-oriented applications, architecture, security, on-line, constraints, ",
-		"target": []
-	},
-	{
-		"id": 35,
-		"topic": "database, database system, relational database, main memory, distributed system, large database, distributed database, memory system, database machine, database applications, memory database, main database, storage, storage database, highly, automated, ",
-		"target": []
-	},
-	{
-		"id": 36,
-		"topic": "database design, database performance, performance, implementation database, techniques database, performance evaluation, design, semantic database, physical design, design implementation, database tuning, secure, modeling, integrity, control, analysis, ",
-		"target": []
+		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "text categorization, text classification, social networks, text, learning rank, multi-document summarization, social media, text classifiers, news articles, social, text using, classification, social recommendation, expert finding, text search, feature selection, event detection, topic, music recommendation, web classification, topic tracking, personalized recommendation, news, using text classification, data, using topic, news event, click-through data, search news, data fusion, topic segmentation, using social, networks, tag recommendation, topic modeling, method text, learning social, chinese text, machine learning, social system, user social, text summarization, learning text, text analysis, searching using, word text, summarization, video using, data system, hierarchical text, text web, content, searching text, approach text, content social, using content, text system, using feature, summarization using, index text, text detection, using data, improving text, based text, feature, event, music, text retrieval, searching, segmentation, feature text, topic text, video, expert, selection, tweets, temporal, online, tag, fusion, finding, training, comments, multilingual, detecting, stream, personalized, corpus, forum, microblog, hybrid, english, distillation, machine, people, inverted, extracting, similar, index, automatically, query expansion, language model, retrieval using, query retrieval, natural language, using, using information, query information retrieval, query, language model retrieval, query using, translation cross-language information, translation cross-language retrieval, term information retrieval, language modeling, language model information, term, automatic retrieval, query suggestion, weighting schemes, knowledge base, term query expansion, model query, term weighting, information retrieval using query, word information retrieval, domain knowledge, query reformulation, query document retrieval, using language model, automatic, query processing, using document, automatic generation, learning query, query term, query language retrieval, improving using, query translation, query expansion based, file organization, retrieval using model, interactive query, language, query based, using document retrieval, query language, smoothing language, link analysis, multiple evidence, using model, short text, verbose queries, query approach, document language, automatic using, data base, text using, representation knowledge, effective retrieval, term model, multiple retrieval, query expansion using, ad-hoc retrieval, text retrieval using, term frequency, language approach, retrieval based, query logs, automatic indexing, using term, improving retrieval, term based, processing techniques, using queries, query selection, query classification, document retrieval, using link, effective efficient, automatic web, language processing, automatic information, query refinement, query evaluation, using word, queries retrieval, processing queries, efficient queries, translation model, syntactic retrieval, knowledge document, automatic query, hierarchical retrieval, query databases, analysis retrieval, classification using, translation, selection retrieval, modeling using, relevance feedback, poster abstract, demonstration abstract, relevance, relevance retrieval, pseudo-relevance feedback, relevance feedback retrieval, digital libraries, relevance model, relevance information, study information retrieval, implicit feedback, relevance assessment, evaluation measures, relevance information retrieval, relevance judgments, information retrieval metrics, using relevance, similarity measures, relevant document, average precision, retrieval evaluation, evaluation, score distributions, using feedback, novelty diversity, relevance document, blind feedback, information science, user evaluation, term feedback, term relevance, user feedback, user preferences, opinion retrieval, statistical information, document feedback, system judgments, relevance system, accuracy retrieval, model feedback, feedback information, evaluation algorithm, user study, method retrieval, based relevance, evaluation method, evaluation metrics, study, effect document, method information, relevance diversity, user retrieval, user information, improving relevance, evaluation information, measures, comparison retrieval, statistical retrieval, retrieval judgments, information filtering, evaluation document, measures retrieval, precision retrieval, retrieval poster, effect retrieval, model retrieval, evaluation using, model information, effect, relevance measures, diversity, evaluation system, estimation, metrics, relevant, score, retrieval abstract, precision, using information, method, information abstract, relevance evaluation, document retrieval, opinion, resources, theory, assessor, comparison, role, statistical, investigation, sources, comparing, robustness, discovering, simple, revisited, trec, preferences, search, web search, search engine, search results, question answering, web search results, web page, search using, search results diversification, search results using, query search, user behavior, user search, random walk, query performance prediction, search task, search interface, web search engine, user interface, model search, search logs, federated search, ranking search, using web search, user interaction, user query, search evaluation, query search results, search behavior, query logs, caching search engine, similarity search, information search, ranking web search, improving web search, image search, mining web, learning search, query web search, search user behavior, query auto-completion, results search engine, personalized search, user queries, search interaction, context search, document search, mobile search, search query logs, web queries, answer question, search web logs, modeling user, user web search, user search task, search system, click model, learning web search, analysis logs, search data, search queries, relevance web search, impact search, modeling search, analysis search, browsing behavior, user, modeling, user intent, model web search, use search, query search engine, session search, searching web, web search interaction, query evaluation, sponsored search, search retrieval, web data, personalization search, web content, vertical search, quality web, predicting, predicting user, exploratory search, search via, mining search, web retrieval, predicting query, search diverse, index search, search based, analysis web, approach search, quality search, web information, search graph, search satisfaction, dynamic search, collaborative filtering, latent semantic indexing, probabilistic model, document clustering, model retrieval, model, probabilistic model retrieval, named entity recognition, document, vector space, image annotation, matrix factorization, hidden markov model, latent semantic analysis, learning retrieval, large scale, random fields, model document, document retrieval, learning, topic model, model document retrieval, active learning, retrieval model based, learning rank, model based, latent model, ranking, semantic, document representation, learning information, semantic retrieval, ranking functions, model recommendation, ranking retrieval, learning ranking, machine learning, vector model, image retrieval, latent factor, document ranking, space model, spam filtering, model information, image using, image, document indexing, document based, learning model, based analysis, discriminative model, image based, sentiment analysis, document classification, learning functions, recommendation based, semantic information, probabilistic latent, model analysis, document approach, document via, ranking based, learning filtering, using model, adaptive via, semantic model, using document, based approach, semantic approach, indexing, algorithm, framework learning, model social, using ranking, information filtering, random model, factor model, using latent, adaptive filtering, via, ranking model, probabilistic indexing, web document, filtering algorithm, representation model, using semantic, ranking algorithm, text document, similarity based, similarity, model text, based, model via, probabilistic analysis, document similarity, entity, document analysis, learning image, semantic image, large document, information retrieval, model information retrieval, international acm conference research development, international acm sigir conference development, international acm sigir conference research, international sigir conference research development, international acm sigir research development, acm sigir conference research development, information retrieval system, international acm conference development information, international acm conference development retrieval, international acm conference research information, international acm sigir conference information, international acm conference research retrieval, international acm sigir conference retrieval, international conference research development information, international sigir conference development information, international acm research development information, international acm sigir development information, acm conference research development information, acm sigir conference development information, international conference research development retrieval, international sigir conference development retrieval, international acm research development retrieval, international sigir conference research information, international acm sigir development retrieval, acm conference research development retrieval, international acm sigir research information, acm sigir conference development retrieval, acm sigir conference research information, proceedings international acm conference development, international sigir conference research retrieval, international acm sigir research retrieval, acm sigir conference research retrieval, proceedings international acm conference research, proceedings international acm sigir conference, international sigir research development information, sigir conference research development information, acm sigir research development information, proceedings international conference research development, international sigir research development retrieval, proceedings international sigir conference development, proceedings international acm research development, proceedings international acm sigir development, sigir conference research development retrieval, proceedings acm conference research development, proceedings acm sigir conference development, acm sigir research development retrieval, proceedings international sigir conference research, proceedings international acm sigir research, proceedings acm sigir conference research, proceedings international sigir research development, proceedings sigir conference research development, proceedings acm sigir research development, international acm conference information retrieval, proceedings international acm conference information, international conference development information retrieval, international acm development information retrieval, acm conference development information retrieval, proceedings international acm conference retrieval, international conference research information retrieval, proceedings international conference development information, international sigir conference information retrieval, proceedings international acm development information, international acm research information retrieval, international acm sigir information retrieval, proceedings acm conference development information, acm conference research information retrieval, acm sigir conference information retrieval, proceedings international conference development retrieval, proceedings international conference research information, proceedings international acm development retrieval, proceedings international sigir conference information, proceedings international acm research information, proceedings acm conference development retrieval, proceedings international acm sigir information, proceedings acm conference research information, proceedings acm sigir conference information, proceedings international conference research retrieval, proceedings international sigir conference retrieval, international research development information retrieval, proceedings international acm research retrieval, international sigir development information retrieval, proceedings international acm sigir retrieval, proceedings acm conference research retrieval, conference research development information retrieval, international acm conference development july, proceedings acm sigir conference retrieval, sigir conference development information retrieval, acm research development information retrieval, proceedings international research development information, acm sigir development information retrieval, proceedings international sigir development information, proceedings conference research development information, proceedings sigir conference development information, proceedings acm research development information, proceedings acm sigir development information, international acm conference research july, international acm sigir conference july, proceedings international research development retrieval, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "text categorization, text classification, social networks, text, learning rank, multi-document summarization, social media, text classifiers, news articles, social, text using, classification, social recommendation, expert finding, text search, feature selection, event detection, topic, music recommendation, web classification, topic tracking, personalized recommendation, news, using text classification, data, using topic, news event, click-through data, search news, data fusion, topic segmentation, using social, networks, tag recommendation, topic modeling, method text, learning social, chinese text, machine learning, social system, user social, text summarization, learning text, text analysis, searching using, word text, summarization, video using, data system, hierarchical text, text web, content, searching text, approach text, content social, using content, text system, using feature, summarization using, index text, text detection, using data, improving text, based text, feature, event, music, text retrieval, searching, segmentation, feature text, topic text, video, expert, selection, tweets, temporal, online, tag, fusion, finding, training, comments, multilingual, detecting, stream, personalized, corpus, forum, microblog, hybrid, english, distillation, machine, people, inverted, extracting, similar, index, automatically",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "query expansion, language model, retrieval using, query retrieval, natural language, using, using information, query information retrieval, query, language model retrieval, query using, translation cross-language information, translation cross-language retrieval, term information retrieval, language modeling, language model information, term, automatic retrieval, query suggestion, weighting schemes, knowledge base, term query expansion, model query, term weighting, information retrieval using query, word information retrieval, domain knowledge, query reformulation, query document retrieval, using language model, automatic, query processing, using document, automatic generation, learning query, query term, query language retrieval, improving using, query translation, query expansion based, file organization, retrieval using model, interactive query, language, query based, using document retrieval, query language, smoothing language, link analysis, multiple evidence, using model, short text, verbose queries, query approach, document language, automatic using, data base, text using, representation knowledge, effective retrieval, term model, multiple retrieval, query expansion using, ad-hoc retrieval, text retrieval using, term frequency, language approach, retrieval based, query logs, automatic indexing, using term, improving retrieval, term based, processing techniques, using queries, query selection, query classification, document retrieval, using link, effective efficient, automatic web, language processing, automatic information, query refinement, query evaluation, using word, queries retrieval, processing queries, efficient queries, translation model, syntactic retrieval, knowledge document, automatic query, hierarchical retrieval, query databases, analysis retrieval, classification using, translation, selection retrieval, modeling using",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "relevance feedback, poster abstract, demonstration abstract, relevance, relevance retrieval, pseudo-relevance feedback, relevance feedback retrieval, digital libraries, relevance model, relevance information, study information retrieval, implicit feedback, relevance assessment, evaluation measures, relevance information retrieval, relevance judgments, information retrieval metrics, using relevance, similarity measures, relevant document, average precision, retrieval evaluation, evaluation, score distributions, using feedback, novelty diversity, relevance document, blind feedback, information science, user evaluation, term feedback, term relevance, user feedback, user preferences, opinion retrieval, statistical information, document feedback, system judgments, relevance system, accuracy retrieval, model feedback, feedback information, evaluation algorithm, user study, method retrieval, based relevance, evaluation method, evaluation metrics, study, effect document, method information, relevance diversity, user retrieval, user information, improving relevance, evaluation information, measures, comparison retrieval, statistical retrieval, retrieval judgments, information filtering, evaluation document, measures retrieval, precision retrieval, retrieval poster, effect retrieval, model retrieval, evaluation using, model information, effect, relevance measures, diversity, evaluation system, estimation, metrics, relevant, score, retrieval abstract, precision, using information, method, information abstract, relevance evaluation, document retrieval, opinion, resources, theory, assessor, comparison, role, statistical, investigation, sources, comparing, robustness, discovering, simple, revisited, trec, preferences",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "search, web search, search engine, search results, question answering, web search results, web page, search using, search results diversification, search results using, query search, user behavior, user search, random walk, query performance prediction, search task, search interface, web search engine, user interface, model search, search logs, federated search, ranking search, using web search, user interaction, user query, search evaluation, query search results, search behavior, query logs, caching search engine, similarity search, information search, ranking web search, improving web search, image search, mining web, learning search, query web search, search user behavior, query auto-completion, results search engine, personalized search, user queries, search interaction, context search, document search, mobile search, search query logs, web queries, answer question, search web logs, modeling user, user web search, user search task, search system, click model, learning web search, analysis logs, search data, search queries, relevance web search, impact search, modeling search, analysis search, browsing behavior, user, modeling, user intent, model web search, use search, query search engine, session search, searching web, web search interaction, query evaluation, sponsored search, search retrieval, web data, personalization search, web content, vertical search, quality web, predicting, predicting user, exploratory search, search via, mining search, web retrieval, predicting query, search diverse, index search, search based, analysis web, approach search, quality search, web information, search graph, search satisfaction, dynamic search",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "collaborative filtering, latent semantic indexing, probabilistic model, document clustering, model retrieval, model, probabilistic model retrieval, named entity recognition, document, vector space, image annotation, matrix factorization, hidden markov model, latent semantic analysis, learning retrieval, large scale, random fields, model document, document retrieval, learning, topic model, model document retrieval, active learning, retrieval model based, learning rank, model based, latent model, ranking, semantic, document representation, learning information, semantic retrieval, ranking functions, model recommendation, ranking retrieval, learning ranking, machine learning, vector model, image retrieval, latent factor, document ranking, space model, spam filtering, model information, image using, image, document indexing, document based, learning model, based analysis, discriminative model, image based, sentiment analysis, document classification, learning functions, recommendation based, semantic information, probabilistic latent, model analysis, document approach, document via, ranking based, learning filtering, using model, adaptive via, semantic model, using document, based approach, semantic approach, indexing, algorithm, framework learning, model social, using ranking, information filtering, random model, factor model, using latent, adaptive filtering, via, ranking model, probabilistic indexing, web document, filtering algorithm, representation model, using semantic, ranking algorithm, text document, similarity based, similarity, model text, based, model via, probabilistic analysis, document similarity, entity, document analysis, learning image, semantic image, large document",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "information retrieval, model information retrieval, international acm conference research development, international acm sigir conference development, international acm sigir conference research, international sigir conference research development, international acm sigir research development, acm sigir conference research development, information retrieval system, international acm conference development information, international acm conference development retrieval, international acm conference research information, international acm sigir conference information, international acm conference research retrieval, international acm sigir conference retrieval, international conference research development information, international sigir conference development information, international acm research development information, international acm sigir development information, acm conference research development information, acm sigir conference development information, international conference research development retrieval, international sigir conference development retrieval, international acm research development retrieval, international sigir conference research information, international acm sigir development retrieval, acm conference research development retrieval, international acm sigir research information, acm sigir conference development retrieval, acm sigir conference research information, proceedings international acm conference development, international sigir conference research retrieval, international acm sigir research retrieval, acm sigir conference research retrieval, proceedings international acm conference research, proceedings international acm sigir conference, international sigir research development information, sigir conference research development information, acm sigir research development information, proceedings international conference research development, international sigir research development retrieval, proceedings international sigir conference development, proceedings international acm research development, proceedings international acm sigir development, sigir conference research development retrieval, proceedings acm conference research development, proceedings acm sigir conference development, acm sigir research development retrieval, proceedings international sigir conference research, proceedings international acm sigir research, proceedings acm sigir conference research, proceedings international sigir research development, proceedings sigir conference research development, proceedings acm sigir research development, international acm conference information retrieval, proceedings international acm conference information, international conference development information retrieval, international acm development information retrieval, acm conference development information retrieval, proceedings international acm conference retrieval, international conference research information retrieval, proceedings international conference development information, international sigir conference information retrieval, proceedings international acm development information, international acm research information retrieval, international acm sigir information retrieval, proceedings acm conference development information, acm conference research information retrieval, acm sigir conference information retrieval, proceedings international conference development retrieval, proceedings international conference research information, proceedings international acm development retrieval, proceedings international sigir conference information, proceedings international acm research information, proceedings acm conference development retrieval, proceedings international acm sigir information, proceedings acm conference research information, proceedings acm sigir conference information, proceedings international conference research retrieval, proceedings international sigir conference retrieval, international research development information retrieval, proceedings international acm research retrieval, international sigir development information retrieval, proceedings international acm sigir retrieval, proceedings acm conference research retrieval, conference research development information retrieval, international acm conference development july, proceedings acm sigir conference retrieval, sigir conference development information retrieval, acm research development information retrieval, proceedings international research development information, acm sigir development information retrieval, proceedings international sigir development information, proceedings conference research development information, proceedings sigir conference development information, proceedings acm research development information, proceedings acm sigir development information, international acm conference research july, international acm sigir conference july, proceedings international research development retrieval",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "text classification, text categorization, text using, text search, text classifiers, text retrieval, feature selection, learning text, text, searching using, text web, method text, chinese text, hierarchical text, searching text, feature text, selection, searching, feature, hierarchical, multilingual, training, retrieving, objects, compressed, document",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "using topic, expert finding, classification using, web classification, topic tracking, topic segmentation, using content, topic, classification, content, approach, expert, finding, segmentation, tag, personalized, corpus, expertise, automatically, scalable, enterprise, distillation, unsupervised, approaches, category, retrieval",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "multi-document summarization, social media, news event, social recommendation, event detection, music recommendation, social system, social, user social, summarization, music, recommendation, event, tweets, multimedia, detecting, influence, interest, management, profiles, based, identification, recommender, forum, weighted, software, timeline, user",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "news, news articles, online, video, index, inverted, summaries, fusion, comments, hybrid, stream, english, ensemble, extracting, generating, microblog, tagging, improve, similar, real-time, robust",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "social networks, learning rank, learning social, machine learning, using data, click-through data, data, temporal, improving, machine, xml, people, analysis, heterogeneous, differences, compression, exploiting, tool, perspective",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "language model, language model retrieval, natural language, language model information, using language model, language modeling, using queries, language, document language, effective retrieval, query language, ad-hoc retrieval, queries, smoothing language, query processing, verbose queries, queries retrieval, language approach, processing techniques, queries information, language processing, processing queries, effective, processing, techniques, keyword, matching, approach, dependency, mining, proximity, string, relations, building, dictionaries, association, spoken, cross-lingual, search, data, text, based, term",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "term weighting, word information retrieval, weighting schemes, using link, link analysis, retrieval based, term frequency, short text, using method, using word, method retrieval, word, based, method, link, incorporating, patent, japanese, enhancing, scoring, text, signature, thesaurus, anchor, memory, structure, base, corpora, finding, indexing, data, retrieval, document, model",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "retrieval using, using information, using, information retrieval using, using document, domain knowledge, using model, improving using, query using, text using, knowledge document, representation knowledge, query analysis, classification using, knowledge, knowledge retrieval, hierarchical retrieval, analysis retrieval, using representation, using analysis, using knowledge, disambiguation, hierarchical, analysis, representation, syntactic, stemming, approaches, empirical, related, generalized, lexical, sense, ambiguity, articles, clustering",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "query expansion, query retrieval, query, query information retrieval, translation cross-language information, query using, translation cross-language retrieval, term information retrieval, model query, query suggestion, query expansion based, term query expansion, learning query, query reformulation, query term, query expansion using, using term, query document retrieval, term, query translation, query logs, interactive query, using translation, query classification, expansion retrieval, term model, translation model, query selection, translation, automatic query, query cross-language, dependence, graph, dependencies, active, recall, ranking, statistical, web",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "automatic retrieval, automatic using, automatic, multiple retrieval, automatic generation, file organization, multiple query, multiple evidence, automatic information, document retrieval, automatic document, efficient, multiple, strategies, medical, phrase, evidence, construction, cluster-based, integrating, document, examples, importance, supporting, top-k, prior, expert, acquisition, combination, combining, search",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "relevant document, similarity measures, opinion retrieval, effect document, effect retrieval, measures, effect, opinion, theory, judgments, experiments, size, email, different, comparing, blog, topical, regression, types, role, error, www, retrieving, archives, using, retrieval, information, relevance",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "information retrieval metrics, relevance diversity, novelty diversity, diversity, metrics, comparison, assessment, preferences, sources, evaluating, sentence, information, revisited, map, discovering, quality, flow, hoc, help, privacy, multiple, summary, retrieval, resources",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "poster abstract, demonstration abstract, digital libraries, score distributions, retrieval abstract, retrieval poster, information abstract, score, federated, product, linking, internet, on-line, distance, filtering, adaptive, resources",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "retrieval evaluation, evaluation measures, evaluation information, evaluation, method retrieval, average precision, statistical information, user evaluation, method information, relevance evaluation, evaluation document, evaluation system, user retrieval, statistical retrieval, evaluation using, user information, evaluation method, method, user, estimation, statistical, precision, comparative, simple, trec, bayesian, maximum, probability, results, assessor, text, search, filtering, model",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "relevance feedback, relevance retrieval, relevance feedback retrieval, study information retrieval, relevance model, relevance information, pseudo-relevance feedback, relevance information retrieval, relevance, implicit feedback, using relevance, user feedback, information science, using feedback, relevance document, feedback information, document feedback, blind feedback, term feedback, term relevance, model feedback, user study, relevance system, accuracy retrieval, model retrieval, improving relevance, study, investigation, seeking, estimating, time, utility, effective, process, incremental, level, pseudo, utilizing, search",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "user search, search behavior, user behavior, search interaction, user interface, web search interaction, search user behavior, user search task, user web search, user interaction, user query, search queries, user, user results, predicting search, user queries, click model, personalization search, exploring search, search time, search effectiveness, browsing search, understanding search, model search, search interface, browsing behavior, search click, user model, predicting user, query search, effectiveness, time, predicting, exploring, click, understanding, browsing, searcher, queries, location, optimal, predict, preferences, history, satisfaction, graph, information, searching, using",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "modeling search, search logs, query logs, query prediction, search query logs, user intent, analysis logs, search intent, modeling user, web logs, search prediction, modeling, modeling web, modeling query, logs, prediction, intent, relationship, measuring, needs, inferring, assessing, vertical, online, session, ranked, cluster, personalize, structured, via, query, relevance, community, information, using, queries",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "web search, web, web page, random walk, query web search, using web search, quality search, page search, learning web, quality web, quality, visual, discovery, list, service, community-based, difficulty",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "question answering, query performance, search task, search performance, performance, answer question, task, evaluating, answer, impact, complex, wikipedia, mobile, usersapos, length, investigating, crowdsourcing, good, evaluation, community, ranking",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "search, search engine, search results, web search results, search results using, web search engine, search results diversification, query search results, federated search, ranking search, improving search, search evaluation, caching search engine, query search engine, personalized search, results search engine, search data, use search, sponsored search, exploratory search, index search, distributed search, optimization, challenges, health, efficiency",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "collaborative filtering, image retrieval, image annotation, image using, retrieval based, image, document analysis, document based, model based, learning image, based, information filtering, based analysis, recommendation based, spam filtering, image model, semantic image, image based, filtering based, exploiting, analysis, combining, context-aware, personal, improve, large-scale, visual, personalized, re-ranking, feature, user, system, web",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "model retrieval, latent semantic indexing, probabilistic model, probabilistic model retrieval, model, latent semantic analysis, model information, topic model, latent model, semantic retrieval, semantic, using model, latent factor, model analysis, semantic information, semantic approach, using latent, discriminative model, model recommendation, probabilistic analysis, indexing, probabilistic latent, semantic model, factor model, concept, probabilistic indexing, boolean, photos, patterns, unified, extended, joint, optimal, modeling, supervised, biomedical, text",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "named entity recognition, vector space, vector model, space model, ranking, sentiment analysis, learning functions, ranking functions, ranking retrieval, ranking model, using ranking, learning ranking, model recommendation, entity, detection, recommendation, sentiment, local, twitter, reviews, novel, aspect, citation, graph-based, optimizing, influence, ratings, mining, finding",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "learning retrieval, matrix factorization, learning, active learning, learning information, adaptive filtering, learning ranking, adaptive via, learning using, framework learning, similarity, via, extraction, framework, application, adaptive, via learning, context, structure, approach, fast, scale, prediction, semi-supervised, pagerank, generic, pairwise, recommending, boosting, summarization, based, document",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "document, document retrieval, model document, document clustering, model document retrieval, hidden markov model, document ranking, random fields, document indexing, using document, document representation, random model, ranking algorithm, document classification, algorithm, text document, algorithm document, efficient, passage, cluster, hashing, identifying, preserving, large, linear, experimental, operators",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "information retrieval, model information retrieval, information retrieval system, language information retrieval, language model information, interface information retrieval, model information system, text information retrieval, retrieval logic, intelligent information retrieval, problem information retrieval, interface support, retrieval full, file system, support system, information panel, contextual information, full information, support information, support, file, improved, indexes, library, textual",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "information retrieval, retrieval, model information retrieval, document retrieval, text retrieval, image retrieval, evaluation information retrieval, probabilistic information retrieval, information retrieval abstract, document information retrieval, retrieval performance, xml retrieval, dynamic information retrieval, architecture information retrieval, text information retrieval, information environment, retrieval experiments, spoken retrieval, retrieval environment, experiments information, large-scale retrieval, parallel retrieval, advanced, storage",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "test collections, interactive retrieval, interactive information retrieval, distributed information retrieval, retrieval databases, information access, retrieval collections, information retrieval workshop, interactive interface retrieval, interface retrieval, retrieval large, structured retrieval, large collections, test retrieval, bibliographic retrieval, interactive system, use retrieval, visualization information, large databases, building collections, structured information, use information, document collections, collections system, document retrieval, collections information, visualization, retrieval system, modelling, hypertext, demo, knowledge-based, integration, browsing, wide, searching, evaluation",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "research information retrieval, international acm conference, acm information retrieval, international conference development, international acm development, acm conference development, international conference retrieval, international conference information, international acm retrieval, international conference research, international acm information, acm conference retrieval, international acm research, acm conference information, international sigir conference, acm conference research, international acm sigir, development information retrieval, acm sigir conference, international development retrieval, sigir information retrieval, international development information, conference development retrieval, international research development, conference development information, acm development retrieval, conference research development, acm development information, international sigir development, acm research development, sigir conference development, international information retrieval, research development retrieval, international research retrieval, acm sigir development, research development information, conference information retrieval, international research information, conference research retrieval, international sigir retrieval, conference research information, acm research retrieval, international sigir information, sigir conference retrieval, acm research information, international sigir research, sigir conference information, acm sigir retrieval, sigir conference research, acm sigir information, acm sigir research, proceedings international conference, proceedings international acm, proceedings acm sigir, proceedings acm conference, sigir development retrieval, sigir development information, sigir research development, proceedings international development, sigir research retrieval, proceedings conference development, sigir research information, proceedings acm development, proceedings international retrieval, proceedings international information, proceedings conference retrieval, proceedings international research, proceedings conference information, proceedings acm retrieval, proceedings conference research, proceedings acm information, proceedings international sigir, proceedings acm research, proceedings sigir conference, proceedings development retrieval, proceedings development information, proceedings research development, proceedings sigir development, sigir july, proceedings information retrieval, proceedings research retrieval, proceedings research information, proceedings sigir retrieval, proceedings sigir information, international conference july, proceedings sigir research, international acm july, acm conference july, international development july, conference development july, acm development july, international retrieval july, international information july, conference retrieval july, international research july, conference information july, acm retrieval july, sigir annual, conference research july, proceedings annual international",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "retrieval system, information retrieval system, document retrieval system, information retrieval design, representation retrieval system, retrieval system evaluation, intelligence information retrieval, full-text retrieval system, content-based retrieval, user information system, interface retrieval system, information system design, user retrieval system, retrieval speech, interface design, retrieval techniques, system abstract, evaluating system, base system, querying, office, relational",
+			 "target": []
+		}
+		]
 	}
 ]

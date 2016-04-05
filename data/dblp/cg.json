@@ -1,0 +1,191 @@
+[
+	{
+		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "augmented reality, virtual environments, virtual reality, user interface, virtual, environments, mobile augmented reality, scientific visualization, virtual worlds, virtual learning, tracking reality, using virtual, interface, interaction environments, system augmented, distributed environments, mobile, reality system, using reality, virtual interface, architecture, interaction, video, environments using, human, information, distributed, multimedia, haptic, collaborative, immersive, tool, graph, sketch-based, urban, flexible, performance, navigation, service, platform, shared, intelligent, outdoor, camera, advanced, transfer, scenes, hypermedia, designing, animated, chinese, geometry, management, workstations, optical, exploring, sketching, image-based, hardware, training, graphical, evaluation, control, contour, robust, personal, framework, technology, support, language, automatic, mapping, development, real-time, reconstruction, approach, techniques, objects, based, applications, simulation, visualization, models, image, using, design, interactive, computer, graphics, system, ray tracing, point cloud, surfaces, rational cubic spline, volume rendering, julia sets, implicit surfaces, modeling surfaces, surfaces using, curves, curves surfaces, point, shape, delaunay triangulation, point surfaces, method surfaces, b-spline surfaces, subdivision surfaces, mandelbrot sets, surfaces based, automatic generation, shape interpolation, estimation point, point data, b-spline curves, reconstruction point, reconstruction objects, cubic interpolation, using cubic, curves using, spline, data using, point sets, bazier curves, surfaces reconstruction, shape blending, planar curves, representation, shape using, reconstruction, parametric surfaces, spline data, cloud data, data sets, interpolation, point using, parametric curves, surfaces geometric, cloud using, representation surfaces, curves implicit, sets, cubic curves, shape functions, mesh, surfaces boundary, meshes using, meshes, parametric, approximation, surfaces data, planar, interactive surfaces, mapping, multiresolution, surfaces meshes, arbitrary, algorithm surfaces, via, deformation, volumetric, bazier, boundary, grids, mandelbrot, extraction, linear, free-form, dimensions, automatic, isosurface, fitting, general, piecewise, constrained, preserving, scheme, blending, patches, triangular, normal, construction, editing, topology, quadratic, octree, nurbs, operations, method, smooth, algorithm, line clipping algorithm, image, iterated functions, line algorithm, efficient algorithm, line drawing, algorithm based, image using, functions system, color image, line, fractal, parallel algorithm, newtonaposs method, using line, radiosity algorithm, algorithm surfaces, algorithm polygons, parallel, evaluation algorithm, efficient, fractal image, image based, generation fractal, algorithm intersection, method fractal, algorithm using, algorithm display, fast algorithm, method image, efficient image, image display, image generation, algorithm curves, radiosity, polygons, functions, algorithm generation, computation, progressive, attractors, generation, plane, convex, raster, transformation, complex, test, affine, algorithm image, simple, binary, fast, regions, coordinate, hidden, scan, segmentation, enhancement, artistic, optimal, polyhedra, filtering, generated, minimization, algebraic, display, detail, ifs, multiple, accelerated, inclusion, distribution, rasterization, occlusion, processor, trees, finding, gpu, projection, paths, conversion, single, edge, filling, primitives, manifold, colour, solving, adaptive, vector, rapid, iteration, distance, curved, visibility, stochastic, level, face, computer graphics, guest introduction, editoraposs introduction, guest editoraposs, system, guest editoraposs computer graphics, interactive, guest introduction computer graphics, interactive graphics, design, graphics system, computer graphics education, interactive system, design system, using computer graphics, guest editorsapos, cad system, interactive computer graphics, introductory course, editorsapos introduction, interactive design, computer art, using interactive graphics, computer graphics course, computer graphics analysis, interactive graphics analysis, computer aided, computer graphics design, introduction associate, computer-aided design, introductory computer graphics, teaching computer graphics, computer graphics engineering, applications, approach graphics, design interactive computer, computer graphics system, interactive graphics system, interactive system design, design interactive graphics, graphics research, software, implementation, network graphics, graphical system, design development, graphics software, use computer, computer-aided system, interactive planning, computer graphics applications, interactive approach, interactive applications, three-dimensional graphics, graphics geometric, graphics programming, development, graphics language, use, design applications, use graphics, network, three-dimensional, concept, system applications, processing, standards, development graphics, editor, selection, graphics art, implementation graphics, object-oriented, learning, educational, processes, experience, gks, problems, programs, high-level, communication, oriented, student, components, mechanical, experimental, operators, cadcam, materials, process, support, computational, science, technology, framework, tool, visual, visualization, image, foreword special section, special issue, special section graphics, visualization data, volume visualization, visual analytics, volume data, data structures, visual analysis, visualization volume data, visual data, visual analysis data, interactive data, solid modeling, visualization, shape understanding, data, modeling architectural, visual, data processing, data mining, procedural modeling, visualizing data, system data, visualization medical, modeling, structures, digital, medical, analysis, large, exploration, perspective, shading, solid, semantic, knowledge, space, spatial, hierarchical, hybrid, strategies, views, integrated, imaging, quality, illustrative, remote, diagrams, manipulation, sensing, two-dimensional, domain, text, time, watermarking, orthographic, direct, building, editorial, polygonal, note, heritage, terrain, natural, documents, chaos, area, media, picture, game, retrieval, computing, parameters, projection, trees, display, modelling, cad, generation, mesh, reconstruction, rendering, approach, based, objects, applications, using, design, algorithm, environments, models, shape, computer, image, system, graphics, finite element, collision detection, texture synthesis, real-time rendering, facial animation, using models, simulation, models, global illumination, texture mapping, rendering techniques, vector field, dynamic, image synthesis, recognition using, physically based, volume rendering, objects, simulation using, animation, using techniques, approach modeling, cloth simulation, based models, deformable models, using finite, visualization using, survey techniques, based system, deformable simulation, using, techniques, models face, real-time simulation, based simulation, rendering dynamic, approach, based, geometric using, texture, using feature, system models, using discrete, field, modeling using, real-time, rendering using, animation models, maps, models simulation, approach simulation, using field, texture using, synthesis, animation using, rendering models, method using, illumination, deformable, discrete, motion, using based, realistic, modelling, geometric, real, characters, cellular, light, topological, chaotic, automata, classification, flow, particle, animating, perception, compression, survey, equations, sampling, visualizing, des, sketch, expression, differential, constraints, density, lighting, synthetic, matching, uncertainty, crowd, water, accurate, tiling, rendering, harmonic, surgery, local, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "augmented reality, virtual environments, virtual reality, user interface, virtual, environments, mobile augmented reality, scientific visualization, virtual worlds, virtual learning, tracking reality, using virtual, interface, interaction environments, system augmented, distributed environments, mobile, reality system, using reality, virtual interface, architecture, interaction, video, environments using, human, information, distributed, multimedia, haptic, collaborative, immersive, tool, graph, sketch-based, urban, flexible, performance, navigation, service, platform, shared, intelligent, outdoor, camera, advanced, transfer, scenes, hypermedia, designing, animated, chinese, geometry, management, workstations, optical, exploring, sketching, image-based, hardware, training, graphical, evaluation, control, contour, robust, personal, framework, technology, support, language, automatic, mapping, development, real-time, reconstruction, approach, techniques, objects, based, applications, simulation, visualization, models, image, using, design, interactive, computer, graphics, system",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "ray tracing, point cloud, surfaces, rational cubic spline, volume rendering, julia sets, implicit surfaces, modeling surfaces, surfaces using, curves, curves surfaces, point, shape, delaunay triangulation, point surfaces, method surfaces, b-spline surfaces, subdivision surfaces, mandelbrot sets, surfaces based, automatic generation, shape interpolation, estimation point, point data, b-spline curves, reconstruction point, reconstruction objects, cubic interpolation, using cubic, curves using, spline, data using, point sets, bazier curves, surfaces reconstruction, shape blending, planar curves, representation, shape using, reconstruction, parametric surfaces, spline data, cloud data, data sets, interpolation, point using, parametric curves, surfaces geometric, cloud using, representation surfaces, curves implicit, sets, cubic curves, shape functions, mesh, surfaces boundary, meshes using, meshes, parametric, approximation, surfaces data, planar, interactive surfaces, mapping, multiresolution, surfaces meshes, arbitrary, algorithm surfaces, via, deformation, volumetric, bazier, boundary, grids, mandelbrot, extraction, linear, free-form, dimensions, automatic, isosurface, fitting, general, piecewise, constrained, preserving, scheme, blending, patches, triangular, normal, construction, editing, topology, quadratic, octree, nurbs, operations, method, smooth",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "algorithm, line clipping algorithm, image, iterated functions, line algorithm, efficient algorithm, line drawing, algorithm based, image using, functions system, color image, line, fractal, parallel algorithm, newtonaposs method, using line, radiosity algorithm, algorithm surfaces, algorithm polygons, parallel, evaluation algorithm, efficient, fractal image, image based, generation fractal, algorithm intersection, method fractal, algorithm using, algorithm display, fast algorithm, method image, efficient image, image display, image generation, algorithm curves, radiosity, polygons, functions, algorithm generation, computation, progressive, attractors, generation, plane, convex, raster, transformation, complex, test, affine, algorithm image, simple, binary, fast, regions, coordinate, hidden, scan, segmentation, enhancement, artistic, optimal, polyhedra, filtering, generated, minimization, algebraic, display, detail, ifs, multiple, accelerated, inclusion, distribution, rasterization, occlusion, processor, trees, finding, gpu, projection, paths, conversion, single, edge, filling, primitives, manifold, colour, solving, adaptive, vector, rapid, iteration, distance, curved, visibility, stochastic, level, face",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "computer graphics, guest introduction, editoraposs introduction, guest editoraposs, system, guest editoraposs computer graphics, interactive, guest introduction computer graphics, interactive graphics, design, graphics system, computer graphics education, interactive system, design system, using computer graphics, guest editorsapos, cad system, interactive computer graphics, introductory course, editorsapos introduction, interactive design, computer art, using interactive graphics, computer graphics course, computer graphics analysis, interactive graphics analysis, computer aided, computer graphics design, introduction associate, computer-aided design, introductory computer graphics, teaching computer graphics, computer graphics engineering, applications, approach graphics, design interactive computer, computer graphics system, interactive graphics system, interactive system design, design interactive graphics, graphics research, software, implementation, network graphics, graphical system, design development, graphics software, use computer, computer-aided system, interactive planning, computer graphics applications, interactive approach, interactive applications, three-dimensional graphics, graphics geometric, graphics programming, development, graphics language, use, design applications, use graphics, network, three-dimensional, concept, system applications, processing, standards, development graphics, editor, selection, graphics art, implementation graphics, object-oriented, learning, educational, processes, experience, gks, problems, programs, high-level, communication, oriented, student, components, mechanical, experimental, operators, cadcam, materials, process, support, computational, science, technology, framework, tool, visual, visualization, image",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "foreword special section, special issue, special section graphics, visualization data, volume visualization, visual analytics, volume data, data structures, visual analysis, visualization volume data, visual data, visual analysis data, interactive data, solid modeling, visualization, shape understanding, data, modeling architectural, visual, data processing, data mining, procedural modeling, visualizing data, system data, visualization medical, modeling, structures, digital, medical, analysis, large, exploration, perspective, shading, solid, semantic, knowledge, space, spatial, hierarchical, hybrid, strategies, views, integrated, imaging, quality, illustrative, remote, diagrams, manipulation, sensing, two-dimensional, domain, text, time, watermarking, orthographic, direct, building, editorial, polygonal, note, heritage, terrain, natural, documents, chaos, area, media, picture, game, retrieval, computing, parameters, projection, trees, display, modelling, cad, generation, mesh, reconstruction, rendering, approach, based, objects, applications, using, design, algorithm, environments, models, shape, computer, image, system, graphics",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "finite element, collision detection, texture synthesis, real-time rendering, facial animation, using models, simulation, models, global illumination, texture mapping, rendering techniques, vector field, dynamic, image synthesis, recognition using, physically based, volume rendering, objects, simulation using, animation, using techniques, approach modeling, cloth simulation, based models, deformable models, using finite, visualization using, survey techniques, based system, deformable simulation, using, techniques, models face, real-time simulation, based simulation, rendering dynamic, approach, based, geometric using, texture, using feature, system models, using discrete, field, modeling using, real-time, rendering using, animation models, maps, models simulation, approach simulation, using field, texture using, synthesis, animation using, rendering models, method using, illumination, deformable, discrete, motion, using based, realistic, modelling, geometric, real, characters, cellular, light, topological, chaotic, automata, classification, flow, particle, animating, perception, compression, survey, equations, sampling, visualizing, des, sketch, expression, differential, constraints, density, lighting, synthetic, matching, uncertainty, crowd, water, accurate, tiling, rendering, harmonic, surgery, local",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "human, multimedia, sketch-based, framework, distributed, flexible, transfer, exploring, intelligent, applications, automatic, design, using",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "tool, video, mobile, scenes, graph, urban, using, management, immersive, animated, designing, image-based, interactive, visualization",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "information, graphical, interaction, system, performance, control, evaluation, advanced, navigation, geometry, models, technology, hypermedia, techniques, using, interface",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "virtual reality, augmented reality, user interface, mobile augmented reality, virtual worlds, system augmented, virtual interface, using reality, reality system, tracking reality, interface, robust, training, platform, chinese, development, outdoor, collaborative, sketching, service, haptic",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "virtual environments, architecture, virtual learning, shared, support, scientific, hardware, real-time",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "ray tracing, method surfaces, method, construction, extraction, planar, feature, scheme, generalized, dimensions, b-spline, computing, fast, octree, cylinders, reverse",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "surfaces, implicit surfaces, modeling surfaces, surfaces using, point surfaces, curves surfaces, curves, planar curves, surfaces based, curves using, representation, parametric surfaces, parametric curves, curves implicit, representation surfaces, automatic, parametric, approximation, fitting, estimation, operations, intersection, normal, triangular, quadratic, approach, models, polyhedral, defined, patches",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "rational cubic spline, shape, using cubic, cubic curves, shape using, spline data, cubic interpolation, spline, shape interpolation, shape blending, interpolation, shape functions, reconstruction, meshes, arbitrary, blending, grids, bazier, piecewise, preserving, control, nurbs, error, scalar, condition, continuous, wavelet, visualization, data, curves, surfaces",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "point cloud, volume rendering, delaunay triangulation, point data, point using, point, cloud data, cloud using, rendering, point surfaces, mesh, subdivision, multiresolution, editing, simplification, adaptive, parameterization, smooth, clustering, form, structures, visualisation, incremental, robust, visibility, based, data, algorithm, interactive, using, efficient",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "julia sets, mandelbrot sets, sets, mapping, deformation, volumetric, via, mandelbrot, free-form, general, constrained, generation, topology, linear, boundary, decomposition, solid, isosurface, complex, efficient, using, method, surfaces",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "iterated functions, parallel algorithm, functions system, image display, parallel, functions, fast, display, progressive, projection, regions, meshes, hidden, paths, colour, rendering, surfaces",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "radiosity algorithm, image generation, newtonaposs method, algorithm generation, generation, method, radiosity, plane, trees, multiple, optimal, vector, filtering, edge, distribution, intersection, single, filling, primitives, solving, rasterization, finding, using, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "polygons, attractors, transformation, complex, adaptive, affine, drawing, coordinate, color, generated, visibility, implicit, patterns, iteration, binary, stochastic, curved, ifs",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "line clipping algorithm, line algorithm, algorithm, algorithm based, efficient algorithm, using line, algorithm surfaces, evaluation algorithm, line, algorithm using, efficient, computation, simple, convex, raster, curves, face, scan, objects, algebraic, polyhedra, gpu, applications, distance, conversion",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "image, fractal, image based, method image, fractal image, segmentation, enhancement, test, artistic, occlusion, detail, minimization, techniques, processor, level, manifold, rendering",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "computer design, computer graphics design, design, implementation graphics, implementation, cad, concept, use, engineering, gks, learning, object-oriented, problems, teaching, student, mechanical, processes, approach",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "computer art, graphics software, introductory course, three-dimensional graphics, graphics course, graphics art, software, processing, three-dimensional, selection, operators, components, experimental, tool, experience",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "guest introduction, editoraposs introduction, guest editoraposs, introduction computer graphics, guest editoraposs graphics, editoraposs computer graphics, guest computer graphics, guest introduction graphics, guest editoraposs computer, guest introduction computer, guest editorsapos, editorsapos introduction, applications, introduction associate, graphics programming, graphics applications, computer applications, standards, editor, language",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "interactive graphics, graphics system, computer graphics system, design system, system, interactive computer, interactive design, design interactive computer, interactive, interactive graphics analysis, interactive computer graphics, design interactive graphics, computer-aided design, interactive graphics system, interactive system, interactive applications, interactive system design, design development, development graphics, system applications, graphical system, interactive planning, computer-aided system, development, support, materials, process, educational, oriented, visualization, research",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "computer graphics, computer graphics education, computer graphics analysis, computer aided, network graphics, computational, framework",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "foreword special section, special section graphics, special issue, shape understanding, shading, views, note, retrieval, objects, orthographic, media, reconstruction",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "visual data, visual analytics, solid modeling, modeling, modeling architectural, visual, display, solid, perspective, hierarchical, time, modelling, remote, shape, sensing, exploration, system",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "volume visualization, visualization data, data, visualization, volume data, interactive data, visualization volume data, data processing, data mining, computing, manipulation, direct, illustrative, rendering",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "digital, medical, space, spatial, large, semantic, procedural, hybrid, imaging, chaos, applications, text, documents, picture, strategies, trees, watermarking, image",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "visual analysis, analysis, structures, integrated, polygonal, knowledge, building, quality, models, domain, terrain, mesh, natural",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "field, discrete, feature, illumination, chaotic, light, visualizing, topological, sampling, matching, animating, des, lighting, inverse, sketch, construction, dynamic",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "texture synthesis, volume rendering, real-time rendering, image synthesis, texture mapping, recognition using, using, rendering, texture, real-time, synthesis, rendering using, texture using, realistic, compression, patterns, equations, cellular, automata, solution, differential, effects, density",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "cloth simulation, geometric using, maps, geometric, modelling, flow, method, constraints, characters, local, classification, perception, water, uncertainty, visualization",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "finite element, collision detection, simulation using, using models, approach modeling, models, simulation, deformable models, objects, approach, deformable simulation, approach simulation, models simulation, deformable, survey, propagation, surgery, global, interactive, system",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "facial animation, rendering dynamic, rendering techniques, using techniques, based models, animation using, based system, animation, techniques, based, dynamic, motion, real, face, particle, expression, tiling, science, scenes, modeling",
+			 "target": []
+		}
+		]
+	}
+]

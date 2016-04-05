@@ -35,3 +35,27 @@ h4.cosseno{
 span.differ{
 	background: #DFF80B;
 }
+
+#trees{
+  margin-left:5px;
+  margin-top:15px;
+
+  padding: 4px;
+}
+
+#filtros{
+  margin-left:5px;
+  margin-top:55px;
+
+  padding: 4px;
+}
+
+#Hierarchy{  
+  color:#FFFFFF;
+  margin-bottom:30px;
+  background-color: #080808;
+  padding: 4px;
+}
+#s2id_database  {
+  width: 160px;
+  }

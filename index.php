@@ -11,16 +11,35 @@
 	<script src="lib/jquery.qtip.min.js"></script>
 	<link href="css/jquery.qtip.min.css" rel="stylesheet" type="text/css" />
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="js/select2.css" rel="stylesheet"/>
+	<script src="js/select2.js"></script>
 	<script src="lib/cytoscape-qtip.js"></script>
+
+	<script>
+		$(document).ready(function() { 
+			$("#database").select2(); 
+			$("#dataconferencia").select2(); 
+			$("#conferenceYear").select2(); 
+		});
+	</script>
 </head>
 <body>
-	<h1> Hierarchical Topic Trees </h1>
+	<div id="Hierarchy">
+		<h1> Hierarchical Topic Trees </h1>
+	</div>
+	
 	<div id="filtros">
 		<label for="database">Database:</label>
 		<select name="" id="database">
 		</select>
 		<label for="dataconferencia">Conference:</label>
+
 		<select name="" id="dataconferencia">
+		</select>
+
+
+		<label for="conferenceYear">Year:</label>
+		<select name="" id="conferenceYear">
 		</select>
 	</div>
 	<div id="trees">
@@ -43,11 +62,11 @@
 
 				<div class="panel panel-primary">
 				  <div class="panel-heading">
-				    <h3 id="topicTitle" class="panel-title">Adriano Topic Tree</h3>
+				    <h3 id="topicTitle" class="panel-title">My Topic Tree</h3>
 				  </div>
 				  <div class="panel-body">
 				    				<div id="my_tree"></div>
-				<h3>Adriano Topic</h3>
+				<h3>My Topic</h3>
 				<div id="my_tree_details"></div>
 				  </div>
 				</div>
@@ -57,7 +76,7 @@
 
 	</div>
 	<!-- Modal -->
-	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal fade" id="myModal" tabindex="1" role="dialog" aria-labelledby="myModalLabel">
 	  <div class="modal-dialog" role="document">
 	    <div class="modal-content">
 	      <div class="modal-header">
@@ -75,7 +94,7 @@
 					
 				</li>
 				<li>
-					<h3>Adriano Topic Tree</h3>
+					<h3>My Topic Tree</h3>
 					<div id="my_topic"></div>
 
 				</li>	

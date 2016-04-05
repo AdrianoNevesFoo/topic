@@ -1,0 +1,1514 @@
+[
+	{
+		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "channels estimation, ofdm systems, channels estimation systems, frequency offset, channels estimation ofdm systems, low complexity, multiuser detection, carrier frequency offset estimation, cdma systems, mimo systems, detection systems, iterative channels estimation, carrier frequency offset ofdm systems, multiuser systems, frequency channels, frequency fading channels, frequency selective channels, turbo equalization, detection, carrier frequency offset estimation ofdm, carrier frequency offset ofdma uplink, mimo-ofdm systems, presence frequency offset, receivers systems, frequency domain, estimation channels frequency offset, low complexity systems, carrier frequency offset estimation systems, joint channels estimation systems, ds-cdma systems, multiuser detection systems, algorithm systems, systems, design systems, based systems, detection channels, multiuser detection cdma, frequency offset estimation ofdm systems, continuous phase modulation, bit-interleaved coded modulation, detection signals, systems using, uwb communications, uwb transmitted reference systems, channels estimation training, maximum likelihood estimation, ofdm carrier frequency offset channels, iterative decoding, blind channels, receivers, iterative channels ofdm systems, multicarrier systems, adaptive systems, adaptive modulation, uplink systems, iterative channels estimation systems, detection mimo systems, uwb systems, performance receivers, performance ofdm systems, carrier offset estimation ofdm systems, detection signals channels, performance systems, papr reduction ofdm, maximum likelihood systems, phase noise systems, systems frequency fading channels, equalization channels, multiple-input multiple-output systems, channels estimation detection systems, coded modulation, carrier frequency estimation ofdm systems, reduced complexity, channels frequency offset ofdm systems, multipath channels, iterative channels estimation ofdm, ofdm frequency fading channels, based ofdm systems, coded systems, ofdm systems fading channels, shift keying, frequency domain equalization, uwb receivers, receivers transmitted reference, frequency offset compensation, frequency offset fading channels, multiuser mimo systems, turbo equalization channels, performance uwb systems, based mimo systems, design ofdm, iterative detection, based channels estimation, iterative, pilot systems, frequency offset estimation mimo, analysis ofdm systems, rake receivers, differential space-time modulation, equalization, wireless networks, wireless sensor networks, cellular networks, hoc networks, power control networks, analysis wireless networks, distributed wireless networks, cooperative wireless networks, control wireless networks, power wireless networks, scheduling wireless networks, wireless hoc networks, networks coding, distributed wireless sensor networks, heterogeneous networks, wireless communications, allocation wireless networks, mobile networks, scheme wireless networks, routing wireless networks, multi-hop wireless networks, power control wireless networks, energy wireless networks, wireless networks coding, performance wireless networks, protocol wireless networks, wireless mesh networks, cross-layer wireless networks, access wireless networks, admission control networks, channels wireless networks, physical layer networks, resource allocation wireless networks, mobile hoc networks, capacity wireless networks, resource networks, joint networks, optimal networks, performance analysis wireless networks, based wireless networks, medium access control wireless networks, joint routing networks, heterogeneous cellular networks, optimal wireless networks, call admission control networks, design wireless networks, wireless link, throughput networks, joint wireless networks, scheme wireless sensor networks, adaptive wireless networks, routing wireless sensor networks, localization wireless sensor networks, cross-layer design wireless networks, wireless networks using, communications wireless networks, opportunistic wireless networks, distributed power control networks, wireless lans, protocol hoc networks, algorithm networks, base station cellular networks, wireless relay networks, multihop wireless networks, resource allocation heterogeneous networks, wireless systems, based wireless sensor networks, approach wireless networks, heterogeneous wireless networks, optimization wireless networks, data wireless sensor networks, resource cellular networks, energy-efficient wireless networks, mac protocol hoc networks, throughput wireless networks, physical layer security, link adaptation, transmission networks, wireless networks nodes, protocol wireless sensor networks, analysis ieee, cooperative wireless sensor networks, qos provisioning, transmission wireless networks, efficient wireless networks, fair scheduling, rate adaptation, energy wireless sensor networks, delay networks, diversity wireless networks, algorithm wireless networks, power allocation wireless networks, analysis wireless sensor networks, mac protocol wireless networks, capacity hoc networks, admission control wireless networks, coverage wireless sensor networks, distributed coding wireless networks, rate wireless networks, resource allocation service, fading channels, mimo channels, channels, performance fading channels, rayleigh fading channels, analysis fading channels, mimo systems, space-time codes, channels state information, space-time block codes, systems fading channels, performance analysis fading channels, limited feedback, mimo fading channels, relay channels, correlated fading channels, space-time coding, mimo systems channels, diversity fading channels, capacity channels, nakagami-m fading channels, correlated mimo channels, mimo interference channels, distributed space-time, capacity fading channels, precoding mimo, optimal fading channels, channels estimation, design mimo, relay fading channels, space-time fading channels, wireless channels, channels estimation fading, broadcast channels, block fading channels, mimo channels state information, distributed space-time coding, channels feedback, power fading channels, frequency-selective fading channels, cooperative fading channels, error fading channels, design channels, rate channels, multiuser mimo, channels estimation mimo, transceiver design mimo, imperfect channels, selection fading channels, transmission channels, space-time channels, distributed space-time codes, massive mimo systems, coding channels, precoding mimo systems, imperfect channels state information, spatial multiplexing, receivers fading channels, wireless fading channels, networks fading channels, channels estimation relay, quasi-orthogonal space-time block codes, design mimo channels, design analysis, orthogonal space-time block codes channels, mimo rayleigh fading channels, linear mimo, partial channels state information, modulation fading channels, performance analysis rayleigh fading channels, transmission fading channels, systems rayleigh fading channels, design mimo systems, space-time trellis codes, systems channels state information, space-time coding fading channels, analysis mimo, linear precoding mimo, capacity systems, mimo broadcast channels, imperfect channels estimation, mimo relay channels, multipath fading channels, nakagami fading channels, mimo channels model, capacity mimo channels, limited feedback systems, spatial correlation, information transfer, performance analysis mimo, communications fading channels, codes channels, time-varying channels, degrees freedom, feedback, scaling laws, performance nakagami-m fading channels, gaussian channels, mimo systems fading channels, imperfect csi, relay networks, power allocation, resource allocation, performance analysis, performance analysis systems, cooperative networks, power control, power allocation channels, power systems, resource allocation systems, two-way relay networks, spectral efficiency, allocation systems, power allocation relay networks, antenna selection, multiple antenna, power allocation systems, cooperative relay, transmit antenna, relay selection, interference cancellation, relay cooperative networks, cooperative diversity, resource allocation ofdma, resource allocation networks, networks coding relay, optimal power allocation, relay systems, antenna systems, cooperative communications, base station, transmit antenna selection, amplify-and-forward relay, cellular systems, joint power allocation, power control systems, cooperative systems, relay selection networks, successive interference cancellation, performance analysis networks, distributed antenna systems, power control interference, cooperative, channels two-way relay networks, systems multiple antenna, wireless relay, cooperative diversity networks, amplify-and-forward relay networks, beamforming systems, performance analysis cooperative, cooperative relaying, resource allocation downlink, two-way relaying, multiple access, rate power allocation, relaying, wireless relay networks, antenna selection mimo, optimal resource allocation, distributed relay networks, antenna selection channels, antenna array, receive antenna selection, selection, device-to-device underlaying cellular networks, relaying networks, communications systems, wireless communications systems, physical-layer networks coding two-way relay, relaying systems, resource allocation ofdma systems, energy efficiency, optimization systems, interference systems, selection systems, spectral efficiency systems, relay selection cooperative networks, amplify-and-forward relaying, wireless systems, downlink systems, performance analysis scheme, interference networks, networks coding two-way relay channels, distributed cooperative, optimal power allocation networks, distributed power allocation, distributed power, joint power control, decode-and-forward relaying, resource allocation relay, resource allocation communications, multi-user relay networks, power allocation multiuser, resource allocation channels, performance analysis relay, power control channels, resource allocation multiuser, device-to-device communications cellular networks, mimo systems, performance analysis cooperative networks, energy harvesting, outage probability, error probability, performance evaluation, energy fading channels, performance analysis, energy efficient, energy efficiency, error probability fading, error probability channels, bit error, generalized selection combining, maximal ratio combining, energy harvesting nodes, bit error rate, energy harvesting sensor, error performance, energy harvesting wireless, error analysis, localization sensor, decision fusion, error networks, analysis generalized, analysis application, outage probability fading, outage probability channels, error rate, channels estimation error, application performance analysis, performance evaluation channels, distance bounding, mobile channels, performance analysis generalized, performance combining, crossing rate, error wireless, estimation sensor, wireless channels, channels using, energy transmitter, energy detection, error rate using, key agreement, ber analysis, error probability analysis, error using, average duration, indoor channels, analytical evaluation, wireless using, fading parameter, analysis combining, diversity using, exact ber, indoor wireless, presence interferers, cochannel interference, performance analysis combining, gaussian approximation, nakagami-m fading, selection algorithm, channels measurements, energy minimization, efficient channels, performance analysis wireless, source localization, efficient algorithm, mobile location, symbol error, generalized fading, performance analysis fading, combining fading, channels application, location using, closed-form approximation, analysis using, average fading, combining scheme, performance using, energy constraints, diversity combining, probability combining, sensing sensor, maximum likelihood, source sensor, fading application, parameter channels, efficient fading, average rate, accurate channels, exact analysis, analysis ratio, localization systems, analysis algorithm, optimum combining, channels estimation, fading distribution, fading model, power distribution, presence error, cognitive radio networks, spectrum cognitive radio networks, spectrum sensing cognitive radio networks, cognitive radio channels, cognitive radio systems, spectrum sharing, cooperative spectrum cognitive radio networks, cooperative spectrum sensing cognitive radio, cooperative sensing cognitive radio networks, multiple access, allocation cognitive radio, spectrum, cooperative spectrum sensing cognitive networks, cooperative spectrum sensing radio networks, channels cognitive radio networks, power control cognitive radio networks, primary user cognitive radio, multiple access channels, spectrum access, dynamic spectrum, optimal cognitive radio networks, spectrum access cognitive radio networks, allocation cognitive radio networks, transmission cognitive radio, dynamic spectrum access, random access, spectrum cognitive radio channels, small cell networks, spectrum sharing cognitive radio networks, joint cognitive radio networks, spectrum cognitive radio systems, spectrum systems, power allocation cognitive radio, ofdm-based cognitive radio, resource allocation cognitive radio networks, scheme cognitive radio, distributed cognitive radio networks, interference cognitive radio, based spectrum sensing cognitive radio, analysis cognitive radio networks, optimization cognitive radio, spectrum channels, based spectrum cognitive radio networks, opportunistic cognitive radio networks, opportunistic spectrum access, spectrum leasing cognitive radio networks, primary user cognitive radio networks, dynamic spectrum cognitive radio networks, energy spectrum cognitive radio networks, spectrum sharing systems, impulse radio, dynamic spectrum access networks, game networks, spectrum sensing access cognitive networks, spectrum sensing access radio networks, spectrum cognitive radio networks game, detection sensing cognitive radio, sensing access cognitive radio networks, spectrum sensing access cognitive radio, soft handoff, sensing cognitive radio systems, two-tier femtocell networks, interference networks, underlay cognitive radio networks, user networks, spectrum channels cognitive radio networks, femtocell networks, spectrum cognitive radio networks user, interference mitigation, approach networks, modeling channels, interference management networks, power cognitive radio systems, cooperative spectrum sensing channels, delay cognitive radio, interference uplink two-tier networks, uplink interference femtocell networks, spectrum primary user, energy sensing cognitive radio, sensing channels cognitive radio networks, spectrum sensing channels cognitive radio, capacity cognitive radio, spectrum allocation cognitive radio networks, primary cognitive radio systems, rate cognitive radio, optimal sensing cognitive radio, selection cognitive radio, algorithm cognitive radio, efficient spectrum cognitive radio, efficient cognitive radio networks, based cooperative spectrum sensing, robust cognitive radio, joint spectrum cognitive radio, game theoretic networks, detection spectrum cognitive radio, performance cognitive radio networks, approach cognitive radio networks, secondary cognitive radio networks, power control channels radio, optimal spectrum cognitive radio, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "channels estimation, ofdm systems, channels estimation systems, frequency offset, channels estimation ofdm systems, low complexity, multiuser detection, carrier frequency offset estimation, cdma systems, mimo systems, detection systems, iterative channels estimation, carrier frequency offset ofdm systems, multiuser systems, frequency channels, frequency fading channels, frequency selective channels, turbo equalization, detection, carrier frequency offset estimation ofdm, carrier frequency offset ofdma uplink, mimo-ofdm systems, presence frequency offset, receivers systems, frequency domain, estimation channels frequency offset, low complexity systems, carrier frequency offset estimation systems, joint channels estimation systems, ds-cdma systems, multiuser detection systems, algorithm systems, systems, design systems, based systems, detection channels, multiuser detection cdma, frequency offset estimation ofdm systems, continuous phase modulation, bit-interleaved coded modulation, detection signals, systems using, uwb communications, uwb transmitted reference systems, channels estimation training, maximum likelihood estimation, ofdm carrier frequency offset channels, iterative decoding, blind channels, receivers, iterative channels ofdm systems, multicarrier systems, adaptive systems, adaptive modulation, uplink systems, iterative channels estimation systems, detection mimo systems, uwb systems, performance receivers, performance ofdm systems, carrier offset estimation ofdm systems, detection signals channels, performance systems, papr reduction ofdm, maximum likelihood systems, phase noise systems, systems frequency fading channels, equalization channels, multiple-input multiple-output systems, channels estimation detection systems, coded modulation, carrier frequency estimation ofdm systems, reduced complexity, channels frequency offset ofdm systems, multipath channels, iterative channels estimation ofdm, ofdm frequency fading channels, based ofdm systems, coded systems, ofdm systems fading channels, shift keying, frequency domain equalization, uwb receivers, receivers transmitted reference, frequency offset compensation, frequency offset fading channels, multiuser mimo systems, turbo equalization channels, performance uwb systems, based mimo systems, design ofdm, iterative detection, based channels estimation, iterative, pilot systems, frequency offset estimation mimo, analysis ofdm systems, rake receivers, differential space-time modulation, equalization",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "wireless networks, wireless sensor networks, cellular networks, hoc networks, power control networks, analysis wireless networks, distributed wireless networks, cooperative wireless networks, control wireless networks, power wireless networks, scheduling wireless networks, wireless hoc networks, networks coding, distributed wireless sensor networks, heterogeneous networks, wireless communications, allocation wireless networks, mobile networks, scheme wireless networks, routing wireless networks, multi-hop wireless networks, power control wireless networks, energy wireless networks, wireless networks coding, performance wireless networks, protocol wireless networks, wireless mesh networks, cross-layer wireless networks, access wireless networks, admission control networks, channels wireless networks, physical layer networks, resource allocation wireless networks, mobile hoc networks, capacity wireless networks, resource networks, joint networks, optimal networks, performance analysis wireless networks, based wireless networks, medium access control wireless networks, joint routing networks, heterogeneous cellular networks, optimal wireless networks, call admission control networks, design wireless networks, wireless link, throughput networks, joint wireless networks, scheme wireless sensor networks, adaptive wireless networks, routing wireless sensor networks, localization wireless sensor networks, cross-layer design wireless networks, wireless networks using, communications wireless networks, opportunistic wireless networks, distributed power control networks, wireless lans, protocol hoc networks, algorithm networks, base station cellular networks, wireless relay networks, multihop wireless networks, resource allocation heterogeneous networks, wireless systems, based wireless sensor networks, approach wireless networks, heterogeneous wireless networks, optimization wireless networks, data wireless sensor networks, resource cellular networks, energy-efficient wireless networks, mac protocol hoc networks, throughput wireless networks, physical layer security, link adaptation, transmission networks, wireless networks nodes, protocol wireless sensor networks, analysis ieee, cooperative wireless sensor networks, qos provisioning, transmission wireless networks, efficient wireless networks, fair scheduling, rate adaptation, energy wireless sensor networks, delay networks, diversity wireless networks, algorithm wireless networks, power allocation wireless networks, analysis wireless sensor networks, mac protocol wireless networks, capacity hoc networks, admission control wireless networks, coverage wireless sensor networks, distributed coding wireless networks, rate wireless networks, resource allocation service",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "fading channels, mimo channels, channels, performance fading channels, rayleigh fading channels, analysis fading channels, mimo systems, space-time codes, channels state information, space-time block codes, systems fading channels, performance analysis fading channels, limited feedback, mimo fading channels, relay channels, correlated fading channels, space-time coding, mimo systems channels, diversity fading channels, capacity channels, nakagami-m fading channels, correlated mimo channels, mimo interference channels, distributed space-time, capacity fading channels, precoding mimo, optimal fading channels, channels estimation, design mimo, relay fading channels, space-time fading channels, wireless channels, channels estimation fading, broadcast channels, block fading channels, mimo channels state information, distributed space-time coding, channels feedback, power fading channels, frequency-selective fading channels, cooperative fading channels, error fading channels, design channels, rate channels, multiuser mimo, channels estimation mimo, transceiver design mimo, imperfect channels, selection fading channels, transmission channels, space-time channels, distributed space-time codes, massive mimo systems, coding channels, precoding mimo systems, imperfect channels state information, spatial multiplexing, receivers fading channels, wireless fading channels, networks fading channels, channels estimation relay, quasi-orthogonal space-time block codes, design mimo channels, design analysis, orthogonal space-time block codes channels, mimo rayleigh fading channels, linear mimo, partial channels state information, modulation fading channels, performance analysis rayleigh fading channels, transmission fading channels, systems rayleigh fading channels, design mimo systems, space-time trellis codes, systems channels state information, space-time coding fading channels, analysis mimo, linear precoding mimo, capacity systems, mimo broadcast channels, imperfect channels estimation, mimo relay channels, multipath fading channels, nakagami fading channels, mimo channels model, capacity mimo channels, limited feedback systems, spatial correlation, information transfer, performance analysis mimo, communications fading channels, codes channels, time-varying channels, degrees freedom, feedback, scaling laws, performance nakagami-m fading channels, gaussian channels, mimo systems fading channels, imperfect csi",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "relay networks, power allocation, resource allocation, performance analysis, performance analysis systems, cooperative networks, power control, power allocation channels, power systems, resource allocation systems, two-way relay networks, spectral efficiency, allocation systems, power allocation relay networks, antenna selection, multiple antenna, power allocation systems, cooperative relay, transmit antenna, relay selection, interference cancellation, relay cooperative networks, cooperative diversity, resource allocation ofdma, resource allocation networks, networks coding relay, optimal power allocation, relay systems, antenna systems, cooperative communications, base station, transmit antenna selection, amplify-and-forward relay, cellular systems, joint power allocation, power control systems, cooperative systems, relay selection networks, successive interference cancellation, performance analysis networks, distributed antenna systems, power control interference, cooperative, channels two-way relay networks, systems multiple antenna, wireless relay, cooperative diversity networks, amplify-and-forward relay networks, beamforming systems, performance analysis cooperative, cooperative relaying, resource allocation downlink, two-way relaying, multiple access, rate power allocation, relaying, wireless relay networks, antenna selection mimo, optimal resource allocation, distributed relay networks, antenna selection channels, antenna array, receive antenna selection, selection, device-to-device underlaying cellular networks, relaying networks, communications systems, wireless communications systems, physical-layer networks coding two-way relay, relaying systems, resource allocation ofdma systems, energy efficiency, optimization systems, interference systems, selection systems, spectral efficiency systems, relay selection cooperative networks, amplify-and-forward relaying, wireless systems, downlink systems, performance analysis scheme, interference networks, networks coding two-way relay channels, distributed cooperative, optimal power allocation networks, distributed power allocation, distributed power, joint power control, decode-and-forward relaying, resource allocation relay, resource allocation communications, multi-user relay networks, power allocation multiuser, resource allocation channels, performance analysis relay, power control channels, resource allocation multiuser, device-to-device communications cellular networks, mimo systems, performance analysis cooperative networks",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "energy harvesting, outage probability, error probability, performance evaluation, energy fading channels, performance analysis, energy efficient, energy efficiency, error probability fading, error probability channels, bit error, generalized selection combining, maximal ratio combining, energy harvesting nodes, bit error rate, energy harvesting sensor, error performance, energy harvesting wireless, error analysis, localization sensor, decision fusion, error networks, analysis generalized, analysis application, outage probability fading, outage probability channels, error rate, channels estimation error, application performance analysis, performance evaluation channels, distance bounding, mobile channels, performance analysis generalized, performance combining, crossing rate, error wireless, estimation sensor, wireless channels, channels using, energy transmitter, energy detection, error rate using, key agreement, ber analysis, error probability analysis, error using, average duration, indoor channels, analytical evaluation, wireless using, fading parameter, analysis combining, diversity using, exact ber, indoor wireless, presence interferers, cochannel interference, performance analysis combining, gaussian approximation, nakagami-m fading, selection algorithm, channels measurements, energy minimization, efficient channels, performance analysis wireless, source localization, efficient algorithm, mobile location, symbol error, generalized fading, performance analysis fading, combining fading, channels application, location using, closed-form approximation, analysis using, average fading, combining scheme, performance using, energy constraints, diversity combining, probability combining, sensing sensor, maximum likelihood, source sensor, fading application, parameter channels, efficient fading, average rate, accurate channels, exact analysis, analysis ratio, localization systems, analysis algorithm, optimum combining, channels estimation, fading distribution, fading model, power distribution, presence error",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "cognitive radio networks, spectrum cognitive radio networks, spectrum sensing cognitive radio networks, cognitive radio channels, cognitive radio systems, spectrum sharing, cooperative spectrum cognitive radio networks, cooperative spectrum sensing cognitive radio, cooperative sensing cognitive radio networks, multiple access, allocation cognitive radio, spectrum, cooperative spectrum sensing cognitive networks, cooperative spectrum sensing radio networks, channels cognitive radio networks, power control cognitive radio networks, primary user cognitive radio, multiple access channels, spectrum access, dynamic spectrum, optimal cognitive radio networks, spectrum access cognitive radio networks, allocation cognitive radio networks, transmission cognitive radio, dynamic spectrum access, random access, spectrum cognitive radio channels, small cell networks, spectrum sharing cognitive radio networks, joint cognitive radio networks, spectrum cognitive radio systems, spectrum systems, power allocation cognitive radio, ofdm-based cognitive radio, resource allocation cognitive radio networks, scheme cognitive radio, distributed cognitive radio networks, interference cognitive radio, based spectrum sensing cognitive radio, analysis cognitive radio networks, optimization cognitive radio, spectrum channels, based spectrum cognitive radio networks, opportunistic cognitive radio networks, opportunistic spectrum access, spectrum leasing cognitive radio networks, primary user cognitive radio networks, dynamic spectrum cognitive radio networks, energy spectrum cognitive radio networks, spectrum sharing systems, impulse radio, dynamic spectrum access networks, game networks, spectrum sensing access cognitive networks, spectrum sensing access radio networks, spectrum cognitive radio networks game, detection sensing cognitive radio, sensing access cognitive radio networks, spectrum sensing access cognitive radio, soft handoff, sensing cognitive radio systems, two-tier femtocell networks, interference networks, underlay cognitive radio networks, user networks, spectrum channels cognitive radio networks, femtocell networks, spectrum cognitive radio networks user, interference mitigation, approach networks, modeling channels, interference management networks, power cognitive radio systems, cooperative spectrum sensing channels, delay cognitive radio, interference uplink two-tier networks, uplink interference femtocell networks, spectrum primary user, energy sensing cognitive radio, sensing channels cognitive radio networks, spectrum sensing channels cognitive radio, capacity cognitive radio, spectrum allocation cognitive radio networks, primary cognitive radio systems, rate cognitive radio, optimal sensing cognitive radio, selection cognitive radio, algorithm cognitive radio, efficient spectrum cognitive radio, efficient cognitive radio networks, based cooperative spectrum sensing, robust cognitive radio, joint spectrum cognitive radio, game theoretic networks, detection spectrum cognitive radio, performance cognitive radio networks, approach cognitive radio networks, secondary cognitive radio networks, power control channels radio, optimal spectrum cognitive radio",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "ofdm systems, mimo systems, low complexity, detection systems, multiuser detection, systems, multiuser systems, based systems, receivers systems, design systems, multiuser detection systems, low complexity systems, mimo-ofdm systems, channels systems, detection mimo systems, detection signals, algorithm systems, performance systems, detection signals channels, channels detection systems, based ofdm systems, papr reduction ofdm, based mimo systems, multiuser mimo systems, multiuser ofdm systems, multiple-input multiple-output systems, channels ofdm systems, scheme systems, analysis systems, adaptive systems, reduction ofdm systems, performance systems receivers, systems using, wireless systems, mimo systems receivers, sequences systems, performance ofdm systems, detection, low complexity channels, algorithm mimo systems, techniques systems, low complexity algorithm, based, based channels, channels mimo-ofdm systems, based detection, method systems, mimo ofdm systems, blind multiuser detection, communications systems, estimation detection systems, papr reduction systems, adaptive ofdm systems, papr ofdm systems, application systems, analysis systems receivers, systems mmse receivers, antenna systems, based channels systems, detection algorithm systems, receivers design systems, design ofdm systems, analysis based systems, efficient systems, coded systems, based method, receivers based, based detection mimo, ofdma systems, receivers ofdm systems, ds-cdma systems, complexity ofdma, spreading sequences, approach systems, mobile systems, sequences design, receivers systems channels, using sequences, reduction scheme, detection ofdm systems, based algorithm, precoding systems, design based, channels method, method, scheme based, techniques channels, feedback systems, hybrid systems, reduction, transmit systems, systems multiple, based space-time, detection space-time, detection using, detection v-blast, space-time systems, satellite systems, v-blast systems, adaptive detection",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "cdma systems, multiuser detection cdma, ds-cdma systems, cdma systems channels, iterative decoding, iterative channels, rake receivers, iterative detection, reduced complexity, multicarrier systems, receivers cdma, iterative systems, iterative detection channels, iterative channels systems, cdma multipath channels, receivers cdma channels, decoding codes, iterative receivers, complexity decoding, ds-cdma channels, multiuser cdma systems, joint decoding, interference cancellation, decoding systems, iterative channels decoding, performance cdma systems, codes decoding complexity, analysis cdma systems, ds-cdma systems channels, ds-cdma systems using, multiuser detection ds-cdma, estimation cdma systems, multiuser detector, multiuser systems, low-complexity systems, using codes, multicarrier cdma systems, iterative multiuser detection, wideband cdma, detection cdma systems, mimo cdma systems, decoding, fast systems, soft cdma, low complexity, iterative coded, multiuser ds-cdma systems, receivers cdma systems, asynchronous systems, iterative, decoding algorithm, uplink systems, detector systems, downlink ds-cdma, ds-cdma, performance ds-cdma, space-time decoding, space-time codes, multiuser uplink, uplink cdma, downlink cdma, sphere detection, cancellation systems, soft systems, iterative detector, asynchronous ds-cdma, cdma codes, cdma communications, turbo codes, sphere decoding, complexity turbo, turbo multiuser, spreading codes, space-time asynchronous, codes ds-cdma, multicarrier ds-cdma, cdma fading, fast algorithm, low-complexity mimo, detector mimo, ds-cdma multipath, multiuser downlink, complexity channels, space-time ds-cdma, detection space-time, asynchronous channels, downlink systems, codes construction, iterative mimo, detector, blind cdma, iterative fading, detector channels, complexity uplink, multiuser channels, stbc decoding, cdma turbo, performance detector, fast detection, fast channels",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "channels estimation, channels estimation systems, frequency offset, channels estimation ofdm systems, carrier frequency offset estimation, iterative channels estimation, carrier frequency offset ofdm systems, joint channels estimation systems, carrier frequency offset estimation systems, estimation channels frequency offset, carrier frequency offset estimation ofdm, carrier frequency offset ofdma uplink, frequency offset estimation ofdm systems, presence frequency offset, iterative channels ofdm systems, channels estimation detection, iterative channels estimation systems, channels estimation training, iterative channels estimation ofdm, ofdm carrier frequency offset channels, phase noise systems, channels frequency offset ofdm systems, carrier offset estimation ofdm systems, carrier frequency estimation ofdm systems, ofdm systems fading channels, based channels estimation, ofdm frequency fading channels, systems frequency fading channels, frequency offset fading channels, channels estimation mimo systems, performance channels estimation, joint channels estimation detection, frequency offset estimation mimo, timing ofdm systems, ofdm, training sequences, joint frequency offset systems, frequency offset compensation, phase noise ofdm, multiple frequency offset, receivers channels estimation, joint estimation ofdm systems, analysis ofdm, joint channels ofdm systems, channels estimation signals, scheme frequency offset, estimation channels offset ofdm, estimation ofdma uplink, frequency offset receivers, channels estimation mimo-ofdm, estimation channels frequency ofdm, estimation systems multiple, estimation training design, channels estimation fading, channels estimation presence, blind estimation ofdm, blind channels estimation, systems presence, channels estimation using, uplink systems, channels estimation multiple, compensation systems, imbalance compensation, channels estimation communications, performance estimation systems, noise ofdm systems, estimation systems timing, analysis ofdm systems, performance ofdm systems, channels estimation algorithm, channels estimation uplink, joint frequency estimation, joint channels offset, robust frequency systems, cfo estimation systems, ofdm fast channels, offset estimation uplink, estimation algorithm, phase ofdm systems, design ofdm, channels estimation sequences, estimation wireless, channels estimation error, channels estimation carrier, estimation ofdm multiple, channels estimation interference, effect systems, frequency estimation uplink, interference ofdm, joint estimation offset, estimation noise systems, analysis carrier, novel scheme, joint channels frequency, direct-conversion receivers, novel channels estimation, ici ofdm, estimation algorithm systems, channels carrier systems, channels noise",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "uwb systems, maximum likelihood, uwb transmitted reference systems, uwb communications, bit-interleaved coded modulation, continuous phase modulation, performance uwb systems, uwb receivers, coded modulation, uwb channels, maximum likelihood estimation, maximum likelihood systems, channels uwb systems, multipath channels, receivers transmitted reference, channels estimation uwb, differential space-time modulation, shift keying, modulation scheme, uwb multiple, analysis uwb systems, uwb, space time, multiple uwb systems, performance uwb receivers, estimation uwb systems, codes communications, communications channels, differential detection, space-time coded modulation, modulation systems, modulation channels, symbol detection, codes acquisition, performance analysis, space-time codes, modulation, differential codes, coded systems, coded ofdm, ultra-wideband communications, receivers impulse, uwb multipath, time codes, acquisition systems, detection modulation, differential based, differential, performance multipath, analysis modulation, acquisition search, quasi-orthogonal codes, differential communications, performance modulation, symbol timing, uwb pulse, ultra-wideband channels, acquisition uwb, timing acquisition, space-time communications, time systems, impulse uwb, systems multipath, time channels, acquisition antenna, differential systems, timing uwb, access uwb, performance channels, pulse communications, codes modulation, symbol systems, differential channels, modulation communications, acquisition channels, detection uwb, acquisition, receivers communications, communications systems, ultra-wideband systems, codes systems, phase systems, modulation receivers, differential uwb, performance codes, ultra-wideband, multipath, pulse, impulse, time, narrowband, coherent, performance, symbol, space-time-frequency, noncoherent, trellis, non-coherent, loop, m-ary",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "frequency selective channels, frequency domain, turbo equalization, equalization channels, equalization systems, blind channels, turbo equalization channels, synchronization systems, frequency domain equalization, adaptive modulation, pilot systems, equalization mimo systems, channels estimation turbo, synchronization ofdm systems, channels estimation equalization, frequency synchronization systems, ofdm time-varying channels, equalization single-carrier systems, pilot ofdm, dispersive channels, single carrier, adaptive ofdm, systems frequency selective, pilot channels systems, single-carrier block, adaptive systems, timing synchronization, equalization, space-frequency systems, pilot symbol, single-carrier frequency-domain, frequency-domain equalization, pilot assisted, tracking systems, equalization wireless, blind systems, channels systems, channels basis, doubly-selective channels, blind ofdm, pilot estimation, time domain, turbo systems, ofdm selective, time-varying systems, frequency time, broadband systems, pilot mimo, blind modulation, time synchronization, carrier synchronization, synchronization, turbo codes, frequency mimo, blind equalization, equalization carrier, adaptive channels, space-time equalization, domain mimo, channels single-carrier, blind, pilot frequency, using frequency, domain systems, adaptive equalization, systems using, synchronization channels, aided systems, blind adaptive, domain channels, equalization using, estimation using, turbo using, blind frequency, channels using, carrier frequency, adaptive, single-carrier, time-varying, aided, equalizer, filtering, nonlinear, frame, assisted, map, qam, irregular, sc-fdma, modulated, edge, variable, identification, kalman, serially, estimator, exit, transmission, recursive, modified",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "cellular networks, heterogeneous networks, resource networks, heterogeneous cellular networks, scheme networks, resource cellular networks, resource allocation heterogeneous networks, base station cellular networks, resource allocation wireless networks, traffic networks, analysis cellular networks, mobile networks, traffic wireless networks, control cellular networks, call admission networks, scheme wireless networks, framework networks, performance cellular networks, communications cellular networks, resource allocation cellular networks, device-to-device cellular networks, analysis heterogeneous networks, energy-efficient networks, resource allocation service, multimedia networks, service networks, assignment networks, multimedia wireless networks, downlink cellular networks, admission control cellular, resource ofdma networks, ofdma networks, association heterogeneous networks, wireless cellular networks, scheme cellular networks, cdma cellular, evaluation cellular networks, framework wireless networks, heterogeneous wireless networks, service wireless, ofdma cellular networks, multicast networks, integrated networks, association cellular networks, multicast scheduling networks, cellular networks traffic, control wireless networks, energy-efficient cellular networks, energy-efficient resource allocation, call wireless networks, performance wireless networks, admission cellular networks, cellular networks channels, energy-efficient wireless networks, analysis traffic networks, cdma cellular networks, allocation ofdma networks, multicast cellular networks, analysis wireless networks, integrated wireless networks, scheduling cellular networks, energy-efficient allocation networks, service wireless networks, quality service, resource heterogeneous wireless, scheduling scheme, broadband wireless, green networks, broadband networks, handoff networks, scheme heterogeneous networks, discovery networks, handoff cdma, analysis scheme, streaming networks, wireless streaming, wireless smart, wireless systems, assignment wireless, wireless networks, cellular systems, analysis service, service, improving networks, control heterogeneous, resource access, mobile cellular, call mobile, systems service, energy-efficient control, scheme multimedia, allocation traffic, support networks, access scheme, multicast wireless, multimedia traffic, mobility networks, call scheme, handoff cellular, performance mobile",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "wireless lans, performance analysis wireless networks, analysis wireless, ieee networks, data networks, data wireless, data wireless networks, packet wireless networks, multi-channel wireless mesh networks, analysis ieee, ieee wireless lans, transmission wireless, wireless mesh, underwater acoustic networks, performance wireless lans, rate adaptation, access wireless, performance ieee, analysis ieee networks, modeling analysis networks, modeling wireless, data wireless sensor, slotted aloha, data transmission, access wireless networks, transmission networks, modeling ieee networks, analysis ieee wireless, packet data, packet data cdma, modeling analysis wireless, ieee, ieee dcf, ieee wlans, throughput analysis ieee, performance analysis ieee, rate wireless networks, transmission wireless networks, analysis wireless lans, ieee wireless networks, packet data transmission, throughput wireless networks, wireless systems, personal area, wireless channels, access packet, queueing analysis, ieee channels, aloha networks, mechanism wireless, large networks, wireless communications, ad-hoc networks, data rate, data, model wireless, data access, adaptation wireless, throughput enhancement, mechanism ieee, random access, slotted networks, contention access, power adaptation, data dissemination, optimization wireless, adaptation networks, model ieee, novel wireless, random networks, practical networks, random wireless, analysis packet, wcdma networks, ieee access, satellite networks, enhancement wireless, multichannel networks, throughput data, mechanism networks, data communications, multi-radio wireless, optimization ieee, analysis wlans, multirate networks, ieee mesh, multirate wireless, packet, analysis access, scheme wireless, optimization networks, power wireless, wlans, mechanism, adaptation, collision, multirate, enhancement, contention, scalable",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "scheduling wireless networks, physical layer networks, wireless link, link wireless networks, adaptive wireless networks, resource allocation wireless networks, allocation networks, qos wireless networks, optimal networks, management networks, link adaptation, physical layer wireless networks, bandwidth wireless networks, opportunistic scheduling wireless networks, scheduling wireless sensor networks, energy networks, qos provisioning, power allocation wireless networks, fair scheduling, performance wireless link, optimal wireless, fair wireless networks, networks constraints, energy efficiency networks, energy wireless, management wireless networks, resource management networks, resource allocation qos networks, hybrid networks, downlink networks, packet scheduling, mobile networks, joint scheduling wireless networks, transmission video wireless, optimal allocation wireless networks, hybrid arq, scheduling downlink, resource management wireless, proportional fair scheduling, link scheduling wireless networks, power scheduling wireless networks, wireless systems, scheduling algorithm, power networks, scheduling systems, cross-layer wireless networks, link adaptation wireless, provisioning networks, bandwidth allocation networks, rate wireless networks, effective wireless networks, scheduling mesh networks, networks energy harvesting, energy harvesting wireless, fair scheduling networks, scheduling wireless systems, power wireless link, cross layer, packet scheduling networks, optimal power networks, energy cellular networks, energy efficiency wireless, scheduling hoc networks, optimal power wireless, optimal energy, delay constraints, power management wireless, scheduling multiuser, channels scheduling wireless, scheduling cellular networks, joint allocation networks, adaptive wireless link, distributed scheduling, mobile hoc networks, scheduling wireless mesh, downlink packet, energy saving, hybrid wireless, energy delay, energy transmission, transmission networks, optimal scheduling, optimal energy networks, fractional networks, downlink wireless networks, energy wireless networks, flow networks, scheduling allocation networks, optimal scheduling networks, power adaptation, arq wireless, rate allocation, rate scheduling, link cdma, efficient resource, resource mesh, delay networks, multiuser networks, scheduling delay, analysis link",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "wireless networks, wireless sensor networks, distributed wireless networks, cooperative wireless networks, wireless hoc networks, distributed wireless sensor networks, power wireless networks, routing wireless networks, analysis wireless networks, multi-hop wireless networks, wireless networks coding, energy wireless networks, protocol wireless networks, scheme wireless sensor networks, channels wireless networks, capacity wireless networks, wireless mesh networks, joint wireless networks, allocation wireless networks, joint routing networks, wireless relay networks, communications wireless networks, opportunistic wireless networks, routing wireless sensor networks, design wireless networks, protocol wireless sensor networks, multihop wireless networks, based wireless sensor networks, localization wireless sensor networks, approach wireless networks, wireless networks using, analysis wireless sensor networks, optimization wireless networks, energy wireless sensor networks, optimal wireless networks, wireless networks nodes, access wireless networks, cooperative wireless sensor networks, efficient wireless networks, distributed coding wireless networks, energy-efficient wireless sensor networks, algorithm wireless networks, mobile hoc networks, coverage wireless sensor networks, joint routing wireless networks, cooperation wireless networks, heterogeneous wireless networks, mobile networks, wireless area networks, lifetime wireless sensor networks, routing protocol sensor networks, broadcast wireless networks, routing multi-hop wireless networks, distributed routing wireless sensor networks, routing hoc networks, detection wireless sensor networks, mobile wireless networks, information wireless networks, efficient protocol sensor networks, routing mesh networks, algorithm wireless sensor networks, transmission wireless sensor networks, efficient wireless sensor networks, novel scheme wireless networks, power wireless sensor networks, wireless transfer, opportunistic routing wireless networks, distributed cooperative wireless networks, distributed scheme wireless networks, nodes wireless sensor networks, mimo wireless networks, dynamic wireless sensor networks, optimal routing wireless networks, secure networks, distributed access wireless networks, routing protocol wireless networks, wireless sensor networks channels, routing allocation networks, distributed power wireless networks, optimal wireless sensor networks, distributed protocol wireless networks, optimization wireless sensor networks, cooperative wireless hoc networks, distributed algorithm networks, heterogeneous sensor networks, optimization energy networks, mobile sensor networks, load balancing, communications wireless sensor networks, design sensor networks, authentication wireless networks, wireless energy transfer, coding wireless sensor networks, game wireless networks, cognitive networks, routing algorithm networks, decentralized wireless networks, secure wireless networks, cooperative routing networks, clustering wireless networks",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "power control networks, control wireless networks, power control wireless networks, admission control networks, medium access control wireless networks, protocol networks, distributed power control networks, hoc networks, throughput networks, cross-layer design wireless networks, mac protocol wireless networks, mac protocol hoc networks, protocol wireless, admission control wireless networks, throughput wireless networks, joint power control networks, delay networks, control wireless sensor networks, optimal control networks, joint control wireless networks, distributed control wireless networks, control multi-hop wireless networks, distributed medium access control, joint admission control networks, topology control wireless networks, power control cdma, medium access protocol networks, power control algorithm, access protocol wireless networks, medium access control protocol, maximization networks, rate control, design mac networks, wireless hoc, protocol wireless hoc networks, control wireless hoc networks, power control channels, protocol design, analysis protocol, scheduling power control, power rate control, delay wireless networks, networks utility maximization, congestion control networks, protocol, efficient protocol networks, power hoc networks, optimal control wireless, optimal power control, capacity hoc networks, proportional fairness, mobile hoc networks, design mac protocol, control networks channels, maximization wireless networks, design protocol networks, protocol mobile networks, congestion control wireless, rate control networks, power admission control, cooperative protocol wireless, architecture networks, fairness wireless networks, control networks using, control radio networks, control algorithm networks, cooperative protocol networks, adaptive wireless networks, multi-rate wireless, delay analysis networks, throughput delay networks, analysis networks, delay hoc networks, control wireless systems, based control networks, control protocol networks, cross-layer optimization, performance protocol, control throughput wireless, throughput maximization, performance networks, enhanced networks, control packet, social networks, control communications, throughput analysis, distributed algorithm, energy protocol, guarantees networks, adaptive control, rate maximization, cross-layer analysis, wireless reception, retransmission networks, transmission hoc, arq protocol, routing protocol, cooperative mac, delay performance, control delay",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "channels feedback, limited feedback, broadcast channels, design channels, mimo broadcast channels, miso channels, feedback systems, interference alignment mimo channels, limited feedback systems, design mimo channels, limited feedback mimo channels, design systems, k-user interference channels, achievable rate channels, feedback, interference channels, scaling laws, feedback fading channels, degrees freedom, beamforming limited feedback, transmission channels, design fading channels, optimal design channels, design systems channels, design analysis, beamforming miso channels, design relay channels, design broadcast channels, design mimo interference channels, feedback broadcast channels, beamforming channels, design, channels feedback systems, freedom mimo channels, degrees mimo channels, adaptive feedback, precoder design, k-user mimo channels, interfering broadcast channels, design limited feedback, rate feedback, quantized feedback, rate broadcast channels, transmission limited feedback, cross-layer design, miso broadcast channels, gaussian interference channels, beamforming broadcast channels, precoder design channels, adaptive channels feedback, maximization channels, using feedback, mimo systems feedback, feedback multiuser, performance feedback, multi-antenna channels, imperfect csit, sum-rate channels, miso systems, rate transmission, limited capacity, mimo transmission, two-user channels, systems csit, interference feedback, channels covariance, design imperfect, channels csit, miso feedback, interference csit, feedback based, channels mean, analysis feedback, performance design, channels finite, feedback mimo-ofdm, transmission, constellation channels, channels mimo-ofdm, design csit, mean feedback, interference limited, based channels, finite feedback, beamforming design, transmission broadcast, transmission miso, transmission systems, interference broadcast, design transmission, feedback multi-antenna, alignment feedback, design miso, rate design, csit, imperfect channels, constellation, finite, multiple-antenna, delayed",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "channels state information, capacity channels, mimo channels state information, capacity fading channels, capacity mimo channels, imperfect channels, capacity systems, systems channels state information, imperfect channels state information, partial channels state information, imperfect channels estimation, systems imperfect channels, channels state information transmitter, capacity mimo systems, information transfer, mimo systems channels information, imperfect csi, fading channels information, capacity correlated channels, ergodic capacity fading channels, outage capacity fading channels, bounds fading channels, relay channels information, capacity analysis, mimo imperfect channels information, wireless information channels, information transfer mimo, channels transmitter, design channels information, beamforming channels information, side information, information transfer channels, upper bounds, capacity systems fading, mimo imperfect csi, capacity mimo fading, capacity analysis systems, gaussian channels, capacity analysis channels, channels information multiuser, information interference channels, asymptotic capacity mimo, fading channels state, analysis channels, capacity analysis fading, capacity mimo correlated, channels knowledge, multiple-access channels, eigenvalue mimo, capacity relay channels, ergodic rate, asymptotic analysis, performance bounds, design analysis, capacity systems channels, performance analysis, analysis systems channels, analysis imperfect channels, block-fading channels, analysis mimo, capacity channels information, imperfect knowledge, wiretap channels, outdated csi, capacity multiuser, capacity wireless, imperfect fading, asymptotic channels, gain channels, capacity error, capacity diversity, mimo transmitter, bounds rate, systems partial, systems csi, performance imperfect, rate channels, ergodic mimo, impact channels, asymptotic fading, information correlated, mimo partial, capacity interference, capacity receivers, transmitter systems, capacity networks, fading transmitter, capacity bounds, coded channels, transmission capacity, bounds, performance information, channels csi, channels networks, asymptotic, analysis information, error channels, complex, optimality, matrices",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "mimo systems, mimo channels, mimo systems channels, mimo, precoding mimo, multiuser mimo, transceiver design mimo, massive mimo systems, precoding mimo systems, linear mimo channels, design mimo, linear mimo, design mimo systems, precoding mimo channels, spatial multiplexing, multiuser mimo systems, linear precoding mimo, transceiver design mimo systems, mimo interference, design mimo relay systems, mimo relay, mimo interference channels, spatial correlation, transceiver design mimo channels, spatial multiplexing systems, downlink mimo, linear precoding systems, analysis mimo, analysis mimo systems, mimo linear receivers, multiuser mimo channels, performance mimo systems, antenna mimo, rate channels, based mimo channels, robust transceiver design, spatial mimo channels, linear precoding mimo channels, mimo networks, mimo wireless, spatial mimo systems, spatial correlation channels, rate adaptation, spatial mimo, multiuser mimo systems channels, rate mimo channels, linear mimo systems, robust mimo channels, precoding multiuser mimo systems, rate systems, robust design mimo, precoding mimo relay, optimal mimo, mimo relay channels, channels massive mimo, precoder mimo systems, multiuser mimo downlink, correlation mimo systems, linear, precoder mimo, multiplexing mimo channels, spatial correlation mimo, linear design, spatial multiplexing mimo, mimo broadcast channels, rate mimo, optimal design mimo, analysis mimo linear, mimo downlink channels, mimo using, mimo systems feedback, linear dispersion, antenna mimo channels, multi-user mimo, linear design channels, transmit mimo, mimo systems mmse, correlation mimo channels, receivers mimo channels, error rate, spatial, performance mimo linear, precoding design mimo, mimo wireless systems, linear interference, optimal mimo channels, beamforming mimo channels, mimo wireless channels, feedback mimo, beamforming mimo, mmse mimo, linear broadcast, scheduling mimo, rate mimo systems, linear precoder, sum rate, rate multiuser, spatial diversity, multiuser diversity, precoding downlink",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "fading channels, performance fading channels, rayleigh fading channels, mimo channels, systems fading channels, mimo fading channels, performance analysis fading channels, correlated fading channels, diversity fading channels, correlated mimo channels, channels estimation, relay fading channels, nakagami-m fading channels, optimal fading channels, channels estimation fading, power fading channels, error fading channels, cooperative fading channels, mimo rayleigh fading channels, wireless fading channels, receivers fading channels, networks fading channels, transmission fading channels, frequency-selective fading channels, modulation fading channels, selection fading channels, channels estimation mimo, systems rayleigh fading channels, mimo systems fading channels, performance analysis rayleigh fading channels, channels estimation relay, mimo channels correlated fading, coding fading channels, multipath fading channels, performance analysis systems fading channels, time-varying channels, nakagami fading channels, rate fading channels, performance analysis systems rayleigh fading, performance nakagami-m fading channels, combining fading channels, performance mimo channels, mimo channels model, interference fading channels, performance diversity fading channels, performance correlated fading channels, outage fading channels, performance receivers fading channels, antenna fading channels, analysis diversity fading channels, selective fading channels, scheduling fading channels, error performance fading channels, iterative fading channels, performance relay fading channels, flat fading channels, analysis mimo fading channels, error analysis fading channels, performance modulation fading channels, mimo relay channels, relay diversity fading channels, performance analysis receivers fading, packet fading channels, adaptive fading channels, performance analysis receivers channels, multiple fading channels, diversity reception fading channels, delay fading channels, correlated rayleigh fading channels, analysis correlated fading channels, diversity nakagami-m fading channels, rician fading channels, channels estimation error, correlated nakagami-m fading channels, mimo interference channels, performance combining fading channels, scheme fading channels, performance wireless channels, performance analysis correlated channels, performance analysis mimo channels, channels estimation mimo fading, mimo systems correlated channels, performance coding fading channels, model fading channels, analysis fading channels interference, selection correlated channels, analysis receivers fading channels, adaptive rayleigh fading, diversity rayleigh fading, training mimo channels, selection correlated fading, selection rayleigh fading, diversity correlated fading, performance mimo fading channels, time-varying fading channels, performance channels estimation, channels estimation systems, mimo fading receivers, optimal mimo channels, combining rayleigh fading",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "space-time codes, space-time fading channels, space-time block codes, codes channels, space-time coding, space-time coding fading channels, distributed space-time, coding channels, distributed space-time coding, orthogonal space-time block codes channels, design codes, distributed space-time codes, space-time, space-time coded fading channels, space-time correlated fading channels, space-time block correlated channels, quasi-orthogonal space-time block codes, space-time codes fading channels, space-time block coding fading channels, space-time block codes mimo channels, space-time trellis codes, networks coding channels, coding relay channels, space-time trellis fading channels, block coded fading channels, space-time coded mimo channels, codes relay, analysis space-time fading channels, space-time coding networks, performance codes, block codes correlated channels, space-time coding correlated channels, diversity-multiplexing tradeoff, performance analysis space-time, coded modulation fading channels, design space-time codes, performance codes channels, performance analysis codes, distributed channels, space-time block coded channels, design codes channels, space-time systems, analysis codes, space-time modulation channels, free-space optical, space-time block coded modulation, orthogonal fading channels, codes relay channels, space-time codes antenna, block transmission, space-time trellis coded, performance space-time channels, adaptive modulation coding, space-time coding relay, space-time transmit, error block channels, analysis design codes, diversity space-time codes, error block fading, space-time relay networks, performance space-time block, analysis space-time coding, trellis coded modulation, linear codes, space-time systems channels, diversity channels, space-time wireless, block coded mimo, performance block channels, modulation coding, space-time coded systems, spatially correlated, space-time trellis modulation, space-time codes transmit, analysis codes channels, space-time block antenna, convolutional codes, unitary space-time, space-time antenna channels, differential space-time, space-time codes networks, performance block codes, error space-time codes, codes interference, space-time coding coded, analysis diversity, ldpc codes, codes rate, space-time cooperative, codes wireless, performance space-time codes, full diversity, performance coding, feedback space-time, coding systems, diversity modulation, design coding, spatial diversity, ldpc channels, linear space-time",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "resource allocation, resource allocation systems, resource allocation networks, interference cancellation, spectral efficiency, resource allocation ofdma, communications systems, resource allocation downlink, optimal resource allocation, resource allocation relay, successive interference cancellation, resource allocation cooperative, interference networks, resource allocation ofdma systems, energy efficiency, device-to-device underlaying cellular networks, resource allocation channels, wireless communications systems, spectral efficiency systems, interference cancellation systems, resource allocation downlink systems, device-to-device communications cellular networks, resource allocation communications, resource allocation multiuser, joint resource allocation, resource allocation ofdma networks, interference systems, power allocation ofdma, resource allocation downlink ofdma, resource allocation wireless, communications, resource allocation relay channels, resource ofdma relay networks, power allocation downlink, resource allocation cooperative networks, successive interference cancellation systems, resource allocation relay networks, spectral efficiency networks, interference alignment, interference cellular networks, power allocation ofdma networks, resource allocation cellular networks, allocation scheme systems, subcarrier allocation, communications channels, resource allocation transmission, cellular systems, interference wireless networks, energy-efficient resource allocation, subcarrier allocation ofdma, power successive interference, millimeter wave, scheme ofdma systems, interference, allocation multiuser systems, resource allocation energy, power allocation scheme, power communications, power interference cancellation, subcarrier allocation systems, interference suppression, energy efficiency networks, mimo communications, cooperative communications, communications underlaying cellular, ofdma uplink, resource device-to-device communications, control communications systems, joint allocation networks, mimo communications systems, optimal communications, transmission systems, resource allocation device-to-device, allocation cooperative communications, interference channels, self-interference full-duplex, multi-user interference, interference scheme, efficiency channels, power efficiency, mimo interference, resource communications systems, control interference, power allocation communications, full-duplex systems, analysis ofdma, analysis interference, multi-carrier systems, energy communications, allocation mimo, analysis communications, allocation feedback, scheme communications, multiuser communications, parallel interference, cooperative interference, allocation multi-carrier, adaptive allocation, transmission interference, transmission scheme",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "antenna selection, antenna systems, multiple antenna, transmit antenna, transmit antenna selection, distributed antenna systems, base station, systems multiple antenna, multiple access, antenna selection mimo, antenna selection channels, downlink systems, receive antenna selection, antenna selection systems, analysis distributed antenna systems, cellular systems, antenna array, mimo systems, antenna, transmit beamforming, cellular systems base station, beamforming systems, spectral efficiency antenna, systems multiple transmit antenna, multiple access channels, beamforming downlink, multi-cell systems, channels multiple antenna, transmit power systems, performance systems, performance transmit selection, networks antenna, multiple access systems, cooperative base station, base station networks, antenna selection mimo systems, systems receive antenna, adaptive systems, transmit beamforming systems, diversity systems, transmit receive antenna, wireless systems, optimization antenna systems, performance antenna, performance antenna selection, performance transmit antenna, power multiple access, wireless antenna, capacity antenna systems, performance downlink systems, distributed beamforming, scheduling systems, systems, systems using antenna, comparative study, performance systems antenna, multiple receive antenna, scheme systems, power downlink, performance analysis antenna, scheme antenna systems, wireless networks antenna, networks multiple, transmit diversity, performance transmit beamforming, downlink cellular systems, using multiple antenna, beamforming downlink systems, antenna interference, downlink multi-cell systems, multiuser systems, downlink distributed antenna, multiuser downlink, transmission antenna, performance multiple antenna, subset selection, multiple interference systems, systems transmit receive, control systems, power antenna, downlink antenna systems, analysis downlink, performance comparison, systems antenna diversity, beamforming antenna, analysis multiple, transmit networks, interference systems, multiple scheme, wireless multiple, joint antenna, multiple outage, adaptive antenna, allocation antenna, beamforming multi-cell, feedback systems, transmit wireless, cellular antenna, beamforming multiple, antenna outage",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "power allocation, power control, power allocation relay networks, power systems, power allocation channels, power allocation systems, optimal power allocation, joint power allocation, power control systems, power control interference, distributed power allocation, rate power allocation, power allocation cooperative networks, joint power allocation relay networks, optimal power allocation networks, joint power control, power control channels, relaying systems, power control networks, relay power allocation networks channels, power allocation relaying, power allocation wireless relay networks, optimal power systems, distributed power control, optimal relay, relay selection power allocation, power allocation multiuser, cooperative power relay networks, power cdma systems, power allocation outage, outage probability relaying systems, power constraints, power allocation two-way, rate power systems, optimal power allocation channels, distributed power allocation relay, distributed power allocation networks, joint rate power allocation, relay power allocation cooperative, optimal allocation networks relay, power control interference networks, outage systems, systems co-channel interference, power allocation based, selection power control, outage decode-and-forward relaying, beamforming power, outage probability interference, decode-and-forward relaying, power allocation amplify-and-forward, capacity power allocation, outage relaying, adaptive power allocation, beamforming power control, optimal power allocation systems, power allocation systems channels, link systems, decode-and-forward relaying systems, power allocation constraints, optimal power control, power allocation ofdm, cooperative power wireless, power systems constraints, power ofdm systems, relaying networks, beamforming power networks, two-way relaying, power allocation scheduling, power amplify-and-forward relay, selection power networks, allocation two-way relaying, power outage capacity, power link, power control cooperative, power rate control, power wireless systems, outage networks, beamforming power allocation, allocation relay systems, beamforming power relay, power cellular, adaptive allocation systems, relay systems, power allocation harvesting, capacity systems power, optimum power allocation, power allocation mimo, forward link, optimal power relay, adaptive relaying, power cellular systems, joint power systems, power transmission, opportunistic relaying, power relay systems, power allocation interference, relay constraints, power imperfect, power allocation link, optimal selection",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "performance analysis, performance analysis systems, performance analysis networks, performance analysis cooperative, physical-layer networks coding two-way relay, networks coding two-way, performance analysis scheme, performance analysis relay, beamforming relay networks, optimization systems, two-way relay, performance analysis cooperative networks, performance analysis wireless, performance analysis systems interference, joint relay networks, cooperative beamforming, performance analysis relaying, optimization networks, performance analysis relay systems, beamforming systems, optimization cooperative networks, joint optimization, joint beamforming networks, performance analysis channels, joint beamforming, performance analysis communications, analysis optimization systems, two-way relaying, optimization mimo, performance optimization cooperative, physical layer, performance analysis optimization, beamforming cooperative networks, optimization relay networks, power optimization, analysis relay networks, optimization joint relay, beamforming wireless, cooperative beamforming relay, mimo two-way relay, optimization mimo systems, performance optimization systems, joint two-way relay, joint systems, performance analysis power, cooperation networks, optimization, two-way relay systems, massive systems, joint optimization networks, performance wireless systems, analysis two-way networks, non-regenerative relay, opportunistic beamforming, performance cellular, beamforming multi-user, performance relay networks, secure communications, cooperation relay, performance beamforming systems, systems csi, multi-antenna systems, coding systems, physical coding, rateless relay, energy optimization, beamforming communications, beamforming, secure networks, multi-antenna networks, non-regenerative systems, analysis opportunistic, beamforming interference, physical relay, beamforming miso, optimization channels, performance beamforming, joint mimo, performance coding, cooperation coding, optimization wireless, analysis coding, joint coding, analysis cellular, joint channels, optimization beamforming, analysis beamforming, asynchronous networks, performance amplify-and-forward, analysis cooperation, performance mimo, cooperation, analysis mimo, beamforming two-way, joint, analysis joint, secure, secrecy, practical, multi-antenna",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "relay networks, cooperative networks, relay cooperative networks, relay selection, cooperative relay, cooperative diversity, networks coding relay, cooperative systems, relay selection networks, channels relay networks, relay systems, amplify-and-forward relay, two-way relay networks, cooperative communications, cooperative diversity networks, amplify-and-forward relay networks, wireless relay networks, cooperative, distributed relay networks, cooperative relaying, cooperative wireless, channels two-way relay networks, networks multiple relay, relay selection cooperative networks, distributed cooperative, multi-user relay networks, cooperative systems relay, amplify-and-forward relay systems, performance cooperative diversity, performance cooperative, relay selection systems, cooperative wireless relay networks, analog networks coding, networks coding relay channels, cooperative diversity wireless networks, estimation relay networks, cooperative relay channels, decode-and-forward cooperative, distributed cooperative networks, performance cooperative networks, analysis cooperative, cooperative protocol, relay selection amplify-and-forward, cooperative communications relay, mimo relay networks, relay scheme networks, performance cooperative relay, performance selection, amplify-and-forward relaying, mimo relay systems, analysis cooperative networks, two-way relay networks coding, cooperative communications networks, relay selection relaying, multiple relay channels, amplify-and-forward relay channels, cooperative diversity systems, transmission relay, design relay systems, wireless multi-user relay networks, cooperative diversity relay, networks coding cooperative, selection diversity, amplify-and-forward mimo relay, analysis relay networks, cooperative scheme, cooperative transmission, performance relay selection, selection channels, analysis cooperative diversity, relay networks transmission, relaying cooperative networks, relay selection cooperative systems, amplify-and-forward cooperative networks, cooperative communications channels, decode-and-forward cooperative networks, cooperative based, cooperative multiple relay, analysis selection, relay selection diversity, cooperative systems relaying, cooperative decode-and-forward relaying, relay systems channels, multi-relay networks, decode-and-forward relay networks, multiple relay selection, based relay systems, performance dual-hop relay, based relay selection, cooperative relay fading, cognitive relay, relay two-way amplify-and-forward, multi-hop relay, asynchronous cooperative, cooperative communications systems, distributed coding cooperative, distributed cooperative communications, codes relay networks, selection scheme, dual-hop systems relay",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "localization sensor, decision fusion, using, wireless using, networks using, channels using, source localization, algorithm, estimation sensor, source sensor, algorithm channels, channels noise, localization networks, decision wireless, using signals, localization wireless, using algorithm, signals channels, estimation using, signals, localization, algorithm sensor, noise, sensor, robust, source, space, distributed, digital, effect, programming, signature, compressive, relaxation, via, convex, uncertainty, binary, sensing, detection, power",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "crossing rate, distance bounding, key agreement, average duration, maximum likelihood, generalized selection, average rate, generalized wireless, adaptive wireless, adaptive modulation, adaptive channels, adaptive, generalized, key, rate, comments, array, prediction, threshold, large-scale, gaussian, level, problem, average, corrections, classification, dual, uniform, sequential, tracking, fade, scheme, switching, wireless, networks, channels, mobile, using",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "performance evaluation, performance evaluation channels, mobile channels, analysis application, location using, indoor channels, indoor wireless, channels measurements, channels model, application performance, channels application, using function, analytical evaluation, performance analysis, mobile location, performance mobile, model wireless, performance using, results analysis, fading model, fading application, using model, channels estimation, wireless channels, location algorithm, wireless measurements, application wireless, application, evaluation using, performance wireless, location, indoor, model, mobile, measurements, function, random, results, analytical, rfid, urban, experimental, conditions, study, ieee, constrained, moments, implementation, combined, square, position, matrix, passive, mutual, universal, mc-cdma, estimator, orthogonality, mitigation, modeling, communications, novel, mimo, environments, systems, accurate, wireless, channels, networks, generalized, fading",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "energy harvesting, energy fading channels, energy efficient, energy efficiency, energy harvesting wireless, energy harvesting sensor, energy harvesting nodes, energy, bit error, efficient channels, analysis energy, energy detection, efficient fading, energy transmitter, energy networks, efficient, energy systems, energy minimization, efficient wireless, energy communications, efficient sensor, energy constraints, efficient systems, efficient networks, optimal energy, energy based, nodes, constraints, snr, minimum, maximizing, authentication, theory, based, sparse, bandwidth, secret, different, approximate, sampling, mixed, probabilities, discrete, value, multiple, estimation, key",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "outage probability, error probability, performance analysis, error probability channels, error probability fading, error performance, error analysis, selection combining, maximal ratio combining, outage probability channels, performance combining, outage probability fading, error networks, nakagami-m fading, estimation error, generalized combining, analysis fading, fading channels, combining fading, analysis combining, performance analysis combining, gaussian approximation, performance analysis fading, error probability analysis, ber analysis, analysis generalized, combining channels, diversity combining, fading parameter, presence interferers, exact ber, error, error wireless, error using, closed-form approximation, analysis channels, analysis ratio, combining, exact analysis, fading distribution, average fading, parameter channels, power distribution, average outage, probability combining, analysis distribution, presence error, performance ratio, optimum combining, ber fading, probability systems, noise fading, ber performance, analysis, outage analysis, approximation fading, performance nakagami-m, exact fading, theoretical analysis, error diversity, probability presence, exact probability, approximation probability, analysis diversity, exact error, analysis wireless, probability diversity, error combining, approximation error, outage error, distribution, fading, performance channels, approximation, exact, diversity, ratio, ber, parameter, statistics, general, order, gain, mrc, nakagami, bpsk, versus, process, symmetric, equal-gain, equal, devices, receivers, asynchronous, channels, interference, accurate, cooperative, communications, model",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "cognitive radio networks, spectrum cognitive radio, cognitive radio channels, cognitive radio systems, power cognitive radio, spectrum cognitive networks, spectrum radio networks, allocation cognitive radio, spectrum sharing, cooperative cognitive radio, optimal cognitive radio, radio resource allocation, power control radio, control cognitive radio, power control cognitive, based cognitive radio, primary cognitive radio, user cognitive radio, transmission cognitive radio, spectrum sharing networks, analysis cognitive radio, interference cognitive radio, energy cognitive radio, channels radio networks, power cognitive networks, channels cognitive networks, power radio networks, allocation radio networks, primary user cognitive, primary user radio, optimal cognitive networks, resource radio networks, spectrum sharing cognitive, joint cognitive radio, allocation cognitive networks, scheme cognitive radio, ofdm-based cognitive radio, spectrum sharing radio, control cognitive networks, approach cognitive radio, distributed cognitive radio, opportunistic cognitive radio, detection cognitive radio, resource cognitive radio, spectrum sharing systems, optimization cognitive radio, efficient cognitive radio, optimal radio networks, performance cognitive radio, resource allocation cognitive, user cognitive networks, user radio networks, impulse radio, cooperative radio networks, joint cognitive networks, underlay cognitive networks, spectrum primary user, cooperative cognitive networks, dynamic cognitive radio, underlay cognitive radio, capacity cognitive radio, control radio networks, sharing cognitive radio, mimo cognitive radio, spectrum radio systems, power allocation radio, sharing cognitive networks, spectrum cognitive systems, based cognitive networks, primary user networks, power radio systems, rate cognitive radio, selection cognitive radio, resource cognitive networks, analysis radio networks, algorithm cognitive radio, based radio networks, cognitive radio using, primary cognitive systems, cognitive networks primary, power allocation cognitive, energy cognitive networks, throughput cognitive radio, interference cognitive networks, joint radio networks, design cognitive radio, secondary cognitive radio, sharing radio networks, spectrum radio user, spectrum cognitive user, spectrum allocation radio, beamforming cognitive radio, allocation radio systems, underlay radio networks, analysis spectrum sharing, primary radio systems, cognitive networks approach, spectrum radio channels, cognitive radio state, analysis cognitive networks",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "sensing cognitive radio, spectrum sensing cognitive, spectrum sensing radio, sensing cognitive networks, sensing radio networks, spectrum networks, cooperative spectrum sensing, multiple access, spectrum cognitive networks, spectrum sensing networks, spectrum radio networks, cooperative sensing cognitive, access radio networks, access cognitive radio, cooperative sensing radio, multiple access channels, cooperative spectrum networks, access cognitive networks, spectrum access, spectrum access networks, spectrum cognitive radio, dynamic spectrum access, cooperative spectrum cognitive, cooperative sensing networks, cooperative spectrum radio, random access, spectrum access cognitive, spectrum access radio, cooperative cognitive networks, opportunistic spectrum access, cooperative radio networks, sensing channels radio, sensing channels cognitive, based spectrum sensing, sensing cognitive systems, cooperative cognitive radio, spectrum channels, dynamic spectrum networks, based sensing radio, spectrum sensing channels, based sensing cognitive, sensing radio systems, sensing access networks, access, game cognitive radio, game spectrum networks, based cooperative spectrum, spectrum systems, game cognitive networks, detection sensing radio, multiple access networks, detection sensing cognitive, game spectrum radio, game spectrum cognitive, via cognitive radio, optimal sensing radio, channels access networks, optimal sensing cognitive, spectrum sharing, via cognitive networks, sensing scheme cognitive, spread spectrum, spectrum leasing, dynamic spectrum cognitive, energy sensing cognitive, based cooperative sensing, energy sensing radio, detection spectrum sensing, spectrum sensing systems, dynamic spectrum radio, cognitive radio networks, collaborative spectrum sensing, based sensing networks, game spectrum access, game radio networks, opportunistic access cognitive, access control, spectrum cognitive channels, cooperative sensing channels, energy spectrum sensing, spectrum sensing access, energy spectrum networks, via radio networks, spectrum leasing via, channels access cognitive, opportunistic spectrum networks, sensing scheme radio, spectrum leasing networks, optimal access cognitive, spectrum leasing cognitive, spectrum radio channels, cooperative spectrum sharing, spectrum leasing radio, cooperative spectrum access, cognitive transmission sensing, sensing access cognitive, spectrum sensing antenna, optimal spectrum access, cooperative spectrum channels, adaptive spectrum",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "soft handoff, dynamic networks, frequency reuse networks, model networks, channels model, dynamic spectrum, cellular networks, stochastic channels, dynamic systems, stochastic model, stochastic networks, interference avoidance, geometry-based model, model systems, spatial reuse, dynamic allocation, dynamic power, dynamic channels, dynamic cellular, dynamic game, dynamic access, interference model, impact networks, dynamic, cellular systems, strategy networks, spectrum model, handoff cellular, model, dynamic model, frequency dynamic, stochastic, channels networks, strategy, impact, cellular, mobility, jamming, hopping, improving, effect, lte, assignment, partitioning, device-to-device, scenarios, directional, pricing, knowledge, overhead, spectral, communications, performance, learning, analysis, capacity, heterogeneous, user",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "modeling channels, modeling analysis, opportunistic networks, modeling networks, propagation networks, based networks, wideband channels, indoor environments, modeling radio, modeling, environments, networks environments, opportunistic, propagation, wideband, indoor, measurements, band, ghz, umts, characterization, field, based, dense, double, loss, fixed, part, geometric, poisson, coexistence, path, empirical, statistical, flexible, mechanism, online, active, wireless, systems, model",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "small cell networks, approach networks, interference networks, femtocell networks, interference management networks, two-tier femtocell networks, uplink interference networks, game networks, interference mitigation, game theoretic networks, interference femtocell networks, interference two-tier networks, power femtocell networks, interference uplink two-tier, uplink interference femtocell, user heterogeneous, interference heterogeneous networks, uplink two-tier networks, uplink femtocell networks, game-theoretic approach, control interference, networks game approach, approach channels, approach, uplink user, uplink capacity, inter-cell interference, interference access, ofdma uplink, uplink cellular, coordinated multipoint, allocation approach, power game, theoretic approach, approach systems, uplink systems, coordinated networks, uplink, interference alignment, formation game, analysis cell, management femtocell, resource femtocell, interference, cell systems, two-tier heterogeneous, power control, approach power, cooperation networks, uplink control, cellular networks, mitigation networks, approach interference, formation networks, capacity networks, mimo networks, networks coordination, interference channels, interference cell, cellular approach, uplink multicell, user interference, game interference, user networks, coordinated, multicell, heterogeneous, coordination, exploiting, coverage, cooperation, sinr, virtual, arrival, improvement, patterns, hybrid, multi-cell, mimo, efficiency, downlink, decentralized, transmission, distributed, networks",
+			 "target": []
+		}
+		]
+,
+		"2009": [
+		{
+			 "id": 0,
+			 "topic": "fading channels, performance analysis, performance fading channels, analysis fading channels, rayleigh fading channels, nakagami-m fading channels, performance analysis fading channels, cooperative systems, performance analysis cooperative, performance analysis systems, communications fading channels, cooperative relaying, distributed space-time, diversity fading channels, cooperative decode-and-forward, relay selection, cooperative fading channels, space-time coding, cooperative relay, channels estimation, cooperative communications, performance cooperative channels, cooperative diversity, distributed channels, distributed cooperative, performance diversity, performance relay, analysis diversity, cooperative, distributed coding, analysis protocol, relay channels, multiple relay, communications multiple, performance networks, modulation channels, communications, communications relay, wireless channels, relay, networks fading, relaying, uwb channels, cooperative networks, space-time channels, performance relaying, channels networks, performance communications, analysis relay, modulation, uwb, systems channels, diversity, amplify-and-forward, coding, correlation, error, presence, probability, application, outage, distributed, phase, combining, multiple, spatial, using, model, mobile, adaptive, codes, scheme, antenna, mimo systems, mimo channels, transmit antenna selection, antenna systems, multiple antenna, antenna selection systems, detection systems, adaptive systems, channels estimation systems, feedback channels, based systems, antenna mimo, limited feedback, systems, performance systems, multiuser detection, detection, scheme systems, antenna channels, transmit systems, systems multiple, based detection, feedback mimo, optimization systems, multiuser mimo, detection channels, selection mimo, analysis systems, feedback, scheme mimo, multiuser, systems feedback, beamforming, fast, downlink, scheme, receive, robust, technique, signals, combining, using, optimal, capacity fading channels, wireless channels, capacity networks, wireless environment, diversity wireless, wireless fading, environment, channels networks, throughput, model, cellular, bounds, distribution, indoor, spatial, delay, transmission, ieee, multi-user, multi-hop, diversity, mimo, analysis, systems, channels, networks, cognitive radio, spectrum cognitive radio, power allocation, power control, cognitive radio networks, sensing cognitive radio, cognitive radio systems, channels cognitive radio, spectrum sensing, multiple access, power cognitive radio, spectrum sharing, opportunistic spectrum, interference cancellation, power allocation systems, spectrum cognitive networks, power control networks, spectrum access, spectrum, systems interference, dynamic spectrum, ofdma uplink, power, interference, power channels, spectrum systems, analysis spectrum, interference networks, channels interference, analysis radio, cognitive access, control interference, power interference, primary, carrier, user, game, via, uplink, efficiency, cdma, multi-user, using, capacity, relay, detection, systems, wireless networks, wireless sensor networks, distributed wireless networks, wireless networks coding, analysis wireless networks, cooperative networks, resource allocation networks, wireless hoc networks, protocol wireless networks, multi-hop wireless networks, control networks, opportunistic wireless networks, wireless mesh networks, mac protocol, relay networks, allocation wireless networks, routing wireless networks, scheduling wireless networks, power wireless networks, scheme networks, opportunistic scheduling, qos wireless networks, cooperative wireless networks, optimal networks, link wireless networks, energy sensor, control wireless networks, adaptive wireless, mac wireless networks, mobile networks, based networks, rate networks, adaptive networks, efficient wireless, energy wireless, distributed sensor, access wireless, multihop networks, ieee networks, analysis protocol, service networks, wireless relay, access networks, energy networks, joint networks, based wireless, efficient networks, management networks, scheme wireless, algorithm networks, optimal wireless, algorithm wireless, algorithm, multimedia, traffic, multicast, node, novel, ofdm systems, space-time codes, frequency offset, space-time block, low complexity, design systems, codes design, channels ofdm, design, receiver, linear, equalization, coded, domain, decoding, pilot, methods, synchronization, precoding, rate, partial, information, using, approach, transmission, ofdma, joint, uplink, based, distributed, estimation, feedback, communications, power, mimo, channels, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "fading channels, performance analysis, performance fading channels, analysis fading channels, rayleigh fading channels, nakagami-m fading channels, performance analysis fading channels, cooperative systems, performance analysis cooperative, performance analysis systems, communications fading channels, cooperative relaying, distributed space-time, diversity fading channels, cooperative decode-and-forward, relay selection, cooperative fading channels, space-time coding, cooperative relay, channels estimation, cooperative communications, performance cooperative channels, cooperative diversity, distributed channels, distributed cooperative, performance diversity, performance relay, analysis diversity, cooperative, distributed coding, analysis protocol, relay channels, multiple relay, communications multiple, performance networks, modulation channels, communications, communications relay, wireless channels, relay, networks fading, relaying, uwb channels, cooperative networks, space-time channels, performance relaying, channels networks, performance communications, analysis relay, modulation, uwb, systems channels, diversity, amplify-and-forward, coding, correlation, error, presence, probability, application, outage, distributed, phase, combining, multiple, spatial, using, model, mobile, adaptive, codes, scheme, antenna",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "mimo systems, mimo channels, transmit antenna selection, antenna systems, multiple antenna, antenna selection systems, detection systems, adaptive systems, channels estimation systems, feedback channels, based systems, antenna mimo, limited feedback, systems, performance systems, multiuser detection, detection, scheme systems, antenna channels, transmit systems, systems multiple, based detection, feedback mimo, optimization systems, multiuser mimo, detection channels, selection mimo, analysis systems, feedback, scheme mimo, multiuser, systems feedback, beamforming, fast, downlink, scheme, receive, robust, technique, signals, combining, using, optimal",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "capacity fading channels, wireless channels, capacity networks, wireless environment, diversity wireless, wireless fading, environment, channels networks, throughput, model, cellular, bounds, distribution, indoor, spatial, delay, transmission, ieee, multi-user, multi-hop, diversity, mimo, analysis, systems, channels, networks",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "cognitive radio, spectrum cognitive radio, power allocation, power control, cognitive radio networks, sensing cognitive radio, cognitive radio systems, channels cognitive radio, spectrum sensing, multiple access, power cognitive radio, spectrum sharing, opportunistic spectrum, interference cancellation, power allocation systems, spectrum cognitive networks, power control networks, spectrum access, spectrum, systems interference, dynamic spectrum, ofdma uplink, power, interference, power channels, spectrum systems, analysis spectrum, interference networks, channels interference, analysis radio, cognitive access, control interference, power interference, primary, carrier, user, game, via, uplink, efficiency, cdma, multi-user, using, capacity, relay, detection, systems",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "wireless networks, wireless sensor networks, distributed wireless networks, wireless networks coding, analysis wireless networks, cooperative networks, resource allocation networks, wireless hoc networks, protocol wireless networks, multi-hop wireless networks, control networks, opportunistic wireless networks, wireless mesh networks, mac protocol, relay networks, allocation wireless networks, routing wireless networks, scheduling wireless networks, power wireless networks, scheme networks, opportunistic scheduling, qos wireless networks, cooperative wireless networks, optimal networks, link wireless networks, energy sensor, control wireless networks, adaptive wireless, mac wireless networks, mobile networks, based networks, rate networks, adaptive networks, efficient wireless, energy wireless, distributed sensor, access wireless, multihop networks, ieee networks, analysis protocol, service networks, wireless relay, access networks, energy networks, joint networks, based wireless, efficient networks, management networks, scheme wireless, algorithm networks, optimal wireless, algorithm wireless, algorithm, multimedia, traffic, multicast, node, novel",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "ofdm systems, space-time codes, frequency offset, space-time block, low complexity, design systems, codes design, channels ofdm, design, receiver, linear, equalization, coded, domain, decoding, pilot, methods, synchronization, precoding, rate, partial, information, using, approach, transmission, ofdma, joint, uplink, based, distributed, estimation, feedback, communications, power, mimo, channels",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "cooperative systems, cooperative relay, analysis cooperative, cooperative relaying, distributed space-time, space-time coding, cooperative decode-and-forward, cooperative networks, distributed cooperative, distributed coding, cooperative, coding, distributed",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "fading channels, rayleigh fading channels, modulation channels",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "nakagami-m fading channels, communications fading channels, communications, correlation, phase",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "relay selection, relay, amplify-and-forward, outage, multiple, diversity, probability, combining, relaying",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "performance fading channels, analysis fading channels, performance analysis, performance analysis fading channels, performance analysis systems, analysis diversity, performance diversity, uwb, error, using, presence, application",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "channels estimation, based systems, scheme systems, selection systems, estimation systems, scheme, selection, combining, using, technique",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "detection, multiuser, multiuser detection, fast, signals, robust",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "mimo channels, feedback channels, limited feedback, mimo, feedback mimo, feedback, beamforming",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "antenna systems, transmit antenna, multiple antenna, systems multiple, transmit systems, receive, downlink, performance",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "adaptive systems, systems, optimization systems",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "spatial, diversity",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "throughput, cellular, networks",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "capacity fading channels, bounds",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "wireless environment, environment, channels",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "model, ieee, transmission, distribution, multi-hop, multi-user, delay, analysis, wireless, diversity",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "spectrum sharing, opportunistic spectrum, dynamic spectrum, spectrum systems, spectrum, multi-user, efficiency",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "ofdma uplink, access, carrier",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "cognitive radio, spectrum cognitive radio, cognitive radio networks, cognitive radio systems, power cognitive radio, sensing cognitive radio, channels cognitive radio, spectrum sensing, spectrum cognitive networks, spectrum access, cognitive access, primary, detection, user, via",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "interference cancellation, systems interference, interference",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "power allocation, power control, power control networks",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "wireless networks, distributed wireless networks, service networks, traffic, multimedia",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "wireless hoc networks, protocol wireless networks, mac wireless networks, mobile networks, routing networks, mac protocol, multihop networks, ieee networks, opportunistic networks, analysis protocol",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "control networks, control wireless networks, optimal networks, rate networks, link wireless, scheduling networks, algorithm networks, optimal wireless, algorithm wireless, allocation networks, link networks, algorithm, novel",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "wireless sensor networks, efficient wireless, scheme networks, multi-hop networks, efficient networks, multicast",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "resource allocation networks, qos wireless, energy wireless, management networks, qos networks, energy, node, joint, mesh",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "space-time codes, space-time block, decoding, rate",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "design systems, design, information, using, transmission",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "ofdm systems, equalization, linear, synchronization, domain, pilot",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "receiver, coded, methods, partial",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "frequency offset, low complexity, uplink, ofdma, approach",
+			 "target": []
+		}
+		],
+
+
+		"2008": [
+		{
+			 "id": 0,
+			 "topic": "power allocation, power control, allocation systems, power allocation systems, systems, low complexity, ofdm systems, multiuser systems, cdma systems, scheme systems, adaptive systems, mimo systems, efficient systems, detection systems, estimation systems, ofdma systems, equalization systems, uplink systems, downlink, subcarrier, multi-user, beamforming, single-carrier, turbo, links, user, algorithm, scheduling, rate, analysis, space-time codes, space-time block, state information, block codes, block mimo channels, space-time coded, distributed space-time, transmit antenna, modulation channels, space-time, codes, design mimo, mimo detection, mimo channels, space-time coding, design channels, optimal mimo, codes mimo, design, codes channels, space-time channels, modulation, mimo systems, antenna, communications, mimo, using, coding, linear, feedback, precoding, detection, differential, symbol, orthogonal, beamforming, receiver, diversity, fading, channels, wireless networks, wireless sensor networks, resource allocation, wireless channels, resource allocation networks, resource allocation wireless, cross-layer wireless networks, routing wireless networks, control wireless networks, medium access, energy wireless networks, allocation wireless networks, mobile networks, access control, bandwidth networks, mesh networks, analysis wireless, multi-hop wireless, ieee, scheduling networks, channels networks, fairness wireless, ieee networks, protocol networks, protocol wireless, wireless based, access, mobile wireless, access networks, access wireless, scheduling wireless, management, scheduling, wlans, multi-channel, mac, qos, efficiency, service, layer, traffic, throughput, applications, efficient, distributed, performance, fading channels, performance analysis, mimo channels, rayleigh fading, mimo fading channels, channels systems, rayleigh channels, capacity mimo channels, correlated channels, optimization cdma, diversity fading channels, channels information, error rate, correlated mimo, analysis fading channels, systems fading channels, performance fading channels, performance systems, performance selection, performance diversity, selection fading, transmission channels, channels applications, error channels, multiuser channels, correlated fading, imperfect channels, multiple channels, capacity systems, capacity fading, interference, optimization, optimization channels, mimo systems, rate channels, rate, correlation, transmitter, outage, probability, spatial, statistics, asymptotic, generalized, slow, impact, packet, feedback, channels estimation systems, channels estimation ofdm systems, ofdm frequency offset, impulse radio, joint channels estimation, uwb systems, channels frequency, decoding channels, uwb, decoding, iterative, receiver, acquisition, novel, pulse, timing, algorithm, data, signal, modeling, synchronization, multipath, method, carrier, multiplexing, based, multiple, approach, spatial, detection, analysis, design, performance, power control networks, cognitive radio networks, cooperative networks, cooperative diversity, cooperative wireless networks, spectrum radio networks, spectrum cognitive, distributed networks, hoc networks, wireless networks, cooperative diversity networks, scheme networks, cooperative relay, cellular networks, cooperative systems, radio systems, analysis networks, sensor networks, multi-hop networks, distributed cooperative, networks approach, wireless systems, cooperative communications, allocation radio, scheme wireless, optimal networks, routing networks, wireless relay, distributed power, diversity relay, selection networks, performance networks, relay networks, cooperation networks, relay, allocation networks, relaying, optimal, amplify-and-forward, energy-efficient, selection, opportunistic, asynchronous, robust, networks, coding, channels, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "power allocation, power control, allocation systems, power allocation systems, systems, low complexity, ofdm systems, multiuser systems, cdma systems, scheme systems, adaptive systems, mimo systems, efficient systems, detection systems, estimation systems, ofdma systems, equalization systems, uplink systems, downlink, subcarrier, multi-user, beamforming, single-carrier, turbo, links, user, algorithm, scheduling, rate, analysis",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "space-time codes, space-time block, state information, block codes, block mimo channels, space-time coded, distributed space-time, transmit antenna, modulation channels, space-time, codes, design mimo, mimo detection, mimo channels, space-time coding, design channels, optimal mimo, codes mimo, design, codes channels, space-time channels, modulation, mimo systems, antenna, communications, mimo, using, coding, linear, feedback, precoding, detection, differential, symbol, orthogonal, beamforming, receiver, diversity, fading, channels",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "wireless networks, wireless sensor networks, resource allocation, wireless channels, resource allocation networks, resource allocation wireless, cross-layer wireless networks, routing wireless networks, control wireless networks, medium access, energy wireless networks, allocation wireless networks, mobile networks, access control, bandwidth networks, mesh networks, analysis wireless, multi-hop wireless, ieee, scheduling networks, channels networks, fairness wireless, ieee networks, protocol networks, protocol wireless, wireless based, access, mobile wireless, access networks, access wireless, scheduling wireless, management, scheduling, wlans, multi-channel, mac, qos, efficiency, service, layer, traffic, throughput, applications, efficient, distributed, performance",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fading channels, performance analysis, mimo channels, rayleigh fading, mimo fading channels, channels systems, rayleigh channels, capacity mimo channels, correlated channels, optimization cdma, diversity fading channels, channels information, error rate, correlated mimo, analysis fading channels, systems fading channels, performance fading channels, performance systems, performance selection, performance diversity, selection fading, transmission channels, channels applications, error channels, multiuser channels, correlated fading, imperfect channels, multiple channels, capacity systems, capacity fading, interference, optimization, optimization channels, mimo systems, rate channels, rate, correlation, transmitter, outage, probability, spatial, statistics, asymptotic, generalized, slow, impact, packet, feedback",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "channels estimation systems, channels estimation ofdm systems, ofdm frequency offset, impulse radio, joint channels estimation, uwb systems, channels frequency, decoding channels, uwb, decoding, iterative, receiver, acquisition, novel, pulse, timing, algorithm, data, signal, modeling, synchronization, multipath, method, carrier, multiplexing, based, multiple, approach, spatial, detection, analysis, design, performance",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "power control networks, cognitive radio networks, cooperative networks, cooperative diversity, cooperative wireless networks, spectrum radio networks, spectrum cognitive, distributed networks, hoc networks, wireless networks, cooperative diversity networks, scheme networks, cooperative relay, cellular networks, cooperative systems, radio systems, analysis networks, sensor networks, multi-hop networks, distributed cooperative, networks approach, wireless systems, cooperative communications, allocation radio, scheme wireless, optimal networks, routing networks, wireless relay, distributed power, diversity relay, selection networks, performance networks, relay networks, cooperation networks, relay, allocation networks, relaying, optimal, amplify-and-forward, energy-efficient, selection, opportunistic, asynchronous, robust, networks, coding, channels",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "low complexity, downlink",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "ofdm systems, efficient systems, systems, multi-user",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "power allocation systems, power allocation, power control, ofdma, links, rate",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "multiuser systems, beamforming, user, scheduling, uplink, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "adaptive systems, equalization systems, single-carrier, turbo",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "state information, space-time block, space-time coded, space-time coding, coding, channels",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "antenna, modulation, transmit antenna, differential",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "space-time codes, communications, detection, symbol",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "using, feedback, beamforming",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "mimo channels, design channels, design mimo, optimal mimo, mimo, linear, design, precoding, orthogonal, receiver",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "cross-layer wireless networks, mobile networks, protocol networks, protocol wireless, mobile wireless, mac, based",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "resource allocation, resource allocation wireless, resource allocation networks, access wireless, access, wireless networks, management, qos, traffic",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "energy wireless networks, control networks, medium access, access control, control wireless, ieee networks, ieee, efficiency",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "wireless channels, fairness wireless, scheduling, wlans, multi-channel, applications, layer",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "wireless networks, wireless sensor networks, bandwidth networks",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "capacity mimo channels, multiple channels, imperfect channels, capacity, spatial, correlation, impact",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "performance analysis, correlated channels, analysis fading channels, performance fading channels, channels information, correlated mimo, correlated fading, performance diversity, performance selection, transmitter",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "optimization cdma, optimization, transmission, systems",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "fading channels, rayleigh fading, rayleigh channels",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "interference, error rate, outage",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "multiplexing, spatial, decoding",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "channels estimation systems, method, data, iterative, modeling, novel",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "joint channels, decoding channels, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "impulse radio, uwb systems, uwb, receiver, based, acquisition, performance",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "channels estimation ofdm, channels ofdm systems, estimation ofdm systems, ofdm frequency offset, channels frequency, carrier",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "scheme networks, cellular networks, optimal networks, scheme wireless, optimal",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "cognitive radio networks, spectrum radio networks, spectrum cognitive, radio systems",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "cooperative diversity, relay networks, cooperation networks, cooperative relay, wireless relay, selection networks, cooperative wireless, cooperative networks, relay, diversity relay, selection, amplify-and-forward, relaying, analysis",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "wireless networks, cooperative wireless networks, cooperative networks, hoc networks, networks, opportunistic",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "power control networks, distributed networks, routing networks, networks approach, sensor networks, distributed cooperative, wireless networks, energy-efficient, robust",
+			 "target": []
+		}
+		],
+
+
+		"2007": [
+		{
+			 "id": 0,
+			 "topic": "fading channels, channels estimation, mimo channels, channels estimation systems, systems fading channels, rayleigh fading, rayleigh channels, mimo fading channels, optimal mimo, channels estimation fading, channels model, multiple channels, optimal channels, performance channels, multiple fading, analysis channels, low channels, analysis fading, error channels, mimo systems, combining, multipath, ber, approach, based, uwb, receivers, performance systems, communication systems, transmit antenna, antenna systems, downlink multiuser, cellular systems, algorithm systems, mimo-ofdm systems, wireless systems, feedback systems, cdma systems, diversity systems, downlink systems, capacity systems, mimo systems, downlink, diversity, beamforming, cdma, adaptive, spatial, multiplexing, random, limited, outage, capacity, linear, application, imperfect, using, systems, power allocation, wireless sensor networks, resource allocation, allocation wireless networks, routing networks, relay networks, adaptation link, protocol sensor, power networks, wireless relay, power wireless, cooperative networks, power, wireless networks, opportunistic, energy, rate, spectrum, management, distributed, efficient, joint, scheme, scheduling, diversity, channels, networks, space-time block codes, block channels, space-time, codes, codes channels, space-time coding, orthogonal codes, orthogonal block, coded modulation, design codes, block fading, differential space-time, space-time trellis, space-time coded, orthogonal space-time, space-time channels, modulation, signals, ds-cdma, phase, transmission, uwb, analysis, ofdm systems, carrier frequency offset, frequency offset systems, frequency fading, channels estimation systems, channels ofdm systems, carrier frequency systems, frequency systems, uplink ofdma, interference cancellation, estimation ofdm, frequency channels, multiuser detection, frequency selective, joint systems, scheme channels, channels equalization, channels detection, frequency uplink, efficient systems, interference systems, mimo systems, frequency ofdm, ofdma systems, frequency estimation, receivers systems, synchronization systems, scheme systems, detection systems, uplink systems, detection, interference, equalization, systems, receivers, presence, pilot, reduction, robust, iterative, time, timing, symbol, precoding, blind, turbo, based, algorithm, design, wireless networks, performance analysis, admission control, hoc networks, cross-layer design, cross-layer wireless networks, access control, performance wireless, scheduling wireless networks, control wireless networks, admission networks, capacity networks, mobile networks, analysis networks, admission wireless, protocol networks, heterogeneous networks, capacity wireless, throughput wireless, performance networks, ieee, analysis wireless, service, mac, packet, delay, optimization, wlans, using, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "fading channels, channels estimation, mimo channels, channels estimation systems, systems fading channels, rayleigh fading, rayleigh channels, mimo fading channels, optimal mimo, channels estimation fading, channels model, multiple channels, optimal channels, performance channels, multiple fading, analysis channels, low channels, analysis fading, error channels, mimo systems, combining, multipath, ber, approach, based, uwb, receivers",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "performance systems, communication systems, transmit antenna, antenna systems, downlink multiuser, cellular systems, algorithm systems, mimo-ofdm systems, wireless systems, feedback systems, cdma systems, diversity systems, downlink systems, capacity systems, mimo systems, downlink, diversity, beamforming, cdma, adaptive, spatial, multiplexing, random, limited, outage, capacity, linear, application, imperfect, using, systems",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "power allocation, wireless sensor networks, resource allocation, allocation wireless networks, routing networks, relay networks, adaptation link, protocol sensor, power networks, wireless relay, power wireless, cooperative networks, power, wireless networks, opportunistic, energy, rate, spectrum, management, distributed, efficient, joint, scheme, scheduling, diversity, channels, networks",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "space-time block codes, block channels, space-time, codes, codes channels, space-time coding, orthogonal codes, orthogonal block, coded modulation, design codes, block fading, differential space-time, space-time trellis, space-time coded, orthogonal space-time, space-time channels, modulation, signals, ds-cdma, phase, transmission, uwb, analysis",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "ofdm systems, carrier frequency offset, frequency offset systems, frequency fading, channels estimation systems, channels ofdm systems, carrier frequency systems, frequency systems, uplink ofdma, interference cancellation, estimation ofdm, frequency channels, multiuser detection, frequency selective, joint systems, scheme channels, channels equalization, channels detection, frequency uplink, efficient systems, interference systems, mimo systems, frequency ofdm, ofdma systems, frequency estimation, receivers systems, synchronization systems, scheme systems, detection systems, uplink systems, detection, interference, equalization, systems, receivers, presence, pilot, reduction, robust, iterative, time, timing, symbol, precoding, blind, turbo, based, algorithm, design",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "wireless networks, performance analysis, admission control, hoc networks, cross-layer design, cross-layer wireless networks, access control, performance wireless, scheduling wireless networks, control wireless networks, admission networks, capacity networks, mobile networks, analysis networks, admission wireless, protocol networks, heterogeneous networks, capacity wireless, throughput wireless, performance networks, ieee, analysis wireless, service, mac, packet, delay, optimization, wlans, using",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "fading channels, rayleigh channels, channels model, rayleigh fading",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "mimo channels, approach",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "channels estimation, based",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "error channels, combining, analysis, ber, performance, fading",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "multiple channels, uwb, multipath, receivers",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "performance systems, communication systems, cellular systems, multiplexing, application, using",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "feedback systems, mimo-ofdm systems, adaptive, limited, imperfect, spatial, beamforming",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "transmit antenna, diversity, antenna",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "algorithm systems, cdma systems, capacity systems, cdma, capacity",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "downlink, downlink multiuser, linear",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "sensor networks, wireless sensor, routing networks, protocol sensor, wireless networks, efficient, distributed, energy",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "adaptation link, rate",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "power allocation, relay networks, power networks, wireless relay, power wireless, channels",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "cooperative, spectrum",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "resource allocation, opportunistic, wireless",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "uwb",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "orthogonal codes, design codes, codes",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "modulation, coded, coded modulation",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "signals, ds-cdma",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "space-time codes, block codes, space-time block, differential space-time, space-time coding",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "frequency offset, carrier frequency, frequency systems, frequency channels, frequency fading, carrier systems, carrier offset, offset systems, frequency selective, frequency",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "uplink ofdma, interference cancellation, channels equalization, interference systems, ofdma systems, equalization, scheme, turbo",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "ofdm systems, estimation systems, estimation ofdm, reduction, robust, pilot",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "receivers systems, receivers, synchronization, presence, time, blind, efficient, based",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "multiuser detection, channels detection, detection systems, detection, iterative, mimo, precoding",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "performance analysis, ieee, delay",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "hoc networks, protocol networks, mac, mobile",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "admission control, scheduling wireless, control networks, admission networks, control wireless, scheduling networks, admission wireless, throughput wireless, service",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "access control, packet",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "wireless networks, cross-layer networks, cross-layer wireless, capacity networks, heterogeneous networks",
+			 "target": []
+		}
+		],
+
+
+		"2013": [
+		{
+			 "id": 0,
+			 "topic": "resource allocation, power allocation, power control, power allocation networks, allocation relay, cooperative systems, distributed allocation, optimization systems, allocation channel, distributed power, ofdm systems, communications systems, optimal allocation, cooperative resource, joint systems, power relay, joint power, power systems, allocation cooperative, allocation systems, joint, distributed, cooperative, codes, ofdma, information, rate, asynchronous, space-time, multiuser, beamforming, via, systems, communications, transmission, estimation, design, wireless, relay networks, performance analysis, fading channel, mimo channel, mimo interference channel, channel, networks coding, performance analysis networks, analysis networks, relay channel, analysis networks coding, two-way relay, wireless channel, relay selection, two-way networks, gaussian channel, mimo relay, broadcast channel, two-way relaying, performance channel, coding two-way, interference networks, interference wireless, channel networks, throughput networks, performance wireless, wireless relay, relaying networks, channel model, diversity networks, analysis channel, diversity, analysis wireless, diversity channel, coding channel, relaying, ieee, multi-user, error, achievable, single-carrier, alignment, user, cooperative, based, systems, limited feedback, feedback scheme, feedback, scheme, based, transmission, multicell, novel, coordinated, adaptive, antenna, precoding, capacity, cooperation, mobile, selection, efficient, systems, beamforming, mimo, channel, networks, downlink systems, mimo systems, frequency, design, receivers, estimation, scheduling, constraints, downlink, robust, linear, carrier, offset, using, algorithm, packet, delay, multiple, optimal, ofdm, mimo, communications, systems, performance, analysis, wireless, channel, networks, cognitive radio networks, spectrum cognitive radio networks, sensing cognitive radio networks, access cognitive radio networks, spectrum sensing, channel cognitive radio, spectrum sensing cognitive radio, cognitive radio primary, cognitive radio user, spectrum sharing, spectrum, multiple access, cooperative sensing, cognitive systems, distributed cognitive, sensing channel, cooperative spectrum, allocation cognitive, allocation radio, radio systems, spectrum access, interference cognitive, access, game, approach, framework, underlay, detection, opportunistic, signal, control, power, wireless networks, wireless sensor networks, energy harvesting, cellular networks, analysis wireless networks, heterogeneous networks, energy efficiency, heterogeneous cellular networks, distributed wireless networks, power wireless networks, wireless energy harvesting, data wireless networks, distributed sensor networks, based wireless networks, allocation networks, wireless communications, data sensor, scheme networks, resource networks, cooperative networks, energy, wireless nodes, scheduling networks, energy networks, protocol wireless, mobile networks, optimal networks, modeling networks, efficient networks, optimal wireless, networks nodes, dynamic networks, protocol networks, secure, routing, energy-efficient, spatial, traffic, hybrid, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "resource allocation, power allocation, power control, power allocation networks, allocation relay, cooperative systems, distributed allocation, optimization systems, allocation channel, distributed power, ofdm systems, communications systems, optimal allocation, cooperative resource, joint systems, power relay, joint power, power systems, allocation cooperative, allocation systems, joint, distributed, cooperative, codes, ofdma, information, rate, asynchronous, space-time, multiuser, beamforming, via, systems, communications, transmission, estimation, design, wireless",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "relay networks, performance analysis, fading channel, mimo channel, mimo interference channel, channel, networks coding, performance analysis networks, analysis networks, relay channel, analysis networks coding, two-way relay, wireless channel, relay selection, two-way networks, gaussian channel, mimo relay, broadcast channel, two-way relaying, performance channel, coding two-way, interference networks, interference wireless, channel networks, throughput networks, performance wireless, wireless relay, relaying networks, channel model, diversity networks, analysis channel, diversity, analysis wireless, diversity channel, coding channel, relaying, ieee, multi-user, error, achievable, single-carrier, alignment, user, cooperative, based, systems",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "limited feedback, feedback scheme, feedback, scheme, based, transmission, multicell, novel, coordinated, adaptive, antenna, precoding, capacity, cooperation, mobile, selection, efficient, systems, beamforming, mimo, channel, networks",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "downlink systems, mimo systems, frequency, design, receivers, estimation, scheduling, constraints, downlink, robust, linear, carrier, offset, using, algorithm, packet, delay, multiple, optimal, ofdm, mimo, communications, systems, performance, analysis, wireless, channel, networks",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "cognitive radio networks, spectrum cognitive radio networks, sensing cognitive radio networks, access cognitive radio networks, spectrum sensing, channel cognitive radio, spectrum sensing cognitive radio, cognitive radio primary, cognitive radio user, spectrum sharing, spectrum, multiple access, cooperative sensing, cognitive systems, distributed cognitive, sensing channel, cooperative spectrum, allocation cognitive, allocation radio, radio systems, spectrum access, interference cognitive, access, game, approach, framework, underlay, detection, opportunistic, signal, control, power",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "wireless networks, wireless sensor networks, energy harvesting, cellular networks, analysis wireless networks, heterogeneous networks, energy efficiency, heterogeneous cellular networks, distributed wireless networks, power wireless networks, wireless energy harvesting, data wireless networks, distributed sensor networks, based wireless networks, allocation networks, wireless communications, data sensor, scheme networks, resource networks, cooperative networks, energy, wireless nodes, scheduling networks, energy networks, protocol wireless, mobile networks, optimal networks, modeling networks, efficient networks, optimal wireless, networks nodes, dynamic networks, protocol networks, secure, routing, energy-efficient, spatial, traffic, hybrid",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "ofdm systems, information, systems, estimation, communications",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "joint, codes, space-time, via, relay",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "cooperative systems, optimization systems, cooperative, distributed, multiuser, asynchronous, beamforming",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "power allocation, resource allocation, optimal allocation, ofdma",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "power control, rate",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "performance analysis, performance analysis networks, performance channel, analysis channel, cooperative",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "fading channel",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "mimo channel, relay channel, mimo interference channel, mimo relay, gaussian channel, broadcast channel, channel, alignment",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "relay networks, throughput networks, ieee, model, single-carrier",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "networks coding, two-way networks, two-way relaying, relaying networks, coding two-way, diversity networks, diversity, relaying, multi-user",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "scheme, antenna, novel, selection",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "capacity, precoding, cooperation, mimo",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "based, systems, mobile",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "feedback, limited feedback",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "coordinated, transmission, multicell, adaptive",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "constraints, multiple, delay, performance, systems",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "mimo, design, receivers, linear",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "scheduling, downlink, optimal, frequency",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "estimation, robust, algorithm, offset, packet, carrier, ofdm",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "using, communications",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "cognitive radio, cognitive networks, radio networks, allocation cognitive, allocation radio",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "approach, detection, signal",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "spectrum cognitive, sensing cognitive, spectrum sensing, spectrum sharing, cooperative sensing, cooperative spectrum, framework",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "cognitive primary, radio primary, cognitive systems, underlay, interference",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "radio user, cognitive user, access networks, access cognitive, access radio, access, game, opportunistic, control",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "energy networks, energy harvesting, wireless communications, wireless energy, energy efficiency, wireless harvesting, energy, optimal",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "wireless networks, networks, efficient networks, protocol networks",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "cellular networks, heterogeneous networks, modeling networks, heterogeneous cellular, traffic",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "energy-efficient, dynamic, networks",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "wireless networks, sensor networks, wireless sensor, distributed networks, analysis wireless, data networks, analysis networks, distributed sensor, based networks, data wireless, data sensor, distributed wireless, networks nodes, wireless nodes, wireless based",
+			 "target": []
+		}
+		],
+
+
+		"2012": [
+		{
+			 "id": 0,
+			 "topic": "wireless networks, sensor networks, networks coding, wireless sensor, wireless networks coding, wireless communication, cooperative wireless, routing networks, distributed networks, energy-efficient networks, cooperative networks, control networks, based networks, secure, multi-hop, using, mobile, efficient, based, approach, cognitive radio, cognitive networks, radio networks, spectrum sensing, cooperative spectrum sensing, spectrum sensing radio, spectrum sensing cognitive, spectrum access, cellular networks, spectrum networks, analysis networks, dynamic spectrum, access radio networks, spectrum, spectrum radio networks, spectrum cognitive networks, opportunistic spectrum, opportunistic access, allocation cognitive, resource networks, scheme networks, performance networks, opportunistic networks, allocation networks, sensing networks, transmission, throughput, heterogeneous, femtocell, hoc, scheduling, systems, fading channel, distributed antenna, interference channel, interference, analysis fading, rate channel, multiple, user, mimo, systems, channel estimation, performance analysis, analysis systems, ofdma systems, performance systems, based systems, systems receivers, mimo systems, scheme systems, estimation, systems, estimation systems, performance, scheme, ofdm, complexity, frequency, offset, carrier, detection, uplink, algorithm, model, joint, signal, using, relay networks, mimo channel, two-way relay channel, linear precoding, channel relay networks, amplify-and-forward relay, mimo systems, relay channel, mimo relay systems, relay selection, channel feedback, precoding systems, precoding mimo, relay, mimo networks, diversity channel, multiuser mimo, design systems, beamforming systems, cooperative channel, mimo linear, cooperative relay, precoding relay, beamforming channel, mimo interference, downlink systems, cooperative systems, systems feedback, mimo downlink, channel systems, mimo, design channel, beamforming, downlink, design, diversity, codes, block, partial, multi-cell, coded, csi, multi-user, imperfect, information, error, constraints, robust, space-time, relaying, cooperative, transmission, power, performance, systems, interference, channel, resource allocation, power allocation, allocation systems, allocation relay, energy efficiency, cooperative communication, joint allocation, optimal allocation, energy networks, cooperative relaying, allocation networks, energy, cooperative, capacity, relaying, adaptive, link, broadcast, scheduling, selection, optimization, antenna, channel, wireless, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "wireless networks, sensor networks, networks coding, wireless sensor, wireless networks coding, wireless communication, cooperative wireless, routing networks, distributed networks, energy-efficient networks, cooperative networks, control networks, based networks, secure, multi-hop, using, mobile, efficient, based, approach",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "cognitive radio, cognitive networks, radio networks, spectrum sensing, cooperative spectrum sensing, spectrum sensing radio, spectrum sensing cognitive, spectrum access, cellular networks, spectrum networks, analysis networks, dynamic spectrum, access radio networks, spectrum, spectrum radio networks, spectrum cognitive networks, opportunistic spectrum, opportunistic access, allocation cognitive, resource networks, scheme networks, performance networks, opportunistic networks, allocation networks, sensing networks, transmission, throughput, heterogeneous, femtocell, hoc, scheduling, systems",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "fading channel, distributed antenna, interference channel, interference, analysis fading, rate channel, multiple, user, mimo, systems",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "channel estimation, performance analysis, analysis systems, ofdma systems, performance systems, based systems, systems receivers, mimo systems, scheme systems, estimation, systems, estimation systems, performance, scheme, ofdm, complexity, frequency, offset, carrier, detection, uplink, algorithm, model, joint, signal, using",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "relay networks, mimo channel, two-way relay channel, linear precoding, channel relay networks, amplify-and-forward relay, mimo systems, relay channel, mimo relay systems, relay selection, channel feedback, precoding systems, precoding mimo, relay, mimo networks, diversity channel, multiuser mimo, design systems, beamforming systems, cooperative channel, mimo linear, cooperative relay, precoding relay, beamforming channel, mimo interference, downlink systems, cooperative systems, systems feedback, mimo downlink, channel systems, mimo, design channel, beamforming, downlink, design, diversity, codes, block, partial, multi-cell, coded, csi, multi-user, imperfect, information, error, constraints, robust, space-time, relaying, cooperative, transmission, power, performance, systems, interference, channel",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "resource allocation, power allocation, allocation systems, allocation relay, energy efficiency, cooperative communication, joint allocation, optimal allocation, energy networks, cooperative relaying, allocation networks, energy, cooperative, capacity, relaying, adaptive, link, broadcast, scheduling, selection, optimization, antenna, channel, wireless",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "based, secure",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "wireless sensor, sensor networks, wireless networks, routing networks, networks, multi-hop",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "using, distributed, mobile, efficient",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "networks coding, wireless networks coding, wireless communication, energy-efficient",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "wireless networks, control networks",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "analysis networks, transmission",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "cellular networks, resource networks, femtocell",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "spectrum access, access networks, opportunistic spectrum, dynamic spectrum, opportunistic access, access",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "cognitive radio, cognitive networks, radio networks",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "spectrum sensing, cooperative spectrum sensing, spectrum networks, sensing networks",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "interference, user",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "analysis fading, fading, rate",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "fading channel",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "distributed",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "multiple, antenna",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "analysis, uplink, ofdma",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "performance systems, systems receivers, performance, complexity, joint",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "based systems, scheme systems, detection, scheme, systems",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "estimation, algorithm, using",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "ofdm, frequency, offset, carrier",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "mimo systems, mimo relay, linear precoding, precoding relay, precoding systems, precoding mimo, multiuser mimo, mimo linear, mimo, partial, downlink",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "mimo channel, channel feedback, imperfect, information",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "diversity channel, diversity, cooperative, codes, block, space-time",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "beamforming systems, design, multi-cell, beamforming",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "relay networks, relay channel, two-way relay, two-way channel, amplify-and-forward relay, relay systems, relay, error, multi-user, coded",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "scheduling, relaying, adaptive, link",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "cooperative communication, cooperative, capacity",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "energy efficiency, broadcast",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "selection, optimal, antenna",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "resource allocation, power allocation",
+			 "target": []
+		}
+		],
+
+
+		"2011": [
+		{
+			 "id": 0,
+			 "topic": "estimation, ofdm, frequency, uwb, signal, maximum, applications, detection, efficient, multiple, algorithm, design, codes, systems, cognitive radio, cognitive radio systems, cooperative spectrum cognitive radio networks, spectrum sensing cognitive networks, cooperative spectrum sensing cognitive, sensing radio, based spectrum cognitive, radio channels, spectrum sharing, interference cancellation, dynamic spectrum, cognitive channels, spectrum access, spectrum channels, cognitive primary, cognitive interference, distributed cognitive, based radio, cooperative, model, user, multiple, detection, wireless networks, sensor networks, relay networks, cooperative wireless networks, power control networks, distributed networks, wireless sensor, power networks, networks coding, joint power, hoc networks, distributed wireless networks, power allocation, distributed relay, distributed control, joint networks, multi-hop networks, optimal networks, distributed power, multi-hop wireless, allocation networks, wireless relay, approach networks, mac networks, scheduling networks, decentralized, constraints, localization, cellular networks, transmission wireless, opportunistic relaying, capacity networks, transmission networks, capacity, transmission, relaying, outage, using, cooperation, block, protocol, information, codes, decode-and-forward, mobile, interference, beamforming, cooperative, analysis, systems, relay, networks, fading channels, mimo channels, performance analysis, adaptive modulation, channels, analysis fading, beamforming feedback, rate channels, analysis channels, systems fading, beamforming channels, analysis, diversity channels, performance channels, feedback, adaptive, hybrid, arq, correlated, multiuser, delay, space-time, coded, interference, cooperative, systems, cooperative relay, resource allocation, relay channels, mimo systems, relay power allocation, relay selection, amplify-and-forward relay, relay systems, amplify-and-forward systems, power systems, allocation channels, two-way relay, multiple relay, relay networks, antenna selection, allocation ofdma, relaying systems, performance systems, relay, mimo relay, design systems, mimo-ofdm systems, cooperative systems, design mimo, allocation systems, optimal systems, systems, systems channels, selection systems, allocation, mimo channels, ofdma, downlink, multi-user, precoding, training, spatial, multi-cell, scheme, communications, novel, linear, tradeoff, optimal, decode-and-forward, based, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "estimation, ofdm, frequency, uwb, signal, maximum, applications, detection, efficient, multiple, algorithm, design, codes, systems",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "cognitive radio, cognitive radio systems, cooperative spectrum cognitive radio networks, spectrum sensing cognitive networks, cooperative spectrum sensing cognitive, sensing radio, based spectrum cognitive, radio channels, spectrum sharing, interference cancellation, dynamic spectrum, cognitive channels, spectrum access, spectrum channels, cognitive primary, cognitive interference, distributed cognitive, based radio, cooperative, model, user, multiple, detection",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "wireless networks, sensor networks, relay networks, cooperative wireless networks, power control networks, distributed networks, wireless sensor, power networks, networks coding, joint power, hoc networks, distributed wireless networks, power allocation, distributed relay, distributed control, joint networks, multi-hop networks, optimal networks, distributed power, multi-hop wireless, allocation networks, wireless relay, approach networks, mac networks, scheduling networks, decentralized, constraints, localization",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "cellular networks, transmission wireless, opportunistic relaying, capacity networks, transmission networks, capacity, transmission, relaying, outage, using, cooperation, block, protocol, information, codes, decode-and-forward, mobile, interference, beamforming, cooperative, analysis, systems, relay, networks",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "fading channels, mimo channels, performance analysis, adaptive modulation, channels, analysis fading, beamforming feedback, rate channels, analysis channels, systems fading, beamforming channels, analysis, diversity channels, performance channels, feedback, adaptive, hybrid, arq, correlated, multiuser, delay, space-time, coded, interference, cooperative, systems",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "cooperative relay, resource allocation, relay channels, mimo systems, relay power allocation, relay selection, amplify-and-forward relay, relay systems, amplify-and-forward systems, power systems, allocation channels, two-way relay, multiple relay, relay networks, antenna selection, allocation ofdma, relaying systems, performance systems, relay, mimo relay, design systems, mimo-ofdm systems, cooperative systems, design mimo, allocation systems, optimal systems, systems, systems channels, selection systems, allocation, mimo channels, ofdma, downlink, multi-user, precoding, training, spatial, multi-cell, scheme, communications, novel, linear, tradeoff, optimal, decode-and-forward, based",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "ofdm, design, codes",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "efficient, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "detection, multiple",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "estimation, frequency, uwb, maximum",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "signal, applications, systems",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "cooperative",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "cognitive, radio, channels, networks",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "interference, cancellation, distributed",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "access, dynamic, model, spectrum",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "primary, based, sharing, user, sensing, channels, spectrum, networks, radio, cognitive",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "mac, networks",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "networks, wireless, sensor, approach",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "distributed, coding, networks",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "power, control, joint, networks",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "multi-hop, scheduling, decentralized, wireless, networks",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "using, cellular, networks",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "transmission, relaying, capacity, opportunistic, decode-and-forward, wireless, networks",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "protocol, beamforming",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "codes, block, mobile",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "outage, cooperation",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "rate, hybrid, multiuser, mimo",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "channels, mimo, modulation",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "feedback, adaptive, beamforming",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "fading, diversity, correlated, coded, channels",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "analysis, performance",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "allocation, ofdma, downlink, resource",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "mimo, design, precoding, spatial",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "systems, mimo-ofdm, optimal",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "selection, communications, based, scheme, antenna, tradeoff, novel",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "relay, amplify-and-forward, two-way, training, multiple, relaying, channels, cooperative, networks, mimo, systems",
+			 "target": []
+		}
+		],
+
+
+		"2010": [
+		{
+			 "id": 0,
+			 "topic": "ofdm systems, carrier offset, frequency offset, carrier frequency, estimation systems, estimation frequency, carrier ofdm, frequency systems, signals, iterative, uplink, compensation, novel, antenna, noise, joint, receiver, detector, ofdma, algorithms, based, channels, fading channels, channels estimation, channels, performance fading channels, mimo channels, rayleigh channels, capacity channels, rayleigh fading, error channels, communication channels, diversity, diversity channels, correlated, linear, block, rate, wireless networks, sensor networks, scheduling networks, cooperative wireless, cellular networks, wireless sensor, scheduling wireless, routing networks, cooperative networks, control networks, multi-hop wireless, protocol networks, performance wireless, distributed networks, mesh networks, performance networks, multi-channel networks, mobile networks, scheme networks, multi-hop networks, algorithms networks, energy, energy networks, multicast, evaluation, ieee, analysis, relay networks, two-way relay networks, performance analysis, networks coding, relay selection, cooperative networks, selection power, relay systems, analysis relay, power relay, performance cooperative, cooperative communication, selection cooperative, analysis networks, relay communication, cooperative, relay cooperative, analysis, codes, coded, cooperation, power, using, relaying, transmission, communication, space-time, opportunistic, distributed, protocol, amplify-and-forward, allocation, mimo, channels, cognitive radio, cognitive radio networks, sensing cognitive radio, spectrum cognitive networks, spectrum cognitive radio, spectrum sensing cognitive, cognitive radio channels, power control, spectrum sharing, power allocation, dynamic spectrum, cognitive systems, user, access, efficient, optimal, primary, approach, detection, capacity, analysis, cooperative, mimo channels, mimo systems, design systems, mimo, transmit systems, feedback systems, scheduling systems, systems channels, beamforming systems, systems, interference, broadcast, multi-user, transceiver, based, spatial, downlink, adaptive, multiuser, ",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "ofdm systems, carrier offset, frequency offset, carrier frequency, estimation systems, estimation frequency, carrier ofdm, frequency systems, signals, iterative, uplink, compensation, novel, antenna, noise, joint, receiver, detector, ofdma, algorithms, based, channels",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "fading channels, channels estimation, channels, performance fading channels, mimo channels, rayleigh channels, capacity channels, rayleigh fading, error channels, communication channels, diversity, diversity channels, correlated, linear, block, rate",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "wireless networks, sensor networks, scheduling networks, cooperative wireless, cellular networks, wireless sensor, scheduling wireless, routing networks, cooperative networks, control networks, multi-hop wireless, protocol networks, performance wireless, distributed networks, mesh networks, performance networks, multi-channel networks, mobile networks, scheme networks, multi-hop networks, algorithms networks, energy, energy networks, multicast, evaluation, ieee, analysis",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "relay networks, two-way relay networks, performance analysis, networks coding, relay selection, cooperative networks, selection power, relay systems, analysis relay, power relay, performance cooperative, cooperative communication, selection cooperative, analysis networks, relay communication, cooperative, relay cooperative, analysis, codes, coded, cooperation, power, using, relaying, transmission, communication, space-time, opportunistic, distributed, protocol, amplify-and-forward, allocation, mimo, channels",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "cognitive radio, cognitive radio networks, sensing cognitive radio, spectrum cognitive networks, spectrum cognitive radio, spectrum sensing cognitive, cognitive radio channels, power control, spectrum sharing, power allocation, dynamic spectrum, cognitive systems, user, access, efficient, optimal, primary, approach, detection, capacity, analysis, cooperative",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "mimo channels, mimo systems, design systems, mimo, transmit systems, feedback systems, scheduling systems, systems channels, beamforming systems, systems, interference, broadcast, multi-user, transceiver, based, spatial, downlink, adaptive, multiuser",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "ofdm",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "carrier offset, frequency offset, carrier frequency, estimation systems, carrier ofdm, frequency systems, estimation frequency, uplink, ofdma, novel",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "signals",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "iterative, antenna, detector, algorithms, systems",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "joint, compensation, systems",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "block",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "fading channels, channels estimation, channels, rate",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "diversity, linear",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "communication",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "rayleigh channels, capacity channels, performance channels, rayleigh fading, performance fading, fading channels, correlated, fading",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "sensor networks, wireless sensor, protocol networks, scheme networks, wireless networks, routing",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "multi-channel networks, wireless networks, performance wireless, multicast, ieee, wireless",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "algorithms networks, energy networks, energy",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "cellular networks, evaluation, mobile",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "wireless networks, scheduling networks, scheduling wireless, multi-hop wireless, control networks, multi-hop networks",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "opportunistic, coded, relaying, cooperation, space-time",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "cooperative, cooperative communication, communication, protocol, using",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "performance analysis, transmission",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "selection power, codes",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "relay networks, networks coding, two-way networks, two-way relay, amplify-and-forward, distributed",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "power control, power allocation, optimal",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "cognitive radio",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "access",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "spectrum cognitive, sensing cognitive, sensing radio, spectrum sensing, spectrum radio, capacity, detection",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "spectrum sharing, dynamic spectrum, spectrum networks, efficient",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "transmit systems, multi-user, beamforming",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "design systems, adaptive",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "interference, broadcast",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "feedback systems, scheduling systems, systems",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "mimo, based",
+			 "target": []
+		}
+		]
+
+	}
+]
