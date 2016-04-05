@@ -253,7 +253,7 @@ var Tree ={
 		var elements = [];
 		var edges = [];
 		var year = $("#conferenceYear").val();
-		console.log("--->"+$("#dataconferencia").val()+"    "+$("#conferenceYear").val());
+		// console.log("--->"+$("#dataconferencia").val()+"    "+$("#conferenceYear").val());
 		var jsonYear = json[0][year];
 		
 		for(i in jsonYear){
@@ -387,11 +387,11 @@ var interval = window.setInterval( function(){
 
 		var conference = $("#dataconferencia").val();
   		var year = $("#conferenceYear").val();
-  		//var cossineJSON = "data/dblp/cossine/"+conference+"_Cossine.json";
-  		console.log(cosseno[0]["2007"]);
+  		var cossineJSON = "data/dblp/cossine/"+conference+"_Cossine.json";
+  		// console.log(cosseno[0]["2007"]);
 
-  		console.log( "id"+Tree.click[0]+": "+Tree.topic[0]);
-  		console.log( "id"+Tree.click[1]+": "+Tree.topic[1]);
+  		// console.log( "id"+Tree.click[0]+": "+Tree.topic[0]);
+  		// console.log( "id"+Tree.click[1]+": "+Tree.topic[1]);
 
   		var arrTopic1 = Tree.topic[0].split(",");
   		var arrTopic2 = Tree.topic[1].split(",");
@@ -424,7 +424,7 @@ var interval = window.setInterval( function(){
   				arrTopic2[i] = '<span class="differ">'+arrTopic2[i]+'</span>';
   			}
   		}
-  		console.log("topic1: "+qtdTopicarrTopic1+"   topic2: "+qtdTopicarrTopic2);
+  		// console.log("topic1: "+qtdTopicarrTopic1+"   topic2: "+qtdTopicarrTopic2);
 
   		arrTopic2 = arrTopic2.join(","); 
 
@@ -436,17 +436,21 @@ var interval = window.setInterval( function(){
   		
   		$("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2);
 
+  		var objectName = year;
   		if(year == "ALL"){
-  			var hanID = Tree.click[0];
-  			var myID = Tree.click[1];
-  			for( i in cosseno[0][conference] ){
-  				if(i == hanID){  		
-  					$("#myModal").find("#cosseno").html(cosseno[0][conference][i].cos[myID]+"  ");
-  					
-  				}
-  				
-  			}  	   		 
+  			objectName = conference;
   		}
+  		console.log(objectName);
+		var hanID = Tree.click[0];
+		var myID = Tree.click[1];
+		for( i in cosseno[0][objectName] ){
+			if(i == hanID){  		
+				$("#myModal").find("#cosseno").html(cosseno[0][objectName][i].cos[myID]+"  ");
+				console.log("COSSENO:"+(cosseno[0][objectName][i].cos[myID]));
+			}
+			
+		}  	   		 
+  		
   		// $("#myModal").find("#cosseno").html(cossineJSON);
   		$("#myModal").modal();
   		Tree.topic=[];
