@@ -100,17 +100,6 @@
 	</div>
 
 
-<!-- 	<div class="form-group" id="features">
-		<div class="form-group" id:"cosine">
-		    <label for="exampleInputName2">Name</label>
-		    <input type="text" class="form-control" id="exampleInputName2" placeholder="Jane Doe" readonly>
-		</div>
-		<div class="form-group" id:"jaccard">
-		    <label for="exampleInputName2">Name</label>
-		    <input type="text" class="form-control" id="exampleInputName2" placeholder="Jane Doe" readonly	>
-		</div>
-	</div> -->
-
 	<div id="treeTopics">
 		<ul class="treelist">
 			<li>
@@ -130,12 +119,8 @@
 
 
 
-
-
-
-
 	<!-- Modal -->
-	<div class="modal fade" id="myModal" tabindex="1" role="dialog" aria-labelledby="myModalLabel">
+<!-- 	<div class="modal fade" id="myModal" tabindex="1" role="dialog" aria-labelledby="myModalLabel">
 	  <div class="modal-dialog" role="document">
 	    <div class="modal-content">
 	      <div class="modal-header">
@@ -158,12 +143,12 @@
 					<div>
 
 					  <!-- Nav tabs -->
-					  <ul class="nav nav-tabs" role="tablist">
+<!-- 					  <ul class="nav nav-tabs" role="tablist">
 					    <li role="presentation" class="active"><a href="#different" aria-controls="different" role="tab" data-toggle="tab">Topic</a></li>
 					    <li role="presentation"><a href="#completelyDifferent" aria-controls="completelyDifferent" role="tab" data-toggle="tab">Term</a></li>
 					  </ul>
 
-					  <!-- Tab panes -->
+					  Tab panes
 					  <div class="tab-content">
 					    <div role="tabpanel" class="tab-pane fade in active" id="different"><div id="my_topic"></div></div>
 					    <div role="tabpanel" class="tab-pane fade" id="completelyDifferent"><div id="my_term"></div></div>
@@ -176,8 +161,8 @@
 	      </div>	      
 	    </div>
 	  </div>
-	</div>
-	<div id="container" ></div>
+	</div> --> 
+	<!-- <div id="container" ></div> -->
 
 	<script src="js/init.js"></script>
 	<script src="lib/bootstrap.min.js"></script>
