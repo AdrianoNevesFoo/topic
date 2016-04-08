@@ -162,7 +162,7 @@
 	    </div>
 	  </div>
 	</div> --> 
-	<!-- <div id="container" ></div> -->
+	<div id="container" ></div>
 
 	<script src="js/init.js"></script>
 	<script src="lib/bootstrap.min.js"></script>
