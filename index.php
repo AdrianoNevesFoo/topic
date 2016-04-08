@@ -52,7 +52,7 @@
 			<li>
 				<div class="panel panel-default">
 				  <div class="panel-heading">
-				    <h3 class="panel-title">Han Topic Tree - DBLP</h3>
+				    <h3 class="panel-title">CATHY Topic Tree</h3>
 				  </div>
 				  <div class="panel-body">
 				    <div id="han_tree"></div>					
@@ -65,7 +65,7 @@
 
 				<div class="panel panel-primary">
 				  <div class="panel-heading">
-				    <h3 id="topicTitle" class="panel-title">My Topic Tree</h3>
+				    <h3 id="topicTitle" class="panel-title">Dynamic Cubing Topic Tree</h3>
 				  </div>
 				  <div class="panel-body">
 				    <div id="my_tree"></div>
@@ -103,11 +103,11 @@
 	<div id="treeTopics">
 		<ul class="treelist">
 			<li>
-			    <h3>Han Topic</h3>
+			    <h3>CATHY Topics</h3>
 			    <div id="han_tree_details"></div>					
 			</li>
 			<li>
-				<h3>My Topic</h3>
+				<h3>Dynamic Topics</h3>
 				<div id="my_tree_details"></div>
 			</li>	
 		</ul>
