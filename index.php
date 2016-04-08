@@ -55,9 +55,7 @@
 				    <h3 class="panel-title">Han Topic Tree - DBLP</h3>
 				  </div>
 				  <div class="panel-body">
-				    <div id="han_tree"></div>
-					<h3>Han Topic</h3>
-					<div id="han_tree_details"></div>
+				    <div id="han_tree"></div>					
 				  </div>
 				</div>
 				
@@ -70,16 +68,72 @@
 				    <h3 id="topicTitle" class="panel-title">My Topic Tree</h3>
 				  </div>
 				  <div class="panel-body">
-				    				<div id="my_tree"></div>
-				<h3>My Topic</h3>
-				<div id="my_tree_details"></div>
+				    <div id="my_tree"></div>
+
 				  </div>
 				</div>
 
 			</li>	
 		</ul>
-
 	</div>
+
+	<div class="container" id="features">
+		<!-- <h2>MEasures</h2> -->
+	  <form role="form">
+	    <div class="form-group">
+	      <div class="col-xs-2" id="cosine">
+	        <label for="ex1">cosine</label>
+	        <strong> <input class="form-control" id="cosineValue" type="text" readonly> </strong>
+	      </div>
+
+	      <div class="col-xs-2" id="jaccard">
+	        <label for="ex1">jaccard</label>
+	        <input class="form-control" id="jaccardValue" type="text" readonly>
+	      </div>
+
+	      <div class="col-xs-2" id="entropy">
+	        <label for="ex1">entropy</label>
+	        <input class="form-control" id="entropyValue" type="text" readonly>
+	      </div>
+	    </div>
+	  </form>
+	</div>
+
+
+<!-- 	<div class="form-group" id="features">
+		<div class="form-group" id:"cosine">
+		    <label for="exampleInputName2">Name</label>
+		    <input type="text" class="form-control" id="exampleInputName2" placeholder="Jane Doe" readonly>
+		</div>
+		<div class="form-group" id:"jaccard">
+		    <label for="exampleInputName2">Name</label>
+		    <input type="text" class="form-control" id="exampleInputName2" placeholder="Jane Doe" readonly	>
+		</div>
+	</div> -->
+
+	<div id="treeTopics">
+		<ul class="treelist">
+			<li>
+			    <h3>Han Topic</h3>
+			    <div id="han_tree_details"></div>					
+			</li>
+			<li>
+				<h3>My Topic</h3>
+				<div id="my_tree_details"></div>
+			</li>	
+		</ul>
+
+
+	</div>	
+		
+
+
+
+
+
+
+
+
 	<!-- Modal -->
 	<div class="modal fade" id="myModal" tabindex="1" role="dialog" aria-labelledby="myModalLabel">
 	  <div class="modal-dialog" role="document">

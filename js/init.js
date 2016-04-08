@@ -198,25 +198,10 @@ var Tree ={
 		});
 		for( i in elements ){
 			var html = elements[i].data.topic;
-			/*tree.$('#'+elements[i].data.id).qtip({
-			  content: 'Topics:<br> '+html+"",
-			  position: {
-			    my: 'top center',
-			    at: 'bottom center'
-			  },
-			  style: {
-			    classes: 'myCustomClass',
-			    width:800,
-			    tip: {
-			      width: 16,
-			      height: 8
-			    }
-			  }
-			});	*/
 
 			tree.nodes().on("tap", function(evt){
 				var tree_id = $( evt.cy.container() ).attr("id") ;
-				$("#"+tree_id+"_details").html(this.data('topic'));
+				// $("#"+tree_id+"_details").html(this.data('topic'));
 
 			  	if( Tree.click.length > 0 && Tree.click.length <2 ){
 			  		var checked = false;
@@ -256,11 +241,9 @@ var Tree ={
 		var elements = [];
 		var edges = [];
 		var year = $("#conferenceYear").val();
-		// console.log("--->"+$("#dataconferencia").val()+"    "+$("#conferenceYear").val());
 		var jsonYear = json[0][year];
 		
 		for(i in jsonYear){
-			// console.log(jsonYear[i]["target"]);
 			var obj = {
 				data:{
 					id: jsonYear[i]["id"],
@@ -331,25 +314,9 @@ var Tree ={
 		});
 		for( i in elements ){
 			var html = elements[i].data.topic;
-			/*tree.$('#'+elements[i].data.id).qtip({
-			  content: 'Topics:<br> '+html+"",
-			  position: {
-			    my: 'top center',
-			    at: 'bottom center'
-			  },
-			  style: {
-			    classes: 'myCustomClass',
-			    width:800,
-			    tip: {
-			      width: 16,
-			      height: 8
-			    }
-			  }
-			});	*/
 
 			tree.nodes().on("tap", function(evt){
 				var tree_id = $( evt.cy.container() ).attr("id") ;
-				$("#"+tree_id+"_details").html(this.data('topic'));
 
 			  	if( Tree.click.length > 0 && Tree.click.length <2 ){
 			  		var checked = false;
@@ -364,16 +331,12 @@ var Tree ={
 			  			Tree.click.push( this.data('id') );
 			  			Tree.topic.push( this.data('topic') );
 			  			Tree.treeid.push( tree_id );
-			  			//console.log( "Tamanho: "+Tree.click.length);
-			  			//console.log( Tree.click);
 			  		}
 			  	} else if(Tree.click.length == 0){
 			  		tree.$("#"+this.data('id')).style('background-color',"#DFF80B");	
 			  		Tree.click.push( this.data('id') );
 			  		Tree.topic.push( this.data('topic') );
 			  		Tree.treeid.push( tree_id );
-			  		//console.log( "Tamanho: "+Tree.click.length);
-			  		//console.log( Tree.click);
 			  	}
 
 			  	
@@ -391,10 +354,7 @@ var interval = window.setInterval( function(){
 		var conference = $("#dataconferencia").val();
   		var year = $("#conferenceYear").val();
   		var cossineJSON = "data/dblp/cossine/"+conference+"_Cossine.json";
-  		// console.log(cosseno[0]["2007"]);
 
-  		// console.log( "id"+Tree.click[0]+": "+Tree.topic[0]);
-  		// console.log( "id"+Tree.click[1]+": "+Tree.topic[1]);
 
   		var arrTopic1 = Tree.topic[0].split(",");
   		var arrTopic2 = Tree.topic[1].split(",");
@@ -411,12 +371,19 @@ var interval = window.setInterval( function(){
   			if( arrTopic1.indexOf( arrTopic2[i]) == -1){
   				arrTopic2[i] = '<span class="differ">'+arrTopic2[i]+'</span>';
   				qtdTopicosDiferentes = qtdTopicosDiferentes+1;
+  			}else{
+  				console.log(arrTopic1.indexOf( arrTopic2[i]));
+  				arrTopic1[arrTopic1.indexOf( arrTopic2[i])] = '<span class="equals">'+'<strong>'+arrTopic1[arrTopic1.indexOf( arrTopic2[i])]+'</strong>'+'</span>';
   			}
   		}
   		
   		arrTopic2 = arrTopic2.join(","); 
-  		$("#myModal").find("#han_topic").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+Tree.topic[0]+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);  		
-  		$("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
+  		// $("#myModal").find("#han_topic").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+Tree.topic[0]+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);  		
+  		// $("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
+
+  		$("#han_tree_details").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+arrTopic1+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);
+  		$("#my_tree_details").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
+  		
 
 
   		var qtdTopicosTotalDiferentes = 0;
@@ -427,7 +394,7 @@ var interval = window.setInterval( function(){
   			}
   		}
   		topicDiffer2 = topicDiffer2.join(", ");
-  		$("#myModal").find("#my_term").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+topicDiffer2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos Totalmente diferentes: "+qtdTopicosTotalDiferentes);
+  		// $("#myModal").find("#my_term").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+topicDiffer2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos Totalmente diferentes: "+qtdTopicosTotalDiferentes);
 
 
 
@@ -439,13 +406,14 @@ var interval = window.setInterval( function(){
 		var hanID = Tree.click[0];
 		var myID = Tree.click[1];
 		for( i in cosseno[0][objectName] ){
-			if(i == hanID){  		
-				$("#myModal").find("#cosseno").html(cosseno[0][objectName][i].cos[myID]+"  ");				
+			if(i == hanID){  
+				$("#cosineValue").attr("value", cosseno[0][objectName][i].cos[myID]);
+				// $("#myModal").find("#cosseno").html(cosseno[0][objectName][i].cos[myID]+"  ");				
 			}
 			
 		}  	   		 
   		
-  		$("#myModal").modal();
+  		// $("#myModal").modal();
   		Tree.topic=[];
   		Tree.click=[];
   		Tree.tree1.nodes().forEach(function( ele ){

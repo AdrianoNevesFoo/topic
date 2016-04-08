@@ -1709,7 +1709,8 @@ pre code {
     width: 25%
 }
 .col-xs-2 {
-    width: 16.66666667%
+    text-align: center;
+    width: 250px;
 }
 .col-xs-1 {
     width: 8.33333333%
@@ -2678,7 +2679,7 @@ output {
 .form-control[disabled],
 .form-control[readonly],
 fieldset[disabled] .form-control {
-    background-color: #eee;
+    background-color: white;
     opacity: 1
 }
 .form-control[disabled],

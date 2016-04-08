@@ -20,6 +20,8 @@ ul.treelist li{
 	 width: 900px;
     height: 200px;
 }
+
+
 .myCustomClass .qtip-content{
     font-size: 12px;
     border-color: rgb(0,190,0);
@@ -27,13 +29,25 @@ ul.treelist li{
 	 width: 900px;
     height: 200px;
 }
+#treeTopics h3{
+  color: white;
+  background-color: #303030;
+}
+h3{
+  text-align: center;
+}
+
 
 h4.cosseno{
 	margin-left: 174px;
 	font-weight: bold;
 }
 span.differ{
-	background: #DFF80B;
+	background: #FFD8D8  ;
+}
+
+span.equals{
+  background: #78FDCC  ;
 }
 
 span.totaldiffer{
@@ -47,6 +61,12 @@ span.totaldiffer{
   padding: 4px;
 }
 
+#features{
+  margin-top:30px;
+  margin-left: 550px;
+}
+
+
 #filtros{
   margin-left:5px;
   margin-top:55px;
@@ -54,6 +74,14 @@ span.totaldiffer{
   padding: 4px;
 }
 
+#treeTopics{
+  margin-top:10px;
+  padding: 4px;
+}
+
+#container{
+  margin-top:205px;
+}
 #Hierarchy{  
   color:#FFFFFF;
   margin-bottom:30px;
