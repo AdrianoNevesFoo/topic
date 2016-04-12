@@ -1,0 +1,755 @@
+[
+	{
+		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "circuits, finite state machine, formal verification, sequential circuits, test generation, design circuits, synchronous sequential circuits, test, fault simulation, decision diagrams",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "circuits, finite state machine, formal verification, sequential circuits, test generation, design circuits, synchronous sequential circuits, test, fault simulation, decision diagrams",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "cache, data cache, branch prediction, memory systems, cache design, low power, cache processor, leakage power, power reduction, cache performance",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "timing analysis, power analysis, analysis, static timing analysis, cmos circuits, statistical timing analysis, performance analysis, gate sizing, transmission lines, process variations",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fault tolerant, floating point, algorithm, soft error, fault diagnosis, error detection, vlsi design, dynamically reconfigurable, routing algorithm, parallel algorithm",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "low power, design, design methodology, embedded systems, processor, register file, low power design, embedded processor, design systems, design processor",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "on-chip network, chip multiprocessors, technology mapping, embedded systems, mapping fpga, network, supply voltage, systems, clock distribution, power supply",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "decision diagrams, behavioral synthesis, binary diagrams, synthesis circuits, binary decision, circuits using, using, synthesis, logic, logic design",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "design test, scan design, test, test generation, test using, path delay, fault test, using scan, delay fault, test analog",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "finite state machine, formal verification, verification, high-level synthesis, simulation circuits, simulation using, verification circuits, efficient symbolic, state, synthesis state",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "test pattern generation, model checking, automatic test generation, equivalence checking, design testability, generation circuits, generation, checking, testability, path",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "circuits, sequential circuits, design circuits, synchronous sequential circuits, combinational circuits, test sequential circuits, asynchronous circuits, test compaction, based circuits, optimization circuits",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "cache design, cache performance, cache, using cache, techniques performance, access cache, cache replacement, cache prefetching, techniques cache, techniques",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "branch prediction, performance, branch predictors, architecture, latency, shared, value, multithreaded, level, multi-processor",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "energy cache, reducing energy, dynamic management, energy efficiency, thermal management, energy, improving cache, dynamic energy, cache management, energy efficient",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "low power, leakage power, power reduction, power, leakage reduction, dynamic, energy reduction, dynamic power, scheme cache, power cache",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "memory systems, memory architecture, data cache, power data, memory, memory cache, data, cost, memory data, compression",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "power analysis, timing analysis, analysis circuits, process variations, static analysis, static timing, statistical analysis, statistical timing, analysis, analysis design",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "power estimation, performance analysis, performance, interconnect, placement, estimation, crosstalk, global, improvement, area",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "buffer, tree, module, buffer insertion, sram, via, switch, optimal, router, constraints",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "cmos circuits, gate sizing, cmos logic, logic gate, gate, cmos, static, transistor, aware, reduction",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "transmission lines, accurate model, model, modeling, efficient, memory, fast, delay, accurate, simulation",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "fault tolerant, floating point, vlsi design, fault diagnosis, vlsi, multiplier, fault, parallel, distributed, array",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "soft error, error detection, design error, error circuits, error, digital, detection, concurrent, multiplication, self-timed",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "algorithm, dynamically reconfigurable, routing algorithm, reconfigurable, communication, noc, matching, channel, networks-on-chip, redundant",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "implementation, low-power, high-performance, energy-efficient, novel, code, engine, chip, architecture, pipelined",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "scheduling, multiple, optimal, adder, computing, cell, computation, graphs, using, case",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "low power, embedded systems, embedded processor, power design, low design, design embedded, power consumption, power applications, power embedded, low processor",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "applications processor, real-time systems, applications specific, specific processor, embedded software, applications, applications design, embedded applications, architecture applications, study",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "design, design methodology, design systems, microprocessor, design microprocessor, mhz microprocessor, design evaluation, design performance, tool design, design implementation",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "register file, architecture, architecture applications, image processing, architecture systems, processing, architecture signal, architecture processing, dsp, framework",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "processor, design processor, hardware design, hardware trojan, hardware, performance processor, risc processor, superscalar processor, resource, simulators",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "on-chip network, clock distribution, power network, design network, network, neural network, interconnection network, clock network, mesh network, network based",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "technology mapping, mapping fpga, fpga based, technology fpga, fpga, clock, mapping, structure, scheduling, improved",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "chip multiprocessors, approach systems, approach, heterogeneous, chip, workloads, interconnect, applications, optical, hierarchical",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "power supply, supply voltage, optimization, design optimization, integrated, high-speed, voltage, supply, physical, deep",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "systems, embedded systems, many-core systems, multicore, dynamic systems, protocol, socs, programmable, tuning, throughput",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "circuits, finite state machine, formal verification, sequential circuits, test generation, design circuits, synchronous sequential circuits, test, fault simulation, decision diagrams, binary diagrams, model checking, equivalence checking, high-level synthesis, test pattern generation, using, test generation circuits, behavioral synthesis, design test, combinational circuits",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "circuits, finite state machine, formal verification, sequential circuits, test generation, design circuits, synchronous sequential circuits, test, fault simulation, decision diagrams, binary diagrams, model checking, equivalence checking, high-level synthesis, test pattern generation, using, test generation circuits, behavioral synthesis, design test, combinational circuits",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "cache, data cache, branch prediction, memory systems, cache design, low power, cache processor, leakage power, power reduction, cache performance, leakage reduction, energy, branch predictors, cache architecture, data, energy efficiency, using cache, dynamic power, energy cache, dynamic energy",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "timing analysis, power analysis, analysis, static timing analysis, cmos circuits, statistical timing analysis, performance analysis, gate sizing, transmission lines, process variations, analysis circuits, performance optimization, buffer insertion, cmos logic, power estimation, timing, timing constraints, accurate model, logic gate, gate",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fault tolerant, floating point, algorithm, soft error, fault diagnosis, error detection, vlsi design, dynamically reconfigurable, routing algorithm, parallel algorithm, algorithm implementation, multiple fault, fpga using, error circuits, array architecture, multiplier, using multiple, fault detection, detection, design error",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "low power, design, design methodology, embedded systems, processor, register file, low power design, embedded processor, design systems, design processor, architecture applications, applications specific processor, applications, hardware trojan, design microprocessor, microprocessor, image processing, applications processor, performance processor, design methodology microprocessor",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "on-chip network, chip multiprocessors, technology mapping, embedded systems, mapping fpga, network, supply voltage, systems, clock distribution, power supply, neural network, interconnection network, power network, mesh network, design network, synthesis systems, many-core systems, approach systems, fpga based, technology fpga",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "decision diagrams, behavioral synthesis, binary diagrams, synthesis circuits, binary decision, circuits using, using, synthesis, logic, logic design, logic synthesis, logic using, design using, synthesis using, using decision, using binary, using boolean, function, boolean, assertion",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "design test, scan design, test, test generation, test using, path delay, fault test, using scan, delay fault, test analog, delay test, scan, test circuits, method, functional, delay, fault, analog, selection, coverage",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "finite state machine, formal verification, verification, high-level synthesis, simulation circuits, simulation using, verification circuits, efficient symbolic, state, synthesis state, machine using, using state, simulation, techniques simulation, symbolic verification, symbolic, efficient, verification techniques, minimization, based simulation",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "test pattern generation, model checking, automatic test generation, equivalence checking, design testability, generation circuits, generation, checking, testability, path, tool, random, generator, complexity, bdd, datapath, fsm, post-silicon, partial, transformations",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "circuits, sequential circuits, design circuits, synchronous sequential circuits, combinational circuits, test sequential circuits, asynchronous circuits, test compaction, based circuits, optimization circuits, fault circuits, analysis circuits, logic circuits, bist, sequences, overhead, partitioning, robust, parametric, evaluation",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "cache design, cache performance, cache, using cache, techniques performance, access cache, cache replacement, cache prefetching, techniques cache, techniques, exploiting, effective, trace, tag, tolerance, tradeoffs, address, capacity, load, sharing",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "branch prediction, performance, branch predictors, architecture, latency, shared, value, multithreaded, level, multi-processor, improve, buffer, context, write, bandwidth",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "energy cache, reducing energy, dynamic management, energy efficiency, thermal management, energy, improving cache, dynamic energy, cache management, energy efficient, management, improving, adaptive, mechanism, execution, issues, speculative, reliability, real-time, thread",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "low power, leakage power, power reduction, power, leakage reduction, dynamic, energy reduction, dynamic power, scheme cache, power cache, dynamic cache, reduction, scheme, voltage, scaling, controller, multiprocessors, resizing, chip, enhancement",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "memory systems, memory architecture, data cache, power data, memory, memory cache, data, cost, memory data, compression, intelligent, caching, hybrid, dram, behavior, reducing, optimizing, register, test, low",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "power analysis, timing analysis, analysis circuits, process variations, static analysis, static timing, statistical analysis, statistical timing, analysis, analysis design, analysis based, considering, variations, characterization, correlation, current, voltage, transient, leakage, time",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "power estimation, performance analysis, performance, interconnect, placement, estimation, crosstalk, global, improvement, area, routing, noise, vlsi, comparative, flip-flops, gpu, thermal, study, on-chip",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "buffer, tree, module, buffer insertion, sram, via, switch, optimal, router, constraints, early, steiner, on-chip",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "cmos circuits, gate sizing, cmos logic, logic gate, gate, cmos, static, transistor, aware, reduction, space, exploration, constrained, optimization, theory, wire, memories, technology, using, design",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "transmission lines, accurate model, model, modeling, efficient, memory, fast, delay, accurate, simulation, driven, change, partitioning, minimum, domain, technologies, timing",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "fault tolerant, floating point, vlsi design, fault diagnosis, vlsi, multiplier, fault, parallel, distributed, array, problem, testing, pipeline, block, comparison, hard, processor",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "soft error, error detection, design error, error circuits, error, digital, detection, concurrent, multiplication, self-timed, number, practical, linear, division, divider, mode, adaptive, wireless, based, design",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "algorithm, dynamically reconfigurable, routing algorithm, reconfigurable, communication, noc, matching, channel, networks-on-chip, redundant, runtime, delay, switching, partitioning, efficient, solution, input, fpga, architecture, fault",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "implementation, low-power, high-performance, energy-efficient, novel, code, engine, chip, architecture, pipelined, variable, reduced, fault-tolerant, optimized, devices, single, reliable, search, radix-, cmos",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "scheduling, multiple, optimal, adder, computing, cell, computation, graphs, using, case, heuristic, filters, stochastic, simple, standard, floating-point, fpga, design, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "low power, embedded systems, embedded processor, power design, low design, design embedded, power consumption, power applications, power embedded, low processor, performance embedded, power processor, low applications, embedded, power estimation, architecture embedded, control processor, power systems, low systems, performance power",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "applications processor, real-time systems, applications specific, specific processor, embedded software, applications, applications design, embedded applications, architecture applications, study, real-time, computer, software, low-power, core, rapid, multi-core, cad, prototyping, use",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "design, design methodology, design systems, microprocessor, design microprocessor, mhz microprocessor, design evaluation, design performance, tool design, design implementation, methodology microprocessor, architectural, design instruction, instruction, interface, monitoring, impact, designing, servers, support",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "register file, architecture, architecture applications, image processing, architecture systems, processing, architecture signal, architecture processing, dsp, framework, mobile, signal, platforms, environment, simd, vliw, integration, coprocessor, video, asic",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "processor, design processor, hardware design, hardware trojan, hardware, performance processor, risc processor, superscalar processor, resource, simulators, challenges, hybrid, ibm, cpu, attacks, powerpc",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "on-chip network, clock distribution, power network, design network, network, neural network, interconnection network, clock network, mesh network, network based, based, routing, fast, sensors, yield, resonant, bound, processor, prediction, analysis",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "technology mapping, mapping fpga, fpga based, technology fpga, fpga, clock, mapping, structure, scheduling, improved, binding, retiming, clocking, multimedia, future, scheme, synthesis, algorithm, design",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "chip multiprocessors, approach systems, approach, heterogeneous, chip, workloads, interconnect, applications, optical, hierarchical, mpsocs, development, behavior, simulation, impact, transform, ics, task, architecture, dynamic",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "power supply, supply voltage, optimization, design optimization, integrated, high-speed, voltage, supply, physical, deep, circuits, accelerator, three-dimensional, assignment, scaling, allocation, design, systems",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "systems, embedded systems, many-core systems, multicore, dynamic systems, protocol, socs, programmable, tuning, throughput, system-level, analog, silicon, flexible, communication",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "circuits, finite state machine, formal verification, sequential circuits, test generation, design circuits, synchronous sequential circuits, test, fault simulation, decision diagrams, binary diagrams, model checking, equivalence checking, high-level synthesis, test pattern generation, using, test generation circuits, behavioral synthesis, design test, combinational circuits, binary decision, synthesis, analog circuits, automatic test generation, circuits using, asynchronous circuits, design testability, test sequential circuits, synthesis circuits, test circuits, timing verification, logic synthesis, scan design, logic using, test compaction, logic, efficient symbolic, verification, simulation circuits, testability circuits, logic design, fault test, synthesis datapath, based circuits, state, simulation using, symbolic verification, delay fault, fault sequential, optimization circuits",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "circuits, finite state machine, formal verification, sequential circuits, test generation, design circuits, synchronous sequential circuits, test, fault simulation, decision diagrams, binary diagrams, model checking, equivalence checking, high-level synthesis, test pattern generation, using, test generation circuits, behavioral synthesis, design test, combinational circuits, binary decision, synthesis, analog circuits, automatic test generation, circuits using, asynchronous circuits, design testability, test sequential circuits, synthesis circuits, test circuits, timing verification, logic synthesis, scan design, logic using, test compaction, logic, efficient symbolic, verification, simulation circuits, testability circuits, logic design, fault test, synthesis datapath, based circuits, state, simulation using, symbolic verification, delay fault, fault sequential, optimization circuits",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "cache, data cache, branch prediction, memory systems, cache design, low power, cache processor, leakage power, power reduction, cache performance, leakage reduction, energy, branch predictors, cache architecture, data, energy efficiency, using cache, dynamic power, energy cache, dynamic energy, dynamic, power management, data prefetching, memory architecture, dynamic management, thermal management, power data, reducing energy, memory, branch processor, access cache, cache replacement, energy efficient, reducing power, error memory, cache systems, reducing, shared memory, cache embedded, improving performance, adaptive power, energy reduction, performance power, techniques cache, cache prefetching, efficient cache, using data, on-chip cache, management, performance memory",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "timing analysis, power analysis, analysis, static timing analysis, cmos circuits, statistical timing analysis, performance analysis, gate sizing, transmission lines, process variations, analysis circuits, performance optimization, buffer insertion, cmos logic, power estimation, timing, timing constraints, accurate model, logic gate, gate, gate model, analysis design, fast analysis, modeling, analysis based, cmos, model, considering, variations, accurate, static, crosstalk, placement, tree, buffer, module, lines, global, estimation, characterization, change, driven, improvement, wire, noise, switch, minimum, sram, early, correlation",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fault tolerant, floating point, algorithm, soft error, fault diagnosis, error detection, vlsi design, dynamically reconfigurable, routing algorithm, parallel algorithm, algorithm implementation, multiple fault, fpga using, error circuits, array architecture, multiplier, using multiple, fault detection, detection, design error, efficient algorithm, vlsi, algorithm vlsi, using algorithm, parallel, reconfigurable, error, digital, multiple, implementation, distributed, matching, fault-tolerant, energy-efficient, fault, adder, problem, floating-point, input, high-performance, optimal, computing, division, multiplication, search, networks-on-chip, code, array, variable, communication",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "low power, design, design methodology, embedded systems, processor, register file, low power design, embedded processor, design systems, design processor, architecture applications, applications specific processor, applications, hardware trojan, design microprocessor, microprocessor, image processing, applications processor, performance processor, design methodology microprocessor, embedded systems design, power consumption, embedded, power embedded, risc processor, architecture, design exploration, real-time systems, mhz microprocessor, design evaluation, superscalar processor, hardware software, memory design, instruction processor, verification processor, memory systems, performance embedded, embedded applications, tool design, superscalar microprocessor, hardware design, power applications, power estimation, hardware, design implementation, vliw processor, design performance, architecture systems, design space, embedded software",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "on-chip network, chip multiprocessors, technology mapping, embedded systems, mapping fpga, network, supply voltage, systems, clock distribution, power supply, neural network, interconnection network, power network, mesh network, design network, synthesis systems, many-core systems, approach systems, fpga based, technology fpga, design systems, design high-speed, dynamic mapping, mapping, design optimization, network based, clock network, systems using, clock, mapping systems, optimization, dynamic systems, power systems, integrated systems, systems based, heterogeneous, fpga, future, approach, high-speed, workloads, sensors, allocation, integrated, structure, supply, chip, optical, multicore, protocol",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "decision diagrams, behavioral synthesis, binary diagrams, synthesis circuits, binary decision, circuits using, using, synthesis, logic, logic design, logic synthesis, logic using, design using, synthesis using, using decision, using binary, using boolean, function, boolean, assertion, controller, extraction, representation, specification, hierarchical, optimization, based",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "design test, scan design, test, test generation, test using, path delay, fault test, using scan, delay fault, test analog, delay test, scan, test circuits, method, functional, delay, fault, analog, selection, coverage, rtl, enhanced, testing, transition, chains, information, mixed-signal",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "finite state machine, formal verification, verification, high-level synthesis, simulation circuits, simulation using, verification circuits, efficient symbolic, state, synthesis state, machine using, using state, simulation, techniques simulation, symbolic verification, symbolic, efficient, verification techniques, minimization, based simulation, efficient verification, techniques, based, approach, implicit, arithmetic, time, flow, large, constraints, graphs, strategy, vhdl, programming, novel, identification, decomposition",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "test pattern generation, model checking, automatic test generation, equivalence checking, design testability, generation circuits, generation, checking, testability, path, tool, random, generator, complexity, bdd, datapath, fsm, post-silicon, partial, transformations, behavioral, algorithm, based",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "circuits, sequential circuits, design circuits, synchronous sequential circuits, combinational circuits, test sequential circuits, asynchronous circuits, test compaction, based circuits, optimization circuits, fault circuits, analysis circuits, logic circuits, bist, sequences, overhead, partitioning, robust, parametric, evaluation, hardware",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "cache design, cache performance, cache, using cache, techniques performance, access cache, cache replacement, cache prefetching, techniques cache, techniques, exploiting, effective, trace, tag, tolerance, tradeoffs, address, capacity, load, sharing, redundancy, exploring, locality",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "branch prediction, performance, branch predictors, architecture, latency, shared, value, multithreaded, level, multi-processor, improve, buffer, context, write, bandwidth",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "energy cache, reducing energy, dynamic management, energy efficiency, thermal management, energy, improving cache, dynamic energy, cache management, energy efficient, management, improving, adaptive, mechanism, execution, issues, speculative, reliability, real-time, thread, instruction, associative, out-of-order, processor, using",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "low power, leakage power, power reduction, power, leakage reduction, dynamic, energy reduction, dynamic power, scheme cache, power cache, dynamic cache, reduction, scheme, voltage, scaling, controller, multiprocessors, resizing, chip, enhancement, on-chip",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "memory systems, memory architecture, data cache, power data, memory, memory cache, data, cost, memory data, compression, intelligent, caching, hybrid, dram, behavior, reducing, optimizing, register, test, low",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "power analysis, timing analysis, analysis circuits, process variations, static analysis, static timing, statistical analysis, statistical timing, analysis, analysis design, analysis based, considering, variations, characterization, correlation, current, voltage, transient, leakage, time, network-on-chip",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "power estimation, performance analysis, performance, interconnect, placement, estimation, crosstalk, global, improvement, area, routing, noise, vlsi, comparative, flip-flops, gpu, thermal, study, on-chip",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "buffer, tree, module, buffer insertion, sram, via, switch, optimal, router, constraints, early, steiner, on-chip",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "cmos circuits, gate sizing, cmos logic, logic gate, gate, cmos, static, transistor, aware, reduction, space, exploration, constrained, optimization, theory, wire, memories, technology, using, design, performance",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "transmission lines, accurate model, model, modeling, efficient, memory, fast, delay, accurate, simulation, driven, change, partitioning, minimum, domain, technologies, timing",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "fault tolerant, floating point, vlsi design, fault diagnosis, vlsi, multiplier, fault, parallel, distributed, array, problem, testing, pipeline, block, comparison, hard, processor",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "soft error, error detection, design error, error circuits, error, digital, detection, concurrent, multiplication, self-timed, number, practical, linear, division, divider, mode, adaptive, wireless, based, design, input",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "algorithm, dynamically reconfigurable, routing algorithm, reconfigurable, communication, noc, matching, channel, networks-on-chip, redundant, runtime, delay, switching, partitioning, efficient, solution, input, fpga, architecture, fault",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "implementation, low-power, high-performance, energy-efficient, novel, code, engine, chip, architecture, pipelined, variable, reduced, fault-tolerant, optimized, devices, single, reliable, search, radix-, cmos, square, units, fast, network, using, design",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "scheduling, multiple, optimal, adder, computing, cell, computation, graphs, using, case, heuristic, filters, stochastic, simple, standard, floating-point, fpga, design, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "low power, embedded systems, embedded processor, power design, low design, design embedded, power consumption, power applications, power embedded, low processor, performance embedded, power processor, low applications, embedded, power estimation, architecture embedded, control processor, power systems, low systems, performance power, low embedded, control, microarchitecture, program, speed, level, mips, bus, electronics, technology, data, synthesis, verification, memory",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "applications processor, real-time systems, applications specific, specific processor, embedded software, applications, applications design, embedded applications, architecture applications, study, real-time, computer, software, low-power, core, rapid, multi-core, cad, prototyping, use, multi-level, space, exploration, microarchitectural, memory, synthesis",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "design, design methodology, design systems, microprocessor, design microprocessor, mhz microprocessor, design evaluation, design performance, tool design, design implementation, methodology microprocessor, architectural, design instruction, instruction, interface, monitoring, impact, designing, servers, support, run-time, custom",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "register file, architecture, architecture applications, image processing, architecture systems, processing, architecture signal, architecture processing, dsp, framework, mobile, signal, platforms, environment, simd, vliw, integration, coprocessor, video, asic, model, processor",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "processor, design processor, hardware design, hardware trojan, hardware, performance processor, risc processor, superscalar processor, resource, simulators, challenges, hybrid, ibm, cpu, attacks, powerpc",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "on-chip network, clock distribution, power network, design network, network, neural network, interconnection network, clock network, mesh network, network based, based, routing, fast, sensors, yield, resonant, bound, processor, prediction, analysis, array",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "technology mapping, mapping fpga, fpga based, technology fpga, fpga, clock, mapping, structure, scheduling, improved, binding, retiming, clocking, multimedia, future, scheme, synthesis, algorithm, design",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "chip multiprocessors, approach systems, approach, heterogeneous, chip, workloads, interconnect, applications, optical, hierarchical, mpsocs, development, behavior, simulation, impact, transform, ics, task, architecture, dynamic",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "power supply, supply voltage, optimization, design optimization, integrated, high-speed, voltage, supply, physical, deep, circuits, accelerator, three-dimensional, assignment, scaling, allocation, design, systems",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "systems, embedded systems, many-core systems, multicore, dynamic systems, protocol, socs, programmable, tuning, throughput, system-level, analog, silicon, flexible, communication",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "circuits, finite state machine, formal verification, sequential circuits, test generation, design circuits, synchronous sequential circuits, test, fault simulation, decision diagrams, binary diagrams, model checking, equivalence checking, high-level synthesis, test pattern generation, using, test generation circuits, behavioral synthesis, design test, combinational circuits, binary decision, synthesis, analog circuits, automatic test generation, circuits using, asynchronous circuits, design testability, test sequential circuits, synthesis circuits, test circuits, timing verification, logic synthesis, scan design, logic using, test compaction, logic, efficient symbolic, verification, simulation circuits, testability circuits, logic design, fault test, synthesis datapath, based circuits, state, simulation using, symbolic verification, delay fault, fault sequential, optimization circuits, path delay, fault circuits, built-in test, delay test, test analog, techniques simulation, synthesis using, techniques circuits, using decision, synthesis asynchronous, using binary, mixed-signal circuits, asynchronous, design using, logic circuits, simulation, testability, automatic, using boolean, scan, approach circuits, logic techniques, synthesis testability, checking, test based, optimization using, test using, using scan, sequential design, verification techniques, efficient verification, using techniques, path, efficient circuits, synthesis state, generation using, machine using, synthesis techniques, using functional, analysis circuits, function, based simulation, verification circuits, using state, symbolic, based using, efficient using, based logic, based, minimization, cache",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "circuits, finite state machine, formal verification, sequential circuits, test generation, design circuits, synchronous sequential circuits, test, fault simulation, decision diagrams, binary diagrams, model checking, equivalence checking, high-level synthesis, test pattern generation, using, test generation circuits, behavioral synthesis, design test, combinational circuits, binary decision, synthesis, analog circuits, automatic test generation, circuits using, asynchronous circuits, design testability, test sequential circuits, synthesis circuits, test circuits, timing verification, logic synthesis, scan design, logic using, test compaction, logic, efficient symbolic, verification, simulation circuits, testability circuits, logic design, fault test, synthesis datapath, based circuits, state, simulation using, symbolic verification, delay fault, fault sequential, optimization circuits, path delay, fault circuits, built-in test, delay test, test analog, techniques simulation, synthesis using, techniques circuits, using decision, synthesis asynchronous, using binary, mixed-signal circuits, asynchronous, design using, logic circuits, simulation, testability, automatic, using boolean, scan, approach circuits, logic techniques, synthesis testability, checking, test based, optimization using, test using, using scan, sequential design, verification techniques, efficient verification, using techniques, path, efficient circuits, synthesis state, generation using, machine using, synthesis techniques, using functional, analysis circuits, function, based simulation, verification circuits, using state, symbolic, based using, efficient using, based logic, based, minimization",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "cache, data cache, branch prediction, memory systems, cache design, low power, cache processor, leakage power, power reduction, cache performance, leakage reduction, energy, branch predictors, cache architecture, data, energy efficiency, using cache, dynamic power, energy cache, dynamic energy, dynamic, power management, data prefetching, memory architecture, dynamic management, thermal management, power data, reducing energy, memory, branch processor, access cache, cache replacement, energy efficient, reducing power, error memory, cache systems, reducing, shared memory, cache embedded, improving performance, adaptive power, energy reduction, performance power, techniques cache, cache prefetching, efficient cache, using data, on-chip cache, management, performance memory, cache level, low cache, reducing cache, techniques performance, power cache, performance using, dynamic cache, improving cache, power using, performance energy, scheme cache, energy data, memory cache, cache management, scheme, memory data, performance, cost, performance dynamic, speculative, compression, improving, exploiting, latency, address, mechanism, shared, reduction, reduce, multithreaded, effective, caching, execution, issues, trace, intelligent, value, write, adaptive, tag, resizing, reliability, improve, tolerance, multi-processor, bandwidth, optimizing, locality, exploring, out-of-order",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "timing analysis, power analysis, analysis, static timing analysis, cmos circuits, statistical timing analysis, performance analysis, gate sizing, transmission lines, process variations, analysis circuits, performance optimization, buffer insertion, cmos logic, power estimation, timing, timing constraints, accurate model, logic gate, gate, gate model, analysis design, fast analysis, modeling, analysis based, cmos, model, considering, variations, accurate, static, crosstalk, placement, tree, buffer, module, lines, global, estimation, characterization, change, driven, improvement, wire, noise, switch, minimum, sram, early, correlation, transistor, aware, incremental, flip-flops, efficient, comparative, domain, via, theory, technologies, steiner, fast, constrained, interconnect, transient, thermal, simultaneous, network-on-chip, memories, current, router, area, gpu, effects, delay, partitioning, time, space, exploration, on-chip, cell, routing, leakage, voltage, study, optimal, high-performance, array, technology, reduction, method, error, clock, mapping, vlsi, performance, optimization, data, simulation, based",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fault tolerant, floating point, algorithm, soft error, fault diagnosis, error detection, vlsi design, dynamically reconfigurable, routing algorithm, parallel algorithm, algorithm implementation, multiple fault, fpga using, error circuits, array architecture, multiplier, using multiple, fault detection, detection, design error, efficient algorithm, vlsi, algorithm vlsi, using algorithm, parallel, reconfigurable, error, digital, multiple, implementation, distributed, matching, fault-tolerant, energy-efficient, fault, adder, problem, floating-point, input, high-performance, optimal, computing, division, multiplication, search, networks-on-chip, code, array, variable, communication, noc, concurrent, channel, engine, low-power, pipeline, block, square, radix-, single, practical, cell, computation, self-timed, pipelined, comparison, combined, divider, heuristic, reduced, runtime, solution, simple, optimized, number, reliable, hard, delay-insensitive, wireless, mode, redundant, stochastic, filters, novel, standard, scheduling, units, devices, linear, case, switching, graphs, testing, partitioning, representation, transition, adaptive, chip, fast, functional",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "low power, design, design methodology, embedded systems, processor, register file, low power design, embedded processor, design systems, design processor, architecture applications, applications specific processor, applications, hardware trojan, design microprocessor, microprocessor, image processing, applications processor, performance processor, design methodology microprocessor, embedded systems design, power consumption, embedded, power embedded, risc processor, architecture, design exploration, real-time systems, mhz microprocessor, design evaluation, superscalar processor, hardware software, memory design, instruction processor, verification processor, memory systems, performance embedded, embedded applications, tool design, superscalar microprocessor, hardware design, power applications, power estimation, hardware, design implementation, vliw processor, design performance, architecture systems, design space, embedded software, verification systems, processor architecture, memory architecture, control processor, processing, power synthesis, control applications, architecture processing, architecture signal, performance systems, core processor, level design, verification design, design environment, performance applications, software, low processor, low-power design, low systems, data design, power processor, low embedded, low applications, architecture embedded, architecture design, design instruction, architecture performance, power systems, hardware architecture, control, microarchitecture, architecture power, design using, computer, video, performance power, dsp, ibm, simulators, framework, architectural, interface, resource, instruction, integration, mobile, environment, simd, challenges, application-specific",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "on-chip network, chip multiprocessors, technology mapping, embedded systems, mapping fpga, network, supply voltage, systems, clock distribution, power supply, neural network, interconnection network, power network, mesh network, design network, synthesis systems, many-core systems, approach systems, fpga based, technology fpga, design systems, design high-speed, dynamic mapping, mapping, design optimization, network based, clock network, systems using, clock, mapping systems, optimization, dynamic systems, power systems, integrated systems, systems based, heterogeneous, fpga, future, approach, high-speed, workloads, sensors, allocation, integrated, structure, supply, chip, optical, multicore, protocol, tuning, physical, three-dimensional, deep, resonant, task, binding, ics, transform, throughput, routing, clocking, accelerator, silicon, flexible, programmable, bound, retiming, socs, improved, mpsocs, exact, system-level, development, yield, assignment, multimedia, voltage, behavior, scheduling, impact, scaling, hierarchical, interconnect, fast, communication, array, analog, method, minimization, prediction, placement, scheme, multiple, methodology, efficient, based, simulation, energy, performance",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "decision diagrams, behavioral synthesis, binary diagrams, synthesis circuits, binary decision, circuits using, using, synthesis, logic, logic design, logic synthesis, logic using, design using, synthesis using, using decision, using binary, using boolean, function, boolean, assertion, controller, extraction, representation, specification, hierarchical, optimization, based",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "design test, scan design, test, test generation, test using, path delay, fault test, using scan, delay fault, test analog, delay test, scan, test circuits, method, functional, delay, fault, analog, selection, coverage, rtl, enhanced, testing, transition, chains, information, mixed-signal",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "finite state machine, formal verification, verification, high-level synthesis, simulation circuits, simulation using, verification circuits, efficient symbolic, state, synthesis state, machine using, using state, simulation, techniques simulation, symbolic verification, symbolic, efficient, verification techniques, minimization, based simulation, efficient verification, techniques, based, approach, implicit, arithmetic, time, flow, large, constraints, graphs, strategy, vhdl, programming, novel, identification, decomposition",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "test pattern generation, model checking, automatic test generation, equivalence checking, design testability, generation circuits, generation, checking, testability, path, tool, random, generator, complexity, bdd, datapath, fsm, post-silicon, partial, transformations, behavioral, algorithm, based",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "circuits, sequential circuits, design circuits, synchronous sequential circuits, combinational circuits, test sequential circuits, asynchronous circuits, test compaction, based circuits, optimization circuits, fault circuits, analysis circuits, logic circuits, bist, sequences, overhead, partitioning, robust, parametric, evaluation, hardware",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "cache design, cache performance, cache, using cache, techniques performance, access cache, cache replacement, cache prefetching, techniques cache, techniques, exploiting, effective, trace, tag, tolerance, tradeoffs, address, capacity, load, sharing, redundancy, exploring, locality",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "branch prediction, performance, branch predictors, architecture, latency, shared, value, multithreaded, level, multi-processor, improve, buffer, context, write, bandwidth",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "energy cache, reducing energy, dynamic management, energy efficiency, thermal management, energy, improving cache, dynamic energy, cache management, energy efficient, management, improving, adaptive, mechanism, execution, issues, speculative, reliability, real-time, thread, instruction, associative, out-of-order, processor, using",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "low power, leakage power, power reduction, power, leakage reduction, dynamic, energy reduction, dynamic power, scheme cache, power cache, dynamic cache, reduction, scheme, voltage, scaling, controller, multiprocessors, resizing, chip, enhancement, on-chip",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "memory systems, memory architecture, data cache, power data, memory, memory cache, data, cost, memory data, compression, intelligent, caching, hybrid, dram, behavior, reducing, optimizing, register, test, low",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "power analysis, timing analysis, analysis circuits, process variations, static analysis, static timing, statistical analysis, statistical timing, analysis, analysis design, analysis based, considering, variations, characterization, correlation, current, voltage, transient, leakage, time, network-on-chip",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "power estimation, performance analysis, performance, interconnect, placement, estimation, crosstalk, global, improvement, area, routing, noise, vlsi, comparative, flip-flops, gpu, thermal, study, on-chip",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "buffer, tree, module, buffer insertion, sram, via, switch, optimal, router, constraints, early, steiner, on-chip",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "cmos circuits, gate sizing, cmos logic, logic gate, gate, cmos, static, transistor, aware, reduction, space, exploration, constrained, optimization, theory, wire, memories, technology, using, design, performance",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "transmission lines, accurate model, model, modeling, efficient, memory, fast, delay, accurate, simulation, driven, change, partitioning, minimum, domain, technologies, timing",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "fault tolerant, floating point, vlsi design, fault diagnosis, vlsi, multiplier, fault, parallel, distributed, array, problem, testing, pipeline, block, comparison, hard, processor",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "soft error, error detection, design error, error circuits, error, digital, detection, concurrent, multiplication, self-timed, number, practical, linear, division, divider, mode, adaptive, wireless, based, design, input",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "algorithm, dynamically reconfigurable, routing algorithm, reconfigurable, communication, noc, matching, channel, networks-on-chip, redundant, runtime, delay, switching, partitioning, efficient, solution, input, fpga, architecture, fault",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "implementation, low-power, high-performance, energy-efficient, novel, code, engine, chip, architecture, pipelined, variable, reduced, fault-tolerant, optimized, devices, single, reliable, search, radix-, cmos, square, units, fast, network, using, design",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "scheduling, multiple, optimal, adder, computing, cell, computation, graphs, using, case, heuristic, filters, stochastic, simple, standard, floating-point, fpga, design, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "low power, embedded systems, embedded processor, power design, low design, design embedded, power consumption, power applications, power embedded, low processor, performance embedded, power processor, low applications, embedded, power estimation, architecture embedded, control processor, power systems, low systems, performance power, low embedded, control, microarchitecture, program, speed, level, mips, bus, electronics, technology, data, synthesis, verification, memory",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "applications processor, real-time systems, applications specific, specific processor, embedded software, applications, applications design, embedded applications, architecture applications, study, real-time, computer, software, low-power, core, rapid, multi-core, cad, prototyping, use, multi-level, space, exploration, microarchitectural, memory, synthesis",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "design, design methodology, design systems, microprocessor, design microprocessor, mhz microprocessor, design evaluation, design performance, tool design, design implementation, methodology microprocessor, architectural, design instruction, instruction, interface, monitoring, impact, designing, servers, support, run-time, custom",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "register file, architecture, architecture applications, image processing, architecture systems, processing, architecture signal, architecture processing, dsp, framework, mobile, signal, platforms, environment, simd, vliw, integration, coprocessor, video, asic, model, processor",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "processor, design processor, hardware design, hardware trojan, hardware, performance processor, risc processor, superscalar processor, resource, simulators, challenges, hybrid, ibm, cpu, attacks, powerpc",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "on-chip network, clock distribution, power network, design network, network, neural network, interconnection network, clock network, mesh network, network based, based, routing, fast, sensors, yield, resonant, bound, processor, prediction, analysis, array",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "technology mapping, mapping fpga, fpga based, technology fpga, fpga, clock, mapping, structure, scheduling, improved, binding, retiming, clocking, multimedia, future, scheme, synthesis, algorithm, design",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "chip multiprocessors, approach systems, approach, heterogeneous, chip, workloads, interconnect, applications, optical, hierarchical, mpsocs, development, behavior, simulation, impact, transform, ics, task, architecture, dynamic",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "power supply, supply voltage, optimization, design optimization, integrated, high-speed, voltage, supply, physical, deep, circuits, accelerator, three-dimensional, assignment, scaling, allocation, design, systems",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "systems, embedded systems, many-core systems, multicore, dynamic systems, protocol, socs, programmable, tuning, throughput, system-level, analog, silicon, flexible, communication",
+			 "target": []
+		}
+		]
+	}
+]

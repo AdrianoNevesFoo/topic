@@ -30,11 +30,16 @@ ul.treelist li{
     height: 200px;
 }
 #treeTopics h3{
+
   color: white;
   background-color: #303030;
 }
 h3{
   text-align: center;
+}
+
+#results{
+  background-color: white;
 }
 
 
@@ -57,10 +62,18 @@ span.totaldiffer{
 #trees{
   margin-left:5px;
   margin-top:15px;
-
   padding: 4px;
 }
 
+#view{
+ /* margin-top:50px;*/
+}
+#han_tree_details{
+  background-color: white;
+}
+#my_tree_details{
+  background-color: white;
+}
 #features{
   margin-top:30px;
   margin-left: 550px;

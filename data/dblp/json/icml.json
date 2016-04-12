@@ -1,0 +1,755 @@
+[
+	{
+		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "feature selection, principal component analysis, alternating direction methods multipliers, dynamical systems, predictive state representations, discriminant analysis, feature selection learning, convergence rate, linear dynamical systems, naive bayes",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "feature selection, principal component analysis, alternating direction methods multipliers, dynamical systems, predictive state representations, discriminant analysis, feature selection learning, convergence rate, linear dynamical systems, naive bayes",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "reinforcement learning, learning, machine learning proceedings international conference, proceedings international conference machine icml, proceedings international conference learning icml, proceedings conference machine learning icml, international conference machine learning icml, proceedings international machine learning icml, proceedings international conference machine june, machine proceedings international conference usa",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "monte carlo, learning data, matrix factorization, hamiltonian monte carlo, domain adaptation, data, clustering, matrix completion, text categorization, learning unlabeled data",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "decision trees, dimensionality reduction, temporal difference, multiple learning, markov decision, partially observable, learning approach, decision processes, learning decision trees, multiple instance learning",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "conditional random fields, models, gaussian process, gaussian processes, hidden markov models, time series, variational inference, learning models, bayesian networks, graphical models",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "support vector machine, kernel learning, function approximation, support vector machine classification, large scale, structured prediction, maximum margin, learning support vector machine, nearest neighbor, collaborative filtering",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "predictive state representations, dynamical systems, linear dynamical systems, kernel learning, learning linear, learning sparse, predictive systems, representations, problems, linear",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "feature selection, feature selection learning, nearest neighbor, models selection, subset selection, kernel selection, feature via, selection via, feature subset, svm",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "alternating direction methods multipliers, coordinate descent, stochastic gradient, gradient descent, stochastic methods, methods learning, gradient algorithms, stochastic optimization, descent algorithms, learning stochastic",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "convergence rate, naive bayes, error bounds, generalization bounds, bayesian classifiers, naive classifiers, bounds learning, bounds, classifiers, noise",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "analysis, principal component analysis, discriminant analysis, linear discriminant analysis, analysis algorithms, generalized, risk, fisher, empirical, test",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "multi-task learning, natural language, inductive logic programming, learning language, case study, learning natural language, learning programming, inductive learning, transfer learning, multiple-instance learning",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "learning proceedings international conference, machine proceedings international conference, machine learning proceedings conference, machine learning international conference, machine learning proceedings international, proceedings international conference icml, proceedings conference learning icml, international conference learning icml, proceedings international learning icml, proceedings conference machine icml",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "learning networks, neural networks, learning neural networks, recurrent neural networks, learning examples, learning dynamic, deep learning, learning representations, learning belief, learning abstract",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "reinforcement learning, using reinforcement learning, reinforcement learning function, reinforcement learning approximation, learning control, model-based reinforcement learning, learning tasks, reward reinforcement learning, efficient learning, multitask learning",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "learning, active learning, feature learning, machine learning, tutorial summary, workshop summary learning, learning concept, learning prediction, hierarchies, procedure",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "learning graph, learning structure, compressed sensing, learning local, graph, transductive learning, multi-view learning, kernel graph, structure, local",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "unsupervised learning, domain adaptation, robust learning, incorporating knowledge, learning knowledge, framework learning, robust, knowledge, learning domain, unsupervised",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "matrix factorization, learning using, using, matrix completion, learning matrix, matrix, learning structural, decomposition, ensemble, low-rank",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "monte carlo, hamiltonian monte carlo, clustering, clustering using, detection using, spectral clustering, detection, constraints, cluster, constrained",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "learning data, data, learning unlabeled data, text classification, text categorization, data using, manifold learning, text using, learning application, labeled data",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "multiple learning, learning approach, temporal difference, difference learning, policy iteration, approach, temporal learning, statistical approach, statistical, policy",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "online learning, partially observable, policy search, metric learning, learning partially, evaluation, search, comparison, model-based, incremental",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "dimensionality reduction, relational learning, information retrieval, supervised learning, group lasso, instance learning, learning information, information, view, spectral",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "multi-armed bandits, bandits problems, optimal learning, convex relaxations, regret bandits, bandits algorithms, regret bounds, bandits, learning problems, learning bandits",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "decision trees, markov decision, learning decision trees, decision processes, learning space, learning rank, learning ranking, using decision, decision induction, decision application",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "time series, networks structure, neural networks, deep networks, message passing, networks, generative models, deep, models time, hierarchical",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "hidden markov models, variational inference, bayesian networks, variational inference models, markov processes, learning bayesian networks, bayesian models, stochastic variational inference, learning markov networks, bayesian",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "conditional random fields, topic models, markov random fields, learning random fields, maximum entropy models, topic modeling, labeling sequence, learning sequence, random models, sequence",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "learning models, models, graphical models, latent variable models, latent models, gaussian graphical models, mixture models, learning latent variable, hidden models, using models",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "gaussian process, gaussian processes, dirichlet process, gaussian process regression, learning gaussian processes, process models, process, gaussian process models, hierarchical process, gaussian",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "function approximation, learning function approximation, learning sparse coding, learning via, learning distance, function, distance metric, using function, using approximation, via",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "large scale, structured prediction, maximum margin, learning structured output, efficient algorithms, large margin, sparse regression, learning structured prediction, efficient learning, logistic regression",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "classification, canonical correlation, classification using, learning classification, active learning, multi-class classification, adaptive learning, multi-label classification, adaptive, active",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "support vector machine, kernel learning, support vector classification, semi-supervised learning, support machine classification, learning vector machine, vector machine classification, learning support vector, multiple kernel, learning support machine",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "learning algorithms, nearest neighbor, algorithms, collaborative filtering, fast algorithms, using algorithms, boosting, boosting algorithms, fast learning, fast",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "feature selection, principal component analysis, alternating direction methods multipliers, dynamical systems, predictive state representations, discriminant analysis, feature selection learning, convergence rate, linear dynamical systems, naive bayes, stochastic gradient, coordinate descent, nearest neighbor, linear discriminant analysis, error bounds, subset selection, analysis, methods, stochastic methods, gradient descent",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "feature selection, principal component analysis, alternating direction methods multipliers, dynamical systems, predictive state representations, discriminant analysis, feature selection learning, convergence rate, linear dynamical systems, naive bayes, stochastic gradient, coordinate descent, nearest neighbor, linear discriminant analysis, error bounds, subset selection, analysis, methods, stochastic methods, gradient descent",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "reinforcement learning, learning, machine learning proceedings international conference, proceedings international conference machine icml, proceedings international conference learning icml, proceedings conference machine learning icml, international conference machine learning icml, proceedings international machine learning icml, proceedings international conference machine june, machine proceedings international conference usa, proceedings international conference machine july, proceedings international conference learning june, learning proceedings international conference usa, proceedings conference machine learning june, international conference machine learning june, proceedings international machine learning june, machine learning proceedings conference usa, machine learning international conference usa, machine learning proceedings international usa, proceedings international conference learning july",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "monte carlo, learning data, matrix factorization, hamiltonian monte carlo, domain adaptation, data, clustering, matrix completion, text categorization, learning unlabeled data, learning graph, learning using, unsupervised learning, compressed sensing, text classification, noisy data, learning structure data, learning structure, incorporating knowledge, using",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "decision trees, dimensionality reduction, temporal difference, multiple learning, markov decision, partially observable, learning approach, decision processes, learning decision trees, multiple instance learning, multi-armed bandits, online learning, information retrieval, bandits problems, policy iteration, relational learning, group lasso, regret bandits, convex relaxations, difference learning",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "conditional random fields, models, gaussian process, gaussian processes, hidden markov models, time series, variational inference, learning models, bayesian networks, graphical models, latent variable models, latent models, dirichlet process, gaussian process regression, markov processes, topic models, variational inference models, stochastic variational inference, networks structure, markov random fields",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "support vector machine, kernel learning, function approximation, support vector machine classification, large scale, structured prediction, maximum margin, learning support vector machine, nearest neighbor, collaborative filtering, learning function approximation, large margin, canonical correlation, learning algorithms, learning structured output, learning sparse coding, classification, multiple kernel, learning via, semi-supervised learning",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "predictive state representations, dynamical systems, linear dynamical systems, kernel learning, learning linear, learning sparse, predictive systems, representations, problems, linear, sparse, distributions, kernel, induction, dictionary, programming, nonlinear, approximation, trees",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "feature selection, feature selection learning, nearest neighbor, models selection, subset selection, kernel selection, feature via, selection via, feature subset, svm, generalization, training, class, general, estimating, norm, spectral, exact, classifiers",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "alternating direction methods multipliers, coordinate descent, stochastic gradient, gradient descent, stochastic methods, methods learning, gradient algorithms, stochastic optimization, descent algorithms, learning stochastic, fast methods, gradient methods, stochastic algorithms, stochastic descent, methods, gradient optimization, stochastic, optimization methods, gradient, optimization",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "convergence rate, naive bayes, error bounds, generalization bounds, bayesian classifiers, naive classifiers, bounds learning, bounds, classifiers, noise, curves, scaling, improved, exponential, squares, accuracy, performance, iterative, roc, concentration",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "analysis, principal component analysis, discriminant analysis, linear discriminant analysis, analysis algorithms, generalized, risk, fisher, empirical, test, faster, independent, learn, weights, high-dimensional",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "multi-task learning, natural language, inductive logic programming, learning language, case study, learning natural language, learning programming, inductive learning, transfer learning, multiple-instance learning, combining learning, learning study, learning logic, learning case, programming, feature learning, automatic, processing",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "learning proceedings international conference, machine proceedings international conference, machine learning proceedings conference, machine learning international conference, machine learning proceedings international, proceedings international conference icml, proceedings conference learning icml, international conference learning icml, proceedings international learning icml, proceedings conference machine icml, international conference machine icml, proceedings international machine icml, conference machine learning icml, proceedings machine learning icml, international machine learning icml, proceedings international conference june, proceedings international conference usa, proceedings conference learning june, international conference learning june, proceedings international learning june",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "learning networks, neural networks, learning neural networks, recurrent neural networks, learning examples, learning dynamic, deep learning, learning representations, learning belief, learning abstract, learning discovery, discovery, propagation, basis, minimum, architecture, simple, description, multiagent",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "reinforcement learning, using reinforcement learning, reinforcement learning function, reinforcement learning approximation, learning control, model-based reinforcement learning, learning tasks, reward reinforcement learning, efficient learning, multitask learning, learning systems, learning image, learning agent, learning shaping, multi-agent learning, on-line learning, reinforcement control, classes",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "learning, active learning, feature learning, machine learning, tutorial summary, workshop summary learning, learning concept, learning prediction, hierarchies, procedure",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "learning graph, learning structure, compressed sensing, learning local, graph, transductive learning, multi-view learning, kernel graph, structure, local, search, projections, convex, tasks, recovery, positive, discovering, design, partitioning, document",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "unsupervised learning, domain adaptation, robust learning, incorporating knowledge, learning knowledge, framework learning, robust, knowledge, learning domain, unsupervised, domain, framework, concept, noisy, prior, supervised, subspace, feature, via, approach",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "matrix factorization, learning using, using, matrix completion, learning matrix, matrix, learning structural, decomposition, ensemble, low-rank, structural, predicting, dimension, tensor, probabilistic, global",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "monte carlo, hamiltonian monte carlo, clustering, clustering using, detection using, spectral clustering, detection, constraints, cluster, constrained, patterns, sample, complexity, chain, learning",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "learning data, data, learning unlabeled data, text classification, text categorization, data using, manifold learning, text using, learning application, labeled data, learning text, application, text, manifold, games, dimensional, causal, pca, large-scale, missing",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "multiple learning, learning approach, temporal difference, difference learning, policy iteration, approach, temporal learning, statistical approach, statistical, policy, value, solution, perspective, function, observations, unified, efficient, data, bayesian, models",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "online learning, partially observable, policy search, metric learning, learning partially, evaluation, search, comparison, model-based, incremental, attribute, evolutionary, experimental, matrices, inverse, direct, algorithms, techniques, instance-based, empirical",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "dimensionality reduction, relational learning, information retrieval, supervised learning, group lasso, instance learning, learning information, information, view, spectral, theory, theoretical, sets, q-learning, mdps, factored, efficiently, theoretic, clustering, learning",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "multi-armed bandits, bandits problems, optimal learning, convex relaxations, regret bandits, bandits algorithms, regret bounds, bandits, learning problems, learning bandits, convex learning, optimal, convex, sampling, exploration, continuous, adaptive, planning, construction, budget",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "decision trees, markov decision, learning decision trees, decision processes, learning space, learning rank, learning ranking, using decision, decision induction, decision application, learning rule, algorithms decision, learning markov, trees pruning, space, ranking, approximate, rule, pruning, pairwise",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "time series, networks structure, neural networks, deep networks, message passing, networks, generative models, deep, models time, hierarchical, generative networks, learning networks, generative, factor, mixture, mixed, tracking, multivariate, covariance, convolutional",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "hidden markov models, variational inference, bayesian networks, variational inference models, markov processes, learning bayesian networks, bayesian models, stochastic variational inference, learning markov networks, bayesian, probabilistic models, markov chain, dynamic models, inference, markov monte, markov carlo, bayesian inference, markov, using markov, dynamic networks",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "conditional random fields, topic models, markov random fields, learning random fields, maximum entropy models, topic modeling, labeling sequence, learning sequence, random models, sequence, modeling, visual, dependent, measures, training, likelihood, extraction, parallel, web, information",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "learning models, models, graphical models, latent variable models, latent models, gaussian graphical models, mixture models, learning latent variable, hidden models, using models, models data, structured models, estimation, discriminative models, estimation models, discriminative, infinite, density, parameter, sparsity",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "gaussian process, gaussian processes, dirichlet process, gaussian process regression, learning gaussian processes, process models, process, gaussian process models, hierarchical process, gaussian, inference process, hierarchical dirichlet, inference gaussian, nonparametric models, sparse gaussian, point process, gaussian mixture, nonparametric, inference processes, process learning",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "function approximation, learning function approximation, learning sparse coding, learning via, learning distance, function, distance metric, using function, using approximation, via, optimization, learning optimization, distance, sparse, computation, codes, hashing, compact, greedy, consistency",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "large scale, structured prediction, maximum margin, learning structured output, efficient algorithms, large margin, sparse regression, learning structured prediction, efficient learning, logistic regression, learning large, margin classifiers, algorithms regression, regression, efficient, algorithms prediction, prediction, learning regression, learning margin, efficient kernel",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "classification, canonical correlation, classification using, learning classification, active learning, multi-class classification, adaptive learning, multi-label classification, adaptive, active, loss, ranking, robot, environments, distributed, partial, particle, mapping, optimizing, ordinal",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "support vector machine, kernel learning, support vector classification, semi-supervised learning, support machine classification, learning vector machine, vector machine classification, learning support vector, multiple kernel, learning support machine, kernel, regularization learning, kernel classification, fast kernel, via regularization, vector regression, kernel machine, regularization, kernel vector, training",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "learning algorithms, nearest neighbor, algorithms, collaborative filtering, fast algorithms, using algorithms, boosting, boosting algorithms, fast learning, fast, based, trees, multiclass, improve, cost-sensitive, probability, theory, measures, divergence, weighted",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "feature selection, principal component analysis, alternating direction methods multipliers, dynamical systems, predictive state representations, discriminant analysis, feature selection learning, convergence rate, linear dynamical systems, naive bayes, stochastic gradient, coordinate descent, nearest neighbor, linear discriminant analysis, error bounds, subset selection, analysis, methods, stochastic methods, gradient descent, models selection, generalization bounds, linear, stochastic optimization, naive classifiers, bayesian classifiers, gradient methods, stochastic, bounds, gradient, fast methods, stochastic descent, predictive systems, gradient algorithms, feature via, learning linear, classifiers, kernel selection, feature subset, descent algorithms, gradient optimization, learning stochastic, bounds learning, analysis algorithms, analysis learning, stochastic algorithms, selection via, convergence analysis, kernel learning, convergence",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "feature selection, principal component analysis, alternating direction methods multipliers, dynamical systems, predictive state representations, discriminant analysis, feature selection learning, convergence rate, linear dynamical systems, naive bayes, stochastic gradient, coordinate descent, nearest neighbor, linear discriminant analysis, error bounds, subset selection, analysis, methods, stochastic methods, gradient descent, models selection, generalization bounds, linear, stochastic optimization, naive classifiers, bayesian classifiers, gradient methods, stochastic, bounds, gradient, fast methods, stochastic descent, predictive systems, gradient algorithms, feature via, learning linear, classifiers, kernel selection, feature subset, descent algorithms, gradient optimization, learning stochastic, bounds learning, analysis algorithms, analysis learning, stochastic algorithms, selection via, convergence analysis, kernel learning, convergence",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "reinforcement learning, learning, machine learning proceedings international conference, proceedings international conference machine icml, proceedings international conference learning icml, proceedings conference machine learning icml, international conference machine learning icml, proceedings international machine learning icml, proceedings international conference machine june, machine proceedings international conference usa, proceedings international conference machine july, proceedings international conference learning june, learning proceedings international conference usa, proceedings conference machine learning june, international conference machine learning june, proceedings international machine learning june, machine learning proceedings conference usa, machine learning international conference usa, machine learning proceedings international usa, proceedings international conference learning july, proceedings international conference icml july, proceedings international conference icml june, proceedings conference machine learning july, international conference machine learning july, proceedings international machine learning july, proceedings conference machine icml july, international conference machine icml july, proceedings international machine icml july, proceedings conference machine icml june, international conference machine icml june, proceedings international machine icml june, proceedings international conference usa july, proceedings international conference usa june, proceedings international conference icml usa, proceedings conference learning icml july, international conference learning icml july, proceedings international learning icml july, proceedings conference learning icml june, international conference learning icml june, proceedings international learning icml june, proceedings conference machine usa july, international conference machine usa july, proceedings international machine usa july, machine proceedings conference usa june, machine international conference usa june, machine proceedings international usa june, proceedings conference machine icml usa, international conference machine icml usa, machine learning, proceedings international machine icml usa",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "monte carlo, learning data, matrix factorization, hamiltonian monte carlo, domain adaptation, data, clustering, matrix completion, text categorization, learning unlabeled data, learning graph, learning using, unsupervised learning, compressed sensing, text classification, noisy data, learning structure data, learning structure, incorporating knowledge, using, graph, robust learning, matrix, learning using data, subspace clustering, spectral clustering, learning local, clustering via, manifold learning, multi-view learning, kernel graph, labeled data, transductive learning, learning matrix, graph clustering, robust, analysis data, discovering data, clustering data, learning knowledge, learning structural, approach clustering, detection using, local, kernel learning, learning text, unsupervised using, knowledge, text using, application clustering",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "decision trees, dimensionality reduction, temporal difference, multiple learning, markov decision, partially observable, learning approach, decision processes, learning decision trees, multiple instance learning, multi-armed bandits, online learning, information retrieval, bandits problems, policy iteration, relational learning, group lasso, regret bandits, convex relaxations, difference learning, learning rank, regret bounds, policy search, supervised learning, approach, bandits, decision induction, approximate iteration, learning space, partially markov, optimal learning, trees pruning, using decision, statistical approach, bandits algorithms, decision application, metric learning, learning ranking, learning problems, policy, learning processes, learning partially, learning markov, learning rule, information, learning algorithms, convex learning, algorithms decision, learning information, optimal",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "conditional random fields, models, gaussian process, gaussian processes, hidden markov models, time series, variational inference, learning models, bayesian networks, graphical models, latent variable models, latent models, dirichlet process, gaussian process regression, markov processes, topic models, variational inference models, stochastic variational inference, networks structure, markov random fields, maximum entropy models, learning random fields, inference, probabilistic models, learning bayesian networks, deep networks, mixture models, inference models, topic modeling, learning gaussian processes, bayesian, markov chain, process, gaussian, message passing, learning latent variable, using models, gaussian graphical models, neural networks, learning markov networks, gaussian models, bayesian nonparametric, labeling sequence, bayesian models, markov monte, markov carlo, markov, bayesian inference, approximate inference, process models",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "support vector machine, kernel learning, function approximation, support vector machine classification, large scale, structured prediction, maximum margin, learning support vector machine, nearest neighbor, collaborative filtering, learning function approximation, large margin, canonical correlation, learning algorithms, learning structured output, learning sparse coding, classification, multiple kernel, learning via, semi-supervised learning, algorithms, sparse regression, logistic regression, learning structured prediction, fast algorithms, distance metric, efficient algorithms, margin classifiers, text classification, learning distance, value function, learning classification, regularization learning, regression, using algorithms, efficient, classification using, learning large, multi-class classification, boosting algorithms, margin, efficient learning, fast kernel, multi-label classification, function, using function, fast training, fast learning, efficient kernel, prediction",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "predictive state representations, dynamical systems, linear dynamical systems, kernel learning, learning linear, learning sparse, predictive systems, representations, problems, linear, sparse, distributions, kernel, induction, dictionary, programming, nonlinear, approximation, trees",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "feature selection, feature selection learning, nearest neighbor, models selection, subset selection, kernel selection, feature via, selection via, feature subset, svm, generalization, training, class, general, estimating, norm, spectral, exact, classifiers",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "alternating direction methods multipliers, coordinate descent, stochastic gradient, gradient descent, stochastic methods, methods learning, gradient algorithms, stochastic optimization, descent algorithms, learning stochastic, fast methods, gradient methods, stochastic algorithms, stochastic descent, methods, gradient optimization, stochastic, optimization methods, gradient, optimization, descent, minimization, distributed, dual, online, regularized, variance, proximal, loss, accelerated, effect, averaging, ascent, approximate, convex, adaptive",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "convergence rate, naive bayes, error bounds, generalization bounds, bayesian classifiers, naive classifiers, bounds learning, bounds, classifiers, noise, curves, scaling, improved, exponential, squares, accuracy, performance, iterative, roc, concentration, estimation, selective, mean, sampling, deterministic, optimal, using, algorithms",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "analysis, principal component analysis, discriminant analysis, linear discriminant analysis, analysis algorithms, generalized, risk, fisher, empirical, test, faster, independent, learn, weights, high-dimensional",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "multi-task learning, natural language, inductive logic programming, learning language, case study, learning natural language, learning programming, inductive learning, transfer learning, multiple-instance learning, combining learning, learning study, learning logic, learning case, programming, feature learning, automatic, processing",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "learning proceedings international conference, machine proceedings international conference, machine learning proceedings conference, machine learning international conference, machine learning proceedings international, proceedings international conference icml, proceedings conference learning icml, international conference learning icml, proceedings international learning icml, proceedings conference machine icml, international conference machine icml, proceedings international machine icml, conference machine learning icml, proceedings machine learning icml, international machine learning icml, proceedings international conference june, proceedings international conference usa, proceedings conference learning june, international conference learning june, proceedings international learning june, learning proceedings conference usa, learning international conference usa, learning proceedings international usa, proceedings conference machine june, international conference machine june, machine learning, proceedings international machine june, machine proceedings conference usa, machine international conference usa, machine proceedings international usa, proceedings international conference july, conference machine learning june, proceedings machine learning june, international machine learning june, proceedings conference learning july, international conference learning july, machine learning conference usa, proceedings international learning july, machine learning proceedings usa, machine learning international usa, proceedings conference machine july, international conference machine july, proceedings international machine july, conference machine learning july, proceedings machine learning july, international machine learning july, proceedings conference icml july, international conference icml july, proceedings international icml july, proceedings conference icml june",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "learning networks, neural networks, learning neural networks, recurrent neural networks, learning examples, learning dynamic, deep learning, learning representations, learning belief, learning abstract, learning discovery, discovery, propagation, basis, minimum, architecture, simple, description, multiagent",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "reinforcement learning, using reinforcement learning, reinforcement learning function, reinforcement learning approximation, learning control, model-based reinforcement learning, learning tasks, reward reinforcement learning, efficient learning, multitask learning, learning systems, learning image, learning agent, learning shaping, multi-agent learning, on-line learning, reinforcement control, classes",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "learning, active learning, feature learning, machine learning, tutorial summary, workshop summary learning, learning concept, learning prediction, hierarchies, procedure",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "learning graph, learning structure, compressed sensing, learning local, graph, transductive learning, multi-view learning, kernel graph, structure, local, search, projections, convex, tasks, recovery, positive, discovering, design, partitioning, document, protein",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "unsupervised learning, domain adaptation, robust learning, incorporating knowledge, learning knowledge, framework learning, robust, knowledge, learning domain, unsupervised, domain, framework, concept, noisy, prior, supervised, subspace, feature, via, approach, learning, data",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "matrix factorization, learning using, using, matrix completion, learning matrix, matrix, learning structural, decomposition, ensemble, low-rank, structural, predicting, dimension, tensor, probabilistic, global",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "monte carlo, hamiltonian monte carlo, clustering, clustering using, detection using, spectral clustering, detection, constraints, cluster, constrained, patterns, sample, complexity, chain, learning",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "learning data, data, learning unlabeled data, text classification, text categorization, data using, manifold learning, text using, learning application, labeled data, learning text, application, text, manifold, games, dimensional, causal, pca, large-scale, missing, mining, small, regression",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "multiple learning, learning approach, temporal difference, difference learning, policy iteration, approach, temporal learning, statistical approach, statistical, policy, value, solution, perspective, function, observations, unified, efficient, data, bayesian, models",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "online learning, partially observable, policy search, metric learning, learning partially, evaluation, search, comparison, model-based, incremental, attribute, evolutionary, experimental, matrices, inverse, direct, algorithms, techniques, instance-based, empirical, prediction, models",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "dimensionality reduction, relational learning, information retrieval, supervised learning, group lasso, instance learning, learning information, information, view, spectral, theory, theoretical, sets, q-learning, mdps, factored, efficiently, theoretic, clustering, learning",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "multi-armed bandits, bandits problems, optimal learning, convex relaxations, regret bandits, bandits algorithms, regret bounds, bandits, learning problems, learning bandits, convex learning, optimal, convex, sampling, exploration, continuous, adaptive, planning, construction, budget, object, solving, optimization, allocation, adversarial, losses, via, presence, contextual, gaussian, active, stochastic, learning",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "decision trees, markov decision, learning decision trees, decision processes, learning space, learning rank, learning ranking, using decision, decision induction, decision application, learning rule, algorithms decision, learning markov, trees pruning, space, ranking, approximate, rule, pruning, pairwise, cost, confidence, k-means, preferences, aggregation, safe, interactions, boosting, bayesian, models",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "time series, networks structure, neural networks, deep networks, message passing, networks, generative models, deep, models time, hierarchical, generative networks, learning networks, generative, factor, mixture, mixed, tracking, multivariate, covariance, convolutional, recognition, moments, shift, membership, asymptotic, analysis, learning, modeling",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "hidden markov models, variational inference, bayesian networks, variational inference models, markov processes, learning bayesian networks, bayesian models, stochastic variational inference, learning markov networks, bayesian, probabilistic models, markov chain, dynamic models, inference, markov monte, markov carlo, bayesian inference, markov, using markov, dynamic networks, bayesian via, stochastic models, learning inference, scalable inference, variational bayesian, dynamic, scalable, sequential, max-margin, memory, joint, causal, posterior, bayes, dependence, data",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "conditional random fields, topic models, markov random fields, learning random fields, maximum entropy models, topic modeling, labeling sequence, learning sequence, random models, sequence, modeling, visual, dependent, measures, training, likelihood, extraction, parallel, web, information, application, data, via, probabilistic",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "learning models, models, graphical models, latent variable models, latent models, gaussian graphical models, mixture models, learning latent variable, hidden models, using models, models data, structured models, estimation, discriminative models, estimation models, discriminative, infinite, density, parameter, sparsity, generation, distributions, efficient",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "gaussian process, gaussian processes, dirichlet process, gaussian process regression, learning gaussian processes, process models, process, gaussian process models, hierarchical process, gaussian, inference process, hierarchical dirichlet, inference gaussian, nonparametric models, sparse gaussian, point process, gaussian mixture, nonparametric, inference processes, process learning, point, map, word, complex, beta, experts, poisson, multi-task, consistent, prior, additive, diffusion, kernel, approximation, source, modeling",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "function approximation, learning function approximation, learning sparse coding, learning via, learning distance, function, distance metric, using function, using approximation, via, optimization, learning optimization, distance, sparse, computation, codes, hashing, compact, greedy, consistency, finding, unifying, locally, linear",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "large scale, structured prediction, maximum margin, learning structured output, efficient algorithms, large margin, sparse regression, learning structured prediction, efficient learning, logistic regression, learning large, margin classifiers, algorithms regression, regression, efficient, algorithms prediction, prediction, learning regression, learning margin, efficient kernel, margin, large, embedding, large-scale, non-linear, binary, case, submodular, perceptron, projections, preserving, bias, approach, using, classification",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "classification, canonical correlation, classification using, learning classification, active learning, multi-class classification, adaptive learning, multi-label classification, adaptive, active, loss, ranking, robot, environments, distributed, partial, particle, mapping, optimizing, ordinal, probabilistic",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "support vector machine, kernel learning, support vector classification, semi-supervised learning, support machine classification, learning vector machine, vector machine classification, learning support vector, multiple kernel, learning support machine, kernel, regularization learning, kernel classification, fast kernel, via regularization, vector regression, kernel machine, regularization, kernel vector, training, path, label, batch, transductive, methods, space, output, active, algorithms",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "learning algorithms, nearest neighbor, algorithms, collaborative filtering, fast algorithms, using algorithms, boosting, boosting algorithms, fast learning, fast, based, trees, multiclass, improve, cost-sensitive, probability, theory, measures, divergence, weighted, stability, hybrid, similarity, simple, performance",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "feature selection, principal component analysis, alternating direction methods multipliers, dynamical systems, predictive state representations, discriminant analysis, feature selection learning, convergence rate, linear dynamical systems, naive bayes, stochastic gradient, coordinate descent, nearest neighbor, linear discriminant analysis, error bounds, subset selection, analysis, methods, stochastic methods, gradient descent, models selection, generalization bounds, linear, stochastic optimization, naive classifiers, bayesian classifiers, gradient methods, stochastic, bounds, gradient, fast methods, stochastic descent, predictive systems, gradient algorithms, feature via, learning linear, classifiers, kernel selection, feature subset, descent algorithms, gradient optimization, learning stochastic, bounds learning, analysis algorithms, analysis learning, stochastic algorithms, selection via, convergence analysis, kernel learning, convergence, optimization methods, learning sparse, methods learning, learning classifiers, generalization, error, descent, svm, analysis methods, kernel methods, sparse selection, sparse, sparse analysis, algorithms selection, methods sparse, feature linear, dual, nonlinear, regularized, minimization, problems, risk, generalized, representations, proximal, curves, variance, distributed, squares, averaging, faster, fisher, general, distributions, ascent, accelerated, dictionary, noise, improved, accuracy, mean, effect, norm, exponential, scaling, class, roc, concentration, iterative, induction, reinforcement learning",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "feature selection, principal component analysis, alternating direction methods multipliers, dynamical systems, predictive state representations, discriminant analysis, feature selection learning, convergence rate, linear dynamical systems, naive bayes, stochastic gradient, coordinate descent, nearest neighbor, linear discriminant analysis, error bounds, subset selection, analysis, methods, stochastic methods, gradient descent, models selection, generalization bounds, linear, stochastic optimization, naive classifiers, bayesian classifiers, gradient methods, stochastic, bounds, gradient, fast methods, stochastic descent, predictive systems, gradient algorithms, feature via, learning linear, classifiers, kernel selection, feature subset, descent algorithms, gradient optimization, learning stochastic, bounds learning, analysis algorithms, analysis learning, stochastic algorithms, selection via, convergence analysis, kernel learning, convergence, optimization methods, learning sparse, methods learning, learning classifiers, generalization, error, descent, svm, analysis methods, kernel methods, sparse selection, sparse, sparse analysis, algorithms selection, methods sparse, feature linear, dual, nonlinear, regularized, minimization, problems, risk, generalized, representations, proximal, curves, variance, distributed, squares, averaging, faster, fisher, general, distributions, ascent, accelerated, dictionary, noise, improved, accuracy, mean, effect, norm, exponential, scaling, class, roc, concentration, iterative, induction",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "reinforcement learning, learning, machine learning proceedings international conference, proceedings international conference machine icml, proceedings international conference learning icml, proceedings conference machine learning icml, international conference machine learning icml, proceedings international machine learning icml, proceedings international conference machine june, machine proceedings international conference usa, proceedings international conference machine july, proceedings international conference learning june, learning proceedings international conference usa, proceedings conference machine learning june, international conference machine learning june, proceedings international machine learning june, machine learning proceedings conference usa, machine learning international conference usa, machine learning proceedings international usa, proceedings international conference learning july, proceedings international conference icml july, proceedings international conference icml june, proceedings conference machine learning july, international conference machine learning july, proceedings international machine learning july, proceedings conference machine icml july, international conference machine icml july, proceedings international machine icml july, proceedings conference machine icml june, international conference machine icml june, proceedings international machine icml june, proceedings international conference usa july, proceedings international conference usa june, proceedings international conference icml usa, proceedings conference learning icml july, international conference learning icml july, proceedings international learning icml july, proceedings conference learning icml june, international conference learning icml june, proceedings international learning icml june, proceedings conference machine usa july, international conference machine usa july, proceedings international machine usa july, machine proceedings conference usa june, machine international conference usa june, machine proceedings international usa june, proceedings conference machine icml usa, international conference machine icml usa, machine learning, proceedings international machine icml usa, conference machine learning icml july, proceedings machine learning icml july, international machine learning icml july, conference machine learning icml june, proceedings machine learning icml june, international machine learning icml june, restricted boltzmann machine, active learning, proceedings conference learning usa july, international conference learning usa july, proceedings international learning usa july, learning proceedings conference usa june, learning international conference usa june, learning proceedings international usa june, proceedings conference learning icml usa, international conference learning icml usa, proceedings international learning icml usa, conference machine learning usa july, proceedings machine learning usa july, international machine learning usa july, machine learning conference usa june, machine learning proceedings usa june, machine learning international usa june, neural networks, conference machine learning icml usa, proceedings machine learning icml usa, international machine learning icml usa, learning networks, feature learning, learning representations, using reinforcement learning, recurrent neural networks, workshop summary, natural language, learning using, deep learning, inductive logic programming, learning function, reinforcement learning function, case study, algorithms reinforcement learning, tutorial summary, multi-task learning, reinforcement learning approximation, learning neural networks, model-based reinforcement learning, transfer learning, learning hierarchical, dynamic programming, learning bayesian networks",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "monte carlo, learning data, matrix factorization, hamiltonian monte carlo, domain adaptation, data, clustering, matrix completion, text categorization, learning unlabeled data, learning graph, learning using, unsupervised learning, compressed sensing, text classification, noisy data, learning structure data, learning structure, incorporating knowledge, using, graph, robust learning, matrix, learning using data, subspace clustering, spectral clustering, learning local, clustering via, manifold learning, multi-view learning, kernel graph, labeled data, transductive learning, learning matrix, graph clustering, robust, analysis data, discovering data, clustering data, learning knowledge, learning structural, approach clustering, detection using, local, kernel learning, learning text, unsupervised using, knowledge, text using, application clustering, learning domain, unsupervised, classification data, semi-supervised learning, text, classification using, structure, clustering using, ensemble, detection, domain, framework learning, learning application, learning via, graph using, manifold, application, graph data, framework, constraints, cluster, structural, low-rank, decomposition, learning approach, games, constrained, predicting, mining, projections, positive, dimension, dimensional, recovery, global, streams, pca, missing, query, patterns, incomplete, vision, small, tensor, protein, prior, complexity, design, document, partitioning",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "decision trees, dimensionality reduction, temporal difference, multiple learning, markov decision, partially observable, learning approach, decision processes, learning decision trees, multiple instance learning, multi-armed bandits, online learning, information retrieval, bandits problems, policy iteration, relational learning, group lasso, regret bandits, convex relaxations, difference learning, learning rank, regret bounds, policy search, supervised learning, approach, bandits, decision induction, approximate iteration, learning space, partially markov, optimal learning, trees pruning, using decision, statistical approach, bandits algorithms, decision application, metric learning, learning ranking, learning problems, policy, learning processes, learning partially, learning markov, learning rule, information, learning algorithms, convex learning, algorithms decision, learning information, optimal, evaluation learning, learning bandits, evaluation, statistical, bayesian learning, learning models, learning approximate, space, temporal learning, exploration, comparison, view, efficient learning, approximate, pruning, attribute, evolutionary, ranking, techniques, value, incremental, continuous, confidence, planning, perspective, budget, construction, solving, cost, rule, observations, inverse, preferences, adversarial, theoretical, aggregation, sets, contextual, convex, losses, best, presence, sampling, safe, finite, learning using, k-means, diverse, theoretic, instance-based",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "conditional random fields, models, gaussian process, gaussian processes, hidden markov models, time series, variational inference, learning models, bayesian networks, graphical models, latent variable models, latent models, dirichlet process, gaussian process regression, markov processes, topic models, variational inference models, stochastic variational inference, networks structure, markov random fields, maximum entropy models, learning random fields, inference, probabilistic models, learning bayesian networks, deep networks, mixture models, inference models, topic modeling, learning gaussian processes, bayesian, markov chain, process, gaussian, message passing, learning latent variable, using models, gaussian graphical models, neural networks, learning markov networks, gaussian models, bayesian nonparametric, labeling sequence, bayesian models, markov monte, markov carlo, markov, bayesian inference, approximate inference, process models, gaussian process models, models data, inference process, point process, hierarchical process, modeling, using markov, markov structure, inference processes, dynamic models, sparse gaussian, hierarchical dirichlet, sparse models, nonparametric, linear models, generative models, process data, variational process, hierarchical, generative networks, structured models, models prediction, bayesian via, using processes, scalable inference, nonparametric models, dynamic networks, inference gaussian, language models, algorithms models, networks, learning sequence, gaussian mixture, learning inference, inference data, networks variable, learning mixture, latent gaussian, variational bayesian, inference using, discriminative models, estimation, markov data, sequence, scalable, stochastic models, via models, regression models, process learning, hierarchical bayesian",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "support vector machine, kernel learning, function approximation, support vector machine classification, large scale, structured prediction, maximum margin, learning support vector machine, nearest neighbor, collaborative filtering, learning function approximation, large margin, canonical correlation, learning algorithms, learning structured output, learning sparse coding, classification, multiple kernel, learning via, semi-supervised learning, algorithms, sparse regression, logistic regression, learning structured prediction, fast algorithms, distance metric, efficient algorithms, margin classifiers, text classification, learning distance, value function, learning classification, regularization learning, regression, using algorithms, efficient, classification using, learning large, multi-class classification, boosting algorithms, margin, efficient learning, fast kernel, multi-label classification, function, using function, fast training, fast learning, efficient kernel, prediction, via regularization, via, loss function, kernel machine, boosting, boosting margin, nearest classification, using approximation, kernel classification, large, learning regression, learning margin, using kernel, adaptive learning, algorithms regression, fast, learning label, classification via, structured, embedding, kernel, algorithms kernel, multiclass, vector regression, algorithms prediction, based, algorithms trees, metric learning, distance, learning optimization, algorithms based, algorithms sparse, kernel vector, output, kernel regression, label, adaptive, algorithms machine, active learning, algorithms function, binary, regularization, cost-sensitive, non-linear, weighted, computation, learning using, consistency, path, divergence",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "predictive state representations, dynamical systems, linear dynamical systems, kernel learning, learning linear, learning sparse, predictive systems, representations, problems, linear, sparse, distributions, kernel, induction, dictionary, programming, nonlinear, approximation, trees",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "feature selection, feature selection learning, nearest neighbor, models selection, subset selection, kernel selection, feature via, selection via, feature subset, svm, generalization, training, class, general, estimating, norm, spectral, exact, classifiers",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "alternating direction methods multipliers, coordinate descent, stochastic gradient, gradient descent, stochastic methods, methods learning, gradient algorithms, stochastic optimization, descent algorithms, learning stochastic, fast methods, gradient methods, stochastic algorithms, stochastic descent, methods, gradient optimization, stochastic, optimization methods, gradient, optimization, descent, minimization, distributed, dual, online, regularized, variance, proximal, loss, accelerated, effect, averaging, ascent, approximate, convex, adaptive",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "convergence rate, naive bayes, error bounds, generalization bounds, bayesian classifiers, naive classifiers, bounds learning, bounds, classifiers, noise, curves, scaling, improved, exponential, squares, accuracy, performance, iterative, roc, concentration, estimation, selective, mean, sampling, deterministic, optimal, using, algorithms",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "analysis, principal component analysis, discriminant analysis, linear discriminant analysis, analysis algorithms, generalized, risk, fisher, empirical, test, faster, independent, learn, weights, high-dimensional",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "multi-task learning, natural language, inductive logic programming, learning language, case study, learning natural language, learning programming, inductive learning, transfer learning, multiple-instance learning, combining learning, learning study, learning logic, learning case, programming, feature learning, automatic, processing",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "learning proceedings international conference, machine proceedings international conference, machine learning proceedings conference, machine learning international conference, machine learning proceedings international, proceedings international conference icml, proceedings conference learning icml, international conference learning icml, proceedings international learning icml, proceedings conference machine icml, international conference machine icml, proceedings international machine icml, conference machine learning icml, proceedings machine learning icml, international machine learning icml, proceedings international conference june, proceedings international conference usa, proceedings conference learning june, international conference learning june, proceedings international learning june, learning proceedings conference usa, learning international conference usa, learning proceedings international usa, proceedings conference machine june, international conference machine june, machine learning, proceedings international machine june, machine proceedings conference usa, machine international conference usa, machine proceedings international usa, proceedings international conference july, conference machine learning june, proceedings machine learning june, international machine learning june, proceedings conference learning july, international conference learning july, machine learning conference usa, proceedings international learning july, machine learning proceedings usa, machine learning international usa, proceedings conference machine july, international conference machine july, proceedings international machine july, conference machine learning july, proceedings machine learning july, international machine learning july, proceedings conference icml july, international conference icml july, proceedings international icml july, proceedings conference icml june, international conference icml june, proceedings international icml june, restricted boltzmann machine, conference learning icml july, proceedings learning icml july, international learning icml july, conference learning icml june, proceedings learning icml june, international learning icml june, conference machine icml july, proceedings machine icml july, international machine icml july, conference machine icml june, proceedings machine icml june, international machine icml june, machine learning icml july, proceedings conference usa july, international conference usa july, machine learning icml june, proceedings international usa july, proceedings conference usa june, international conference usa june, proceedings international usa june, proceedings conference icml usa, international conference icml usa, proceedings international icml usa, conference learning usa july, proceedings learning usa july, international learning usa july, learning conference usa june, learning proceedings usa june, learning international usa june, conference learning icml usa, proceedings learning icml usa, international learning icml usa, conference machine usa july, proceedings machine usa july, international machine usa july, machine conference usa june, machine proceedings usa june, machine international usa june, conference machine icml usa, proceedings machine icml usa, international machine icml usa, machine learning usa july, machine learning usa june, machine learning icml usa, action",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "learning networks, neural networks, learning neural networks, recurrent neural networks, learning examples, learning dynamic, deep learning, learning representations, learning belief, learning abstract, learning discovery, discovery, propagation, basis, minimum, architecture, simple, description, multiagent",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "reinforcement learning, using reinforcement learning, reinforcement learning function, reinforcement learning approximation, learning control, model-based reinforcement learning, learning tasks, reward reinforcement learning, efficient learning, multitask learning, learning systems, learning image, learning agent, learning shaping, multi-agent learning, on-line learning, reinforcement control, classes",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "learning, active learning, feature learning, machine learning, tutorial summary, workshop summary learning, learning concept, learning prediction, hierarchies, procedure",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "learning graph, learning structure, compressed sensing, learning local, graph, transductive learning, multi-view learning, kernel graph, structure, local, search, projections, convex, tasks, recovery, positive, discovering, design, partitioning, document, protein",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "unsupervised learning, domain adaptation, robust learning, incorporating knowledge, learning knowledge, framework learning, robust, knowledge, learning domain, unsupervised, domain, framework, concept, noisy, prior, supervised, subspace, feature, via, approach, learning, data",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "matrix factorization, learning using, using, matrix completion, learning matrix, matrix, learning structural, decomposition, ensemble, low-rank, structural, predicting, dimension, tensor, probabilistic, global",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "monte carlo, hamiltonian monte carlo, clustering, clustering using, detection using, spectral clustering, detection, constraints, cluster, constrained, patterns, sample, complexity, chain, learning",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "learning data, data, learning unlabeled data, text classification, text categorization, data using, manifold learning, text using, learning application, labeled data, learning text, application, text, manifold, games, dimensional, causal, pca, large-scale, missing, mining, small, regression",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "multiple learning, learning approach, temporal difference, difference learning, policy iteration, approach, temporal learning, statistical approach, statistical, policy, value, solution, perspective, function, observations, unified, efficient, data, bayesian, models",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "online learning, partially observable, policy search, metric learning, learning partially, evaluation, search, comparison, model-based, incremental, attribute, evolutionary, experimental, matrices, inverse, direct, algorithms, techniques, instance-based, empirical, prediction, models",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "dimensionality reduction, relational learning, information retrieval, supervised learning, group lasso, instance learning, learning information, information, view, spectral, theory, theoretical, sets, q-learning, mdps, factored, efficiently, theoretic, clustering, learning",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "multi-armed bandits, bandits problems, optimal learning, convex relaxations, regret bandits, bandits algorithms, regret bounds, bandits, learning problems, learning bandits, convex learning, optimal, convex, sampling, exploration, continuous, adaptive, planning, construction, budget, object, solving, optimization, allocation, adversarial, losses, via, presence, contextual, gaussian, active, stochastic, learning",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "decision trees, markov decision, learning decision trees, decision processes, learning space, learning rank, learning ranking, using decision, decision induction, decision application, learning rule, algorithms decision, learning markov, trees pruning, space, ranking, approximate, rule, pruning, pairwise, cost, confidence, k-means, preferences, aggregation, safe, interactions, boosting, bayesian, models",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "time series, networks structure, neural networks, deep networks, message passing, networks, generative models, deep, models time, hierarchical, generative networks, learning networks, generative, factor, mixture, mixed, tracking, multivariate, covariance, convolutional, recognition, moments, shift, membership, asymptotic, analysis, learning, modeling",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "hidden markov models, variational inference, bayesian networks, variational inference models, markov processes, learning bayesian networks, bayesian models, stochastic variational inference, learning markov networks, bayesian, probabilistic models, markov chain, dynamic models, inference, markov monte, markov carlo, bayesian inference, markov, using markov, dynamic networks, bayesian via, stochastic models, learning inference, scalable inference, variational bayesian, dynamic, scalable, sequential, max-margin, memory, joint, causal, posterior, bayes, dependence, data",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "conditional random fields, topic models, markov random fields, learning random fields, maximum entropy models, topic modeling, labeling sequence, learning sequence, random models, sequence, modeling, visual, dependent, measures, training, likelihood, extraction, parallel, web, information, application, data, via, probabilistic",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "learning models, models, graphical models, latent variable models, latent models, gaussian graphical models, mixture models, learning latent variable, hidden models, using models, models data, structured models, estimation, discriminative models, estimation models, discriminative, infinite, density, parameter, sparsity, generation, distributions, efficient",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "gaussian process, gaussian processes, dirichlet process, gaussian process regression, learning gaussian processes, process models, process, gaussian process models, hierarchical process, gaussian, inference process, hierarchical dirichlet, inference gaussian, nonparametric models, sparse gaussian, point process, gaussian mixture, nonparametric, inference processes, process learning, point, map, word, complex, beta, experts, poisson, multi-task, consistent, prior, additive, diffusion, kernel, approximation, source, modeling",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "function approximation, learning function approximation, learning sparse coding, learning via, learning distance, function, distance metric, using function, using approximation, via, optimization, learning optimization, distance, sparse, computation, codes, hashing, compact, greedy, consistency, finding, unifying, locally, linear",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "large scale, structured prediction, maximum margin, learning structured output, efficient algorithms, large margin, sparse regression, learning structured prediction, efficient learning, logistic regression, learning large, margin classifiers, algorithms regression, regression, efficient, algorithms prediction, prediction, learning regression, learning margin, efficient kernel, margin, large, embedding, large-scale, non-linear, binary, case, submodular, perceptron, projections, preserving, bias, approach, using, classification",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "classification, canonical correlation, classification using, learning classification, active learning, multi-class classification, adaptive learning, multi-label classification, adaptive, active, loss, ranking, robot, environments, distributed, partial, particle, mapping, optimizing, ordinal, probabilistic",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "support vector machine, kernel learning, support vector classification, semi-supervised learning, support machine classification, learning vector machine, vector machine classification, learning support vector, multiple kernel, learning support machine, kernel, regularization learning, kernel classification, fast kernel, via regularization, vector regression, kernel machine, regularization, kernel vector, training, path, label, batch, transductive, methods, space, output, active, algorithms",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "learning algorithms, nearest neighbor, algorithms, collaborative filtering, fast algorithms, using algorithms, boosting, boosting algorithms, fast learning, fast, based, trees, multiclass, improve, cost-sensitive, probability, theory, measures, divergence, weighted, stability, hybrid, similarity, simple, performance",
+			 "target": []
+		}
+		]
+	}
+]

@@ -42,12 +42,22 @@ $(document).ready(function(){
 											url:"data/dblp/cossine/"+$("#dataconferencia").val()+"_Cossine.json",
 											success:function(data){										
 												// console.log("Ano: "+year);
+												var id = $("div.tab-pane.fade.active.in").attr("id");
+				
+												var vector =  new Array (10, 20, 50, 100); 
 												Tree.tree1 = -1;
 												Tree.tree2 = -1;
 												cosseno = data;
 
-												$('#container').css("height", "900px");
-												$('#container').highcharts(Heatmap.parse(cosseno));
+
+												 console.log($(id).find("#heatmap"));
+												console.log($("#heatmap").parent());
+												console.log($("#heatmap").parent().parent());
+
+												// $(id).find("#container").css("height", "900px");
+												// $(id).find("#container")highcharts(Heatmap.parse(cosseno));
+												$(id).find("#heatmap").css("height", "900px");
+												$(id).find("#heatmap").highcharts(Heatmap.parse(cosseno));
 												
 												Tree.init("HAN", index, 'han');
 												Tree.init("MYTREE",index, confName);
@@ -92,25 +102,28 @@ var Tree ={
 	tree1:-1,
 	tree2:-1,
 	init:function( type, index, conference ){
+
 		switch( type ){
 			case "HAN":
 			var self = this;
 				$.ajax({
-					url:"data/"+index.toLowerCase()+"/"+conference.toLowerCase()+".json",					
+					url:"data/"+index.toLowerCase()+"/json/"+conference.toLowerCase()+".json",					
 					success:function(data){
-						var han = data;						
-						self.parse( han, "han_tree" ) ;
+						var han = data;		
+						self.parseConferenceTree( han, "han_tree" ) ;				
+						// self.parse( han, "han_tree" ) ;
 					}, 
 					error:function(data){
 						var han = JSON.parse(data.responseText);
-						self.parse( han, "han_tree" ) ;
+						self.parseConferenceTree( han, "han_tree" ) ;
+						// self.parse( han, "han_tree" ) ;
 					}
 				});
 				break;
 			case "MYTREE":
 				var self = this;
 				$.ajax({
-					url:"data/"+index.toLowerCase()+"/"+conference.toLowerCase()+".json",					
+					url:"data/"+index.toLowerCase()+"/json/"+conference.toLowerCase()+".json",					
 					success:function(data){
 						var conferenceTree = data;
 						self.parseConferenceTree( conferenceTree, "my_tree" ) ;
@@ -123,126 +136,15 @@ var Tree ={
 				break;
 		}
 	},
-	parse:function( json, selector ){
-		var elements = [];
-		var edges = [];
-		for(i in json ){
-			var obj = {
-				data:{
-					id: json[i].id,
-					topic: json[i].topic
 
-				}
-			};
-			elements.push( obj );
-			if( json[i].target.length>0){
-				for(j in json[i].target){
-					var edge = {
-						data:{
-							id:"o"+json[i].id+"t"+json[i].target[j],
-							source: json[i].id,
-							target: json[i].target[j]
-						}
-					};
-					edges.push( edge);
-				}
-			}
-		}
-
-		
-		var narr =[];
-		for( i in elements ){
-			narr.push( elements[i]);
-		}
-		for( i in edges ){
-			narr.push( edges[i]);
-		}
-
-		var tree = cytoscape({
-			container: document.getElementById(selector),
-			elements: narr,
-			boxSelectionEnabled: false,
-          	autounselectify: true,
-			style: [
-						{
-							selector: 'node',
-							style: {
-								'content': 'data(id)',
-								'color':'#000',
-								'text-opacity': 0.5,
-								'text-valign': 'center',
-								'text-halign': 'right',
-								'background-color': '#11479e'
-							}
-						},
-
-						{
-							selector: 'edge',
-							style: {
-								'width': 4,
-								'target-arrow-shape': 'triangle',
-								'line-color': '#9dbaea',
-								'target-arrow-color': '#9dbaea'
-							}
-						}
-					],
-
-		  layout: {
-		    name: 'dagre',
-		  },
-		  ready: function(){
-		    window.tree = this;
-		  },
-		  
-
-		});
-		for( i in elements ){
-			var html = elements[i].data.topic;
-
-			tree.nodes().on("tap", function(evt){
-				var tree_id = $( evt.cy.container() ).attr("id") ;
-				// $("#"+tree_id+"_details").html(this.data('topic'));
-
-			  	if( Tree.click.length > 0 && Tree.click.length <2 ){
-			  		var checked = false;
-			  		for(i in Tree.click){
-			  			if( Tree.click[i] == this.data('id') ) {
-			  				if( Tree.treeid[i] == tree_id)
-			  					checked = true;
-			  			}
-			  		}
-			  		if( !checked){
-			  			tree.$("#"+this.data('id')).style('background-color',"#DFF80B");
-			  			Tree.click.push( this.data('id') );
-			  			Tree.topic.push( this.data('topic') );
-			  			Tree.treeid.push( tree_id );
-			  			//console.log( "Tamanho: "+Tree.click.length);
-			  			//console.log( Tree.click);
-			  		}
-			  	} else if(Tree.click.length == 0){
-			  		tree.$("#"+this.data('id')).style('background-color',"#DFF80B");	
-			  		Tree.click.push( this.data('id') );
-			  		Tree.topic.push( this.data('topic') );
-			  		Tree.treeid.push( tree_id );
-			  		//console.log( "Tamanho: "+Tree.click.length);
-			  		//console.log( Tree.click);
-			  	}
-
-			  	
-
-			});
-		}
-		if( Tree.tree1 == -1 ) Tree.tree1 = tree;
-		else if( Tree.tree2 == -1 ) Tree.tree2 = tree;
-		
-	},
 
 		parseConferenceTree:function( json, selector ){
 		var elements = [];
 		var edges = [];
-		var year = $("#conferenceYear").val();
-		var jsonYear = json[0][year];
+		var year = $("#conferenceYear").val();	
+		var jsonYear = json[0][year];	
 		
+
 		for(i in jsonYear){
 			var obj = {
 				data:{
@@ -348,6 +250,21 @@ var Tree ={
 		
 	},
 }
+
+	function trim(str) {
+		return str.replace(/^\s+|\s+$/g,"");
+	}
+ 
+	//left trim
+	function ltrim(str) {
+		return str.replace(/^\s+/,"");
+	}
+ 
+	//right trim
+	function rtrim(str) {
+		return str.replace(/\s+$/,"");
+	}
+
 var interval = window.setInterval( function(){
 	if( Tree.click.length == 2 ){
 
@@ -355,9 +272,21 @@ var interval = window.setInterval( function(){
   		var year = $("#conferenceYear").val();
   		var cossineJSON = "data/dblp/cossine/"+conference+"_Cossine.json";
 
+  		var teste = "   testando a funcado de trim   ";
+  		console.log(teste);
+  		console.log(trim(teste));
+
 
   		var arrTopic1 = Tree.topic[0].split(",");
   		var arrTopic2 = Tree.topic[1].split(",");
+
+  		for(i in arrTopic1){  		
+  			arrTopic1[i] = trim(arrTopic1[i]);  	
+  		}
+
+  		for(i in arrTopic2){
+  			arrTopic2[i] = trim(arrTopic2[i]);
+  		}
 
   		var topicDiffer1 = Tree.topic[0].split(/(?:,| )+/);
   		var topicDiffer2 = Tree.topic[1].split(/(?:,| )+/);
@@ -367,24 +296,23 @@ var interval = window.setInterval( function(){
   		var qtdTopicarrTopic2 = arrTopic2.length;
 
   		var qtdTopicosDiferentes = 0;
-   		for( i in arrTopic2 ){
+   		for( i in arrTopic2 ){   	
   			if( arrTopic1.indexOf( arrTopic2[i]) == -1){
   				arrTopic2[i] = '<span class="differ">'+arrTopic2[i]+'</span>';
   				qtdTopicosDiferentes = qtdTopicosDiferentes+1;
-  			}else{
-  				console.log(arrTopic1.indexOf( arrTopic2[i]));
+  			}else{  				
   				arrTopic1[arrTopic1.indexOf( arrTopic2[i])] = '<span class="equals">'+'<strong>'+arrTopic1[arrTopic1.indexOf( arrTopic2[i])]+'</strong>'+'</span>';
   			}
   		}
   		
-  		arrTopic2 = arrTopic2.join(","); 
+  		// arrTopic2 = arrTopic2.join(","); 
   		// $("#myModal").find("#han_topic").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+Tree.topic[0]+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);  		
   		// $("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
-
-  		$("#han_tree_details").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+arrTopic1+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);
-  		$("#my_tree_details").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
+  		console.log(arrTopic2);
+  		$("#han_tree_details").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+arrTopic1.join(", ")+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);
+  		$("#my_tree_details").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2.join(", ")+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
   		
-
+  		qtdTopicosDiferentes = 0;
 
   		var qtdTopicosTotalDiferentes = 0;
   		for(i in topicDiffer2){

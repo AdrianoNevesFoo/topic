@@ -1,0 +1,755 @@
+[
+	{
+		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "keyword search, relational database, query language, relational data, data model, nearest neighbor, selectivity estimation, knowledge base, search database, natural language interface",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "keyword search, relational database, query language, relational data, data model, nearest neighbor, selectivity estimation, knowledge base, search database, natural language interface",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "proceedings acm sigmod international conference, proceedings acm international conference management, proceedings acm sigmod international management, proceedings acm sigmod conference management, proceedings sigmod international conference management, acm sigmod international conference management, data, proceedings acm international conference data, proceedings acm sigmod international data, proceedings acm sigmod conference data",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "query processing, query optimization, time series, views maintenance, streams processing, query processing system, query processing database, query, efficient query processing, materialized views",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "database system, database, concurrency control, database management system, relational database system, concurrency control database, object-oriented database, database design, distributed database system, main memory database",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "large graph, queries, decision support, similarity search, queries database, data structure, queries data, schema mapping, clustering data, index structure",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "mining association rules, data mining, sensor networks, web services, data streams, web applications, continuous data streams, mining, web, subsequence matching",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "nearest neighbor, approach data, approach, neighbor search, nearest search, search approach, robust, hierarchical, rdf, ranked",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "keyword search, search database, keyword search database, knowledge base, data base, keyword search data, similarity search, visual query, query formulation, search engine",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "relational database, relational data, natural language interface, querying xml, xml relational system, querying database, query web, query database, query answering, relational",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "data model, selectivity estimation, functional dependencies, sampling estimation, database statistical, text database, model, model database, estimation, sampling",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "query language, database language, database programming language, language data, spatial database, structured data, data abstract, language, framework data, extended abstract",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "sigmod international conference, proceedings acm international, proceedings acm conference, international conference data, proceedings international conference, acm international conference, international conference management, proceedings acm sigmod, sigmod international data, sigmod conference data",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "data management, data management system, data services, data platform, data cloud, data panel, services platform, workflow management, management panel, panel",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "data, data system, data base, data streams, big data, data processing, data warehouse, big data analytics, analytics data, data warehousing",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "data integration, data sources, information system, privacy preserving, privacy data, scientific data, information integration, system integration, challenges opportunities, data tutorial",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "data analysis, interactive data exploration, microsoft sql, sql, sql server, sql data, interactive, personal, availability, rdbms",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "views maintenance, optimization queries, using views, materialized views, views, incremental maintenance, optimization, optimization using, optimization techniques, techniques",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "sql server, using, spatial join, index structure, join, index, tree, server, join using, adaptive",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "time series, join algorithms, hash join, fast using, efficient algorithms, fast algorithms, algorithms, fast, efficient, indexing",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "query optimization, query, efficient query, query system, evaluation queries, evaluation algorithms, efficient evaluation, query plans, query evaluation, query optimizer",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "query processing, query processing database, query processing system, efficient query processing, streams processing, processing, join processing, data processing, processing queries, processing using",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "objects database, objects database system, access database, transaction database, objects, objects data, access method, method database, implementation database, transaction",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "main memory database, data memory, object-oriented dbms, database architecture, memory system, flash memory, database environment, database caching, database technology, dbms",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "concurrency control, distributed database, concurrency control database, database performance, performance, performance analysis, distributed, performance evaluation, performance system, protocols database",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "database system, database management system, relational database system, distributed database system, data system, system applications, data database system, processing database system, relational management system, base system",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "database, relational database, object-oriented database, database design, database management, database applications, deductive database, physical design, applications, design data",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "similarity search, clustering data, olap cubes, similarity database, based data, based, similarity, clustering, algorithms, computation",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "decision support, queries database, queries data, queries, aggregate queries, top-k queries, support queries, aggregate, support, constraints",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "data structure, index structure, structure, semantic, exploiting, services, location, theory, compression, testing",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "large graph, answering queries, large database, large data, queries large, efficient queries, graph database, graph, efficient large, large",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "optimizing queries, complex queries, predicates queries, schema mapping, schema data, schema, complex, mapping, tool, multiple",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "data mining, mining, mining pattern, mining algorithms, mining system, mining graph, mining frequent, large-scale, supporting, learning",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "subsequence matching, automatic data, matching data, matching, automatic, tables, discovery, record, attributes, correlations",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "sensor networks, networks, social media, social, monitoring networks, temporal, detection, monitoring, real-time, user",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "mining rules, association rules, rules data, dynamic data, dynamic, rules, scalable, aggregation, finding, workloads",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "data streams, web applications, web services, web, streams, continuous streams, continuous queries, web sites, continuous data, web data",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "keyword search, relational database, query language, relational data, data model, nearest neighbor, selectivity estimation, knowledge base, search database, natural language interface, relational data model, search, database language, functional dependencies, keyword search database, relational data base, xml relational system, relational, query web, database programming language",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "keyword search, relational database, query language, relational data, data model, nearest neighbor, selectivity estimation, knowledge base, search database, natural language interface, relational data model, search, database language, functional dependencies, keyword search database, relational data base, xml relational system, relational, query web, database programming language",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "proceedings acm sigmod international conference, proceedings acm international conference management, proceedings acm sigmod international management, proceedings acm sigmod conference management, proceedings sigmod international conference management, acm sigmod international conference management, data, proceedings acm international conference data, proceedings acm sigmod international data, proceedings acm sigmod conference data, proceedings sigmod international conference data, acm sigmod international conference data, proceedings acm international conference june, proceedings acm sigmod international june, proceedings acm sigmod conference june, proceedings sigmod international conference june, acm sigmod international conference june, sigmod international conference management data, sigmod international conference management june, proceedings acm international management data",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "query processing, query optimization, time series, views maintenance, streams processing, query processing system, query processing database, query, efficient query processing, materialized views, distributed processing, join, optimization queries, join processing, using, query plans, query evaluation, sql server, spatial join, parallel processing",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "database system, database, concurrency control, database management system, relational database system, concurrency control database, object-oriented database, database design, distributed database system, main memory database, performance analysis, database applications, base system, object-oriented database system, physical design, performance, relational management system, deductive database, design, parallel database system",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "large graph, queries, decision support, similarity search, queries database, data structure, queries data, schema mapping, clustering data, index structure, large, optimizing queries, answering queries, olap cubes, efficient queries, large data, similarity join, complex queries, graph, efficient large",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "mining association rules, data mining, sensor networks, web services, data streams, web applications, continuous data streams, mining, web, subsequence matching, mining pattern, social media, mining algorithms, continuous queries, web sites, streams, mining database, event streams, pattern matching, mining system",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "nearest neighbor, approach data, approach, neighbor search, nearest search, search approach, robust, hierarchical, rdf, ranked, dimensional, relationships, quality, rule-based, good, graphical",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "keyword search, search database, keyword search database, knowledge base, data base, keyword search data, similarity search, visual query, query formulation, search engine, efficient search, top-k query, information retrieval, efficient data, efficient database, search relational, system xml, search, xml documents, xml data",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "relational database, relational data, natural language interface, querying xml, xml relational system, querying database, query web, query database, query answering, relational, query relational, query system, query data, interface database, probabilistic database, relational algebra, web interface, query probabilistic, querying system, query",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "data model, selectivity estimation, functional dependencies, sampling estimation, database statistical, text database, model, model database, estimation, sampling, text, histograms, extracting, size, type, integration, using, database",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "query language, database language, database programming language, language data, spatial database, structured data, data abstract, language, framework data, extended abstract, high-level language, spatial data, language abstract, abstract, framework, spatial, relations, structured, objects, nested",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "sigmod international conference, proceedings acm international, proceedings acm conference, international conference data, proceedings international conference, acm international conference, international conference management, proceedings acm sigmod, sigmod international data, sigmod conference data, proceedings sigmod international, acm sigmod international, proceedings sigmod conference, acm sigmod conference, proceedings acm data, sigmod international management, sigmod conference management, proceedings acm management, proceedings international data, acm international data",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "data management, data management system, data services, data platform, data cloud, data panel, services platform, workflow management, management panel, panel, workflow, research, development, public, elastic, cleaning, environment",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "data, data system, data base, data streams, big data, data processing, data warehouse, big data analytics, analytics data, data warehousing, enterprise data, hadoop, benchmark, flows",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "data integration, data sources, information system, privacy preserving, privacy data, scientific data, information integration, system integration, challenges opportunities, data tutorial, data mobile, data challenges, information, information data, privacy, challenges, business, open, streaming, overview",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "data analysis, interactive data exploration, microsoft sql, sql, sql server, sql data, interactive, personal, availability, rdbms, computer, statistical, provenance",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "views maintenance, optimization queries, using views, materialized views, views, incremental maintenance, optimization, optimization using, optimization techniques, techniques, update, space, incremental, indexes, selection, xquery, operations, order, main-memory, data",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "sql server, using, spatial join, index structure, join, index, tree, server, join using, adaptive, hashing, oracle, comparison, generalized, multi-dimensional, structural, filters, queries, data",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "time series, join algorithms, hash join, fast using, efficient algorithms, fast algorithms, algorithms, fast, efficient, indexing, skyline, processor, xml, memory, multidimensional, partitioning, matching, pipelined, method, organization",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "query optimization, query, efficient query, query system, evaluation queries, evaluation algorithms, efficient evaluation, query plans, query evaluation, query optimizer, evaluation, efficient scheme, online, dynamic query, files, scheme, optimal, extensible, answers, aggregation",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "query processing, query processing database, query processing system, efficient query processing, streams processing, processing, join processing, data processing, processing queries, processing using, distributed processing, query processing data, query processing distributed, query execution, parallel processing, query results, parallel join, processing continuous, parallel, query engine",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "objects database, objects database system, access database, transaction database, objects, objects data, access method, method database, implementation database, transaction, access, implementation, method, store, manager, persistent, spatio-temporal, perspective, fine-grained, specification",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "main memory database, data memory, object-oriented dbms, database architecture, memory system, flash memory, database environment, database caching, database technology, dbms, memory, architecture, environment, technology, caching, abstract, integrating, making, security, consistency",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "concurrency control, distributed database, concurrency control database, database performance, performance, performance analysis, distributed, performance evaluation, performance system, protocols database, analysis database, distributed system, performance concurrency, performance control, experience, protocols, problem, machine, multimedia, paper",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "database system, database management system, relational database system, distributed database system, data system, system applications, data database system, processing database system, relational management system, base system, database system applications, database issues, storage system, database based, storage database, large system, based system, recovery system, recovery, mechanism",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "database, relational database, object-oriented database, database design, database management, database applications, deductive database, physical design, applications, design data, data database, semantic database, database techniques, database tutorial, database server, automated database, database tuning, physical database, design applications, replication",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "similarity search, clustering data, olap cubes, similarity database, based data, based, similarity, clustering, algorithms, computation, cubes, via, fast, summary, local, filtering, massive, global, measures, using",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "decision support, queries database, queries data, queries, aggregate queries, top-k queries, support queries, aggregate, support, constraints, path, expressions, practical, functions, supporting, evaluating, sets, networks",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "data structure, index structure, structure, semantic, exploiting, services, location, theory, compression, testing, extended, datalog",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "large graph, answering queries, large database, large data, queries large, efficient queries, graph database, graph, efficient large, large, graph approach, efficient graph, answering graph, queries graph, indexing large, efficient, approximate, indexing, distance, computing",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "optimizing queries, complex queries, predicates queries, schema mapping, schema data, schema, complex, mapping, tool, multiple, predicates, generation, efficiently, visualization, integrated, datasets, expensive, progressive, xpath",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "data mining, mining, mining pattern, mining algorithms, mining system, mining graph, mining frequent, large-scale, supporting, learning, heterogeneous, partitioning, entity, resolution, transformations, moving, annotation, clusters, modeling, sequence",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "subsequence matching, automatic data, matching data, matching, automatic, tables, discovery, record, attributes, correlations, values, personalized, text, recommendation, sequence, database",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "sensor networks, networks, social media, social, monitoring networks, temporal, detection, monitoring, real-time, user, enabling, designing, declarative, changes, data-driven, model, applications, system, modeling, data",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "mining rules, association rules, rules data, dynamic data, dynamic, rules, scalable, aggregation, finding, workloads, content, programs, windows, virtual, crowdsourcing, using, system",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "data streams, web applications, web services, web, streams, continuous streams, continuous queries, web sites, continuous data, web data, event streams, queries streams, continuous, event, world, scale, real, study, private, resource",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "keyword search, relational database, query language, relational data, data model, nearest neighbor, selectivity estimation, knowledge base, search database, natural language interface, relational data model, search, database language, functional dependencies, keyword search database, relational data base, xml relational system, relational, query web, database programming language, query database, language, querying xml, visual query, keyword search data, querying database, approach data, similarity search, search engine, language data, efficient search, query formulation, spatial database, structured data, query relational, query answering, search data, sampling estimation, extended abstract, high-level language, information retrieval, approach, query data, relational algebra, neighbor search, data abstract, query system, database approach, web interface, model",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "keyword search, relational database, query language, relational data, data model, nearest neighbor, selectivity estimation, knowledge base, search database, natural language interface, relational data model, search, database language, functional dependencies, keyword search database, relational data base, xml relational system, relational, query web, database programming language, query database, language, querying xml, visual query, keyword search data, querying database, approach data, similarity search, search engine, language data, efficient search, query formulation, spatial database, structured data, query relational, query answering, search data, sampling estimation, extended abstract, high-level language, information retrieval, approach, query data, relational algebra, neighbor search, data abstract, query system, database approach, web interface, model",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "proceedings acm sigmod international conference, proceedings acm international conference management, proceedings acm sigmod international management, proceedings acm sigmod conference management, proceedings sigmod international conference management, acm sigmod international conference management, data, proceedings acm international conference data, proceedings acm sigmod international data, proceedings acm sigmod conference data, proceedings sigmod international conference data, acm sigmod international conference data, proceedings acm international conference june, proceedings acm sigmod international june, proceedings acm sigmod conference june, proceedings sigmod international conference june, acm sigmod international conference june, sigmod international conference management data, sigmod international conference management june, proceedings acm international management data, proceedings acm conference management data, proceedings international conference management data, acm international conference management data, proceedings acm sigmod management data, proceedings sigmod international management data, proceedings sigmod conference management data, acm sigmod international management data, acm sigmod conference management data, proceedings acm international management june, proceedings acm conference management june, proceedings international conference management june, acm international conference management june, proceedings acm sigmod management june, sigmod international conference data june, proceedings sigmod international management june, proceedings sigmod conference management june, acm sigmod international management june, acm sigmod conference management june, proceedings acm international data june, proceedings acm conference data june, proceedings international conference data june, acm international conference data june, proceedings acm sigmod data june, proceedings sigmod international data june, proceedings sigmod conference data june, acm sigmod international data june, acm sigmod conference data june, international conference management data june, sigmod international management data june, sigmod conference management data june",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "query processing, query optimization, time series, views maintenance, streams processing, query processing system, query processing database, query, efficient query processing, materialized views, distributed processing, join, optimization queries, join processing, using, query plans, query evaluation, sql server, spatial join, parallel processing, query optimizer, incremental maintenance, evaluation queries, processing queries, query processing distributed, index structure, query execution, join algorithms, query processing data, hash join, parallel, efficient evaluation, data processing, sql queries, evaluation algorithms, views, processing continuous, using views, query techniques, efficient algorithms, processing engine, approximate query, fast algorithms, processing using, optimization techniques, query results, evaluation, techniques data, query using, tree queries",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "database system, database, concurrency control, database management system, relational database system, concurrency control database, object-oriented database, database design, distributed database system, main memory database, performance analysis, database applications, base system, object-oriented database system, physical design, performance, relational management system, deductive database, design, parallel database system, applications, large database, performance evaluation, flash memory, relational database management, transaction processing, access method, design implementation, data memory, processing database system, objects, storage system, data database system, data system, database panel, database machine, system applications, design data, access control, database based, transaction, evaluation database, query database system, data database, implementation database system, objects database, semantic database, transaction database system, evaluation database system, object-oriented dbms",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "large graph, queries, decision support, similarity search, queries database, data structure, queries data, schema mapping, clustering data, index structure, large, optimizing queries, answering queries, olap cubes, efficient queries, large data, similarity join, complex queries, graph, efficient large, large database, queries large, search large, similarity database, graph database, efficient graph, fast large, graph approach, similarity, answering graph, aggregate queries, range queries, predicates queries, efficient similarity, queries approach, schema data, clustering, algorithms large, optimization queries, indexing large, semantic data, top-k queries, based data, queries based, structure, efficient data, schema, based, support queries, approximate queries",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "mining association rules, data mining, sensor networks, web services, data streams, web applications, continuous data streams, mining, web, subsequence matching, mining pattern, social media, mining algorithms, continuous queries, web sites, streams, mining database, event streams, pattern matching, mining system, networks, monitoring networks, mining frequent, mining graph, mining large, information networks, graph pattern, dynamic web, automatic data, content web, streams system, rules data, matching, matching data, social, dynamic data, rules, matching database, web data, mining streams, queries streams, dynamic, monitoring, scalable, event, automatic, detection, continuous, sequence, large-scale",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "nearest neighbor, approach data, approach, neighbor search, nearest search, search approach, robust, hierarchical, rdf, ranked, dimensional, relationships, quality, rule-based, good, graphical",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "keyword search, search database, keyword search database, knowledge base, data base, keyword search data, similarity search, visual query, query formulation, search engine, efficient search, top-k query, information retrieval, efficient data, efficient database, search relational, system xml, search, xml documents, xml data, search xml, query search, efficient query, xml database, xml, efficient, retrieval, documents, building, flexible, report, browsing, extending, unified, using, query",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "relational database, relational data, natural language interface, querying xml, xml relational system, querying database, query web, query database, query answering, relational, query relational, query system, query data, interface database, probabilistic database, relational algebra, web interface, query probabilistic, querying system, query, query interface, querying data, query language, querying, interface, probabilistic, ranking, uncertain, effective, power, form, prototype, presence, interactive, evaluation, direct, schema",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "data model, selectivity estimation, functional dependencies, sampling estimation, database statistical, text database, model, model database, estimation, sampling, text, histograms, extracting, size, type, integration, using, database",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "query language, database language, database programming language, language data, spatial database, structured data, data abstract, language, framework data, extended abstract, high-level language, spatial data, language abstract, abstract, framework, spatial, relations, structured, objects, nested, logic, logical, inference, access, method, formal, object-oriented, incomplete",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "sigmod international conference, proceedings acm international, proceedings acm conference, international conference data, proceedings international conference, acm international conference, international conference management, proceedings acm sigmod, sigmod international data, sigmod conference data, proceedings sigmod international, acm sigmod international, proceedings sigmod conference, acm sigmod conference, proceedings acm data, sigmod international management, sigmod conference management, proceedings acm management, proceedings international data, acm international data, proceedings conference data, acm conference data, proceedings international management, acm international management, proceedings conference management, acm conference management, conference management data, international management data, proceedings sigmod data, acm sigmod data, proceedings sigmod management, acm sigmod management, sigmod management data, acm management data, proceedings management data, international conference june, sigmod international june, sigmod conference june, international data june, conference data june, proceedings acm june, international management june, conference management june, proceedings international june, acm international june, proceedings conference june, acm conference june, sigmod data june, sigmod management june, proceedings sigmod june",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "data management, data management system, data services, data platform, data cloud, data panel, services platform, workflow management, management panel, panel, workflow, research, development, public, elastic, cleaning, environment",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "data, data system, data base, data streams, big data, data processing, data warehouse, big data analytics, analytics data, data warehousing, enterprise data, hadoop, benchmark, flows",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "data integration, data sources, information system, privacy preserving, privacy data, scientific data, information integration, system integration, challenges opportunities, data tutorial, data mobile, data challenges, information, information data, privacy, challenges, business, open, streaming, overview, differential",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "data analysis, interactive data exploration, microsoft sql, sql, sql server, sql data, interactive, personal, availability, rdbms, computer, statistical, provenance",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "views maintenance, optimization queries, using views, materialized views, views, incremental maintenance, optimization, optimization using, optimization techniques, techniques, update, space, incremental, indexes, selection, xquery, operations, order, main-memory, data",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "sql server, using, spatial join, index structure, join, index, tree, server, join using, adaptive, hashing, oracle, comparison, generalized, multi-dimensional, structural, filters, queries, data",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "time series, join algorithms, hash join, fast using, efficient algorithms, fast algorithms, algorithms, fast, efficient, indexing, skyline, processor, xml, memory, multidimensional, partitioning, matching, pipelined, method, organization, general, pattern, database, data",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "query optimization, query, efficient query, query system, evaluation queries, evaluation algorithms, efficient evaluation, query plans, query evaluation, query optimizer, evaluation, efficient scheme, online, dynamic query, files, scheme, optimal, extensible, answers, aggregation, statistics, grid, in-memory",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "query processing, query processing database, query processing system, efficient query processing, streams processing, processing, join processing, data processing, processing queries, processing using, distributed processing, query processing data, query processing distributed, query execution, parallel processing, query results, parallel join, processing continuous, parallel, query engine, processing engine, parallel query, engine, execution, mapreduce, on-line, array, massively, storage, shared-nothing, scalable",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "objects database, objects database system, access database, transaction database, objects, objects data, access method, method database, implementation database, transaction, access, implementation, method, store, manager, persistent, spatio-temporal, perspective, fine-grained, specification, model",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "main memory database, data memory, object-oriented dbms, database architecture, memory system, flash memory, database environment, database caching, database technology, dbms, memory, architecture, environment, technology, caching, abstract, integrating, making, security, consistency, partitioned, active, software, panel, oltp, applications, database",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "concurrency control, distributed database, concurrency control database, database performance, performance, performance analysis, distributed, performance evaluation, performance system, protocols database, analysis database, distributed system, performance concurrency, performance control, experience, protocols, problem, machine, multimedia, paper, multidatabase, cache, action, integrity, logging, highly, disk, workloads",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "database system, database management system, relational database system, distributed database system, data system, system applications, data database system, processing database system, relational management system, base system, database system applications, database issues, storage system, database based, storage database, large system, based system, recovery system, recovery, mechanism, policies, cost, replicated, middleware, collection",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "database, relational database, object-oriented database, database design, database management, database applications, deductive database, physical design, applications, design data, data database, semantic database, database techniques, database tutorial, database server, automated database, database tuning, physical database, design applications, replication, managing, case, demonstration, modeling, concepts",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "similarity search, clustering data, olap cubes, similarity database, based data, based, similarity, clustering, algorithms, computation, cubes, via, fast, summary, local, filtering, massive, global, measures, using, efficient",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "decision support, queries database, queries data, queries, aggregate queries, top-k queries, support queries, aggregate, support, constraints, path, expressions, practical, functions, supporting, evaluating, sets, networks",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "data structure, index structure, structure, semantic, exploiting, services, location, theory, compression, testing, extended, datalog",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "large graph, answering queries, large database, large data, queries large, efficient queries, graph database, graph, efficient large, large, graph approach, efficient graph, answering graph, queries graph, indexing large, efficient, approximate, indexing, distance, computing, recursive, string, uncertain, reachability, improving, labeling, random, selection, strategies, exact, leveraging, range, managing, join",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "optimizing queries, complex queries, predicates queries, schema mapping, schema data, schema, complex, mapping, tool, multiple, predicates, generation, efficiently, visualization, integrated, datasets, expensive, progressive, xpath",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "data mining, mining, mining pattern, mining algorithms, mining system, mining graph, mining frequent, large-scale, supporting, learning, heterogeneous, partitioning, entity, resolution, transformations, moving, annotation, clusters, modeling, sequence",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "subsequence matching, automatic data, matching data, matching, automatic, tables, discovery, record, attributes, correlations, values, personalized, text, recommendation, sequence, database",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "sensor networks, networks, social media, social, monitoring networks, temporal, detection, monitoring, real-time, user, enabling, designing, declarative, changes, data-driven, model, applications, system, modeling, data",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "mining rules, association rules, rules data, dynamic data, dynamic, rules, scalable, aggregation, finding, workloads, content, programs, windows, virtual, crowdsourcing, using, system",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "data streams, web applications, web services, web, streams, continuous streams, continuous queries, web sites, continuous data, web data, event streams, queries streams, continuous, event, world, scale, real, study, private, resource, wide, processing, distributed",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "keyword search, relational database, query language, relational data, data model, nearest neighbor, selectivity estimation, knowledge base, search database, natural language interface, relational data model, search, database language, functional dependencies, keyword search database, relational data base, xml relational system, relational, query web, database programming language, query database, language, querying xml, visual query, keyword search data, querying database, approach data, similarity search, search engine, language data, efficient search, query formulation, spatial database, structured data, query relational, query answering, search data, sampling estimation, extended abstract, high-level language, information retrieval, approach, query data, relational algebra, neighbor search, data abstract, query system, database approach, web interface, model, top-k query, framework data, dimensional data, query probabilistic, xml documents, nearest search, interface database, probabilistic database, efficient data, search xml, querying system, querying, query interface, uncertain data, efficient database, text database, database statistical, language abstract, xml database, interface, web search, estimation, spatial data, keyword relational, knowledge database, relational abstract, spatial search, relational approach, model language, documents, retrieval, querying data, xml data, query estimation, probabilistic, spatial, relations, framework, xml, search approach, structured, database information, model database, data database, query search, search relational, database using, sampling, query xml, nested, proceedings acm sigmod international conference",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "keyword search, relational database, query language, relational data, data model, nearest neighbor, selectivity estimation, knowledge base, search database, natural language interface, relational data model, search, database language, functional dependencies, keyword search database, relational data base, xml relational system, relational, query web, database programming language, query database, language, querying xml, visual query, keyword search data, querying database, approach data, similarity search, search engine, language data, efficient search, query formulation, spatial database, structured data, query relational, query answering, search data, sampling estimation, extended abstract, high-level language, information retrieval, approach, query data, relational algebra, neighbor search, data abstract, query system, database approach, web interface, model, top-k query, framework data, dimensional data, query probabilistic, xml documents, nearest search, interface database, probabilistic database, efficient data, search xml, querying system, querying, query interface, uncertain data, efficient database, text database, database statistical, language abstract, xml database, interface, web search, estimation, spatial data, keyword relational, knowledge database, relational abstract, spatial search, relational approach, model language, documents, retrieval, querying data, xml data, query estimation, probabilistic, spatial, relations, framework, xml, search approach, structured, database information, model database, data database, query search, search relational, database using, sampling, query xml, nested",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "proceedings acm sigmod international conference, proceedings acm international conference management, proceedings acm sigmod international management, proceedings acm sigmod conference management, proceedings sigmod international conference management, acm sigmod international conference management, data, proceedings acm international conference data, proceedings acm sigmod international data, proceedings acm sigmod conference data, proceedings sigmod international conference data, acm sigmod international conference data, proceedings acm international conference june, proceedings acm sigmod international june, proceedings acm sigmod conference june, proceedings sigmod international conference june, acm sigmod international conference june, sigmod international conference management data, sigmod international conference management june, proceedings acm international management data, proceedings acm conference management data, proceedings international conference management data, acm international conference management data, proceedings acm sigmod management data, proceedings sigmod international management data, proceedings sigmod conference management data, acm sigmod international management data, acm sigmod conference management data, proceedings acm international management june, proceedings acm conference management june, proceedings international conference management june, acm international conference management june, proceedings acm sigmod management june, sigmod international conference data june, proceedings sigmod international management june, proceedings sigmod conference management june, acm sigmod international management june, acm sigmod conference management june, proceedings acm international data june, proceedings acm conference data june, proceedings international conference data june, acm international conference data june, proceedings acm sigmod data june, proceedings sigmod international data june, proceedings sigmod conference data june, acm sigmod international data june, acm sigmod conference data june, international conference management data june, sigmod international management data june, sigmod conference management data june, proceedings acm international conference usa, proceedings acm management data june, proceedings acm sigmod international usa, proceedings acm sigmod conference usa, proceedings international management data june, acm international management data june, proceedings conference management data june, acm conference management data june, sigmod international conference management usa, proceedings sigmod international conference usa, acm sigmod international conference usa, proceedings sigmod management data june, acm sigmod management data june, sigmod international conference data usa, data management, proceedings acm international management usa, proceedings acm conference management usa, proceedings international conference management usa, acm international conference management usa, proceedings acm sigmod management usa, proceedings sigmod international management usa, proceedings sigmod conference management usa, acm sigmod international management usa, acm sigmod conference management usa, proceedings acm international data usa, proceedings acm conference data usa, proceedings international conference data usa, acm international conference data usa, proceedings acm sigmod data usa, proceedings sigmod international data usa, proceedings sigmod conference data usa, acm sigmod international data usa, acm sigmod conference data usa, international conference management data usa, sigmod international management data usa, sigmod conference management data usa, sigmod international conference usa june, proceedings acm management data usa, proceedings international management data usa, acm international management data usa, proceedings conference management data usa, acm conference management data usa, proceedings sigmod management data usa, acm sigmod management data usa, international conference management usa june, sigmod international management usa june, sigmod conference management usa june, proceedings acm international usa june, proceedings acm conference usa june, proceedings international conference usa june",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "query processing, query optimization, time series, views maintenance, streams processing, query processing system, query processing database, query, efficient query processing, materialized views, distributed processing, join, optimization queries, join processing, using, query plans, query evaluation, sql server, spatial join, parallel processing, query optimizer, incremental maintenance, evaluation queries, processing queries, query processing distributed, index structure, query execution, join algorithms, query processing data, hash join, parallel, efficient evaluation, data processing, sql queries, evaluation algorithms, views, processing continuous, using views, query techniques, efficient algorithms, processing engine, approximate query, fast algorithms, processing using, optimization techniques, query results, evaluation, techniques data, query using, tree queries, efficient scheme, tree, algorithms, efficient join, parallel join, queries using, query processor, join database, adaptive query, optimization database, index, distributed using, dynamic query, fast using, efficient parallel, evaluation join, data using, engine, files, online, optimization using, scheme, techniques, fast, efficient using, query engine, space, adaptive, optimal, join optimization, execution, efficient, join using, incremental, indexing, processor, update, efficient data, parallel query, hashing, query xml, skyline, comparison, indexes, generalized, operations, xquery, mapreduce, selection, sort",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "database system, database, concurrency control, database management system, relational database system, concurrency control database, object-oriented database, database design, distributed database system, main memory database, performance analysis, database applications, base system, object-oriented database system, physical design, performance, relational management system, deductive database, design, parallel database system, applications, large database, performance evaluation, flash memory, relational database management, transaction processing, access method, design implementation, data memory, processing database system, objects, storage system, data database system, data system, database panel, database machine, system applications, design data, access control, database based, transaction, evaluation database, query database system, data database, implementation database system, objects database, semantic database, transaction database system, evaluation database system, object-oriented dbms, transaction management, database using, analysis database, database techniques, objects data, system semantic, database tutorial, database performance, specification database, system prototype, database issues, dbms, model applications, applications abstract, based system, memory system, system supporting, large system, recovery, database system applications, performance concurrency, architecture, memory, database oracle, performance control, storage, multidatabase system, objects database system, design database system, database services, performance data, distributed transaction, automated database, database server, database tuning, access, implementation, database sql, database information, multimedia database, database architecture, system using, database approach, database abstract, physical database, design applications, storage database, method database, recovery system, system abstract",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "large graph, queries, decision support, similarity search, queries database, data structure, queries data, schema mapping, clustering data, index structure, large, optimizing queries, answering queries, olap cubes, efficient queries, large data, similarity join, complex queries, graph, efficient large, large database, queries large, search large, similarity database, graph database, efficient graph, fast large, graph approach, similarity, answering graph, aggregate queries, range queries, predicates queries, efficient similarity, queries approach, schema data, clustering, algorithms large, optimization queries, indexing large, semantic data, top-k queries, based data, queries based, structure, efficient data, schema, based, support queries, approximate queries, complex, aggregate, support, mapping, processing queries, predicates, efficiently, constraints, multiple, distance, queries graph, generation, approximate, computing, path, computation, string, xpath, exploiting, recursive, expressions, local, location, semantic, filtering, practical, cubes, tool, datasets, reachability, compression, testing, summary, measures, expensive, labeling, sets, via, massive, integrated, theory, exact, evaluating, datalog, random, improving, global, guarantees, strategies, functions",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "mining association rules, data mining, sensor networks, web services, data streams, web applications, continuous data streams, mining, web, subsequence matching, mining pattern, social media, mining algorithms, continuous queries, web sites, streams, mining database, event streams, pattern matching, mining system, networks, monitoring networks, mining frequent, mining graph, mining large, information networks, graph pattern, dynamic web, automatic data, content web, streams system, rules data, matching, matching data, social, dynamic data, rules, matching database, web data, mining streams, queries streams, dynamic, monitoring, scalable, event, automatic, detection, continuous, sequence, large-scale, pattern, temporal, record, finding, attributes, content, tables, real-time, learning, aggregation, user, entity, data-driven, correlations, real, discovery, declarative, enabling, designing, recommendation, world, heterogeneous, annotation, resolution, private, changes, windows, scale, data system, study, digital, wide, transformations, resource, programs, data-intensive, moving, crowdsourcing, supporting, personalized, values, clusters, modeling, virtual, partitioning, workloads, caching, text, machine, exploration",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "nearest neighbor, approach data, approach, neighbor search, nearest search, search approach, robust, hierarchical, rdf, ranked, dimensional, relationships, quality, rule-based, good, graphical",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "keyword search, search database, keyword search database, knowledge base, data base, keyword search data, similarity search, visual query, query formulation, search engine, efficient search, top-k query, information retrieval, efficient data, efficient database, search relational, system xml, search, xml documents, xml data, search xml, query search, efficient query, xml database, xml, efficient, retrieval, documents, building, flexible, report, browsing, extending, unified, using, query",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "relational database, relational data, natural language interface, querying xml, xml relational system, querying database, query web, query database, query answering, relational, query relational, query system, query data, interface database, probabilistic database, relational algebra, web interface, query probabilistic, querying system, query, query interface, querying data, query language, querying, interface, probabilistic, ranking, uncertain, effective, power, form, prototype, presence, interactive, evaluation, direct, schema",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "data model, selectivity estimation, functional dependencies, sampling estimation, database statistical, text database, model, model database, estimation, sampling, text, histograms, extracting, size, type, integration, using, database",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "query language, database language, database programming language, language data, spatial database, structured data, data abstract, language, framework data, extended abstract, high-level language, spatial data, language abstract, abstract, framework, spatial, relations, structured, objects, nested, logic, logical, inference, access, method, formal, object-oriented, incomplete",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "sigmod international conference, proceedings acm international, proceedings acm conference, international conference data, proceedings international conference, acm international conference, international conference management, proceedings acm sigmod, sigmod international data, sigmod conference data, proceedings sigmod international, acm sigmod international, proceedings sigmod conference, acm sigmod conference, proceedings acm data, sigmod international management, sigmod conference management, proceedings acm management, proceedings international data, acm international data, proceedings conference data, acm conference data, proceedings international management, acm international management, proceedings conference management, acm conference management, conference management data, international management data, proceedings sigmod data, acm sigmod data, proceedings sigmod management, acm sigmod management, sigmod management data, acm management data, proceedings management data, international conference june, sigmod international june, sigmod conference june, international data june, conference data june, proceedings acm june, international management june, conference management june, proceedings international june, acm international june, proceedings conference june, acm conference june, sigmod data june, sigmod management june, proceedings sigmod june, acm sigmod june, management data june, proceedings data june, acm data june, proceedings management june, acm management june, international conference usa, sigmod international usa, sigmod conference usa, international data usa, conference data usa, international management usa, conference management usa, sigmod data usa, proceedings acm usa, sigmod management usa, proceedings international usa, acm international usa, proceedings conference usa, acm conference usa, management data usa, proceedings sigmod usa, acm sigmod usa, proceedings data usa, acm data usa, proceedings management usa, acm management usa, international usa june, conference usa june, sigmod usa june, data usa june, management usa june, proceedings usa june, acm usa june, information extraction, information management, data sharing, product",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "data management, data management system, data services, data platform, data cloud, data panel, services platform, workflow management, management panel, panel, workflow, research, development, public, elastic, cleaning, environment",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "data, data system, data base, data streams, big data, data processing, data warehouse, big data analytics, analytics data, data warehousing, enterprise data, hadoop, benchmark, flows",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "data integration, data sources, information system, privacy preserving, privacy data, scientific data, information integration, system integration, challenges opportunities, data tutorial, data mobile, data challenges, information, information data, privacy, challenges, business, open, streaming, overview, differential",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "data analysis, interactive data exploration, microsoft sql, sql, sql server, sql data, interactive, personal, availability, rdbms, computer, statistical, provenance",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "views maintenance, optimization queries, using views, materialized views, views, incremental maintenance, optimization, optimization using, optimization techniques, techniques, update, space, incremental, indexes, selection, xquery, operations, order, main-memory, data",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "sql server, using, spatial join, index structure, join, index, tree, server, join using, adaptive, hashing, oracle, comparison, generalized, multi-dimensional, structural, filters, queries, data",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "time series, join algorithms, hash join, fast using, efficient algorithms, fast algorithms, algorithms, fast, efficient, indexing, skyline, processor, xml, memory, multidimensional, partitioning, matching, pipelined, method, organization, general, pattern, database, data",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "query optimization, query, efficient query, query system, evaluation queries, evaluation algorithms, efficient evaluation, query plans, query evaluation, query optimizer, evaluation, efficient scheme, online, dynamic query, files, scheme, optimal, extensible, answers, aggregation, statistics, grid, in-memory",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "query processing, query processing database, query processing system, efficient query processing, streams processing, processing, join processing, data processing, processing queries, processing using, distributed processing, query processing data, query processing distributed, query execution, parallel processing, query results, parallel join, processing continuous, parallel, query engine, processing engine, parallel query, engine, execution, mapreduce, on-line, array, massively, storage, shared-nothing, scalable",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "objects database, objects database system, access database, transaction database, objects, objects data, access method, method database, implementation database, transaction, access, implementation, method, store, manager, persistent, spatio-temporal, perspective, fine-grained, specification, model",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "main memory database, data memory, object-oriented dbms, database architecture, memory system, flash memory, database environment, database caching, database technology, dbms, memory, architecture, environment, technology, caching, abstract, integrating, making, security, consistency, partitioned, active, software, panel, oltp, applications, database",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "concurrency control, distributed database, concurrency control database, database performance, performance, performance analysis, distributed, performance evaluation, performance system, protocols database, analysis database, distributed system, performance concurrency, performance control, experience, protocols, problem, machine, multimedia, paper, multidatabase, cache, action, integrity, logging, highly, disk, workloads",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "database system, database management system, relational database system, distributed database system, data system, system applications, data database system, processing database system, relational management system, base system, database system applications, database issues, storage system, database based, storage database, large system, based system, recovery system, recovery, mechanism, policies, cost, replicated, middleware, collection",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "database, relational database, object-oriented database, database design, database management, database applications, deductive database, physical design, applications, design data, data database, semantic database, database techniques, database tutorial, database server, automated database, database tuning, physical database, design applications, replication, managing, case, demonstration, modeling, concepts",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "similarity search, clustering data, olap cubes, similarity database, based data, based, similarity, clustering, algorithms, computation, cubes, via, fast, summary, local, filtering, massive, global, measures, using, efficient",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "decision support, queries database, queries data, queries, aggregate queries, top-k queries, support queries, aggregate, support, constraints, path, expressions, practical, functions, supporting, evaluating, sets, networks",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "data structure, index structure, structure, semantic, exploiting, services, location, theory, compression, testing, extended, datalog",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "large graph, answering queries, large database, large data, queries large, efficient queries, graph database, graph, efficient large, large, graph approach, efficient graph, answering graph, queries graph, indexing large, efficient, approximate, indexing, distance, computing, recursive, string, uncertain, reachability, improving, labeling, random, selection, strategies, exact, leveraging, range, managing, join",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "optimizing queries, complex queries, predicates queries, schema mapping, schema data, schema, complex, mapping, tool, multiple, predicates, generation, efficiently, visualization, integrated, datasets, expensive, progressive, xpath",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "data mining, mining, mining pattern, mining algorithms, mining system, mining graph, mining frequent, large-scale, supporting, learning, heterogeneous, partitioning, entity, resolution, transformations, moving, annotation, clusters, modeling, sequence",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "subsequence matching, automatic data, matching data, matching, automatic, tables, discovery, record, attributes, correlations, values, personalized, text, recommendation, sequence, database",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "sensor networks, networks, social media, social, monitoring networks, temporal, detection, monitoring, real-time, user, enabling, designing, declarative, changes, data-driven, model, applications, system, modeling, data",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "mining rules, association rules, rules data, dynamic data, dynamic, rules, scalable, aggregation, finding, workloads, content, programs, windows, virtual, crowdsourcing, using, system",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "data streams, web applications, web services, web, streams, continuous streams, continuous queries, web sites, continuous data, web data, event streams, queries streams, continuous, event, world, scale, real, study, private, resource, wide, processing, distributed",
+			 "target": []
+		}
+		]
+	}
+]

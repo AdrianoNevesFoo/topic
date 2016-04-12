@@ -1,0 +1,755 @@
+[
+	{
+		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "question answering, neural network, conditional random fields, dependency parsing, convolutional neural network, domain adaptation, relations extraction, using conditional random fields, coreference resolution, recurrent neural network",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "question answering, neural network, conditional random fields, dependency parsing, convolutional neural network, domain adaptation, relations extraction, using conditional random fields, coreference resolution, recurrent neural network",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "annual meeting association computational linguistic, annual meeting association linguistic june, annual meeting association computational june, annual meeting association linguistic proceedings, annual meeting association linguistic usa, annual meeting association computational proceedings, annual meeting association computational usa, annual meeting computational linguistic june, annual meeting computational linguistic proceedings, annual meeting computational linguistic usa",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "machine translation, statistical machine translation, model statistical machine translation, language model, part-of-speech tagging, hidden markov model, phrase-based statistical machine translation, machine translation evaluation, language machine translation, joint word segmentation tagging",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "word sense disambiguation, named entity recognition, chinese word segmentation, information retrieval, bilingual corpora, named entity recognition using, social media, information extraction, sentiment classification, empirical study",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "natural language, tree adjoining grammars, parsing grammars, spoken dialogue system, natural language generation, speech recognition, natural language processing, natural language system, natural language understanding, natural language interfaces",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "semantic role labeling, noun phrase, distributional semantic, error correction, spelling correction, using semantic, logical form, phrase structure, semantic, syntactic semantic",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "conditional random fields, domain adaptation, relations extraction, using conditional random fields, information extraction, sentence compression, relations, extraction, learning relations, distant supervision",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "dependency parsing, parsing, selectional preferences, using parser, semantic parsing, using dependency parsing, dependency parser, parser, parsing algorithm, efficient parsing",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "question answering, neural network, convolutional neural network, recurrent neural network, answer question answering, recursive neural network, using neural network, textual entailment, semantic network, community question",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "convolution kernel, features parsing, learning features, learning classification, tree kernel, using features, semi-supervised learning, features, modeling, classification",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "coreference resolution, resolution, pronoun resolution, anaphora resolution, algorithm, learning, learning semantic, graph, resolution semantic, learning embeddings",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "multi-document summarization, summarization, extractive summarization, predicting, building, human",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "annual meeting association computational, annual association computational linguistic, meeting association computational linguistic, annual meeting computational linguistic, annual meeting association linguistic, annual meeting computational proceedings, annual association computational proceedings, annual meeting association proceedings, meeting association computational proceedings, annual computational linguistic proceedings",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "annual meeting june usa, annual linguistic june usa, annual meeting linguistic june, meeting linguistic june usa, annual association june usa, meeting association june usa, association linguistic june usa, annual association linguistic june, annual meeting association june, meeting association linguistic june",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "linguistic, conversations, panel",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "identifying, abstract, talk, invited, computational",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "joint model, part-of-speech tagging, joint word segmentation tagging, model part-of-speech tagging, model word segmentation, joint chinese tagging, pos tagging, unsupervised model, model chinese, chinese segmentation",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "model, language model, hidden markov model, using model, topic model, using language model, model adaptation, bayesian model, model correction, improved",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "approach machine translation, maximum entropy, rules translation, based translation, hierarchical translation, approach, training model, statistical approach, learning rules, training data",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "learning model, learning language, learning, machine learning, active learning, learning word, learning translation, word representation, learning representation, space model",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "machine translation, statistical machine translation, model statistical machine translation, language machine translation, machine translation using, machine translation evaluation, phrase-based statistical machine translation, language model machine translation, word machine translation, machine translation system",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "using, information extraction, text, text using, using information, text categorization, information, using bilingual, using learning, using model",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "sentiment classification, empirical study, case study, weakly supervised, sentiment analysis, automatic text, automatic, word sentiment, learning sentiment, sentiment",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "information retrieval, automatic evaluation, using improve, similarity measures, evaluation using, using similarity, automatic identification, using data, evaluation measures, evaluation",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "word sense disambiguation, chinese word segmentation, word using, word, word alignment, word embeddings, learning word sense, sense disambiguation using, using method, word sense using",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "named entity recognition, bilingual corpora, named entity recognition using, comparable corpora, using bilingual corpora, parallel corpora, bilingual comparable, using detection, named entities, word recognition",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "spoken dialogue system, dialogue, spoken system using, system, discourse dialogue, dialog system, user system, spoken, using dialogue, dialogue model",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "natural language, natural language generation, natural language system, spoken language, natural language processing, natural language interfaces, natural language understanding, natural language database, spoken language understanding, using language",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "parsing grammars, combinatory categorial, grammars, categorial grammars, grammars induction, rewriting system, context-free grammars, context-free system, combinatory grammars, using grammars",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "speech recognition, referring expressions, speech act, speech, automated scoring, optimality theory, generation, expressions, generating, descriptions",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "tree adjoining grammars, finite state, unification grammars, lexicalized grammars, stochastic grammars, parsing adjoining, functional grammars, tree transducers, unification-based grammars, transducers",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "distributional semantic, semantic, compositional semantic, syntactic semantic, semantic parsing, semantic model, semantic vector, constraints, morphological, arabic",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "lexical semantic, semantic verb, lexical, semantic frames, using lexical, semantic induction, lexical resources, syntactic semantic, lexical acquisition, verb",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "noun phrase, analysis japanese, logical form, semantic noun, english, analysis noun, lexicon, japanese, complex, argument",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "semantic role labeling, case study, structure, semantic interpretation, dependency structure, linguistic structure, using structure, semantic structure, interpretation, case",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "error correction, spelling correction, spelling error, analysis, error using, annotation, error, corpus, dictionary, meaning",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "question answering, neural network, conditional random fields, dependency parsing, convolutional neural network, domain adaptation, relations extraction, using conditional random fields, coreference resolution, recurrent neural network, answer question answering, selectional preferences, recursive neural network, convolution kernel, sentence compression, pronoun resolution, anaphora resolution, textual entailment, discourse relations, information extraction",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "question answering, neural network, conditional random fields, dependency parsing, convolutional neural network, domain adaptation, relations extraction, using conditional random fields, coreference resolution, recurrent neural network, answer question answering, selectional preferences, recursive neural network, convolution kernel, sentence compression, pronoun resolution, anaphora resolution, textual entailment, discourse relations, information extraction",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "annual meeting association computational linguistic, annual meeting association linguistic june, annual meeting association computational june, annual meeting association linguistic proceedings, annual meeting association linguistic usa, annual meeting association computational proceedings, annual meeting association computational usa, annual meeting computational linguistic june, annual meeting computational linguistic proceedings, annual meeting computational linguistic usa, annual association computational linguistic june, annual association computational linguistic proceedings, annual association computational linguistic usa, meeting association computational linguistic june, meeting association computational linguistic proceedings, meeting association computational linguistic usa, annual meeting association june usa, annual meeting linguistic june usa, annual meeting computational june usa, annual association linguistic june usa",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "machine translation, statistical machine translation, model statistical machine translation, language model, part-of-speech tagging, hidden markov model, phrase-based statistical machine translation, machine translation evaluation, language machine translation, joint word segmentation tagging, machine translation using, using model, topic model, machine translation system, reordering statistical machine translation, model, word alignment, neural machine translation, model part-of-speech tagging, model word",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "word sense disambiguation, named entity recognition, chinese word segmentation, information retrieval, bilingual corpora, named entity recognition using, social media, information extraction, sentiment classification, empirical study, word embeddings, case study, comparable corpora, word alignment, weakly supervised, word using, automatic evaluation, learning word sense, parallel corpora, using bilingual",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "natural language, tree adjoining grammars, parsing grammars, spoken dialogue system, natural language generation, speech recognition, natural language processing, natural language system, natural language understanding, natural language interfaces, combinatory categorial, natural language database, referring expressions, finite state, categorial grammars, grammars induction, language modeling, spoken system using, spoken language, context-free grammars",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "semantic role labeling, noun phrase, distributional semantic, error correction, spelling correction, using semantic, logical form, phrase structure, semantic, syntactic semantic, case study, compositional semantic, spelling error, analysis japanese, lexical resources, semantic representation, lexical semantic, semantic model, semantic vector, dependency japanese",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "conditional random fields, domain adaptation, relations extraction, using conditional random fields, information extraction, sentence compression, relations, extraction, learning relations, distant supervision, event extraction, semantic relations, relations using, supervision relations, distant extraction, temporal relations, supervision extraction, sentence, event, semantic extraction",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "dependency parsing, parsing, selectional preferences, using parser, semantic parsing, using dependency parsing, dependency parser, parser, parsing algorithm, efficient parsing, transition-based parsing, incremental parsing, constituent parsing, model parsing, shift-reduce parsing, parsing chinese, transition-based dependency, efficient, parsing partial, probabilistic",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "question answering, neural network, convolutional neural network, recurrent neural network, answer question answering, recursive neural network, using neural network, textual entailment, semantic network, community question, discourse, learning question, semantic question, context, local, coherence, memory, recognizing, dependency-based, long",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "convolution kernel, features parsing, learning features, learning classification, tree kernel, using features, semi-supervised learning, features, modeling, classification, kernel, syntactic, inference, semi-supervised, parse, deep, tree, role, sentiment, reference",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "coreference resolution, resolution, pronoun resolution, anaphora resolution, algorithm, learning, learning semantic, graph, resolution semantic, learning embeddings, learning resolution, application, ranking, prediction, constraints, online, embeddings, simple, ambiguity, reviews",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "multi-document summarization, summarization, extractive summarization, predicting, building, human",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "annual meeting association computational, annual association computational linguistic, meeting association computational linguistic, annual meeting computational linguistic, annual meeting association linguistic, annual meeting computational proceedings, annual association computational proceedings, annual meeting association proceedings, meeting association computational proceedings, annual computational linguistic proceedings, meeting computational linguistic proceedings, annual association linguistic proceedings, association computational linguistic proceedings, meeting association linguistic proceedings, annual meeting linguistic proceedings, annual association computational usa, meeting association computational usa, annual meeting computational usa, association computational linguistic usa, meeting computational linguistic usa",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "annual meeting june usa, annual linguistic june usa, annual meeting linguistic june, meeting linguistic june usa, annual association june usa, meeting association june usa, association linguistic june usa, annual association linguistic june, annual meeting association june, meeting association linguistic june, annual computational june usa, annual meeting linguistic usa, computational linguistic june usa, annual meeting june university, meeting computational june usa, annual linguistic june university, annual june university usa, meeting linguistic june university, meeting june university usa, linguistic june university usa",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "linguistic, conversations, panel",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "identifying, abstract, talk, invited, computational",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "joint model, part-of-speech tagging, joint word segmentation tagging, model part-of-speech tagging, model word segmentation, joint chinese tagging, pos tagging, unsupervised model, model chinese, chinese segmentation, approach tagging, tagging using, vector model, unsupervised, tagging, unsupervised segmentation, unsupervised word, segmentation, word, vector",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "model, language model, hidden markov model, using model, topic model, using language model, model adaptation, bayesian model, model correction, improved, improved model, generalized, pruning, transfer, application, hybrid",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "approach machine translation, maximum entropy, rules translation, based translation, hierarchical translation, approach, training model, statistical approach, learning rules, training data, learning approach, training, based, rules, hierarchical, based approach, smt, quality, experiments, decomposition",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "learning model, learning language, learning, machine learning, active learning, learning word, learning translation, word representation, learning representation, space model, using learning, distributed representation, model representation, phrase model, selection model, representation, model word, learning techniques, learning phrase, phrase",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "machine translation, statistical machine translation, model statistical machine translation, language machine translation, machine translation using, machine translation evaluation, phrase-based statistical machine translation, language model machine translation, word machine translation, machine translation system, reordering statistical machine translation, neural machine translation, model phrase-based translation, statistical language model, statistical language, learning statistical machine translation, translation quality estimation, word alignment, machine translation quality, language statistical machine translation",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "using, information extraction, text, text using, using information, text categorization, information, using bilingual, using learning, using model, using semantic, social, text information, exploiting, finding, wikipedia, discovery, relationships, exploring, class",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "sentiment classification, empirical study, case study, weakly supervised, sentiment analysis, automatic text, automatic, word sentiment, learning sentiment, sentiment, automatic method, text classification, topic, topic model, automatic word, automatic using, twitter sentiment, automatic extraction, study, automatic classification",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "information retrieval, automatic evaluation, using improve, similarity measures, evaluation using, using similarity, automatic identification, using data, evaluation measures, evaluation, using measures, information extraction, document, web, query, measures, similarity, term, data, identification",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "word sense disambiguation, chinese word segmentation, word using, word, word alignment, word embeddings, learning word sense, sense disambiguation using, using method, word sense using, segmentation using, word similarity, method word sense, method word disambiguation, word identification, text segmentation, chinese text, method, bilingual word, parallel text",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "named entity recognition, bilingual corpora, named entity recognition using, comparable corpora, using bilingual corpora, parallel corpora, bilingual comparable, using detection, named entities, word recognition, using patterns, learning entity, corpora, multilingual, detection, patterns, extracting, mining, bootstrapping, improving",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "spoken dialogue system, dialogue, spoken system using, system, discourse dialogue, dialog system, user system, spoken, using dialogue, dialogue model, learning dialogue, multimodal dialogue, discourse spoken, multimodal system, evaluation system, multimodal, strategies, evaluation, pragmatic, utterances",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "natural language, natural language generation, natural language system, spoken language, natural language processing, natural language interfaces, natural language understanding, natural language database, spoken language understanding, using language, language model, parsing language, approach natural language, learning language, understanding system, learning natural, generation system, approach generation, knowledge language, processing",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "parsing grammars, combinatory categorial, grammars, categorial grammars, grammars induction, rewriting system, context-free grammars, context-free system, combinatory grammars, using grammars, synchronous grammars, efficient grammars, parsing context-free, probabilistic grammars, framework, linear, clauses, order, generative, flexible",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "speech recognition, referring expressions, speech act, speech, automated scoring, optimality theory, generation, expressions, generating, descriptions, theory, planning, automated, complexity, interaction, vocabulary, comprehension, task, conversational, open",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "tree adjoining grammars, finite state, unification grammars, lexicalized grammars, stochastic grammars, parsing adjoining, functional grammars, tree transducers, unification-based grammars, transducers, finite-state, evaluating, tag, practical, automata, dependencies, collaborative, time, dialog, approximation",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "distributional semantic, semantic, compositional semantic, syntactic semantic, semantic parsing, semantic model, semantic vector, constraints, morphological, arabic, syntax, german, multiple, source, reranking, robust, composition, disambiguation, integrating, translating",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "lexical semantic, semantic verb, lexical, semantic frames, using lexical, semantic induction, lexical resources, syntactic semantic, lexical acquisition, verb, lexical verb, acquisition, syntactic, induction, context, resources, clustering, ccg, inducing, aligning",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "noun phrase, analysis japanese, logical form, semantic noun, english, analysis noun, lexicon, japanese, complex, argument, effect, predicates, mapping, compound, results, empirical, annotated, negation, parsing",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "semantic role labeling, case study, structure, semantic interpretation, dependency structure, linguistic structure, using structure, semantic structure, interpretation, case, treebank, logic, aspect, sentence, representation, process, character, paraphrase, tense, level",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "error correction, spelling correction, spelling error, analysis, error using, annotation, error, corpus, dictionary, meaning, grammatical, morphology, large, acquiring, corpus-based, parallel, surface, formalisms, integrated, correcting",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "question answering, neural network, conditional random fields, dependency parsing, convolutional neural network, domain adaptation, relations extraction, using conditional random fields, coreference resolution, recurrent neural network, answer question answering, selectional preferences, recursive neural network, convolution kernel, sentence compression, pronoun resolution, anaphora resolution, textual entailment, discourse relations, information extraction, using dependency, using neural network, parsing, distant supervision, dependency parser, efficient parsing, community question, transition-based parsing, joint parsing, using dependency parsing, event extraction, incremental parsing, learning relations, learning semantic, using parser, constituent parsing, semantic network, shift-reduce parsing, tree kernel, supervision relations, learning classification, distant extraction, transition-based dependency, learning features, parsing chinese, temporal relations, semantic relations, supervision extraction, discriminative parsing, relations using",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "question answering, neural network, conditional random fields, dependency parsing, convolutional neural network, domain adaptation, relations extraction, using conditional random fields, coreference resolution, recurrent neural network, answer question answering, selectional preferences, recursive neural network, convolution kernel, sentence compression, pronoun resolution, anaphora resolution, textual entailment, discourse relations, information extraction, using dependency, using neural network, parsing, distant supervision, dependency parser, efficient parsing, community question, transition-based parsing, joint parsing, using dependency parsing, event extraction, incremental parsing, learning relations, learning semantic, using parser, constituent parsing, semantic network, shift-reduce parsing, tree kernel, supervision relations, learning classification, distant extraction, transition-based dependency, learning features, parsing chinese, temporal relations, semantic relations, supervision extraction, discriminative parsing, relations using",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "annual meeting association computational linguistic, annual meeting association linguistic june, annual meeting association computational june, annual meeting association linguistic proceedings, annual meeting association linguistic usa, annual meeting association computational proceedings, annual meeting association computational usa, annual meeting computational linguistic june, annual meeting computational linguistic proceedings, annual meeting computational linguistic usa, annual association computational linguistic june, annual association computational linguistic proceedings, annual association computational linguistic usa, meeting association computational linguistic june, meeting association computational linguistic proceedings, meeting association computational linguistic usa, annual meeting association june usa, annual meeting linguistic june usa, annual meeting computational june usa, annual association linguistic june usa, annual association computational june usa, meeting association linguistic june usa, meeting association computational june usa, annual computational linguistic june usa, meeting computational linguistic june usa, association computational linguistic june usa, annual meeting association linguistic university, annual meeting association computational university, annual meeting computational linguistic university, annual meeting association university usa, annual association computational linguistic university, annual meeting association june proceedings, meeting association computational linguistic university, annual meeting linguistic university usa, annual meeting computational university usa, annual meeting linguistic june proceedings, annual meeting computational june proceedings, annual association linguistic university usa, annual association computational university usa, meeting association linguistic university usa, meeting association computational university usa, annual association linguistic june proceedings, annual association computational june proceedings, annual meeting association june university, meeting association linguistic june proceedings, meeting association computational june proceedings, annual meeting association usa proceedings, annual computational linguistic university usa, meeting computational linguistic university usa, annual computational linguistic june proceedings",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "machine translation, statistical machine translation, model statistical machine translation, language model, part-of-speech tagging, hidden markov model, phrase-based statistical machine translation, machine translation evaluation, language machine translation, joint word segmentation tagging, machine translation using, using model, topic model, machine translation system, reordering statistical machine translation, model, word alignment, neural machine translation, model part-of-speech tagging, model word, joint chinese tagging, joint model, language model machine translation, machine learning, maximum entropy, word machine translation, pos tagging, translation quality estimation, machine translation quality, automatic machine translation, model word segmentation, model phrase-based translation, active learning, language statistical machine translation, hierarchical phrase-based translation, learning statistical machine translation, network machine translation, word alignment model, using language model, decoding machine translation, statistical language model, approach machine translation, translation model adaptation, using machine learning, learning representation, learning language, vector space, bayesian model, model segmentation, phrase machine translation",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "word sense disambiguation, named entity recognition, chinese word segmentation, information retrieval, bilingual corpora, named entity recognition using, social media, information extraction, sentiment classification, empirical study, word embeddings, case study, comparable corpora, word alignment, weakly supervised, word using, automatic evaluation, learning word sense, parallel corpora, using bilingual, sentiment analysis, using, using bilingual corpora, similarity measures, using improve, text categorization, using information, text using, word, using learning, automatic identification, method word sense, bilingual comparable, method word disambiguation, sense disambiguation using, named entities, using corpora, automatic detection, bilingual alignment, word sense using, text, automatic text, evaluation measures, text normalization, improving information, twitter sentiment, alignment using, unknown word, unsupervised discovery, cross-language information",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "natural language, tree adjoining grammars, parsing grammars, spoken dialogue system, natural language generation, speech recognition, natural language processing, natural language system, natural language understanding, natural language interfaces, combinatory categorial, natural language database, referring expressions, finite state, categorial grammars, grammars induction, language modeling, spoken system using, spoken language, context-free grammars, speech act, using system, spoken language understanding, automated scoring, optimality theory, approach natural language, synchronous grammars, combinatory grammars, using grammars, grammars, language, discourse dialogue, unification grammars, tree transducers, using language, user system, information language, rewriting system, system, multimodal dialogue, automatic generation, parsing language, efficient grammars, using dialogue, dialog system, lexicalized grammars, text generation, discourse spoken, parsing context-free, stochastic grammars",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "semantic role labeling, noun phrase, distributional semantic, error correction, spelling correction, using semantic, logical form, phrase structure, semantic, syntactic semantic, case study, compositional semantic, spelling error, analysis japanese, lexical resources, semantic representation, lexical semantic, semantic model, semantic vector, dependency japanese, using lexical, linguistic structure, semantic verb, morphological analysis, semantic parsing, dependency structure, structure analysis, using structure, lexical acquisition, semantic frames, semantic interpretation, error using, semantic induction, structure noun, analysis noun, lexical, lexical distributional, lexical verb, semantic noun, semantic analysis, structure, analysis, semantic structure, english, semantic phrase, verb, lexicon, corpus, annotation, error",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "conditional random fields, domain adaptation, relations extraction, using conditional random fields, information extraction, sentence compression, relations, extraction, learning relations, distant supervision, event extraction, semantic relations, relations using, supervision relations, distant extraction, temporal relations, supervision extraction, sentence, event, semantic extraction, learning extraction, temporal, relations via, via, structured, label, propagation, mentions, discovering",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "dependency parsing, parsing, selectional preferences, using parser, semantic parsing, using dependency parsing, dependency parser, parser, parsing algorithm, efficient parsing, transition-based parsing, incremental parsing, constituent parsing, model parsing, shift-reduce parsing, parsing chinese, transition-based dependency, efficient, parsing partial, probabilistic, probabilistic parsing, search, dynamic, fast, accurate, comparison, robust, fine-grained, accuracy, leveraging, recommendation, dependencies, tagging",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "question answering, neural network, convolutional neural network, recurrent neural network, answer question answering, recursive neural network, using neural network, textual entailment, semantic network, community question, discourse, learning question, semantic question, context, local, coherence, memory, recognizing, dependency-based, long, text, model, sentence",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "convolution kernel, features parsing, learning features, learning classification, tree kernel, using features, semi-supervised learning, features, modeling, classification, kernel, syntactic, inference, semi-supervised, parse, deep, tree, role, sentiment, reference, shallow, sequential, alternative, non-local, labeling, exploiting, structure, based, semantic, dependency",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "coreference resolution, resolution, pronoun resolution, anaphora resolution, algorithm, learning, learning semantic, graph, resolution semantic, learning embeddings, learning resolution, application, ranking, prediction, constraints, online, embeddings, simple, ambiguity, reviews, matrix, tweets, regularization, perceptron, ellipsis, incorporating, evaluating, global, based, knowledge",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "multi-document summarization, summarization, extractive summarization, predicting, building, human",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "annual meeting association computational, annual association computational linguistic, meeting association computational linguistic, annual meeting computational linguistic, annual meeting association linguistic, annual meeting computational proceedings, annual association computational proceedings, annual meeting association proceedings, meeting association computational proceedings, annual computational linguistic proceedings, meeting computational linguistic proceedings, annual association linguistic proceedings, association computational linguistic proceedings, meeting association linguistic proceedings, annual meeting linguistic proceedings, annual association computational usa, meeting association computational usa, annual meeting computational usa, association computational linguistic usa, meeting computational linguistic usa, annual computational linguistic usa, annual meeting linguistic july, annual meeting association july, meeting association computational june, annual association linguistic july, annual association computational university, annual meeting association usa, annual association computational june, meeting association computational university, meeting association linguistic july, annual meeting computational university, annual meeting computational july, association computational linguistic university, meeting association linguistic usa, annual computational linguistic july, annual meeting computational june, association computational linguistic june, annual association computational july, annual association linguistic usa, annual computational linguistic university, meeting computational linguistic university, meeting computational linguistic july, meeting association computational july, annual computational usa proceedings, association computational usa proceedings, association computational june proceedings, meeting computational usa proceedings, association computational linguistic july, annual meeting association university, meeting computational linguistic june",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "annual meeting june usa, annual linguistic june usa, annual meeting linguistic june, meeting linguistic june usa, annual association june usa, meeting association june usa, association linguistic june usa, annual association linguistic june, annual meeting association june, meeting association linguistic june, annual computational june usa, annual meeting linguistic usa, computational linguistic june usa, annual meeting june university, meeting computational june usa, annual linguistic june university, annual june university usa, meeting linguistic june university, meeting june university usa, linguistic june university usa, annual computational linguistic june, annual association june university, annual meeting computational june, association june university usa, annual association linguistic usa, association computational june usa, meeting association june university, association linguistic june university, annual linguistic university usa, meeting computational linguistic june, annual meeting university usa, annual meeting association usa, annual meeting association linguistic, meeting linguistic university usa, meeting association linguistic usa, annual june usa proceedings, linguistic june usa proceedings, meeting june usa proceedings, annual association computational june, annual association university usa, computational june university usa, association computational linguistic june, annual linguistic june proceedings, association linguistic university usa, annual meeting linguistic university, annual computational june university, meeting association university usa, annual meeting june proceedings, meeting association computational june, association june usa proceedings",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "linguistic, conversations, panel",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "identifying, abstract, talk, invited, computational",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "joint model, part-of-speech tagging, joint word segmentation tagging, model part-of-speech tagging, model word segmentation, joint chinese tagging, pos tagging, unsupervised model, model chinese, chinese segmentation, approach tagging, tagging using, vector model, unsupervised, tagging, unsupervised segmentation, unsupervised word, segmentation, word, vector, graph-based, scale, korean, iterative, scaling, large, projection, target, n-gram, parsing, language",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "model, language model, hidden markov model, using model, topic model, using language model, model adaptation, bayesian model, model correction, improved, improved model, generalized, pruning, transfer, application, hybrid",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "approach machine translation, maximum entropy, rules translation, based translation, hierarchical translation, approach, training model, statistical approach, learning rules, training data, learning approach, training, based, rules, hierarchical, based approach, smt, quality, experiments, decomposition, dual, phrasal, chunking, unified, summarization, stochastic, using",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "learning model, learning language, learning, machine learning, active learning, learning word, learning translation, word representation, learning representation, space model, using learning, distributed representation, model representation, phrase model, selection model, representation, model word, learning techniques, learning phrase, phrase, selection, space, techniques, sequence, fast, combination, attachment, help, minimum, effective, reading, prepositional, smoothing, features, data",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "machine translation, statistical machine translation, model statistical machine translation, language machine translation, machine translation using, machine translation evaluation, phrase-based statistical machine translation, language model machine translation, word machine translation, machine translation system, reordering statistical machine translation, neural machine translation, model phrase-based translation, statistical language model, statistical language, learning statistical machine translation, translation quality estimation, word alignment, machine translation quality, language statistical machine translation, automatic machine translation, model phrase-based statistical, phrase machine translation, network machine translation, phrase statistical translation, decoding machine translation, features machine translation, using statistical, word statistical, alignment machine translation, statistical parsing, alignment model, translation monolingual, syntactic translation, improving machine, improving translation, parsing translation, network statistical, dependency translation, statistical alignment, lexical translation, alignment, discriminative translation, discriminative, estimation, metric, modeling, modelling, rich, syntax-based",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "using, information extraction, text, text using, using information, text categorization, information, using bilingual, using learning, using model, using semantic, social, text information, exploiting, finding, wikipedia, discovery, relationships, exploring, class, novel, content, contextual, classifier, attributes, pairs, approach, user",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "sentiment classification, empirical study, case study, weakly supervised, sentiment analysis, automatic text, automatic, word sentiment, learning sentiment, sentiment, automatic method, text classification, topic, topic model, automatic word, automatic using, twitter sentiment, automatic extraction, study, automatic classification, knowledge, twitter, media, cross-lingual, supervised, image, combining, opinion, prediction, detecting, measuring, subjectivity, reviews, based, type, annotation, representation, user, learning",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "information retrieval, automatic evaluation, using improve, similarity measures, evaluation using, using similarity, automatic identification, using data, evaluation measures, evaluation, using measures, information extraction, document, web, query, measures, similarity, term, data, identification, latent, news, collocation, names, structural, relational, search, statistics, textual, resolving, collective, expansion, sparse, genre, corpus, linking, extraction, event, cross-language, semantic, model, learning",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "word sense disambiguation, chinese word segmentation, word using, word, word alignment, word embeddings, learning word sense, sense disambiguation using, using method, word sense using, segmentation using, word similarity, method word sense, method word disambiguation, word identification, text segmentation, chinese text, method, bilingual word, parallel text, word improve, unknown word, method text, semantic word, word text, learning disambiguation, framework word, unsupervised word, unsupervised disambiguation, unsupervised method, unsupervised sense, word clustering, unsupervised, clustering, parallel, distributions, performance, domain, concept, matching, frequency, context, lexical, semi-supervised, relations, corpora",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "named entity recognition, bilingual corpora, named entity recognition using, comparable corpora, using bilingual corpora, parallel corpora, bilingual comparable, using detection, named entities, word recognition, using patterns, learning entity, corpora, multilingual, detection, patterns, extracting, mining, bootstrapping, improving, automatically, transliteration, entities, hierarchy, discussion, monolingual, memory-based, keyword, resources, dictionary, acquisition, via, online, relations, semantic, model, learning, extraction, alignment, data, web, text",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "spoken dialogue system, dialogue, spoken system using, system, discourse dialogue, dialog system, user system, spoken, using dialogue, dialogue model, learning dialogue, multimodal dialogue, discourse spoken, multimodal system, evaluation system, multimodal, strategies, evaluation, pragmatic, utterances, power, centering, structure, unification",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "natural language, natural language generation, natural language system, spoken language, natural language processing, natural language interfaces, natural language understanding, natural language database, spoken language understanding, using language, language model, parsing language, approach natural language, learning language, understanding system, learning natural, generation system, approach generation, knowledge language, processing, understanding, language text, issues, development, computer, access, approach, design, control, human, perspective, grammatical, parameter, semantic, robust, sentence, problem",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "parsing grammars, combinatory categorial, grammars, categorial grammars, grammars induction, rewriting system, context-free grammars, context-free system, combinatory grammars, using grammars, synchronous grammars, efficient grammars, parsing context-free, probabilistic grammars, framework, linear, clauses, order, generative, flexible, optimal, programming, free, tree-adjoining, extending, definite, compact, constraint-based",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "speech recognition, referring expressions, speech act, speech, automated scoring, optimality theory, generation, expressions, generating, descriptions, theory, planning, automated, complexity, interaction, vocabulary, comprehension, task, conversational, open, essays, typed, use, construction, grounded, reasoning, phonological, type, features, logic, constraints, learning, grammars",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "tree adjoining grammars, finite state, unification grammars, lexicalized grammars, stochastic grammars, parsing adjoining, functional grammars, tree transducers, unification-based grammars, transducers, finite-state, evaluating, tag, practical, automata, dependencies, collaborative, time, dialog, approximation, derivation, instructions, generic, bottom-up, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "distributional semantic, semantic, compositional semantic, syntactic semantic, semantic parsing, semantic model, semantic vector, constraints, morphological, arabic, syntax, german, multiple, source, reranking, robust, composition, disambiguation, integrating, translating, features, word, linguistic",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "lexical semantic, semantic verb, lexical, semantic frames, using lexical, semantic induction, lexical resources, syntactic semantic, lexical acquisition, verb, lexical verb, acquisition, syntactic, induction, context, resources, clustering, ccg, inducing, aligning, classes, large-scale, french, scope, subcategorization, selection, tagger, influence, prepositions, automatic, corpora, model, grammars, dependency, english",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "noun phrase, analysis japanese, logical form, semantic noun, english, analysis noun, lexicon, japanese, complex, argument, effect, predicates, mapping, compound, results, empirical, annotated, negation, parsing",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "semantic role labeling, case study, structure, semantic interpretation, dependency structure, linguistic structure, using structure, semantic structure, interpretation, case, treebank, logic, aspect, sentence, representation, process, character, paraphrase, tense, level, test, formal, discourse, parsing",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "error correction, spelling correction, spelling error, analysis, error using, annotation, error, corpus, dictionary, meaning, grammatical, morphology, large, acquiring, corpus-based, parallel, surface, formalisms, integrated, correcting, learners, synthesis, wordnet, transformation, approach, parsing",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "question answering, neural network, conditional random fields, dependency parsing, convolutional neural network, domain adaptation, relations extraction, using conditional random fields, coreference resolution, recurrent neural network, answer question answering, selectional preferences, recursive neural network, convolution kernel, sentence compression, pronoun resolution, anaphora resolution, textual entailment, discourse relations, information extraction, using dependency, using neural network, parsing, distant supervision, dependency parser, efficient parsing, community question, transition-based parsing, joint parsing, using dependency parsing, event extraction, incremental parsing, learning relations, learning semantic, using parser, constituent parsing, semantic network, shift-reduce parsing, tree kernel, supervision relations, learning classification, distant extraction, transition-based dependency, learning features, parsing chinese, temporal relations, semantic relations, supervision extraction, discriminative parsing, relations using, coreference features, parsing word, semantic parsing, semi-supervised learning, relations, using features, parsing partial, learning embeddings, learning resolution, semantic question, kernel relations, model parsing, tree extraction, semantic graph, inference extraction, extraction, parsing tree, syntactic parsing, probabilistic parsing, parsing algorithm, dependency tree, unsupervised parsing, learning via, resolution semantic, semantic extraction, relations via, features parsing, learning question, dependency neural, discourse, parser, learning extraction, features, resolution, algorithm, neural parsing, learning algorithm, using learning, modeling, efficient, via, parsing network, graph, sentence, inference, kernel, learning parsing, probabilistic, semi-supervised, event, annual meeting association computational linguistic",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "question answering, neural network, conditional random fields, dependency parsing, convolutional neural network, domain adaptation, relations extraction, using conditional random fields, coreference resolution, recurrent neural network, answer question answering, selectional preferences, recursive neural network, convolution kernel, sentence compression, pronoun resolution, anaphora resolution, textual entailment, discourse relations, information extraction, using dependency, using neural network, parsing, distant supervision, dependency parser, efficient parsing, community question, transition-based parsing, joint parsing, using dependency parsing, event extraction, incremental parsing, learning relations, learning semantic, using parser, constituent parsing, semantic network, shift-reduce parsing, tree kernel, supervision relations, learning classification, distant extraction, transition-based dependency, learning features, parsing chinese, temporal relations, semantic relations, supervision extraction, discriminative parsing, relations using, coreference features, parsing word, semantic parsing, semi-supervised learning, relations, using features, parsing partial, learning embeddings, learning resolution, semantic question, kernel relations, model parsing, tree extraction, semantic graph, inference extraction, extraction, parsing tree, syntactic parsing, probabilistic parsing, parsing algorithm, dependency tree, unsupervised parsing, learning via, resolution semantic, semantic extraction, relations via, features parsing, learning question, dependency neural, discourse, parser, learning extraction, features, resolution, algorithm, neural parsing, learning algorithm, using learning, modeling, efficient, via, parsing network, graph, sentence, inference, kernel, learning parsing, probabilistic, semi-supervised, event",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "annual meeting association computational linguistic, annual meeting association linguistic june, annual meeting association computational june, annual meeting association linguistic proceedings, annual meeting association linguistic usa, annual meeting association computational proceedings, annual meeting association computational usa, annual meeting computational linguistic june, annual meeting computational linguistic proceedings, annual meeting computational linguistic usa, annual association computational linguistic june, annual association computational linguistic proceedings, annual association computational linguistic usa, meeting association computational linguistic june, meeting association computational linguistic proceedings, meeting association computational linguistic usa, annual meeting association june usa, annual meeting linguistic june usa, annual meeting computational june usa, annual association linguistic june usa, annual association computational june usa, meeting association linguistic june usa, meeting association computational june usa, annual computational linguistic june usa, meeting computational linguistic june usa, association computational linguistic june usa, annual meeting association linguistic university, annual meeting association computational university, annual meeting computational linguistic university, annual meeting association university usa, annual association computational linguistic university, annual meeting association june proceedings, meeting association computational linguistic university, annual meeting linguistic university usa, annual meeting computational university usa, annual meeting linguistic june proceedings, annual meeting computational june proceedings, annual association linguistic university usa, annual association computational university usa, meeting association linguistic university usa, meeting association computational university usa, annual association linguistic june proceedings, annual association computational june proceedings, annual meeting association june university, meeting association linguistic june proceedings, meeting association computational june proceedings, annual meeting association usa proceedings, annual computational linguistic university usa, meeting computational linguistic university usa, annual computational linguistic june proceedings, annual meeting linguistic june university, annual meeting computational june university, meeting computational linguistic june proceedings, association computational linguistic university usa, annual association linguistic june university, annual association computational june university, annual meeting june usa proceedings, annual meeting linguistic usa proceedings, association computational linguistic june proceedings, annual meeting computational usa proceedings, meeting association linguistic june university, meeting association computational june university, annual association june usa proceedings, annual association linguistic usa proceedings, annual association computational usa proceedings, meeting association june usa proceedings, meeting association linguistic usa proceedings, meeting association computational usa proceedings, annual computational linguistic june university, meeting computational linguistic june university, annual linguistic june usa proceedings, annual computational june usa proceedings, annual computational linguistic usa proceedings, meeting linguistic june usa proceedings, meeting computational june usa proceedings, association computational linguistic june university, meeting computational linguistic usa proceedings, association linguistic june usa proceedings, association computational june usa proceedings, annual meeting june university usa, association computational linguistic usa proceedings, annual association june university usa, annual meeting association linguistic july, annual meeting association computational july, meeting association june university usa, computational linguistic june usa proceedings, annual linguistic june university usa, annual computational june university usa, meeting linguistic june university usa, annual meeting computational linguistic july, meeting computational june university usa, association linguistic june university usa, association computational june university usa, annual association computational linguistic july, meeting association computational linguistic july, computational linguistic june university usa, annual meeting association university proceedings, annual meeting linguistic university proceedings, annual meeting computational university proceedings, annual association linguistic university proceedings",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "machine translation, statistical machine translation, model statistical machine translation, language model, part-of-speech tagging, hidden markov model, phrase-based statistical machine translation, machine translation evaluation, language machine translation, joint word segmentation tagging, machine translation using, using model, topic model, machine translation system, reordering statistical machine translation, model, word alignment, neural machine translation, model part-of-speech tagging, model word, joint chinese tagging, joint model, language model machine translation, machine learning, maximum entropy, word machine translation, pos tagging, translation quality estimation, machine translation quality, automatic machine translation, model word segmentation, model phrase-based translation, active learning, language statistical machine translation, hierarchical phrase-based translation, learning statistical machine translation, network machine translation, word alignment model, using language model, decoding machine translation, statistical language model, approach machine translation, translation model adaptation, using machine learning, learning representation, learning language, vector space, bayesian model, model segmentation, phrase machine translation, distributed representation, features machine translation, model phrase-based statistical, unsupervised model, phrase statistical translation, alignment machine translation, topic model translation, based model, network language, alignment model, using statistical, network model, unsupervised induction, translation monolingual, hierarchical model, maximum model, word representation, training translation model, model data, tagging markov, training data, translation corpora, learning word, unsupervised segmentation, based translation, translation prediction, neural model, statistical parsing, neural language, discriminative training, model correction, syntactic translation, word language, n-gram model, semantic translation, translation information, word statistical, model chinese, rules translation, model context, learning techniques, model parsing, combining model, learning model, space model, learning, tagging using, unsupervised learning, improving machine, language modeling",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "word sense disambiguation, named entity recognition, chinese word segmentation, information retrieval, bilingual corpora, named entity recognition using, social media, information extraction, sentiment classification, empirical study, word embeddings, case study, comparable corpora, word alignment, weakly supervised, word using, automatic evaluation, learning word sense, parallel corpora, using bilingual, sentiment analysis, using, using bilingual corpora, similarity measures, using improve, text categorization, using information, text using, word, using learning, automatic identification, method word sense, bilingual comparable, method word disambiguation, sense disambiguation using, named entities, using corpora, automatic detection, bilingual alignment, word sense using, text, automatic text, evaluation measures, text normalization, improving information, twitter sentiment, alignment using, unknown word, unsupervised discovery, cross-language information, evaluation method, bilingual word, text classification, learning sentiment, evaluation using, classification using, using data, unsupervised using, automatic extraction, improving using, automatic acquisition, using method, parallel text, automatic, automatic using, framework word, using structural, using patterns, semantic similarity, word similarity, information, learning text, word identification, entity disambiguation, using semantic, word improve, using detection, using similarity, unsupervised disambiguation, automatic classification, using model, using summarization, semantic web, segmentation using, unsupervised sense, unsupervised method, using automatically, learning entity, word clustering, text segmentation, automatic method, unsupervised word, learning data, semantic word, word representation, topic model, word via, automatic recognition, text mining, corpora",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "natural language, tree adjoining grammars, parsing grammars, spoken dialogue system, natural language generation, speech recognition, natural language processing, natural language system, natural language understanding, natural language interfaces, combinatory categorial, natural language database, referring expressions, finite state, categorial grammars, grammars induction, language modeling, spoken system using, spoken language, context-free grammars, speech act, using system, spoken language understanding, automated scoring, optimality theory, approach natural language, synchronous grammars, combinatory grammars, using grammars, grammars, language, discourse dialogue, unification grammars, tree transducers, using language, user system, information language, rewriting system, system, multimodal dialogue, automatic generation, parsing language, efficient grammars, using dialogue, dialog system, lexicalized grammars, text generation, discourse spoken, parsing context-free, stochastic grammars, generation algorithm, structure grammars, generation using, functional grammars, generation, grammars model, parsing adjoining, learning dialogue, probabilistic grammars, unification-based grammars, evaluating system, dialogue, context-free system, dialogue model, multimodal system, evaluation system, knowledge language, understanding system, algorithm grammars, language recognition, approach generation, order language, language model, learning language, learning natural, generation system, language text, spoken, learning grammars, speech, understanding, processing, expressions, descriptions, generating, theory, dialog, strategies, framework, multimodal, evaluating, planning, transducers, flexible, linear, automated, finite-state, issues, clauses, practical",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "semantic role labeling, noun phrase, distributional semantic, error correction, spelling correction, using semantic, logical form, phrase structure, semantic, syntactic semantic, case study, compositional semantic, spelling error, analysis japanese, lexical resources, semantic representation, lexical semantic, semantic model, semantic vector, dependency japanese, using lexical, linguistic structure, semantic verb, morphological analysis, semantic parsing, dependency structure, structure analysis, using structure, lexical acquisition, semantic frames, semantic interpretation, error using, semantic induction, structure noun, analysis noun, lexical, lexical distributional, lexical verb, semantic noun, semantic analysis, structure, analysis, semantic structure, english, semantic phrase, verb, lexicon, corpus, annotation, error, japanese, acquisition, induction, morphological, resources, interpretation, ccg, case, arabic, constraints, german, syntax, treebank, multiple, dictionary, logic, meaning, large-scale, inducing, morphology, grammatical, syntactic, complex, source, aligning, reranking, tense, effect, classes, argument, scope, acquiring, translating, mapping, formalisms, process, predicates, paraphrase, character, level, results, learners, integrated, french, surface, wordnet, string, compound, test, composition",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "conditional random fields, domain adaptation, relations extraction, using conditional random fields, information extraction, sentence compression, relations, extraction, learning relations, distant supervision, event extraction, semantic relations, relations using, supervision relations, distant extraction, temporal relations, supervision extraction, sentence, event, semantic extraction, learning extraction, temporal, relations via, via, structured, label, propagation, mentions, discovering",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "dependency parsing, parsing, selectional preferences, using parser, semantic parsing, using dependency parsing, dependency parser, parser, parsing algorithm, efficient parsing, transition-based parsing, incremental parsing, constituent parsing, model parsing, shift-reduce parsing, parsing chinese, transition-based dependency, efficient, parsing partial, probabilistic, probabilistic parsing, search, dynamic, fast, accurate, comparison, robust, fine-grained, accuracy, leveraging, recommendation, dependencies, tagging",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "question answering, neural network, convolutional neural network, recurrent neural network, answer question answering, recursive neural network, using neural network, textual entailment, semantic network, community question, discourse, learning question, semantic question, context, local, coherence, memory, recognizing, dependency-based, long, text, model, sentence",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "convolution kernel, features parsing, learning features, learning classification, tree kernel, using features, semi-supervised learning, features, modeling, classification, kernel, syntactic, inference, semi-supervised, parse, deep, tree, role, sentiment, reference, shallow, sequential, alternative, non-local, labeling, exploiting, structure, based, semantic, dependency",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "coreference resolution, resolution, pronoun resolution, anaphora resolution, algorithm, learning, learning semantic, graph, resolution semantic, learning embeddings, learning resolution, application, ranking, prediction, constraints, online, embeddings, simple, ambiguity, reviews, matrix, tweets, regularization, perceptron, ellipsis, incorporating, evaluating, global, based, knowledge",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "multi-document summarization, summarization, extractive summarization, predicting, building, human",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "annual meeting association computational, annual association computational linguistic, meeting association computational linguistic, annual meeting computational linguistic, annual meeting association linguistic, annual meeting computational proceedings, annual association computational proceedings, annual meeting association proceedings, meeting association computational proceedings, annual computational linguistic proceedings, meeting computational linguistic proceedings, annual association linguistic proceedings, association computational linguistic proceedings, meeting association linguistic proceedings, annual meeting linguistic proceedings, annual association computational usa, meeting association computational usa, annual meeting computational usa, association computational linguistic usa, meeting computational linguistic usa, annual computational linguistic usa, annual meeting linguistic july, annual meeting association july, meeting association computational june, annual association linguistic july, annual association computational university, annual meeting association usa, annual association computational june, meeting association computational university, meeting association linguistic july, annual meeting computational university, annual meeting computational july, association computational linguistic university, meeting association linguistic usa, annual computational linguistic july, annual meeting computational june, association computational linguistic june, annual association computational july, annual association linguistic usa, annual computational linguistic university, meeting computational linguistic university, meeting computational linguistic july, meeting association computational july, annual computational usa proceedings, association computational usa proceedings, association computational june proceedings, meeting computational usa proceedings, association computational linguistic july, annual meeting association university, meeting computational linguistic june, annual computational linguistic june, annual meeting linguistic usa, meeting computational june proceedings, annual computational june proceedings, computational linguistic usa proceedings, meeting association usa proceedings, annual association usa proceedings, meeting association linguistic university, annual association linguistic university, association computational university usa, computational linguistic june proceedings, annual meeting usa proceedings, association linguistic usa proceedings, meeting computational university usa, annual meeting association june, annual meeting linguistic university, annual computational university usa, meeting association june proceedings, meeting linguistic usa proceedings, annual association june proceedings, annual linguistic usa proceedings, proceedings annual meeting july, annual july university usa, computational linguistic university usa, association computational june usa, annual computational university proceedings, meeting association linguistic june, meeting computational university proceedings, association linguistic june proceedings, association computational university proceedings, meeting july university usa, annual meeting june proceedings, proceedings annual linguistic july, annual association linguistic june, proceedings annual association july, linguistic july university usa, association july university usa, proceedings meeting linguistic july, annual association university proceedings, meeting association university proceedings, proceedings meeting association july, computational linguistic university proceedings, annual meeting july university, annual meeting university proceedings, proceedings association linguistic july, meeting linguistic june proceedings, annual meeting usa july, meeting computational june usa, meeting association university usa, proceedings annual computational july",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "annual meeting june usa, annual linguistic june usa, annual meeting linguistic june, meeting linguistic june usa, annual association june usa, meeting association june usa, association linguistic june usa, annual association linguistic june, annual meeting association june, meeting association linguistic june, annual computational june usa, annual meeting linguistic usa, computational linguistic june usa, annual meeting june university, meeting computational june usa, annual linguistic june university, annual june university usa, meeting linguistic june university, meeting june university usa, linguistic june university usa, annual computational linguistic june, annual association june university, annual meeting computational june, association june university usa, annual association linguistic usa, association computational june usa, meeting association june university, association linguistic june university, annual linguistic university usa, meeting computational linguistic june, annual meeting university usa, annual meeting association usa, annual meeting association linguistic, meeting linguistic university usa, meeting association linguistic usa, annual june usa proceedings, linguistic june usa proceedings, meeting june usa proceedings, annual association computational june, annual association university usa, computational june university usa, association computational linguistic june, annual linguistic june proceedings, association linguistic university usa, annual meeting linguistic university, annual computational june university, meeting association university usa, annual meeting june proceedings, meeting association computational june, association june usa proceedings, meeting linguistic june proceedings, computational linguistic june university, meeting computational june university, annual association linguistic university, annual association june proceedings, annual computational linguistic usa, annual meeting association university, association linguistic june proceedings, association computational june university, annual meeting computational usa, meeting association linguistic university, meeting association june proceedings, meeting computational linguistic usa, annual computational university usa, annual meeting computational linguistic, computational linguistic university usa, meeting computational university usa, annual association computational usa, association computational linguistic usa, annual association computational linguistic, meeting association computational linguistic, state",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "linguistic, conversations, panel",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "identifying, abstract, talk, invited, computational",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "joint model, part-of-speech tagging, joint word segmentation tagging, model part-of-speech tagging, model word segmentation, joint chinese tagging, pos tagging, unsupervised model, model chinese, chinese segmentation, approach tagging, tagging using, vector model, unsupervised, tagging, unsupervised segmentation, unsupervised word, segmentation, word, vector, graph-based, scale, korean, iterative, scaling, large, projection, target, n-gram, parsing, language",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "model, language model, hidden markov model, using model, topic model, using language model, model adaptation, bayesian model, model correction, improved, improved model, generalized, pruning, transfer, application, hybrid",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "approach machine translation, maximum entropy, rules translation, based translation, hierarchical translation, approach, training model, statistical approach, learning rules, training data, learning approach, training, based, rules, hierarchical, based approach, smt, quality, experiments, decomposition, dual, phrasal, chunking, unified, summarization, stochastic, using",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "learning model, learning language, learning, machine learning, active learning, learning word, learning translation, word representation, learning representation, space model, using learning, distributed representation, model representation, phrase model, selection model, representation, model word, learning techniques, learning phrase, phrase, selection, space, techniques, sequence, fast, combination, attachment, help, minimum, effective, reading, prepositional, smoothing, features, data",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "machine translation, statistical machine translation, model statistical machine translation, language machine translation, machine translation using, machine translation evaluation, phrase-based statistical machine translation, language model machine translation, word machine translation, machine translation system, reordering statistical machine translation, neural machine translation, model phrase-based translation, statistical language model, statistical language, learning statistical machine translation, translation quality estimation, word alignment, machine translation quality, language statistical machine translation, automatic machine translation, model phrase-based statistical, phrase machine translation, network machine translation, phrase statistical translation, decoding machine translation, features machine translation, using statistical, word statistical, alignment machine translation, statistical parsing, alignment model, translation monolingual, syntactic translation, improving machine, improving translation, parsing translation, network statistical, dependency translation, statistical alignment, lexical translation, alignment, discriminative translation, discriminative, estimation, metric, modeling, modelling, rich, syntax-based, tree, forest, tables, algorithm, sentence, features",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "using, information extraction, text, text using, using information, text categorization, information, using bilingual, using learning, using model, using semantic, social, text information, exploiting, finding, wikipedia, discovery, relationships, exploring, class, novel, content, contextual, classifier, attributes, pairs, approach, user",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "sentiment classification, empirical study, case study, weakly supervised, sentiment analysis, automatic text, automatic, word sentiment, learning sentiment, sentiment, automatic method, text classification, topic, topic model, automatic word, automatic using, twitter sentiment, automatic extraction, study, automatic classification, knowledge, twitter, media, cross-lingual, supervised, image, combining, opinion, prediction, detecting, measuring, subjectivity, reviews, based, type, annotation, representation, user, learning",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "information retrieval, automatic evaluation, using improve, similarity measures, evaluation using, using similarity, automatic identification, using data, evaluation measures, evaluation, using measures, information extraction, document, web, query, measures, similarity, term, data, identification, latent, news, collocation, names, structural, relational, search, statistics, textual, resolving, collective, expansion, sparse, genre, corpus, linking, extraction, event, cross-language, semantic, model, learning",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "word sense disambiguation, chinese word segmentation, word using, word, word alignment, word embeddings, learning word sense, sense disambiguation using, using method, word sense using, segmentation using, word similarity, method word sense, method word disambiguation, word identification, text segmentation, chinese text, method, bilingual word, parallel text, word improve, unknown word, method text, semantic word, word text, learning disambiguation, framework word, unsupervised word, unsupervised disambiguation, unsupervised method, unsupervised sense, word clustering, unsupervised, clustering, parallel, distributions, performance, domain, concept, matching, frequency, context, lexical, semi-supervised, relations, corpora",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "named entity recognition, bilingual corpora, named entity recognition using, comparable corpora, using bilingual corpora, parallel corpora, bilingual comparable, using detection, named entities, word recognition, using patterns, learning entity, corpora, multilingual, detection, patterns, extracting, mining, bootstrapping, improving, automatically, transliteration, entities, hierarchy, discussion, monolingual, memory-based, keyword, resources, dictionary, acquisition, via, online, relations, semantic, model, learning, extraction, alignment, data, web, text",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "spoken dialogue system, dialogue, spoken system using, system, discourse dialogue, dialog system, user system, spoken, using dialogue, dialogue model, learning dialogue, multimodal dialogue, discourse spoken, multimodal system, evaluation system, multimodal, strategies, evaluation, pragmatic, utterances, power, centering, structure, unification",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "natural language, natural language generation, natural language system, spoken language, natural language processing, natural language interfaces, natural language understanding, natural language database, spoken language understanding, using language, language model, parsing language, approach natural language, learning language, understanding system, learning natural, generation system, approach generation, knowledge language, processing, understanding, language text, issues, development, computer, access, approach, design, control, human, perspective, grammatical, parameter, semantic, robust, sentence, problem",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "parsing grammars, combinatory categorial, grammars, categorial grammars, grammars induction, rewriting system, context-free grammars, context-free system, combinatory grammars, using grammars, synchronous grammars, efficient grammars, parsing context-free, probabilistic grammars, framework, linear, clauses, order, generative, flexible, optimal, programming, free, tree-adjoining, extending, definite, compact, constraint-based",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "speech recognition, referring expressions, speech act, speech, automated scoring, optimality theory, generation, expressions, generating, descriptions, theory, planning, automated, complexity, interaction, vocabulary, comprehension, task, conversational, open, essays, typed, use, construction, grounded, reasoning, phonological, type, features, logic, constraints, learning, grammars",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "tree adjoining grammars, finite state, unification grammars, lexicalized grammars, stochastic grammars, parsing adjoining, functional grammars, tree transducers, unification-based grammars, transducers, finite-state, evaluating, tag, practical, automata, dependencies, collaborative, time, dialog, approximation, derivation, instructions, generic, bottom-up, algorithm",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "distributional semantic, semantic, compositional semantic, syntactic semantic, semantic parsing, semantic model, semantic vector, constraints, morphological, arabic, syntax, german, multiple, source, reranking, robust, composition, disambiguation, integrating, translating, features, word, linguistic",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "lexical semantic, semantic verb, lexical, semantic frames, using lexical, semantic induction, lexical resources, syntactic semantic, lexical acquisition, verb, lexical verb, acquisition, syntactic, induction, context, resources, clustering, ccg, inducing, aligning, classes, large-scale, french, scope, subcategorization, selection, tagger, influence, prepositions, automatic, corpora, model, grammars, dependency, english",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "noun phrase, analysis japanese, logical form, semantic noun, english, analysis noun, lexicon, japanese, complex, argument, effect, predicates, mapping, compound, results, empirical, annotated, negation, parsing",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "semantic role labeling, case study, structure, semantic interpretation, dependency structure, linguistic structure, using structure, semantic structure, interpretation, case, treebank, logic, aspect, sentence, representation, process, character, paraphrase, tense, level, test, formal, discourse, parsing",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "error correction, spelling correction, spelling error, analysis, error using, annotation, error, corpus, dictionary, meaning, grammatical, morphology, large, acquiring, corpus-based, parallel, surface, formalisms, integrated, correcting, learners, synthesis, wordnet, transformation, approach, parsing",
+			 "target": []
+		}
+		]
+	}
+]

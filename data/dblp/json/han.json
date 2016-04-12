@@ -1,0 +1,755 @@
+[
+	{
+		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "information retrieval, learning, natural language, support vector machine, reinforcement learning, retrieval, machine translation, information, image retrieval, search",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "information retrieval, learning, natural language, support vector machine, reinforcement learning, retrieval, machine translation, information, image retrieval, search",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "image, video coding, using, image using, based, image based, algorithm, video, motion estimation, face recognition",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "wireless networks, wireless sensor networks, networks, cognitive radio networks, resource allocation, spectrum cognitive radio networks, spectrum sensing cognitive radio, power allocation, relay networks, neural networks",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fading channel, mimo channel, performance analysis, channel estimation, mimo systems, proceedings international conference, ofdm systems, channel, systems, channel systems",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "database systems, data, query processing, database, case study, solving problem, data streams, computer graphics, data management, data base",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "low power, design, cmos, circuit, dc-dc converter, design filter, fir filter, design using, cmos circuit, cmos sensor",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "information retrieval, image retrieval, web search, search engine, retrieval, search, information retrieval systems, search results, retrieval using, relevance feedback",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "question answering, large scale, time series, nearest neighbor, mining frequent, graph, mining pattern, similarity measure, clustering data, nearest neighbor search",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "learning, natural language, support vector machine, reinforcement learning, machine translation, statistical machine translation, machine learning, model, learning using, active learning",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "collaborative filtering, social media, social networks, probabilistic model, text categorization, social, dependency parsing, topic model, automatic generation, text using",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "data mining, mining association rules, using information, knowledge discovery, international knowledge discovery data mining, web page, information retrieval, query using, query, feature selection",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "algorithm, using algorithm, fast algorithm, algorithm based, method using, support vector, method, efficient algorithm, active contour, parallel algorithm",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "image using, image, image segmentation, matrix factorization, detection, object tracking, detection based, detection using, moving object, detection image",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "hidden markov model, image based, based, based model, conditional random field, method based, markov decision processes, markov random field, using hidden markov model, markov chain monte carlo",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "using, image using, face recognition, recognition using, using feature, recognition, feature selection, using model, detection using, estimation using",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "video coding, video, motion estimation, based video, image quality assessment, image compression, video using, image coding, using coding, scalable video coding",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "cognitive radio networks, spectrum cognitive radio networks, spectrum sensing cognitive radio, spectrum sensing cognitive radio networks, cognitive radio systems, power control, control networks, cooperative spectrum sensing cognitive radio, access networks, power cognitive radio networks",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "wireless mesh networks, routing networks, networks coding, hoc networks, routing wireless networks, multi-hop wireless networks, protocol networks, mac protocol wireless networks, load balancing, routing protocol networks",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "resource allocation, power allocation, allocation networks, resource allocation networks, relay networks, cellular networks, power networks, power allocation networks, cooperative networks, resource allocation systems",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "scheme networks, traffic networks, mobile networks, video streaming, service networks, scheme, scheme based, video transmission, adaptive networks, delay tolerant networks",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "wireless networks, wireless sensor networks, neural networks, networks, social networks, heterogeneous networks, distributed wireless sensor networks, data wireless sensor networks, using networks, protocol wireless sensor networks",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "space-time block codes, space-time codes, ldpc codes, codes channel, limited feedback, decoding codes, maximum likelihood, space-time coding, orthogonal space-time block codes, codes systems",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "proceedings international conference, artificial intelligence, proceedings acm international conference usa, annual meeting association computational linguistic, proceedings acm international conference data, proceedings international conference data usa, proceedings conference artificial intelligence august, proceedings international conference august, annual meeting association linguistic june, annual association computational linguistic june",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "mimo systems, ofdm systems, systems, based systems, design systems, channel systems, estimation systems, carrier frequency offset estimation, channel estimation ofdm systems, systems using",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "performance analysis, analysis systems, performance systems, performance analysis systems, performance analysis channel, low complexity, analysis, performance analysis fading, performance evaluation, performance",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "fading channel, mimo channel, channel estimation, rayleigh fading channel, performance fading channel, channel estimation systems, analysis fading channel, channel state information, systems fading channel, relay channel",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "computer graphics, management systems, guest editoraposs introduction, dynamic systems, message passing, production systems, foreword special section, multi-agent systems, guest editoraposs introduction computer graphics, management",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "concurrency control database, augmented reality, environment, multimedia, concurrency control database systems, interactive systems, virtual environment, multimedia applications, concurrency control distributed database, real-time systems",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "parallel algorithm, solving problem, parallel, parallel systems, approach, problem, parallel computer, massively parallel, algorithm problem, knowledge base",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "database systems, data, query processing, data streams, data systems, database, data mining, data base, relational database, data management",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "case study, constraints satisfaction, constraints satisfaction problem, description logic, extended abstract, expert systems, logic, logic programs, knowledge base, planning",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "design, design using, design implementation, design systems, design filter, design power, antenna array, design circuit, design based, design applications",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "sigma delta modulator, delta-sigma modulator, applications, sar adc, live demonstration, continuous-time modulator, millimeter wave, sigma-delta modulator, comparative study, background calibration adc",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "dc-dc converter, using technique, cmos circuit, charge pump, technique, circuit using, circuit, analog-to-digital converter, power circuit, supply voltage",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "low power, fir filter, low complexity, cmos sensor, power amplifier, design filter, design fir filter, cmos amplifier, cmos, frequency synthesizer",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "architecture, vlsi architecture, analog circuit, based architecture, reconfigurable architecture, hardware implementation, architecture decoder, memory architecture, neural recording, fault tolerant",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "information retrieval, learning, natural language, support vector machine, reinforcement learning, retrieval, machine translation, information, image retrieval, search, question answering, web search, data mining, search engine, statistical machine translation, large scale, machine learning, time series, nearest neighbor, web",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "information retrieval, learning, natural language, support vector machine, reinforcement learning, retrieval, machine translation, information, image retrieval, search, question answering, web search, data mining, search engine, statistical machine translation, large scale, machine learning, time series, nearest neighbor, web",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "image, video coding, using, image using, based, image based, algorithm, video, motion estimation, face recognition, detection, method, detection using, hidden markov model, matrix factorization, image segmentation, monte carlo, conditional random field, image quality assessment, method based",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "wireless networks, wireless sensor networks, networks, cognitive radio networks, resource allocation, spectrum cognitive radio networks, spectrum sensing cognitive radio, power allocation, relay networks, neural networks, analysis networks, hoc networks, cooperative networks, based networks, cellular networks, routing networks, resource allocation networks, using networks, power networks, social networks",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fading channel, mimo channel, performance analysis, channel estimation, mimo systems, proceedings international conference, ofdm systems, channel, systems, channel systems, channel estimation systems, rayleigh fading channel, performance systems, analysis systems, artificial intelligence, proceedings acm international conference usa, based systems, performance fading channel, design systems, annual meeting association computational linguistic",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "database systems, data, query processing, database, case study, solving problem, data streams, computer graphics, data management, data base, data systems, relational database, management systems, parallel algorithm, knowledge base, parallel, data mining, query optimization, object-oriented database, processing",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "low power, design, cmos, circuit, dc-dc converter, design filter, fir filter, design using, cmos circuit, cmos sensor, design circuit, power amplifier, low, sigma delta modulator, technique, design fir filter, cmos amplifier, design implementation, wide range, delta-sigma modulator",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "information retrieval, image retrieval, web search, search engine, retrieval, search, information retrieval systems, search results, retrieval using, relevance feedback, model information retrieval, search using, document retrieval, content-based image retrieval, information extraction, image annotation, web search results, based retrieval, local search, information retrieval using",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "question answering, large scale, time series, nearest neighbor, mining frequent, graph, mining pattern, similarity measure, clustering data, nearest neighbor search, clustering, large, large graph, time series data, data mining, mining frequent pattern, similarity search, community question answering, using graph, mining graph",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "learning, natural language, support vector machine, reinforcement learning, machine translation, statistical machine translation, machine learning, model, learning using, active learning, word sense disambiguation, language model, learning model, using model, learning via, learning networks, knowledge representation, support vector machine classification, online learning, language",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "collaborative filtering, social media, social networks, probabilistic model, text categorization, social, dependency parsing, topic model, automatic generation, text using, text, automatic, topic modeling, text classification, sentiment analysis, online social networks, recommendation social, using social, improving using, influence social",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "data mining, mining association rules, using information, knowledge discovery, international knowledge discovery data mining, web page, information retrieval, query using, query, feature selection, query expansion, information, query language, using web, world wide web, feature classification, acm knowledge discovery mining, classification using, web data, mining",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "algorithm, using algorithm, fast algorithm, algorithm based, method using, support vector, method, efficient algorithm, active contour, parallel algorithm, wavelet transform, method based, using transform, fast using, genetic algorithm, discrete transform, dimensionality reduction, fast, vector machine, gaussian mixture model",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "image using, image, image segmentation, matrix factorization, detection, object tracking, detection based, detection using, moving object, detection image, image based, object detection, image classification, image denoising, sparse representation, anomaly detection, nonnegative matrix factorization, color image, total variation, tracking particle filter",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "hidden markov model, image based, based, based model, conditional random field, method based, markov decision processes, markov random field, using hidden markov model, markov chain monte carlo, estimation based, using functions, decision tree, based approach, algorithm based, random walk, based analysis, canonical correlation analysis, using conditional random field, detection based",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "using, image using, face recognition, recognition using, using feature, recognition, feature selection, using model, detection using, estimation using, principal component analysis, recognition based, speech recognition, based feature, local binary pattern, facial expression recognition, feature, action recognition, object recognition, robust using",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "video coding, video, motion estimation, based video, image quality assessment, image compression, video using, image coding, using coding, scalable video coding, based video coding, motion video, monte carlo, fast motion estimation, detection video, video coding using, intra prediction, motion video coding, adaptive video, video quality",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "cognitive radio networks, spectrum cognitive radio networks, spectrum sensing cognitive radio, spectrum sensing cognitive radio networks, cognitive radio systems, power control, control networks, cooperative spectrum sensing cognitive radio, access networks, power cognitive radio networks, multiple access, cooperative sensing cognitive radio networks, cooperative spectrum cognitive radio networks, power control networks, based cognitive radio, channel cognitive radio networks, distributed networks, spectrum sharing, cooperative spectrum sensing cognitive networks, access control",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "wireless mesh networks, routing networks, networks coding, hoc networks, routing wireless networks, multi-hop wireless networks, protocol networks, mac protocol wireless networks, load balancing, routing protocol networks, ieee networks, protocol hoc networks, throughput wireless networks, wireless lans, performance analysis networks, wireless channel, networks coding wireless, link networks, wireless link, physical layer networks",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "resource allocation, power allocation, allocation networks, resource allocation networks, relay networks, cellular networks, power networks, power allocation networks, cooperative networks, resource allocation systems, energy harvesting, allocation wireless networks, relay selection networks, optimal networks, cooperative relay networks, two-way relay networks, power allocation systems, resource allocation ofdma, energy efficient, power allocation relay networks",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "scheme networks, traffic networks, mobile networks, video streaming, service networks, scheme, scheme based, video transmission, adaptive networks, delay tolerant networks, transmission networks, mobile systems, delay networks, mobile, mobile devices, scheme systems, mobile hoc, wdm networks, optimization networks, packet networks",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "wireless networks, wireless sensor networks, neural networks, networks, social networks, heterogeneous networks, distributed wireless sensor networks, data wireless sensor networks, using networks, protocol wireless sensor networks, analysis networks, routing wireless sensor networks, energy wireless sensor networks, control wireless networks, wireless communication, hoc networks, scheme wireless sensor networks, mobile networks, based wireless sensor networks, scheduling wireless networks",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "space-time block codes, space-time codes, ldpc codes, codes channel, limited feedback, decoding codes, maximum likelihood, space-time coding, orthogonal space-time block codes, codes systems, maximum likelihood estimation, design codes, iterative decoding, using codes, lower bounds, ldpc decoder, codes, bit rate, decoding ldpc codes, error channel",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "proceedings international conference, artificial intelligence, proceedings acm international conference usa, annual meeting association computational linguistic, proceedings acm international conference data, proceedings international conference data usa, proceedings conference artificial intelligence august, proceedings international conference august, annual meeting association linguistic june, annual association computational linguistic june, annual meeting association computational june, annual meeting computational linguistic june, meeting association computational linguistic june, acm international conference data usa, annual meeting association computational usa, annual meeting computational linguistic usa, annual meeting association computational proceedings, annual meeting computational linguistic proceedings, proceedings conference artificial intelligence july, proceedings international joint artificial intelligence",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "mimo systems, ofdm systems, systems, based systems, design systems, channel systems, estimation systems, carrier frequency offset estimation, channel estimation ofdm systems, systems using, detection systems, power systems, multiuser systems, linear systems, communication systems, information systems, adaptive systems, mimo systems channel, carrier frequency offset ofdm systems, multiuser mimo systems",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "performance analysis, analysis systems, performance systems, performance analysis systems, performance analysis channel, low complexity, analysis, performance analysis fading, performance evaluation, performance, interference cancellation, based analysis, performance evaluation systems, design analysis, adaptive modulation, interference mitigation, error analysis, uwb impulse radio, performance analysis fading channel, performance analysis systems channel",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "fading channel, mimo channel, channel estimation, rayleigh fading channel, performance fading channel, channel estimation systems, analysis fading channel, channel state information, systems fading channel, relay channel, channel estimation ofdm, mimo fading channel, channel, capacity channel, two-way relay channel, antenna selection, relay selection, interference channel, channel estimation mimo, correlated channel",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "computer graphics, management systems, guest editoraposs introduction, dynamic systems, message passing, production systems, foreword special section, multi-agent systems, guest editoraposs introduction computer graphics, management, evaluation systems, data management, computer systems, vision systems, partially observable, special issues, knowledge management, computer, performance evaluation, data management systems",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "concurrency control database, augmented reality, environment, multimedia, concurrency control database systems, interactive systems, virtual environment, multimedia applications, concurrency control distributed database, real-time systems, cloud computing, framework, web service, smart grid, storage systems, acm multimedia, database systems, software defined, monitoring systems, interactive",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "parallel algorithm, solving problem, parallel, parallel systems, approach, problem, parallel computer, massively parallel, algorithm problem, knowledge base, parallel processing, parallel architecture, parallel computing, parallel distributed, solution problem, parallel implementation, approach systems, load balancing, base systems, parallel applications",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "database systems, data, query processing, data streams, data systems, database, data mining, data base, relational database, data management, object-oriented database, relational database systems, processing, efficient data, distributed database, query optimization, data base systems, data networks, distributed database systems, distributed data",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "case study, constraints satisfaction, constraints satisfaction problem, description logic, extended abstract, expert systems, logic, logic programs, knowledge base, planning, reasoning, logic programming, constraints, programming language, shortest path, dynamic programming, mobile robot, belief revision, complex networks, reasoning systems",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "design, design using, design implementation, design systems, design filter, design power, antenna array, design circuit, design based, design applications, design methodology, systolic array, implementation, embedded systems, design analysis, processor, design implementation systems, processor array, small cell, design processor",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "sigma delta modulator, delta-sigma modulator, applications, sar adc, live demonstration, continuous-time modulator, millimeter wave, sigma-delta modulator, comparative study, background calibration adc, flash memory, pipelined adc, nand flash memory, analysis applications, continuous-time delta-sigma modulator, design delta sigma modulator, effect, continuous-time sigma delta modulator, carbon nanotube, measurement using",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "dc-dc converter, using technique, cmos circuit, charge pump, technique, circuit using, circuit, analog-to-digital converter, power circuit, supply voltage, integrated circuit, converter, novel technique, buck converter, analysis circuit, dynamic voltage scaling, control converter, design circuit, control dc-dc converter, cmos technology",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "low power, fir filter, low complexity, cmos sensor, power amplifier, design filter, design fir filter, cmos amplifier, cmos, frequency synthesizer, dynamic range, wide range, digital filter, low, low cmos, low voltage, filter, low power applications, using filter, digital",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "architecture, vlsi architecture, analog circuit, based architecture, reconfigurable architecture, hardware implementation, architecture decoder, memory architecture, neural recording, fault tolerant, architecture systems, novel architecture, hardware architecture, hearing aid, architecture applications, architecture using, optical using, synthesis, high-level synthesis, arc transverse magnetic field",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "information retrieval, learning, natural language, support vector machine, reinforcement learning, retrieval, machine translation, information, image retrieval, search, question answering, web search, data mining, search engine, statistical machine translation, large scale, machine learning, time series, nearest neighbor, web, social media, collaborative filtering, semantic, information retrieval systems, text, word sense disambiguation, mining association rules, search results, information extraction, relevance feedback, using information, active learning, language model, document, feature selection, mining, topic model, retrieval using, model, mining pattern, query expansion, model information retrieval, text classification, image annotation, learning model, probabilistic model, knowledge representation, web page, social, document retrieval",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "information retrieval, learning, natural language, support vector machine, reinforcement learning, retrieval, machine translation, information, image retrieval, search, question answering, web search, data mining, search engine, statistical machine translation, large scale, machine learning, time series, nearest neighbor, web, social media, collaborative filtering, semantic, information retrieval systems, text, word sense disambiguation, mining association rules, search results, information extraction, relevance feedback, using information, active learning, language model, document, feature selection, mining, topic model, retrieval using, model, mining pattern, query expansion, model information retrieval, text classification, image annotation, learning model, probabilistic model, knowledge representation, web page, social, document retrieval",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "image, video coding, using, image using, based, image based, algorithm, video, motion estimation, face recognition, detection, method, detection using, hidden markov model, matrix factorization, image segmentation, monte carlo, conditional random field, image quality assessment, method based, detection based, algorithm based, fast algorithm, based video, scalable video coding, method using, support vector, object tracking, fast, estimation using, based model, using model, video using, color image, motion video, recognition using, using algorithm, fast mode decision, image compression, using feature, decision tree, motion, moving object, efficient algorithm, feature selection, principal component analysis, active contour, recognition, image classification, image coding",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "wireless networks, wireless sensor networks, networks, cognitive radio networks, resource allocation, spectrum cognitive radio networks, spectrum sensing cognitive radio, power allocation, relay networks, neural networks, analysis networks, hoc networks, cooperative networks, based networks, cellular networks, routing networks, resource allocation networks, using networks, power networks, social networks, networks coding, allocation networks, wireless mesh networks, distributed networks, spectrum sensing cognitive radio networks, mobile networks, energy harvesting, heterogeneous networks, resource allocation systems, performance networks, channel networks, control networks, routing wireless networks, cognitive radio systems, power allocation networks, power control, scheme networks, protocol networks, wireless hoc networks, cooperative spectrum sensing cognitive radio, algorithm networks, wireless channel, wireless systems, data wireless sensor networks, video streaming, control wireless networks, multiple access, access networks, based wireless networks, distributed wireless sensor networks",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fading channel, mimo channel, performance analysis, channel estimation, mimo systems, proceedings international conference, ofdm systems, channel, systems, channel systems, channel estimation systems, rayleigh fading channel, performance systems, analysis systems, artificial intelligence, proceedings acm international conference usa, based systems, performance fading channel, design systems, annual meeting association computational linguistic, mimo, performance analysis systems, channel state information, carrier frequency offset estimation, performance channel, analysis fading channel, relay channel, proceedings conference artificial intelligence august, channel estimation ofdm systems, analysis channel, proceedings acm international conference data, proceedings international conference data usa, low complexity, ldpc codes, analysis, space-time block codes, space-time codes, performance analysis channel, proceedings international conference august, mimo fading channel, annual meeting association linguistic june, systems fading channel, detection systems, interference cancellation, limited feedback, annual meeting computational linguistic june, annual association computational linguistic june, annual meeting association computational june, systems using, meeting association computational linguistic june",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "database systems, data, query processing, database, case study, solving problem, data streams, computer graphics, data management, data base, data systems, relational database, management systems, parallel algorithm, knowledge base, parallel, data mining, query optimization, object-oriented database, processing, constraints satisfaction, guest editoraposs introduction, database management systems, problem, description logic, parallel systems, constraints satisfaction problem, distributed database, relational database systems, extended abstract, distributed database systems, concurrency control database, expert systems, data base systems, big data, data management systems, efficient data, planning, massively parallel, logic programs, distributed systems, augmented reality, mobile robot, management, distributed data, processing data, processing queries, database design, logic programming, large database",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "low power, design, cmos, circuit, dc-dc converter, design filter, fir filter, design using, cmos circuit, cmos sensor, design circuit, power amplifier, low, sigma delta modulator, technique, design fir filter, cmos amplifier, design implementation, wide range, delta-sigma modulator, frequency synthesizer, using technique, low complexity, architecture, charge pump, vlsi architecture, sar adc, digital filter, low voltage, converter, cmos technology, digital, analog circuit, live demonstration, dynamic range, circuit using, low cmos, design methodology, low power design, amplifier, power cmos, continuous-time modulator, design power, millimeter wave, sigma-delta modulator, ghz cmos, low power applications, ring oscillator, cmos using, supply voltage",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "information retrieval, image retrieval, web search, search engine, retrieval, search, information retrieval systems, search results, retrieval using, relevance feedback, model information retrieval, search using, document retrieval, content-based image retrieval, information extraction, image annotation, web search results, based retrieval, local search, information retrieval using, web search engine, relevance feedback retrieval, user interface, document, video retrieval, query search, image search, image retrieval using, semantic role labeling, keyword search, search based, image retrieval systems, document using, learning search, user search, user, workshop information retrieval, similarity search, relevance feedback image retrieval, event detection, efficient search, query retrieval, semantic image retrieval, web search using, text retrieval, test collections, video search, research information retrieval, semantic retrieval, feature retrieval",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "question answering, large scale, time series, nearest neighbor, mining frequent, graph, mining pattern, similarity measure, clustering data, nearest neighbor search, clustering, large, large graph, time series data, data mining, mining frequent pattern, similarity search, community question answering, using graph, mining graph, queries, frequent itemsets mining, document clustering, structure, index structure, tree adjoining grammars, search graph, queries using, clustering using, data structure, pattern, query answering, unlabeled data, answering queries, answer question, large data, large database, mining time series, schema matching, nearest neighbor queries, large datasets, similarity, reverse nearest neighbor, gene expression, retrieval question answering, combinatory categorial grammars, k-nearest neighbor, high-dimensional data, regular expression, xml query",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "learning, natural language, support vector machine, reinforcement learning, machine translation, statistical machine translation, machine learning, model, learning using, active learning, word sense disambiguation, language model, learning model, using model, learning via, learning networks, knowledge representation, support vector machine classification, online learning, language, semi-supervised learning, learning classification, named entity, transfer learning, learning feature, semantic, machine, natural language systems, using semantic, multiple learning, learning approach, deep learning, data model, named entity recognition, multi-document summarization, learning data, natural language interface, chinese word segmentation, model statistical machine translation, statistical model, learning representation, learning bayesian networks, learning image, multi-task learning, bayesian learning, using word, using support vector machine, learning neural networks, learning support vector machine, natural language understanding",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "collaborative filtering, social media, social networks, probabilistic model, text categorization, social, dependency parsing, topic model, automatic generation, text using, text, automatic, topic modeling, text classification, sentiment analysis, online social networks, recommendation social, using social, improving using, influence social, probabilistic, automatic using, personalized recommendation, generation, international workshop, workshop summary, model social, influence social networks, recommender systems, learning social, recommendation, based social, naive bayes, model social networks, topic, recommendation systems, using probabilistic, next generation, latent model, collaborative, social analysis, graphical model, user social, differentially private, named entities, speech recognition, prediction social, part-of-speech tagging, recommendation based, temporal",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "data mining, mining association rules, using information, knowledge discovery, international knowledge discovery data mining, web page, information retrieval, query using, query, feature selection, query expansion, information, query language, using web, world wide web, feature classification, acm knowledge discovery mining, classification using, web data, mining, meeting association computational linguistic, web service, text classification, classification, query web, query logs, model information, information extraction, based information, mutual information, query information retrieval, using rules, information systems, mining web, rules, web, web sites, semantic web, using association rules, translation cross-language information retrieval, text mining, side information, discovery, classification data, evaluation information retrieval, visual, mining using, feature selection classification, query evaluation, query processing",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "algorithm, using algorithm, fast algorithm, algorithm based, method using, support vector, method, efficient algorithm, active contour, parallel algorithm, wavelet transform, method based, using transform, fast using, genetic algorithm, discrete transform, dimensionality reduction, fast, vector machine, gaussian mixture model, gaussian process, using genetic algorithm, efficient method, support vector machine, estimation algorithm, active contour segmentation, adaptive algorithm, learning algorithm, fourier transform, using tree, using vector, novel algorithm, filter banks, novel method, using wavelet transform, estimation method, discrete wavelet transform, using support vector, efficient using, algorithm image, improved algorithm, decision tree, detection algorithm, using filter, gaussian processes, fast estimation, algorithm model, clustering algorithm, method image, image transform",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "image using, image, image segmentation, matrix factorization, detection, object tracking, detection based, detection using, moving object, detection image, image based, object detection, image classification, image denoising, sparse representation, anomaly detection, nonnegative matrix factorization, color image, total variation, tracking particle filter, image processing, image restoration, image segmentation using, ray tracing, image registration, approach image, non-negative matrix factorization, applications image, image via, image sparse representation, object, particle swarm optimization, sparse image, video object segmentation, object segmentation, stereo matching, via sparse, image sensor, via, image retrieval, image reconstruction, learning image, image segmentation based, image super-resolution, sparse, hyperspectral image, total variation image, multiple object tracking, image analysis, tracking based",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "hidden markov model, image based, based, based model, conditional random field, method based, markov decision processes, markov random field, using hidden markov model, markov chain monte carlo, estimation based, using functions, decision tree, based approach, algorithm based, random walk, based analysis, canonical correlation analysis, using conditional random field, detection based, parameter estimation, markov chain, using based, image watermarking, singular value decomposition, functions, color image, elliptic curve, based filter, using decision, random, using decomposition, based systems, maximum entropy, random forest, using markov chain monte carlo, using domain, based hidden markov model, markov, efficient based, adaptive based, mode decision, image markov random field, based data, field, based markov random field, learning functions, based functions, functions approximation, watermarking based",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "using, image using, face recognition, recognition using, using feature, recognition, feature selection, using model, detection using, estimation using, principal component analysis, recognition based, speech recognition, based feature, local binary pattern, facial expression recognition, feature, action recognition, object recognition, robust using, discriminant analysis, analysis using, pose estimation, classification using, feature recognition, using local, segmentation using, feature image, human action recognition, robust, face recognition using, face, local feature, based local, face using, human recognition, using multiple, object using, local, head pose estimation, data using, using approach, image recognition, tracking using, detection feature, video using, local image, human using, robust based, background subtraction",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "video coding, video, motion estimation, based video, image quality assessment, image compression, video using, image coding, using coding, scalable video coding, based video coding, motion video, monte carlo, fast motion estimation, detection video, video coding using, intra prediction, motion video coding, adaptive video, video quality, prediction video coding, quality based, adaptive video coding, prediction using, fast intra mode decision, motion estimation video, motion, depth map, based motion, lossless image compression, error concealment video, multiview video coding, image enhancement, algorithm video, multiple description video coding, intra coding, quality, frame video, intra prediction coding, video surveillance, havc video, based prediction, prediction, block motion estimation, compressed sensing, video quality assessment, fast video, video applications, search motion estimation, compression using",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "cognitive radio networks, spectrum cognitive radio networks, spectrum sensing cognitive radio, spectrum sensing cognitive radio networks, cognitive radio systems, power control, control networks, cooperative spectrum sensing cognitive radio, access networks, power cognitive radio networks, multiple access, cooperative sensing cognitive radio networks, cooperative spectrum cognitive radio networks, power control networks, based cognitive radio, channel cognitive radio networks, distributed networks, spectrum sharing, cooperative spectrum sensing cognitive networks, access control, dynamic networks, allocation cognitive radio networks, cooperative spectrum sensing radio networks, spectrum access cognitive radio networks, control systems, admission control networks, multiple access channel, compressive sensing, power control cognitive radio networks, based cognitive radio networks, based spectrum sensing, spectrum, spectrum sharing cognitive radio networks, random access, scheme cognitive radio, dynamic spectrum, scheduling networks, based spectrum sensing cognitive radio, interference cognitive radio, distributed, optimal cognitive radio networks, multiple networks, distributed systems, control, joint cognitive radio networks, distributed control, access, primary user cognitive radio networks, distributed power control networks, spectrum cognitive radio channel",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "wireless mesh networks, routing networks, networks coding, hoc networks, routing wireless networks, multi-hop wireless networks, protocol networks, mac protocol wireless networks, load balancing, routing protocol networks, ieee networks, protocol hoc networks, throughput wireless networks, wireless lans, performance analysis networks, wireless channel, networks coding wireless, link networks, wireless link, physical layer networks, analysis networks, opportunistic wireless networks, ad-hoc networks, cross-layer wireless networks, wireless hoc networks, routing wireless mesh networks, routing hoc networks, wireless systems, mac protocol hoc networks, routing protocol wireless networks, link wireless networks, ieee wireless networks, distributed video coding, physical-layer networks coding, analysis wireless, performance wireless, wireless body area networks, peer-to-peer networks, routing algorithm, topology networks, physical layer networks coding, video wireless, protocol, control wireless, wireless ad-hoc networks, mac protocol wireless sensor networks, efficiency video coding, video streaming wireless networks, ieee wireless lans, multihop wireless networks",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "resource allocation, power allocation, allocation networks, resource allocation networks, relay networks, cellular networks, power networks, power allocation networks, cooperative networks, resource allocation systems, energy harvesting, allocation wireless networks, relay selection networks, optimal networks, cooperative relay networks, two-way relay networks, power allocation systems, resource allocation ofdma, energy efficient, power allocation relay networks, power wireless, optimal power allocation, energy networks, resource allocation wireless networks, allocation, power allocation channel, energy efficiency, energy efficient networks, resource allocation ofdma systems, interference networks, small cell networks, relay selection cooperative networks, networks two-way relay channel, power allocation wireless networks, resource allocation radio, resource allocation cellular networks, resource allocation downlink, wireless power transfer, cellular systems, optimal power allocation networks, optimal, resource allocation ofdma networks, power, base station cellular networks, energy harvesting wireless, energy, energy harvesting networks, joint power allocation networks, power allocation cognitive networks, energy wireless",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "scheme networks, traffic networks, mobile networks, video streaming, service networks, scheme, scheme based, video transmission, adaptive networks, delay tolerant networks, transmission networks, mobile systems, delay networks, mobile, mobile devices, scheme systems, mobile hoc, wdm networks, optimization networks, packet networks, call admission control networks, video networks, video streaming networks, multicast networks, rate control video, efficient scheme, congestion control, performance networks, performance evaluation networks, transmission scheme, scheme wireless, rate adaptation, optical networks, transmission wireless, adaptive scheme, novel scheme, mobile hoc networks, video mobile, optical flow, qos networks, mechanism networks, packet scheduling, assignment networks, traffic, bandwidth networks, content delivery, elastic optical networks, scheme video, flow networks, mobile phones",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "wireless networks, wireless sensor networks, neural networks, networks, social networks, heterogeneous networks, distributed wireless sensor networks, data wireless sensor networks, using networks, protocol wireless sensor networks, analysis networks, routing wireless sensor networks, energy wireless sensor networks, control wireless networks, wireless communication, hoc networks, scheme wireless sensor networks, mobile networks, based wireless sensor networks, scheduling wireless networks, wireless hoc networks, analysis wireless networks, efficient wireless sensor networks, mobile hoc networks, communication networks, convolutional neural networks, cooperative wireless networks, algorithm networks, channel wireless networks, algorithm wireless sensor networks, using wireless sensor networks, using neural networks, heterogeneous wireless networks, localization wireless sensor networks, detection networks, energy-efficient wireless sensor networks, relay networks, scheduling wireless sensor networks, wireless relay networks, performance networks, bayesian networks, optical networks, recurrent neural networks, analysis wireless sensor networks, communication wireless networks, transmission wireless sensor networks, lifetime wireless sensor networks, mobile wireless sensor networks, wireless systems, power wireless sensor networks",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "space-time block codes, space-time codes, ldpc codes, codes channel, limited feedback, decoding codes, maximum likelihood, space-time coding, orthogonal space-time block codes, codes systems, maximum likelihood estimation, design codes, iterative decoding, using codes, lower bounds, ldpc decoder, codes, bit rate, decoding ldpc codes, error channel, error rate, error concealment, quasi-orthogonal space-time block codes, limited feedback mimo, upper bounds, channel feedback, error systems, non-binary ldpc codes, space-time coded, convolutional codes, low-density parity-check codes, codes based, decoding channel, bit error rate, space-time block coding, block coding, error correction, distributed space-time coding, orthogonal space-time block codes channel, limited feedback channel, turbo codes, distributed space-time codes, interference alignment, space-time codes fading channel, decoding systems, limited feedback systems, codes relay, design ldpc codes, codes mimo channel, codes mimo",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "proceedings international conference, artificial intelligence, proceedings acm international conference usa, annual meeting association computational linguistic, proceedings acm international conference data, proceedings international conference data usa, proceedings conference artificial intelligence august, proceedings international conference august, annual meeting association linguistic june, annual association computational linguistic june, annual meeting association computational june, annual meeting computational linguistic june, meeting association computational linguistic june, acm international conference data usa, annual meeting association computational usa, annual meeting computational linguistic usa, annual meeting association computational proceedings, annual meeting computational linguistic proceedings, proceedings conference artificial intelligence july, proceedings international joint artificial intelligence, international joint conference artificial intelligence, proceedings joint conference artificial intelligence, proceedings international joint conference intelligence, proceedings national conference artificial intelligence, proceedings international joint conference artificial, proceedings acm international data usa, proceedings acm conference data usa, proceedings acm international conference management, proceedings international conference artificial intelligence, annual meeting association june usa, annual meeting linguistic june usa, annual association computational june usa, annual computational linguistic june usa, annual meeting computational june usa, meeting association computational june usa, annual meeting association linguistic university, meeting computational linguistic june usa, international conference knowledge data august, annual association computational linguistic university, annual meeting association computational university, annual meeting computational linguistic university, proceedings acm international conference knowledge, meeting association computational linguistic university, acm sigkdd international conference data, proceedings international conference july, acm international conference knowledge usa, sigmod international conference management data, international conference knowledge data usa, proceedings acm sigmod international management, acm sigmod international conference management",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "mimo systems, ofdm systems, systems, based systems, design systems, channel systems, estimation systems, carrier frequency offset estimation, channel estimation ofdm systems, systems using, detection systems, power systems, multiuser systems, linear systems, communication systems, information systems, adaptive systems, mimo systems channel, carrier frequency offset ofdm systems, multiuser mimo systems, precoding mimo, mimo-ofdm systems, antenna systems, design mimo systems, downlink systems, carrier frequency offset estimation ofdm, carrier frequency offset estimation systems, downlink mimo, massive mimo systems, scheme systems, detection mimo, frequency systems, multiuser detection, frequency domain, precoding mimo systems, multiuser mimo downlink, interference systems, based ofdm systems, frequency selective channel, frequency offset estimation ofdm systems, algorithm systems, ofdma systems, feedback systems, antenna mimo systems, distributed systems, joint systems, based mimo systems, allocation systems, transmission systems, beamforming systems",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "performance analysis, analysis systems, performance systems, performance analysis systems, performance analysis channel, low complexity, analysis, performance analysis fading, performance evaluation, performance, interference cancellation, based analysis, performance evaluation systems, design analysis, adaptive modulation, interference mitigation, error analysis, uwb impulse radio, performance analysis fading channel, performance analysis systems channel, performance analysis cooperative, signal processing, low complexity systems, performance using, uwb systems, estimation signal, multiple antenna, analysis systems based, performance comparison, analysis linear, analysis using, signal systems, interference alignment, signal detection, performance analysis mimo systems, co-channel interference, blind source separation, performance based, performance analysis ofdm systems, modulation systems, uwb channel, correlation analysis, performance analysis diversity, performance algorithm, uwb receiver, analysis interference, performance analysis systems fading, performance analysis scheme, signal channel, receiver channel",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "fading channel, mimo channel, channel estimation, rayleigh fading channel, performance fading channel, channel estimation systems, analysis fading channel, channel state information, systems fading channel, relay channel, channel estimation ofdm, mimo fading channel, channel, capacity channel, two-way relay channel, antenna selection, relay selection, interference channel, channel estimation mimo, correlated channel, capacity fading channel, mimo relay, correlated fading channel, antenna selection mimo, nakagami-m fading channel, diversity fading channel, mimo broadcast channel, performance analysis fading channel, diversity channel, correlated mimo channel, joint channel estimation, power fading channel, amplify-and-forward relay, systems channel state information, design channel, imperfect channel state information, relay systems, analysis rayleigh fading channel, selection systems, channel using, error fading channel, outage probability, relay fading channel, spatial multiplexing, transmission channel, rate channel, mimo interference channel, channel estimation fading, transmit antenna selection, cooperative fading channel",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "computer graphics, management systems, guest editoraposs introduction, dynamic systems, message passing, production systems, foreword special section, multi-agent systems, guest editoraposs introduction computer graphics, management, evaluation systems, data management, computer systems, vision systems, partially observable, special issues, knowledge management, computer, performance evaluation, data management systems, theory practice, information management, recommender systems, interactive graphics, guest editorsapos introduction, intelligent tutoring systems, multi-armed bandits, interactive computer graphics, general framework, dynamic, computer aided, dynamic management, recent advances, database management systems, graphics processing unit, graphics systems, acm research development, value iteration, research development information, empirical study, business processes, theory applications, computer graphics education, acm knowledge management, research development, development systems, policy search, computer design, computer vision, foreword special section graphics",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "concurrency control database, augmented reality, environment, multimedia, concurrency control database systems, interactive systems, virtual environment, multimedia applications, concurrency control distributed database, real-time systems, cloud computing, framework, web service, smart grid, storage systems, acm multimedia, database systems, software defined, monitoring systems, interactive, multimedia systems, systems applications, acm workshop multimedia, design space exploration, virtual reality, petri nets, framework systems, systems environment, mobile augmented reality, interactive data, database panel, data environment, multimedia database, virtual, invited talk abstract, framework data, service composition, concurrency distributed database systems, computing, preliminary report, virtual machine, multimedia data, distributed systems, unified framework, software systems, applications, acm international data, data cloud, design systems, performance concurrency control database",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "parallel algorithm, solving problem, parallel, parallel systems, approach, problem, parallel computer, massively parallel, algorithm problem, knowledge base, parallel processing, parallel architecture, parallel computing, parallel distributed, solution problem, parallel implementation, approach systems, load balancing, base systems, parallel applications, algorithm systems, distributed memory, shared memory, performance parallel, transitive closure, support vector machine, parallel data, parallel networks, parallel algorithm systems, efficient parallel, parallel distributed memory, distributed systems, task scheduling, multiprocessor systems, distributed algorithm, parallel problem, query optimization, base station, parallel computation, parallel memory, parallel machine, scheduling parallel, load balancing parallel, parallel solution linear systems, parallel algorithm problem, parallel method, parallel programs, parallel solver, parallel processor, parallel programming",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "database systems, data, query processing, data streams, data systems, database, data mining, data base, relational database, data management, object-oriented database, relational database systems, processing, efficient data, distributed database, query optimization, data base systems, data networks, distributed database systems, distributed data, big data, database management systems, database management, large database, processing data, processing systems, data using, processing queries, query database, object-oriented database systems, database design, efficient processing, data warehouse, real time, data management systems, data model, distributed processing, materialized view, efficient, relational data, approach data, data access, streams processing, data integration, natural language processing, data center, large data, queries database, language processing, query data",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "case study, constraints satisfaction, constraints satisfaction problem, description logic, extended abstract, expert systems, logic, logic programs, knowledge base, planning, reasoning, logic programming, constraints, programming language, shortest path, dynamic programming, mobile robot, belief revision, complex networks, reasoning systems, heuristic search, programming, qualitative reasoning, situation calculus, systems case study, modeling, modal logic, model checking, data case study, logic systems, programs, modeling systems, belief propagation, game, temporal reasoning, default logic, using logic, database programming language, approach planning, inductive logic programming, belief networks, solving constraints satisfaction problem, answer programming, knowledge expert systems, reasoning knowledge, planning domain, expressive description logic, modeling approach, integrity constraints, probabilistic logic",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "design, design using, design implementation, design systems, design filter, design power, antenna array, design circuit, design based, design applications, design methodology, systolic array, implementation, embedded systems, design analysis, processor, design implementation systems, processor array, small cell, design processor, applications processor, array, design method, low design, dynamically reconfigurable, design filter using, sram cell, fpga implementation, design fir, design considerations, transmission line, embedded processor, voltage scaling, implementation using, design networks, using array, design optimization, low power design, coarse-grained reconfigurable architecture, delay line, architecture design, waveguide slot array, implementation filter, efficient design, transceiver design, power line, on-chip interconnect, power gating, constant multiplication, low power processor",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "sigma delta modulator, delta-sigma modulator, applications, sar adc, live demonstration, continuous-time modulator, millimeter wave, sigma-delta modulator, comparative study, background calibration adc, flash memory, pipelined adc, nand flash memory, analysis applications, continuous-time delta-sigma modulator, design delta sigma modulator, effect, continuous-time sigma delta modulator, carbon nanotube, measurement using, sar adc dac, digital background calibration pipelined adc, mss adc, process variation, measurement, experimental study, devices, power applications, continuous-time sigma-delta modulator, systems applications, mss adc cmos, field-effect transistors, adc using, continuous time sigma delta, calibration time-interleaved adc, bandpass modulator, biomedical applications, cmos applications, power amplifier memory effect, process, sar adc cmos, using devices, continuous time modulator, wave using, using applications, thin film, mobile devices, sensor applications, modulator using, sar adc switching",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "dc-dc converter, using technique, cmos circuit, charge pump, technique, circuit using, circuit, analog-to-digital converter, power circuit, supply voltage, integrated circuit, converter, novel technique, buck converter, analysis circuit, dynamic voltage scaling, control converter, design circuit, control dc-dc converter, cmos technology, ultra-low power, based circuit, switching converter, novel, based technique, boost converter, power supply, logic circuit, converter using, esd protection, magnetic resonance, technique circuit, clock recovery circuit, power transfer, converter based, class amplifier nonlinear shunt capacitance, power converter, sequential circuit, power reduction, technique systems, technique power, integrated systems, dc-dc buck converter, voltage circuit, number generator, power supply voltage, circuit systems, design dc-dc converter, integrated, time-to-digital converter",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "low power, fir filter, low complexity, cmos sensor, power amplifier, design filter, design fir filter, cmos amplifier, cmos, frequency synthesizer, dynamic range, wide range, digital filter, low, low cmos, low voltage, filter, low power applications, using filter, digital, power cmos, ghz cmos, low noise amplifier, low power cmos, ring oscillator, cmos using, low power design, filter banks, design cmos, rfid tag, cmos receiver, phase noise, phase-locked loop, cmos bandgap reference, gain amplifier, low power using, low using, design iir filter, cmos image, amplifier using, design digital filter, bandpass filter, design filter banks, design digital, digital using, design filter using, amplifier, low noise cmos, wide range cmos, differential cmos",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "architecture, vlsi architecture, analog circuit, based architecture, reconfigurable architecture, hardware implementation, architecture decoder, memory architecture, neural recording, fault tolerant, architecture systems, novel architecture, hardware architecture, hearing aid, architecture applications, architecture using, optical using, synthesis, high-level synthesis, arc transverse magnetic field, synthesis circuit, optical, fpga implementation, design methodology, architecture design, vlsi implementation, optical flow, optical fiber, analog design, spiking neurons, break arc resistive circuit, arc contact, neural recording systems, fault tolerance, hardware, field programmable analog array, efficient vlsi architecture, break arc magnetic field, digital hearing aid, implementation decoder, hardware design, fpga architecture, vlsi circuit, design analog circuit, front end, low architecture, spiking neural, printed circuit board, vlsi design, simulation circuit",
+			 "target": []
+		}
+		]
+	},
+	{		"ALL": [
+		{
+			 "id": 0,
+			 "topic": "information retrieval, learning, natural language, support vector machine, reinforcement learning, retrieval, machine translation, information, image retrieval, search, question answering, web search, data mining, search engine, statistical machine translation, large scale, machine learning, time series, nearest neighbor, web, social media, collaborative filtering, semantic, information retrieval systems, text, word sense disambiguation, mining association rules, search results, information extraction, relevance feedback, using information, active learning, language model, document, feature selection, mining, topic model, retrieval using, model, mining pattern, query expansion, model information retrieval, text classification, image annotation, learning model, probabilistic model, knowledge representation, web page, social, document retrieval, model retrieval, learning using, content-based image retrieval, semi-supervised learning, search using, similarity search, named entity, text categorization, transfer learning, using semantic, support vector machine classification, similarity measure, learning via, dependency parsing, online learning, learning networks, knowledge discovery, international knowledge discovery data mining, learning classification, keyword search, knowledge discovery data mining usa, web search results, user interface, mining frequent, language, multi-document summarization, automatic generation, text using, statistical model, using web, named entity recognition, large graph, deep learning, query using, learning feature, conference knowledge discovery mining, using model, nearest neighbor search, clustering data, local search, chinese word segmentation, word, latent model, based retrieval, ranking, graph, information retrieval using, learning rank, clustering, model statistical machine translation, image",
+			 "target": [1,2,3,4,5,6]
+		},
+		{
+			 "id": 1,
+			 "topic": "information retrieval, learning, natural language, support vector machine, reinforcement learning, retrieval, machine translation, information, image retrieval, search, question answering, web search, data mining, search engine, statistical machine translation, large scale, machine learning, time series, nearest neighbor, web, social media, collaborative filtering, semantic, information retrieval systems, text, word sense disambiguation, mining association rules, search results, information extraction, relevance feedback, using information, active learning, language model, document, feature selection, mining, topic model, retrieval using, model, mining pattern, query expansion, model information retrieval, text classification, image annotation, learning model, probabilistic model, knowledge representation, web page, social, document retrieval, model retrieval, learning using, content-based image retrieval, semi-supervised learning, search using, similarity search, named entity, text categorization, transfer learning, using semantic, support vector machine classification, similarity measure, learning via, dependency parsing, online learning, learning networks, knowledge discovery, international knowledge discovery data mining, learning classification, keyword search, knowledge discovery data mining usa, web search results, user interface, mining frequent, language, multi-document summarization, automatic generation, text using, statistical model, using web, named entity recognition, large graph, deep learning, query using, learning feature, conference knowledge discovery mining, using model, nearest neighbor search, clustering data, local search, chinese word segmentation, word, latent model, based retrieval, ranking, graph, information retrieval using, learning rank, clustering, model statistical machine translation",
+			 "target": [7,8,9,10,11]
+		},
+		{
+			 "id": 2,
+			 "topic": "image, video coding, using, image using, based, image based, algorithm, video, motion estimation, face recognition, detection, method, detection using, hidden markov model, matrix factorization, image segmentation, monte carlo, conditional random field, image quality assessment, method based, detection based, algorithm based, fast algorithm, based video, scalable video coding, method using, support vector, object tracking, fast, estimation using, based model, using model, video using, color image, motion video, recognition using, using algorithm, fast mode decision, image compression, using feature, decision tree, motion, moving object, efficient algorithm, feature selection, principal component analysis, active contour, recognition, image classification, image coding, segmentation using, robust, wavelet transform, based video coding, image processing, markov random field, sparse representation, estimation based, segmentation, speech recognition, intra prediction, markov decision processes, object detection, based coding, object, local binary pattern, motion video coding, tracking, facial expression recognition, image denoising, nonnegative matrix factorization, detection image, feature image, sparse, genetic algorithm, discrete transform, fast motion estimation, anomaly detection, using adaptive, image registration, based feature, markov chain monte carlo, using coding, prediction video coding, image reconstruction, video quality, detection video, total variation, dimensionality reduction, action recognition, using filter, coding, gaussian process, active contour segmentation, ray tracing, based approach, applications image, image enhancement, depth map, adaptive based",
+			 "target": [12,13,14,15,16]
+		},
+		{
+			 "id": 3,
+			 "topic": "wireless networks, wireless sensor networks, networks, cognitive radio networks, resource allocation, spectrum cognitive radio networks, spectrum sensing cognitive radio, power allocation, relay networks, neural networks, analysis networks, hoc networks, cooperative networks, based networks, cellular networks, routing networks, resource allocation networks, using networks, power networks, social networks, networks coding, allocation networks, wireless mesh networks, distributed networks, spectrum sensing cognitive radio networks, mobile networks, energy harvesting, heterogeneous networks, resource allocation systems, performance networks, channel networks, control networks, routing wireless networks, cognitive radio systems, power allocation networks, power control, scheme networks, protocol networks, wireless hoc networks, cooperative spectrum sensing cognitive radio, algorithm networks, wireless channel, wireless systems, data wireless sensor networks, video streaming, control wireless networks, multiple access, access networks, based wireless networks, distributed wireless sensor networks, protocol wireless sensor networks, scheduling wireless networks, performance analysis networks, cooperative wireless networks, allocation, energy networks, interference networks, power control networks, wireless communication, multi-hop wireless networks, scheme, two-way relay networks, resource allocation ofdma, mobile hoc networks, routing wireless sensor networks, analysis wireless networks, dynamic networks, scheme wireless networks, based cognitive radio, relay selection networks, control, energy efficient, cooperative sensing cognitive radio networks, efficient networks, cooperative relay networks, networks coding wireless, joint networks, spectrum sharing, power allocation systems, cooperative spectrum cognitive radio networks, design networks, optimal power allocation, energy wireless sensor networks, power cognitive radio networks, optical networks, energy efficiency, convolutional neural networks, power wireless networks, allocation wireless networks, scheme wireless sensor networks, based wireless sensor networks, channel wireless networks, power allocation relay networks, optimal networks, access control, selection networks, transmission networks, adaptive networks, load balancing, channel cognitive radio networks",
+			 "target": [17,18,19,20,21]
+		},
+		{
+			 "id": 4,
+			 "topic": "fading channel, mimo channel, performance analysis, channel estimation, mimo systems, proceedings international conference, ofdm systems, channel, systems, channel systems, channel estimation systems, rayleigh fading channel, performance systems, analysis systems, artificial intelligence, proceedings acm international conference usa, based systems, performance fading channel, design systems, annual meeting association computational linguistic, mimo, performance analysis systems, channel state information, carrier frequency offset estimation, performance channel, analysis fading channel, relay channel, proceedings conference artificial intelligence august, channel estimation ofdm systems, analysis channel, proceedings acm international conference data, proceedings international conference data usa, low complexity, ldpc codes, analysis, space-time block codes, space-time codes, performance analysis channel, proceedings international conference august, mimo fading channel, annual meeting association linguistic june, systems fading channel, detection systems, interference cancellation, limited feedback, annual meeting computational linguistic june, annual association computational linguistic june, annual meeting association computational june, systems using, meeting association computational linguistic june, codes, multiuser systems, annual meeting computational linguistic usa, annual meeting association computational usa, proceedings conference artificial intelligence july, decoding codes, interference channel, annual meeting computational linguistic proceedings, acm international conference data usa, annual meeting association computational proceedings, proceedings national conference artificial intelligence, performance analysis fading channel, capacity channel, two-way relay channel, antenna systems, communication systems, precoding mimo, mimo systems channel, adaptive systems, design mimo, proceedings acm international conference management, proceedings international conference artificial intelligence, maximum likelihood, proceedings acm international data usa, proceedings acm conference data usa, proceedings international joint artificial intelligence, carrier frequency offset ofdm systems, power systems, international joint conference artificial intelligence, proceedings joint conference artificial intelligence, antenna selection, mimo-ofdm systems, proceedings international joint conference intelligence, annual meeting linguistic june usa, proceedings international joint conference artificial, annual meeting association june usa, correlated channel, annual computational linguistic june usa, annual meeting computational june usa, meeting computational linguistic june usa, annual association computational june usa, meeting association computational june usa, annual meeting association linguistic university, multiuser mimo systems, linear systems, low complexity systems, annual meeting computational linguistic university, correlated fading channel, relay selection, annual association computational linguistic university",
+			 "target": [21,22,23,24,25,26]
+		},
+		{
+			 "id": 5,
+			 "topic": "database systems, data, query processing, database, case study, solving problem, data streams, computer graphics, data management, data base, data systems, relational database, management systems, parallel algorithm, knowledge base, parallel, data mining, query optimization, object-oriented database, processing, constraints satisfaction, guest editoraposs introduction, database management systems, problem, description logic, parallel systems, constraints satisfaction problem, distributed database, relational database systems, extended abstract, distributed database systems, concurrency control database, expert systems, data base systems, big data, data management systems, efficient data, planning, massively parallel, logic programs, distributed systems, augmented reality, mobile robot, management, distributed data, processing data, processing queries, database design, logic programming, large database, environment, parallel computer, reasoning, data warehouse, materialized view, parallel processing, solution problem, message passing, real time, dynamic systems, dynamic programming, efficient processing, shortest path, virtual environment, smart grid, theorem proving, data center, data networks, streams processing, distributed processing, algorithm problem, approach, query database, programming language, data applications, approach data, object-oriented database systems, logic, computer, real-time systems, computing, relational data, parallel implementation, belief revision, foreword special section, processing systems, parallel distributed, programs, parallel architecture, cloud computing, distributed memory, database applications, performance evaluation, complex networks, guest editoraposs introduction computer graphics, production systems, deductive database, interactive systems, data access, multimedia applications",
+			 "target": [27,28,29,30,31]
+		},
+		{
+			 "id": 6,
+			 "topic": "low power, design, cmos, circuit, dc-dc converter, design filter, fir filter, design using, cmos circuit, cmos sensor, design circuit, power amplifier, low, sigma delta modulator, technique, design fir filter, cmos amplifier, design implementation, wide range, delta-sigma modulator, frequency synthesizer, using technique, low complexity, architecture, charge pump, vlsi architecture, sar adc, digital filter, low voltage, converter, cmos technology, digital, analog circuit, live demonstration, dynamic range, circuit using, low cmos, design methodology, low power design, amplifier, power cmos, continuous-time modulator, design power, millimeter wave, sigma-delta modulator, ghz cmos, low power applications, ring oscillator, cmos using, supply voltage, analog-to-digital converter, fpga implementation, dynamic voltage scaling, reconfigurable architecture, design filter using, low noise, antenna array, phase noise, design applications, low noise amplifier, low design, design based, power supply, power using, rfid tag, applications, phase-locked loop, analysis circuit, design systems, voltage, low power cmos, cmos bandgap reference, gain amplifier, low-power, design cmos, cmos receiver, cmos applications, power circuit, comparative study, buck converter, integrated circuit, flash memory, based circuit, hardware implementation, cmos image, architecture decoder, current, pipelined adc, novel technique, design filter banks, adc, low power using, nand flash memory, bandpass filter, array, calibration adc, amplifier using, voltage cmos, systolic array, fault tolerant",
+			 "target": [32,33,34,35,36]
+		},
+		{
+			 "id": 7,
+			 "topic": "information retrieval, image retrieval, web search, search engine, retrieval, search, information retrieval systems, search results, retrieval using, relevance feedback, model information retrieval, search using, document retrieval, content-based image retrieval, information extraction, image annotation, web search results, based retrieval, local search, information retrieval using, web search engine, relevance feedback retrieval, user interface, document, video retrieval, query search, image search, image retrieval using, semantic role labeling, keyword search, search based, image retrieval systems, document using, learning search, user search, user, workshop information retrieval, similarity search, relevance feedback image retrieval, event detection, efficient search, query retrieval, semantic image retrieval, web search using, text retrieval, test collections, video search, research information retrieval, semantic retrieval, feature retrieval, query expansion, feature extraction, using context, language information retrieval, efficient retrieval, online, retrieval evaluation, search results diversification, video content, relevance, using relevance feedback, content, user behavior, model search, ranking search, information retrieval based, feature image retrieval, using relevance, video browsing, fast search, learning image retrieval, search logs, extraction, video annotation, multimedia retrieval, distributed information retrieval, search results using, query results, search algorithm, exploiting information, web image, automatic image annotation, user systems, search networks, indexing retrieval, sigir information retrieval, analysis retrieval, web content, content using, semantic information retrieval, term information retrieval, relevance model, based image retrieval, retrieval image database, extraction web, web document, mobile visual search, retrieval database, model document retrieval, cross-language information retrieval",
+			 "target": []
+		},
+		{
+			 "id": 8,
+			 "topic": "question answering, large scale, time series, nearest neighbor, mining frequent, graph, mining pattern, similarity measure, clustering data, nearest neighbor search, clustering, large, large graph, time series data, data mining, mining frequent pattern, similarity search, community question answering, using graph, mining graph, queries, frequent itemsets mining, document clustering, structure, index structure, tree adjoining grammars, search graph, queries using, clustering using, data structure, pattern, query answering, unlabeled data, answering queries, answer question, large data, large database, mining time series, schema matching, nearest neighbor queries, large datasets, similarity, reverse nearest neighbor, gene expression, retrieval question answering, combinatory categorial grammars, k-nearest neighbor, high-dimensional data, regular expression, xml query, mining large, using similarity, data sets, keyword search relational database, approximate nearest neighbor search, xml document, similarity join, efficient similarity search, mining pattern data, distance metric learning, hierarchical clustering, top-k queries, using pattern, model question answering, top-k query, large data sets, hierarchical, keyword search xml, large margin, large scale image, question answering systems, privacy preserving, pattern data, xml, answer question answering, similarity database, large using, search large, mining frequent data streams, gene expression data, mining large database, pattern time series, data using, large scale learning, finding, using structure, large scale data, hierarchical classification, clustering approach, efficient large, context-free grammars, pattern matching, large scale networks, facial expression, large image database, time series classification, answering queries using, mining time series data, multiple instance, using similarity measure",
+			 "target": []
+		},
+		{
+			 "id": 9,
+			 "topic": "learning, natural language, support vector machine, reinforcement learning, machine translation, statistical machine translation, machine learning, model, learning using, active learning, word sense disambiguation, language model, learning model, using model, learning via, learning networks, knowledge representation, support vector machine classification, online learning, language, semi-supervised learning, learning classification, named entity, transfer learning, learning feature, semantic, machine, natural language systems, using semantic, multiple learning, learning approach, deep learning, data model, named entity recognition, multi-document summarization, learning data, natural language interface, chinese word segmentation, model statistical machine translation, statistical model, learning representation, learning bayesian networks, learning image, multi-task learning, bayesian learning, using word, using support vector machine, learning neural networks, learning support vector machine, natural language understanding, word, natural language processing, natural language generation, model translation, learning rank, multiple instance learning, using reinforcement learning, metric learning, kernel learning, noun phrase, using knowledge, using machine, representation, semantic model, unsupervised learning, dictionary learning, model retrieval, topic model, feature selection learning, weakly supervised, based model, language model information retrieval, knowledge acquisition, learning systems, domain adaptation, learning structure, hidden model, learning concept, selection learning, model systems, based learning, word alignment, discriminative learning, using language, knowledge, latent model, model information, multi-label classification, supervised learning, active learning classification, semantic analysis, learning applications, analysis model, using machine learning, relational learning, latent semantic, markov model, coreference resolution, hidden markov model, spoken dialogue systems",
+			 "target": []
+		},
+		{
+			 "id": 10,
+			 "topic": "collaborative filtering, social media, social networks, probabilistic model, text categorization, social, dependency parsing, topic model, automatic generation, text using, text, automatic, topic modeling, text classification, sentiment analysis, online social networks, recommendation social, using social, improving using, influence social, probabilistic, automatic using, personalized recommendation, generation, international workshop, workshop summary, model social, influence social networks, recommender systems, learning social, recommendation, based social, naive bayes, model social networks, topic, recommendation systems, using probabilistic, next generation, latent model, collaborative, social analysis, graphical model, user social, differentially private, named entities, speech recognition, prediction social, part-of-speech tagging, recommendation based, temporal, using social media, sentiment classification, modeling social, latent analysis, automatic systems, using topic, user social media, analysis text, improving, automatic text, text detection, automatic image annotation, probabilistic inference, automatic annotation, news social media, latent variable model, deep convolutional neural networks, text systems, generation using, model recommendation, acm workshop media, parsing, video concept, modeling social media, detection social, probabilistic latent semantic analysis, automatic model, relations extraction, temporal video, feature selection text categorization, recommendation using, language generation, social systems, speech understanding, international workshop media, automatic detection, poster abstract, naive bayes classifiers, video concept detection, concept, matrix factorization recommendation, community social networks, tag recommendation, modeling, event social media, community social, speech understanding systems, collaborative recommendation, information social networks, model collaborative filtering",
+			 "target": []
+		},
+		{
+			 "id": 11,
+			 "topic": "data mining, mining association rules, using information, knowledge discovery, international knowledge discovery data mining, web page, information retrieval, query using, query, feature selection, query expansion, information, query language, using web, world wide web, feature classification, acm knowledge discovery mining, classification using, web data, mining, meeting association computational linguistic, web service, text classification, classification, query web, query logs, model information, information extraction, based information, mutual information, query information retrieval, using rules, information systems, mining web, rules, web, web sites, semantic web, using association rules, translation cross-language information retrieval, text mining, side information, discovery, classification data, evaluation information retrieval, visual, mining using, feature selection classification, query evaluation, query processing, image classification, case study, query information, evaluation using, information data, comparative study, news articles, acm information knowledge, visual attention, query suggestion, information networks, mining sequential pattern, evaluation, query based, information knowledge, approach information, discovery using, web information, visual query, cross-language information, query reformulation, language information retrieval, state information, learning web, incomplete information, query model, algorithm mining association rules, ranking, mining pattern, language information, text information, learning rank, document classification, web applications, data using, mining networks, structured, knowledge discovery database, using data mining, feature extraction, web knowledge, pattern discovery, visual feature, query data, structured data, rules based, web image, information fusion, mining association rules database, web page using",
+			 "target": []
+		},
+		{
+			 "id": 12,
+			 "topic": "algorithm, using algorithm, fast algorithm, algorithm based, method using, support vector, method, efficient algorithm, active contour, parallel algorithm, wavelet transform, method based, using transform, fast using, genetic algorithm, discrete transform, dimensionality reduction, fast, vector machine, gaussian mixture model, gaussian process, using genetic algorithm, efficient method, support vector machine, estimation algorithm, active contour segmentation, adaptive algorithm, learning algorithm, fourier transform, using tree, using vector, novel algorithm, filter banks, novel method, using wavelet transform, estimation method, discrete wavelet transform, using support vector, efficient using, algorithm image, improved algorithm, decision tree, detection algorithm, using filter, gaussian processes, fast estimation, algorithm model, clustering algorithm, method image, image transform, reversible data hiding, discrete cosine transform, fast mode decision algorithm, fast method, using bayesian, gaussian process regression, efficient, active learning, algorithm tree, alternating direction method multiplier, bayesian model, vector, tree, complex wavelet, parallel method, variational inference, using active contour, using support vector machine, implementation algorithm, based transform, active contour image, spanning tree, improved using, bayesian, fast algorithm based, perfect reconstruction filter banks, algorithm graph, using gaussian, fast based, analysis algorithm, transform, gaussian process model, filter banks image, using gaussian mixture model, parallel using, nonparametric bayesian, synthetic aperture radar, fast motion estimation algorithm, variable block size estimation, image using transform, support vector regression, support vector classification, algorithm applications, based support vector, fractional fourier transform, using stochastic, based genetic algorithm, earth moveraposs distance, efficient algorithm based, analysis method",
+			 "target": []
+		},
+		{
+			 "id": 13,
+			 "topic": "image using, image, image segmentation, matrix factorization, detection, object tracking, detection based, detection using, moving object, detection image, image based, object detection, image classification, image denoising, sparse representation, anomaly detection, nonnegative matrix factorization, color image, total variation, tracking particle filter, image processing, image restoration, image segmentation using, ray tracing, image registration, approach image, non-negative matrix factorization, applications image, image via, image sparse representation, object, particle swarm optimization, sparse image, video object segmentation, object segmentation, stereo matching, via sparse, image sensor, via, image retrieval, image reconstruction, learning image, image segmentation based, image super-resolution, sparse, hyperspectral image, total variation image, multiple object tracking, image analysis, tracking based, model image, restricted boltzmann machine, detection algorithm, object based, image restoration using, approach detection, tracking using particle filter, using matrix factorization, method image, using filtering, feature image, tracking, model image segmentation, single image, logistic regression, learning sparse, saliency detection, image matching, salient object detection, filter image, object tracking based, using matrix, super resolution, image systems, object image, multiple image, object using, visual tracking, object detection using, matrix completion, total variation regularization, automatic image, estimation image, detection image using, signal detection, sar image, based matching, event detection, image prior, noise image, using particle swarm optimization, matching, intrusion detection, tracking model, active contour image segmentation, multiple kernel, detection image based, edge detection, change detection, detection data",
+			 "target": []
+		},
+		{
+			 "id": 14,
+			 "topic": "hidden markov model, image based, based, based model, conditional random field, method based, markov decision processes, markov random field, using hidden markov model, markov chain monte carlo, estimation based, using functions, decision tree, based approach, algorithm based, random walk, based analysis, canonical correlation analysis, using conditional random field, detection based, parameter estimation, markov chain, using based, image watermarking, singular value decomposition, functions, color image, elliptic curve, based filter, using decision, random, using decomposition, based systems, maximum entropy, random forest, using markov chain monte carlo, using domain, based hidden markov model, markov, efficient based, adaptive based, mode decision, image markov random field, based data, field, based markov random field, learning functions, based functions, functions approximation, watermarking based, using model, classification based, using random walk, using markov random field, region based, novel based, using binary decision diagrams, based image watermarking, based decomposition, based representation, based segmentation, based color, based learning, image based model, color using, surface, seam carving, computationally efficient, stochastic geometry, image using, sampling, based correlation, based structure, affine projection algorithm, digital image watermarking, maximum entropy model, color array demosaicking, wavelet based, color array, based sensing, based random, scheme based, based graph, image using based, diagnosis alzheimeraposs disease, using sampling, decomposition, rational cubic spline, hidden markov model video, segmentation markov random field, functions algebraic immunity, watermarking using, color filter demosaicking, piecewise linear, implicit surface, closed form, domain, decision based, using basis functions, image domain",
+			 "target": []
+		},
+		{
+			 "id": 15,
+			 "topic": "using, image using, face recognition, recognition using, using feature, recognition, feature selection, using model, detection using, estimation using, principal component analysis, recognition based, speech recognition, based feature, local binary pattern, facial expression recognition, feature, action recognition, object recognition, robust using, discriminant analysis, analysis using, pose estimation, classification using, feature recognition, using local, segmentation using, feature image, human action recognition, robust, face recognition using, face, local feature, based local, face using, human recognition, using multiple, object using, local, head pose estimation, data using, using approach, image recognition, tracking using, detection feature, video using, local image, human using, robust based, background subtraction, activity recognition, image using feature, local binary pattern face recognition, using point, systems using, reconstruction using, human body, human, linear discriminant analysis, using based, person re-identification, robust feature, using dynamic, face based, volume rendering, independent component analysis, discriminant analysis face recognition, face image, interest point, based face recognition, pattern recognition, using representation, robust recognition, detection local binary pattern, using pattern, detection using feature, using camera, local global, feature classification, convolutional neural, texture classification, recognition using feature, automatic using, face recognition image, shape using, using technique, shape, recognition systems, robust tracking, localization using, recognition video, facial expression recognition using, recognition based feature, modeling using, human based, real-time detection, feature extraction, learning using, texture synthesis, facial based",
+			 "target": []
+		},
+		{
+			 "id": 16,
+			 "topic": "video coding, video, motion estimation, based video, image quality assessment, image compression, video using, image coding, using coding, scalable video coding, based video coding, motion video, monte carlo, fast motion estimation, detection video, video coding using, intra prediction, motion video coding, adaptive video, video quality, prediction video coding, quality based, adaptive video coding, prediction using, fast intra mode decision, motion estimation video, motion, depth map, based motion, lossless image compression, error concealment video, multiview video coding, image enhancement, algorithm video, multiple description video coding, intra coding, quality, frame video, intra prediction coding, video surveillance, havc video, based prediction, prediction, block motion estimation, compressed sensing, video quality assessment, fast video, video applications, search motion estimation, compression using, real-time video, video streaming, video sequences, video compression, compression, fast video coding, transform coding, using adaptive, motion estimation algorithm, adaptive based, based motion estimation, image quality assessment based, image compression using, image quality metric, analysis video, sparse coding, jpeg image, motion estimation video coding, motion using, havc video coding, efficient video, image coding using, image compression based, video systems, multi-view video, image contrast enhancement, motion compensation video coding, fast mode decision video coding, method video, fast mode decision hevc intra, fast mode decision algorithm havc, image based, distributed video coding, multi-view video coding, objective quality, transform video coding, image video, frame using, image fusion, video quality based, motion vector, belief propagation, lossless image compression using, quality using, video based motion, adaptive image, temporal video, motion estimation using, quality metric based, efficient coding",
+			 "target": []
+		},
+		{
+			 "id": 17,
+			 "topic": "cognitive radio networks, spectrum cognitive radio networks, spectrum sensing cognitive radio, spectrum sensing cognitive radio networks, cognitive radio systems, power control, control networks, cooperative spectrum sensing cognitive radio, access networks, power cognitive radio networks, multiple access, cooperative sensing cognitive radio networks, cooperative spectrum cognitive radio networks, power control networks, based cognitive radio, channel cognitive radio networks, distributed networks, spectrum sharing, cooperative spectrum sensing cognitive networks, access control, dynamic networks, allocation cognitive radio networks, cooperative spectrum sensing radio networks, spectrum access cognitive radio networks, control systems, admission control networks, multiple access channel, compressive sensing, power control cognitive radio networks, based cognitive radio networks, based spectrum sensing, spectrum, spectrum sharing cognitive radio networks, random access, scheme cognitive radio, dynamic spectrum, scheduling networks, based spectrum sensing cognitive radio, interference cognitive radio, distributed, optimal cognitive radio networks, multiple networks, distributed systems, control, joint cognitive radio networks, distributed control, access, primary user cognitive radio networks, distributed power control networks, spectrum cognitive radio channel, medium access control wireless networks, distributed cognitive radio networks, rate control, power control channel, dynamic spectrum access networks, power allocation cognitive radio networks, analysis cognitive radio networks, scheme cognitive radio networks, transmission cognitive radio, opportunistic spectrum access, cognitive radio hoc networks, power control systems, hybrid networks, adaptive cognitive radio, detection cognitive radio, control based, multiple, wideband spectrum sensing, spectrum sensing scheme cognitive radio, spectrum allocation cognitive radio networks, multiple access networks, compressed sensing, distributed coding, spectrum sensing cognitive radio systems, optimization cognitive radio, cognitive radio networks approach, scheduling algorithm, opportunistic networks, interference cognitive radio networks, game theoretic networks, opportunistic spectrum access cognitive radio, based sensing cognitive radio networks, distributed cooperative, power cognitive radio systems, selection cognitive radio, based distributed, mimo cognitive radio, scheduling systems, protocol cognitive radio networks, cognitive radio using, based access, channel sensing cognitive radio networks, allocation cognitive radio systems, opportunistic access cognitive radio networks, opportunistic spectrum cognitive radio networks, power control interference, rate cognitive radio, based spectrum cognitive radio networks, performance cognitive radio networks, underlay cognitive radio networks",
+			 "target": []
+		},
+		{
+			 "id": 18,
+			 "topic": "wireless mesh networks, routing networks, networks coding, hoc networks, routing wireless networks, multi-hop wireless networks, protocol networks, mac protocol wireless networks, load balancing, routing protocol networks, ieee networks, protocol hoc networks, throughput wireless networks, wireless lans, performance analysis networks, wireless channel, networks coding wireless, link networks, wireless link, physical layer networks, analysis networks, opportunistic wireless networks, ad-hoc networks, cross-layer wireless networks, wireless hoc networks, routing wireless mesh networks, routing hoc networks, wireless systems, mac protocol hoc networks, routing protocol wireless networks, link wireless networks, ieee wireless networks, distributed video coding, physical-layer networks coding, analysis wireless, performance wireless, wireless body area networks, peer-to-peer networks, routing algorithm, topology networks, physical layer networks coding, video wireless, protocol, control wireless, wireless ad-hoc networks, mac protocol wireless sensor networks, efficiency video coding, video streaming wireless networks, ieee wireless lans, multihop wireless networks, spectral efficiency, performance analysis wireless networks, control wireless mesh networks, routing, scalable networks, scheduling wireless mesh networks, analysis protocol, load balancing networks, networks coding two-way, networks coding relay, routing protocol hoc networks, ieee wlan, cooperative protocol, networks coding channel, scheduling wireless, access wireless, based wireless, multi-channel wireless networks, layer wireless networks, cross-layer design wireless networks, routing multi-hop wireless networks, wireless transfer, efficiency networks, analysis ieee, based protocol, live streaming, efficient protocol, routing algorithm networks, dynamic load balancing, allocation wireless mesh networks, opportunistic routing wireless networks, performance protocol, physical-layer networks coding relay, access wireless networks, wireless personal area networks, routing protocol wireless sensor, based routing, transmission wireless, channel networks, networks coding two-way channel, analysis ieee networks, peer-to-peer streaming, design networks, throughput analysis networks, link scheduling wireless networks, adaptive wireless, based networks, scalable coding, cooperative wireless networks, wireless local area networks",
+			 "target": []
+		},
+		{
+			 "id": 19,
+			 "topic": "resource allocation, power allocation, allocation networks, resource allocation networks, relay networks, cellular networks, power networks, power allocation networks, cooperative networks, resource allocation systems, energy harvesting, allocation wireless networks, relay selection networks, optimal networks, cooperative relay networks, two-way relay networks, power allocation systems, resource allocation ofdma, energy efficient, power allocation relay networks, power wireless, optimal power allocation, energy networks, resource allocation wireless networks, allocation, power allocation channel, energy efficiency, energy efficient networks, resource allocation ofdma systems, interference networks, small cell networks, relay selection cooperative networks, networks two-way relay channel, power allocation wireless networks, resource allocation radio, resource allocation cellular networks, resource allocation downlink, wireless power transfer, cellular systems, optimal power allocation networks, optimal, resource allocation ofdma networks, power, base station cellular networks, energy harvesting wireless, energy, energy harvesting networks, joint power allocation networks, power allocation cognitive networks, energy wireless, amplify-and-forward relay networks, resource allocation communication, rate allocation, energy systems, mimo relay networks, joint relay networks, cooperative communication, femtocell networks, cooperation networks, power allocation cooperative networks, downlink networks, energy harvesting systems, energy efficiency networks, cooperative wireless, resource allocation downlink systems, optimal relay networks, resource allocation based, resource allocation relay networks, power constraints, cooperative wireless networks, resource allocation radio networks, rate allocation networks, resource allocation multiuser, networks coding two-way relay channel, downlink cellular networks, power allocation relaying, power allocation radio networks, optimal resource allocation, distributed power allocation, optimal allocation wireless networks, networks constraints, energy harvesting sensor, resource allocation ofdma downlink, power energy harvesting, resource management networks, resource allocation scheme, optimal energy harvesting, wireless relay, resource allocation cognitive networks, base station cooperation, rate power allocation, cellular automata, maximization networks, device-to-device communication underlaying cellular networks, energy saving, power transmission, interference cellular networks, cooperative relaying networks, scheme relay networks, resource allocation communication cellular networks",
+			 "target": []
+		},
+		{
+			 "id": 20,
+			 "topic": "scheme networks, traffic networks, mobile networks, video streaming, service networks, scheme, scheme based, video transmission, adaptive networks, delay tolerant networks, transmission networks, mobile systems, delay networks, mobile, mobile devices, scheme systems, mobile hoc, wdm networks, optimization networks, packet networks, call admission control networks, video networks, video streaming networks, multicast networks, rate control video, efficient scheme, congestion control, performance networks, performance evaluation networks, transmission scheme, scheme wireless, rate adaptation, optical networks, transmission wireless, adaptive scheme, novel scheme, mobile hoc networks, video mobile, optical flow, qos networks, mechanism networks, packet scheduling, assignment networks, traffic, bandwidth networks, content delivery, elastic optical networks, scheme video, flow networks, mobile phones, service, coding scheme, scheme using, analysis traffic, congestion networks, unequal protection, qos provisioning networks, video transmission wireless, video systems, adaptive control, performance mobile, protection networks, wavelength optical networks, congestion control networks, performance scheme, adaptive wireless, performance analysis networks, based networks, control scheme, delivery networks, wavelength assignment networks, scheme mobile, content delivery networks, scheme mobile networks, mobile channel, quality service, adaptive, video transmission networks, transmission using, service wireless, adaptive video streaming, tcp networks, packet loss, rate control video coding, scheme based networks, novel scheme networks, satellite networks, analysis networks, mobile using, mobility networks, optical wdm networks, call admission control wireless networks, bandwidth wireless networks, scheme channel, data transmission, video transmission channel, management scheme, packet, traffic based, performance analysis mobile",
+			 "target": []
+		},
+		{
+			 "id": 21,
+			 "topic": "wireless networks, wireless sensor networks, neural networks, networks, social networks, heterogeneous networks, distributed wireless sensor networks, data wireless sensor networks, using networks, protocol wireless sensor networks, analysis networks, routing wireless sensor networks, energy wireless sensor networks, control wireless networks, wireless communication, hoc networks, scheme wireless sensor networks, mobile networks, based wireless sensor networks, scheduling wireless networks, wireless hoc networks, analysis wireless networks, efficient wireless sensor networks, mobile hoc networks, communication networks, convolutional neural networks, cooperative wireless networks, algorithm networks, channel wireless networks, algorithm wireless sensor networks, using wireless sensor networks, using neural networks, heterogeneous wireless networks, localization wireless sensor networks, detection networks, energy-efficient wireless sensor networks, relay networks, scheduling wireless sensor networks, wireless relay networks, performance networks, bayesian networks, optical networks, recurrent neural networks, analysis wireless sensor networks, communication wireless networks, transmission wireless sensor networks, lifetime wireless sensor networks, mobile wireless sensor networks, wireless systems, power wireless sensor networks, access wireless networks, networks coding, data gathering wireless sensor networks, node networks, performance wireless networks, networks coding wireless, design networks, wireless communication systems, mac wireless sensor networks, energy efficient wireless sensor networks, interference wireless networks, control wireless sensor networks, optimization wireless sensor networks, detection wireless sensor networks, information networks, approach wireless networks, joint wireless networks, estimation networks, based neural networks, optimal wireless sensor networks, node wireless sensor networks, coverage wireless sensor networks, cooperative wireless sensor networks, cellular networks, clustering wireless sensor networks, vehicular networks, estimation wireless sensor networks, synchronization networks, communication, energy harvesting wireless sensor networks, multi-hop wireless networks, adaptive wireless sensor networks, next generation networks, secure networks, multiple wireless networks, mimo networks, model networks, intrusion detection networks, management networks, design wireless sensor networks, routing protocol wireless sensor networks, data aggregation wireless sensor networks, distribution networks, management wireless networks, capacity wireless networks, energy efficient protocol sensor networks, deep neural networks, information wireless networks, wireless sensor networks mobile sinks, time wireless sensor networks",
+			 "target": []
+		},
+		{
+			 "id": 22,
+			 "topic": "space-time block codes, space-time codes, ldpc codes, codes channel, limited feedback, decoding codes, maximum likelihood, space-time coding, orthogonal space-time block codes, codes systems, maximum likelihood estimation, design codes, iterative decoding, using codes, lower bounds, ldpc decoder, codes, bit rate, decoding ldpc codes, error channel, error rate, error concealment, quasi-orthogonal space-time block codes, limited feedback mimo, upper bounds, channel feedback, error systems, non-binary ldpc codes, space-time coded, convolutional codes, low-density parity-check codes, codes based, decoding channel, bit error rate, space-time block coding, block coding, error correction, distributed space-time coding, orthogonal space-time block codes channel, limited feedback channel, turbo codes, distributed space-time codes, interference alignment, space-time codes fading channel, decoding systems, limited feedback systems, codes relay, design ldpc codes, codes mimo channel, codes mimo, iterative decoding channel, space-time coded channel, coded modulation, linear complexity generalized cyclotomic sequences, error codes, ldpc codes channel, maximum likelihood systems, degree freedom mimo channel, joint decoding, linear codes, sum rate, decoding algorithm ldpc codes, limited feedback mimo channel, design codes channel, space-time block coding fading channel, error rate channel, block mimo, trellis coded modulation, adaptive feedback, codes relay channel, error, error probability, soft-decision decoding reed-solomon codes, binary codes, space-time coded systems, interference alignment mimo, using feedback, joint source-channel coding, limited feedback precoding, decision feedback, diversity space-time codes, design space-time codes, space-time block coded, coding channel, block diagonalization mimo, linear dispersion codes, error bounds, block transmission, space-time systems, space-time trellis codes, alignment mimo, error floor ldpc codes, orthogonal space-time block codes mimo, error coding, space-time coded modulation, unequal error, modulation coding, finite state, performance codes, decoding non-binary ldpc codes",
+			 "target": []
+		},
+		{
+			 "id": 23,
+			 "topic": "proceedings international conference, artificial intelligence, proceedings acm international conference usa, annual meeting association computational linguistic, proceedings acm international conference data, proceedings international conference data usa, proceedings conference artificial intelligence august, proceedings international conference august, annual meeting association linguistic june, annual association computational linguistic june, annual meeting association computational june, annual meeting computational linguistic june, meeting association computational linguistic june, acm international conference data usa, annual meeting association computational usa, annual meeting computational linguistic usa, annual meeting association computational proceedings, annual meeting computational linguistic proceedings, proceedings conference artificial intelligence july, proceedings international joint artificial intelligence, international joint conference artificial intelligence, proceedings joint conference artificial intelligence, proceedings international joint conference intelligence, proceedings national conference artificial intelligence, proceedings international joint conference artificial, proceedings acm international data usa, proceedings acm conference data usa, proceedings acm international conference management, proceedings international conference artificial intelligence, annual meeting association june usa, annual meeting linguistic june usa, annual association computational june usa, annual computational linguistic june usa, annual meeting computational june usa, meeting association computational june usa, annual meeting association linguistic university, meeting computational linguistic june usa, international conference knowledge data august, annual association computational linguistic university, annual meeting association computational university, annual meeting computational linguistic university, proceedings acm international conference knowledge, meeting association computational linguistic university, acm sigkdd international conference data, proceedings international conference july, acm international conference knowledge usa, sigmod international conference management data, international conference knowledge data usa, proceedings acm sigmod international management, acm sigmod international conference management, proceedings acm sigmod conference management, proceedings acm sigmod international data, acm sigkdd international data august, acm sigmod international conference data, acm sigkdd conference data august, proceedings acm sigmod conference data, proceedings sigmod international conference management, proceedings international conference knowledge usa, proceedings acm international conference multimedia, sigkdd international conference data august, proceedings sigmod international conference data, proceedings international conference usa august, annual meeting association university usa, annual meeting linguistic university usa, annual association computational university usa, acm sigkdd international conference august, annual computational linguistic university usa, annual meeting computational university usa, proceedings acm sigmod international conference, meeting association computational university usa, meeting computational linguistic university usa, annual meeting association june proceedings, acm international conference usa august, annual meeting linguistic june proceedings, acm international conference knowledge data, international joint artificial intelligence august, proceedings international acm conference information, proceedings joint artificial intelligence august, joint conference artificial intelligence august, annual meeting association june university, annual association computational june proceedings, proceedings international joint intelligence august, annual meeting linguistic june university, proceedings international joint artificial august, annual computational linguistic june proceedings, meeting association linguistic june university, international joint conference intelligence august, annual meeting computational june proceedings, meeting association computational june proceedings, acm international conference knowledge august, international conference knowledge usa august, international joint conference artificial august, proceedings joint conference intelligence august, meeting computational linguistic june proceedings, proceedings joint conference artificial august, sigmod international conference management june, proceedings acm international conference august, acm sigkdd international data usa, proceedings international joint conference august, acm sigkdd conference data usa",
+			 "target": []
+		},
+		{
+			 "id": 24,
+			 "topic": "mimo systems, ofdm systems, systems, based systems, design systems, channel systems, estimation systems, carrier frequency offset estimation, channel estimation ofdm systems, systems using, detection systems, power systems, multiuser systems, linear systems, communication systems, information systems, adaptive systems, mimo systems channel, carrier frequency offset ofdm systems, multiuser mimo systems, precoding mimo, mimo-ofdm systems, antenna systems, design mimo systems, downlink systems, carrier frequency offset estimation ofdm, carrier frequency offset estimation systems, downlink mimo, massive mimo systems, scheme systems, detection mimo, frequency systems, multiuser detection, frequency domain, precoding mimo systems, multiuser mimo downlink, interference systems, based ofdm systems, frequency selective channel, frequency offset estimation ofdm systems, algorithm systems, ofdma systems, feedback systems, antenna mimo systems, distributed systems, joint systems, based mimo systems, allocation systems, transmission systems, beamforming systems, joint channel estimation systems, transceiver design mimo, cdma systems, carrier frequency offset ofdma uplink, carrier offset estimation ofdm systems, downlink mimo systems, cooperative systems, method systems, carrier frequency estimation ofdm systems, linear precoding mimo, distributed antenna systems, low complexity mimo systems, carrier frequency offset channel estimation, detection mimo systems, receiver systems, uplink systems, mimo interference, joint estimation carrier frequency offset, feedback mimo systems, scheme mimo systems, channel estimation mimo-ofdm systems, systems carrier frequency offset channel, multi-user systems, multiple systems, frequency offset channel estimation systems, power ofdm systems, multi-user mimo systems, allocation ofdm systems, ofdm carrier frequency offset channel, relay systems, performance systems, frequency offset estimation ofdma uplink, performance mimo systems, mimo systems receiver, transmit systems, papr reduction ofdm systems, low systems, multiuser downlink systems, algorithm mimo systems, carrier frequency offset estimation uplink, radio systems, robust systems, beamforming mimo, estimation based systems, transmit beamforming, mimo systems using, systems transmit antenna, iterative estimation, iterative channel, scheme ofdm systems",
+			 "target": []
+		},
+		{
+			 "id": 25,
+			 "topic": "performance analysis, analysis systems, performance systems, performance analysis systems, performance analysis channel, low complexity, analysis, performance analysis fading, performance evaluation, performance, interference cancellation, based analysis, performance evaluation systems, design analysis, adaptive modulation, interference mitigation, error analysis, uwb impulse radio, performance analysis fading channel, performance analysis systems channel, performance analysis cooperative, signal processing, low complexity systems, performance using, uwb systems, estimation signal, multiple antenna, analysis systems based, performance comparison, analysis linear, analysis using, signal systems, interference alignment, signal detection, performance analysis mimo systems, co-channel interference, blind source separation, performance based, performance analysis ofdm systems, modulation systems, uwb channel, correlation analysis, performance analysis diversity, performance algorithm, uwb receiver, analysis interference, performance analysis systems fading, performance analysis scheme, signal channel, receiver channel, design analysis systems, analysis distributed antenna systems, reduced complexity, error performance, performance receiver, performance ofdm, receive antenna, interference suppression, maximal ratio combining, systems co-channel interference, low complexity channel, analysis power, time systems, adaptive modulation systems, interference channel, performance analysis communication, shift keying, performance analysis relay, peak-to-average power ratio, performance analysis relaying, higher order, performance receiver channel, uwb radar, analysis frequency, multipath channel, presence noise, signal, linear receiver, performance analysis algorithm, computational complexity, performance evaluation channel, systems multiple antenna, analysis data, antenna array, performance interference, performance systems using, performance analysis based, performance analysis cooperative systems, performance analysis design, performance combining, combining systems, adaptive modulation coding, performance analysis wireless, phase noise ofdm, performance systems receiver, analysis power systems, adaptive systems, detection signal channel, performance uwb systems, uwb communication",
+			 "target": []
+		},
+		{
+			 "id": 26,
+			 "topic": "fading channel, mimo channel, channel estimation, rayleigh fading channel, performance fading channel, channel estimation systems, analysis fading channel, channel state information, systems fading channel, relay channel, channel estimation ofdm, mimo fading channel, channel, capacity channel, two-way relay channel, antenna selection, relay selection, interference channel, channel estimation mimo, correlated channel, capacity fading channel, mimo relay, correlated fading channel, antenna selection mimo, nakagami-m fading channel, diversity fading channel, mimo broadcast channel, performance analysis fading channel, diversity channel, correlated mimo channel, joint channel estimation, power fading channel, amplify-and-forward relay, systems channel state information, design channel, imperfect channel state information, relay systems, analysis rayleigh fading channel, selection systems, channel using, error fading channel, outage probability, relay fading channel, spatial multiplexing, transmission channel, rate channel, mimo interference channel, channel estimation fading, transmit antenna selection, cooperative fading channel, space-time fading channel, frequency-selective fading channel, channel estimation using, mimo relay channel, based channel, capacity mimo channel, mimo rayleigh fading channel, mimo channel state information, coding channel, relaying systems, block fading channel, amplify-and-forward relay systems, based channel estimation, spatial multiplexing systems, performance systems fading channel, cooperative diversity, optimal fading channel, imperfect channel, gaussian channel, rate fading channel, antenna selection channel, channel model, systems rayleigh fading channel, diversity systems, multiple channel, performance nakagami-m fading channel, frequency selective fading channel, channel estimation error, achievable rate channel, multipath fading channel, two-way relaying, transmission fading channel, antenna selection mimo systems, coding two-way relay channel, time-varying channel, analysis relay, analysis systems fading channel, selection channel, coding fading channel, communication fading channel, mimo two-way relay, performance mimo channel, partial channel state information, amplify-and-forward relaying, channel estimation detection, analysis mimo channel, performance relay, miso channel, wireless fading channel, performance cooperative fading channel",
+			 "target": []
+		},
+		{
+			 "id": 27,
+			 "topic": "computer graphics, management systems, guest editoraposs introduction, dynamic systems, message passing, production systems, foreword special section, multi-agent systems, guest editoraposs introduction computer graphics, management, evaluation systems, data management, computer systems, vision systems, partially observable, special issues, knowledge management, computer, performance evaluation, data management systems, theory practice, information management, recommender systems, interactive graphics, guest editorsapos introduction, intelligent tutoring systems, multi-armed bandits, interactive computer graphics, general framework, dynamic, computer aided, dynamic management, recent advances, database management systems, graphics processing unit, graphics systems, acm research development, value iteration, research development information, empirical study, business processes, theory applications, computer graphics education, acm knowledge management, research development, development systems, policy search, computer design, computer vision, foreword special section graphics, general purpose, rapid prototyping, policy reinforcement learning, business process, computer graphics design, hash functions, computer art, advanced systems, special issues parallel, behavior systems, theory, management networks, experimental evaluation, value iteration pomdps, knowledge-based systems, robot navigation, large-scale systems, base management systems, policy iteration, multi-agent reinforcement learning, execution plans, general game playing, aqualogic data platform, evaluation, aqualogic service platform, behavior, model management, data science, management information systems, using computer graphics, introduction special issues, general, resource management, snapshot isolation, graphics processor, computer networks, robot vision, computer graphics course, cultural heritage, flexible systems, flexible, approximate policy iteration, management applications, management distributed systems, distributed management, memory management, message passing systems, computer graphics systems, business intelligence, trust systems",
+			 "target": []
+		},
+		{
+			 "id": 28,
+			 "topic": "concurrency control database, augmented reality, environment, multimedia, concurrency control database systems, interactive systems, virtual environment, multimedia applications, concurrency control distributed database, real-time systems, cloud computing, framework, web service, smart grid, storage systems, acm multimedia, database systems, software defined, monitoring systems, interactive, multimedia systems, systems applications, acm workshop multimedia, design space exploration, virtual reality, petri nets, framework systems, systems environment, mobile augmented reality, interactive data, database panel, data environment, multimedia database, virtual, invited talk abstract, framework data, service composition, concurrency distributed database systems, computing, preliminary report, virtual machine, multimedia data, distributed systems, unified framework, software systems, applications, acm international data, data cloud, design systems, performance concurrency control database, software, intelligent systems, distributed environment, service, data applications, service systems, international multimedia, international workshop multimedia, international data engineering, data service, supporting systems, interactive visualization, panel abstract, dynamic environment, database applications, decision making, divide conquer, cray x-mp, internet things, optimistic concurrency control, virtual systems, virtual machine cloud, interactive exploration data, live demonstration systems, live systems, management systems, interactive design, mobile environment, cloud, interactive multimedia, framework applications, cloud service, mobile systems, state art, acm knowledge data, embedded systems, mobile computing, virtual data center, virtual view, data systems, acm international multimedia, computing systems, cache replacement, cache replacement policy, data cache, mobile applications, distributed multimedia, functional dependencies, multimedia service, virtual world",
+			 "target": []
+		},
+		{
+			 "id": 29,
+			 "topic": "parallel algorithm, solving problem, parallel, parallel systems, approach, problem, parallel computer, massively parallel, algorithm problem, knowledge base, parallel processing, parallel architecture, parallel computing, parallel distributed, solution problem, parallel implementation, approach systems, load balancing, base systems, parallel applications, algorithm systems, distributed memory, shared memory, performance parallel, transitive closure, support vector machine, parallel data, parallel networks, parallel algorithm systems, efficient parallel, parallel distributed memory, distributed systems, task scheduling, multiprocessor systems, distributed algorithm, parallel problem, query optimization, base station, parallel computation, parallel memory, parallel machine, scheduling parallel, load balancing parallel, parallel solution linear systems, parallel algorithm problem, parallel method, parallel programs, parallel solver, parallel processor, parallel programming, parallel model, parallel simulation, optimization systems, problem systems, efficient computation, fault diagnosis, coalition formation, approach design, solving problem using, search problem, parallel solution, parallel dynamic, diagnosis systems, approach data, parallel distributed systems, solving systems, distributed approach, approach networks, search algorithm, solution, shared memory multiprocessor, parallel implementation algorithm, problem networks, parallel distributed memory computer, parallel search, applications problem, parallel shared memory, computation, distributed problem, solving equations, traffic engineering, large base, memory systems, parallel algorithm data, parallel database systems, parallel database, optimization, massively parallel architecture, approach problem, parallel using, approach database, parallel solution equations, scheduling problem, parallel solving linear systems, optimization problem, problem solving systems, data base, parallel algorithm distributed, transitive closure algorithm, load balancing database systems",
+			 "target": []
+		},
+		{
+			 "id": 30,
+			 "topic": "database systems, data, query processing, data streams, data systems, database, data mining, data base, relational database, data management, object-oriented database, relational database systems, processing, efficient data, distributed database, query optimization, data base systems, data networks, distributed database systems, distributed data, big data, database management systems, database management, large database, processing data, processing systems, data using, processing queries, query database, object-oriented database systems, database design, efficient processing, data warehouse, real time, data management systems, data model, distributed processing, materialized view, efficient, relational data, approach data, data access, streams processing, data integration, natural language processing, data center, large data, queries database, language processing, query data, microsoft sql server, analysis data, relational data base, deductive database, queries, efficient database, object database, data technique, efficient systems, algorithm data, file systems, data database, efficient query processing, processing networks, design data, data base management systems, data applications, efficient queries, xml data, theorem proving, data sensor, query processing database, query systems, efficient processing queries, uncertain data, data warehousing, next generation, large data base, approach database, distributed query processing, queries data, method data, performance database, continuous queries, query processing systems, database applications, combinatorial auction, mining data streams, view maintenance, main memory database, optimization queries, database using, relational database management systems, query processing data, database language, efficient large database, query database systems, query optimization database, data base design, privacy data",
+			 "target": []
+		},
+		{
+			 "id": 31,
+			 "topic": "case study, constraints satisfaction, constraints satisfaction problem, description logic, extended abstract, expert systems, logic, logic programs, knowledge base, planning, reasoning, logic programming, constraints, programming language, shortest path, dynamic programming, mobile robot, belief revision, complex networks, reasoning systems, heuristic search, programming, qualitative reasoning, situation calculus, systems case study, modeling, modal logic, model checking, data case study, logic systems, programs, modeling systems, belief propagation, game, temporal reasoning, default logic, using logic, database programming language, approach planning, inductive logic programming, belief networks, solving constraints satisfaction problem, answer programming, knowledge expert systems, reasoning knowledge, planning domain, expressive description logic, modeling approach, integrity constraints, probabilistic logic, path planning, formal verification, knowledge compilation, case-based reasoning, arc consistency, systems constraints, fuzzy logic, game approach, spatial reasoning, planning robot, temporal constraints, approach reasoning, agents, default reasoning, belief, integration systems, support machine, constraints programming, consistency constraints, game playing, control robot, knowledge systems, programming systems, game theoretic approach, path, linear programming, shortest path algorithm, reasoning logic, planning model, learning robot, first-order logic, networks planning, heuristic planning, programs synthesis, applications case study, planning uncertainty, satisfiability problem, using reasoning, probabilistic planning, lessons learned, temporal planning, intelligent systems, bounded model checking, logic networks, optimal planning, design logic, integrity checking, decision support, rule-based systems, knowledge",
+			 "target": []
+		},
+		{
+			 "id": 32,
+			 "topic": "design, design using, design implementation, design systems, design filter, design power, antenna array, design circuit, design based, design applications, design methodology, systolic array, implementation, embedded systems, design analysis, processor, design implementation systems, processor array, small cell, design processor, applications processor, array, design method, low design, dynamically reconfigurable, design filter using, sram cell, fpga implementation, design fir, design considerations, transmission line, embedded processor, voltage scaling, implementation using, design networks, using array, design optimization, low power design, coarse-grained reconfigurable architecture, delay line, architecture design, waveguide slot array, implementation filter, efficient design, transceiver design, power line, on-chip interconnect, power gating, constant multiplication, low power processor, dynamic voltage scaling, design delay, physical design, design evaluation, fft processor, power line communication, cell broadband engine, embedded systems design, model design, design array, associative memory, using line, low-power design, design logic, filter array, design reconfigurable, signal processor, applications specific processor, design algorithm, using processor, design memory, robust design, pulse width, register file, time series, design technique, slot array antenna, power processor, power embedded, embedded, line, performance processor, post-wall waveguide, design soc, cell, efficient implementation, multi-core processor, using transmission line, design test, design using logic, design delay using, design fir using, design converter, power embedded systems, design implementation networks, design structure, reconfigurable architecture, reconfigurable, implementation method, microstrip antenna",
+			 "target": []
+		},
+		{
+			 "id": 33,
+			 "topic": "sigma delta modulator, delta-sigma modulator, applications, sar adc, live demonstration, continuous-time modulator, millimeter wave, sigma-delta modulator, comparative study, background calibration adc, flash memory, pipelined adc, nand flash memory, analysis applications, continuous-time delta-sigma modulator, design delta sigma modulator, effect, continuous-time sigma delta modulator, carbon nanotube, measurement using, sar adc dac, digital background calibration pipelined adc, mss adc, process variation, measurement, experimental study, devices, power applications, continuous-time sigma-delta modulator, systems applications, mss adc cmos, field-effect transistors, adc using, continuous time sigma delta, calibration time-interleaved adc, bandpass modulator, biomedical applications, cmos applications, power amplifier memory effect, process, sar adc cmos, using devices, continuous time modulator, wave using, using applications, thin film, mobile devices, sensor applications, modulator using, sar adc switching, experimental evaluation, digital library, memory, performance applications, measurement systems, characteristics, adc, microphone array, cmos process, mss pipelined adc, mss sar adc, continuous-time modulator dac, study, flash adc, plane wave, based characteristics, pipelined adc cmos, cmos biomedical applications, thin-film transistors, millimeter wave using, organic solar cell, modulator, body area, gas sensor, technique delta-sigma modulator, live demonstration systems, modulator quantizer, using transistors, light communication, tunneling field-effect transistors, low applications, test, characterization, flash memories, wave, non-volatile memory, design applications, calibration using, memory using, analysis electromagnetic, experimental, analysis electromagnetic scattering, jitter continuous-time modulator, simulated annealing, based applications, using process, pipelined adc using, effect performance, cascade modulator, design continuous-time modulator",
+			 "target": []
+		},
+		{
+			 "id": 34,
+			 "topic": "dc-dc converter, using technique, cmos circuit, charge pump, technique, circuit using, circuit, analog-to-digital converter, power circuit, supply voltage, integrated circuit, converter, novel technique, buck converter, analysis circuit, dynamic voltage scaling, control converter, design circuit, control dc-dc converter, cmos technology, ultra-low power, based circuit, switching converter, novel, based technique, boost converter, power supply, logic circuit, converter using, esd protection, magnetic resonance, technique circuit, clock recovery circuit, power transfer, converter based, class amplifier nonlinear shunt capacitance, power converter, sequential circuit, power reduction, technique systems, technique power, integrated systems, dc-dc buck converter, voltage circuit, number generator, power supply voltage, circuit systems, design dc-dc converter, integrated, time-to-digital converter, using technology, design technique, mode dc-dc converter, electrostatic vibration energy harvester, leakage power, integrated cmos, power voltage, novel method, clock jitter, transient response, digital dc-dc converter, dc-dc boost converter, current voltage, power control, efficiency dc-dc converter, current mode, novel systems, reduction technique, current-steering dac, cmos current, floating gate, threshold voltage, dynamic voltage frequency scaling, digitally controlled, power supply noise, low-dropout regulator, novel based, fast transient response, novel circuit, optimization circuit, clock skew, power noise, novel using, current, switched capacitor, resonant power transfer systems, serial link, noise reduction, resonant tunneling diode, class amplifier, random generator, esd protection design cmos, clock distribution, integrated power, leakage reduction, technique cmos, model circuit, reduction, control buck converter, power using",
+			 "target": []
+		},
+		{
+			 "id": 35,
+			 "topic": "low power, fir filter, low complexity, cmos sensor, power amplifier, design filter, design fir filter, cmos amplifier, cmos, frequency synthesizer, dynamic range, wide range, digital filter, low, low cmos, low voltage, filter, low power applications, using filter, digital, power cmos, ghz cmos, low noise amplifier, low power cmos, ring oscillator, cmos using, low power design, filter banks, design cmos, rfid tag, cmos receiver, phase noise, phase-locked loop, cmos bandgap reference, gain amplifier, low power using, low using, design iir filter, cmos image, amplifier using, design digital filter, bandpass filter, design filter banks, design digital, digital using, design filter using, amplifier, low noise cmos, wide range cmos, differential cmos, fully differential cmos, frequency divider, cmos applications, cmos temperature sensor, design fir filter using, digital cmos, iir digital filter, cmos power amplifier, phase noise oscillator, low voltage cmos, low cost, cmos technology, cmos voltage reference, operational amplifier, ultra low power, low-voltage cmos, receiver front-end cmos, low-power cmos, injection-locked frequency divider, cmos oscillator, design amplifier, power digital, cmos circuit, range, cmos low noise amplifier, linear-phase fir filter, digital systems, cmos front-end, wide dynamic range, frequency using, low systems, adaptive filter, finite element, low complexity design, transimpedance amplifier, low power cmos sensor, cmos lna, capsule endoscopy, low power systems, low filter, phase transition, cmos gain, duty cycle, class-e power amplifier, low frequency, programmable gain amplifier, variable gain amplifier, low power voltage, design iir digital filter, cmos bandgap reference circuit",
+			 "target": []
+		},
+		{
+			 "id": 36,
+			 "topic": "architecture, vlsi architecture, analog circuit, based architecture, reconfigurable architecture, hardware implementation, architecture decoder, memory architecture, neural recording, fault tolerant, architecture systems, novel architecture, hardware architecture, hearing aid, architecture applications, architecture using, optical using, synthesis, high-level synthesis, arc transverse magnetic field, synthesis circuit, optical, fpga implementation, design methodology, architecture design, vlsi implementation, optical flow, optical fiber, analog design, spiking neurons, break arc resistive circuit, arc contact, neural recording systems, fault tolerance, hardware, field programmable analog array, efficient vlsi architecture, break arc magnetic field, digital hearing aid, implementation decoder, hardware design, fpga architecture, vlsi circuit, design analog circuit, front end, low architecture, spiking neural, printed circuit board, vlsi design, simulation circuit, neural networks, neural, wavelength optical, contact break arc, design interface, design circuit, power architecture, scan test, vlsi, fault circuit, using neural, spiking neural networks, synthesis using, optical systems, low latency, chip multiprocessor, hybrid architecture, architecture fast, analog, free-space optical, fault using, deep sub-micron, delay tolerant, networks spiking neurons, hardware trojan, pipelined architecture, fpga using, high-speed architecture, vlsi implementation decoder, test generation fault, ldpc decoder architecture, fpga, architecture implementation, circuit neural networks, fault, analog using, parallel architecture, vlsi architecture decoder, design high-speed, performance architecture, design decoder, silicon neurons, networks architecture, testability circuit, high-speed using, neuromorphic systems, high-speed systems, design synthesis, break arc driven, fault sequential circuit",
+			 "target": []
+		}
+		]
+	}
+]
