@@ -51,91 +51,94 @@
 <?php 
 $tabs = array( "k10", "k20", "k50", "k100" ); ?>
 
+
 <div>
 
   <!-- Nav tabs -->
-  <ul class="nav nav-tabs" role="tablist">
-  	<?php foreach($tabs as $k=>$v ) : ?>
-    <li role="presentation" class="<?php echo ($k==0)?"active":"";?>"><a href="#<?php echo $v;?>" aria-controls="<?php echo $v;?>" role="tab" data-toggle="tab"><?php echo $v;?></a></li>
-    <?php endforeach;?>
-  </ul>
+  	<!-- <div id="tabs"> -->
+		  <ul class="nav nav-tabs" role="tablist">
+		  	<?php foreach($tabs as $k=>$v ) : ?>
+		    <li id="list" role="presentation" class="tab_a"><a href="#<?php echo $v;?>" aria-controls="<?php echo $v;?>" role="tab" data-toggle="tab"><strong><?php echo $v;?></strong></a></li>
+		    <?php endforeach;?>
+		  </ul>
 
-  <!-- Tab panes -->
-  <div class="tab-content">
-  	<?php foreach($tabs as $k=>$v ) : ?>
-    <div role="tabpanel" class="tab-pane fade <?php echo ($k==0)?"in active":"";?>" id="<?php echo $v;?>">
-    	<div id="trees">
-			<ul class="treelist">
-				<li>
-					<div class="panel panel-default">
-					  <div class="panel-heading">
-					    <h3 class="panel-title">CATHY Topic Tree</h3>
-					  </div>
-					  <div class="panel-body">
-					    <div id="han_tree"></div>					
-					  </div>
+		  <!-- Tab panes -->
+		  <div class="tab-content">
+		  	<?php foreach($tabs as $k=>$v ) : ?>
+		    <div role="tabpanel" class="tab-pane fade <?php echo ($k==0)?"in active":"";?>" id="<?php echo $v;?>">
+		    	<div id="trees">
+					<ul class="treelist">
+						<li>
+							<div class="panel panel-default">
+							  <div class="panel-heading">
+							    <h3 class="panel-title">CATHY Topic Tree</h3>
+							  </div>
+							  <div class="panel-body">
+							    <div class="tabtreeclass" id="han_tree<?php echo $v;?>"></div>						    			
+							  </div>
+							</div>
+							
+							
+						</li>
+						<li>
+
+							<div class="panel panel-primary">
+							  <div class="panel-heading">
+							    <h3 id="topicTitle" class="panel-title">Dynamic Cubing Topic Tree</h3>
+							  </div>
+							  <div class="panel-body">
+							    <div class="tabtreeclass" id="my_tree<?php echo $v;?>"></div>
+
+							  </div>
+							</div>
+
+						</li>	
+					</ul>
+				</div>
+				<div id ="results">
+					<div class="container" id="features">
+						<!-- <h2>MEasures</h2> -->
+					  <form role="form">
+					    <div class="form-group">
+					      <div class="col-xs-2" id="cosine">
+					        <label for="ex1">cosine</label>
+					        <strong> <input class="form-control" id="cosineValue" type="text" readonly> </strong>
+					      </div>
+
+					      <div class="col-xs-2" id="jaccard">
+					        <label for="ex1">jaccard</label>
+					        <input class="form-control" id="jaccardValue" type="text" readonly>
+					      </div>
+
+					      <div class="col-xs-2" id="entropy">
+					        <label for="ex1">entropy</label>
+					        <input class="form-control" id="entropyValue" type="text" readonly>
+					      </div>
+					    </div>
+					  </form>
 					</div>
-					
-					
-				</li>
-				<li>
 
-					<div class="panel panel-primary">
-					  <div class="panel-heading">
-					    <h3 id="topicTitle" class="panel-title">Dynamic Cubing Topic Tree</h3>
-					  </div>
-					  <div class="panel-body">
-					    <div id="my_tree"></div>
 
-					  </div>
-					</div>
+					<div id="treeTopics">
+						<ul class="treelist">
+							<li>
+							    <h3>CATHY Topics</h3>
+							    <div id="han_tree_details"></div>					
+							</li>
+							<li>
+								<h3>Dynamic Topics</h3>
+								<div id="my_tree_details"></div>
+							</li>	
+						</ul>
+					</div>	
 
-				</li>	
-			</ul>
-		</div>
-		<div id ="results">
-			<div class="container" id="features">
-				<!-- <h2>MEasures</h2> -->
-			  <form role="form">
-			    <div class="form-group">
-			      <div class="col-xs-2" id="cosine">
-			        <label for="ex1">cosine</label>
-			        <strong> <input class="form-control" id="cosineValue" type="text" readonly> </strong>
-			      </div>
-
-			      <div class="col-xs-2" id="jaccard">
-			        <label for="ex1">jaccard</label>
-			        <input class="form-control" id="jaccardValue" type="text" readonly>
-			      </div>
-
-			      <div class="col-xs-2" id="entropy">
-			        <label for="ex1">entropy</label>
-			        <input class="form-control" id="entropyValue" type="text" readonly>
-			      </div>
-			    </div>
-			  </form>
+						<div id="heatmap" ></div>
+				</div>
 			</div>
-
-
-			<div id="treeTopics">
-				<ul class="treelist">
-					<li>
-					    <h3>CATHY Topics</h3>
-					    <div id="han_tree_details"></div>					
-					</li>
-					<li>
-						<h3>Dynamic Topics</h3>
-						<div id="my_tree_details"></div>
-					</li>	
-				</ul>
-			</div>	
-
-				<div id="heatmap" ></div>
-		</div>
-	</div>
-    <?php endforeach;?>
-   
-  </div>
+		    <?php endforeach;?>
+		   
+		  </div>
+	<!-- </div> -->
 
 </div>
 
