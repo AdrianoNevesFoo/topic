@@ -1,5 +1,5 @@
-var cosseno = [];
 
+var cosseno = [];
 var config = {
     confName: "",
     index: ""
@@ -38,37 +38,30 @@ $(document).ready(function() {
                             $("#conferenceYear").change(function() {
                                 var year = $("#conferenceYear").val();
                                 console.log("Ano: " + year);
+                                
 
                                 var id = $("div.tab-pane.fade.active.in").attr("id");
                                 if (year != -1) {
                                     if (cosseno.length == 0) {
 
                                         $.ajax({
+                                            url:"data/dblp/newCosine/k10/"+$("#dataconferencia").val()+"_Cossine.json",
 
-                                            url: "data/dblp/cossine/" + $("#dataconferencia").val() + "_Cossine.json",
-                                            success: function(data) {
-                                                var vector = new Array("k10", "k20", "k50", "k100");
-
-
-
+                                            success: function(data) {                                                                                                
                                                 Tree.tree1 = -1;
                                                 Tree.tree2 = -1;
                                                 cosseno = data;
+                                                console.log(cosseno);
                                                 config.confName = confName;
                                                 config.index = index;
 
                                                 Tree.init("HAN", index, 'han', "han_treek10");
                                                 Tree.init("MYTREE", index, confName, "my_treek10");
 
-                                                var id = $("div.tab-pane.fade.active.in").attr("id");
-                                                console.log(id);
+                                                var id = $("div.tab-pane.fade.active.in").attr("id");                                                
                                                 $("div.tab-content").find("div#"+id).find("#heatmap").css("height", "900px");
                                                 $("div.tab-content").find("div#"+id).find("#heatmap").highcharts(Heatmap.parse(cosseno));
 
-                                                $("#tabs_div").on("click", "a.tab_a", function() {
-                                                    console.log("selected tab id: " + $(this).attr("href"));
-                                                    console.log("selected tab name: " + $(this).find("span").text());
-                                                });
                                             },
                                             error: function(data) {
                                                 cosseno = JSON.parse(data.responseText);
@@ -77,7 +70,7 @@ $(document).ready(function() {
                                             }
                                         });
                                     } else {
-                                        console.log(id)
+                                       
                                         Tree.tree1 = -1;
                                         Tree.tree2 = -1;
                                         Tree.init("HAN", index, 'han', id);
@@ -289,11 +282,6 @@ var interval = window.setInterval(function() {
 
         var conference = $("#dataconferencia").val();
         var year = $("#conferenceYear").val();
-        var cossineJSON = "data/dblp/cossine/" + conference + "_Cossine.json";
-
-        var teste = "   testando a funcado de trim   ";
-        console.log(teste);
-        console.log(trim(teste));
 
 
         var arrTopic1 = Tree.topic[0].split(",");
@@ -327,7 +315,7 @@ var interval = window.setInterval(function() {
         // arrTopic2 = arrTopic2.join(","); 
         // $("#myModal").find("#han_topic").html('<h4>'+"Topic ID: "+Tree.click[0]+'</h4>'+"<br />"+Tree.topic[0]+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic1);  		
         // $("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
-        console.log(arrTopic2);
+    
         var id = $("div.tab-pane.fade.active.in").attr("id");
 
         $("#" + id).find("#han_tree_details").html('<h4>' + "Topic ID: " + Tree.click[0] + '</h4>' + "<br />" + arrTopic1.join(", ") + "<br /><br /> Quantidade de topicos: " + qtdTopicarrTopic1);
@@ -351,9 +339,10 @@ var interval = window.setInterval(function() {
         if (year == "ALL") {
             objectName = conference;
         }
-
+        console.log(conference);
         var hanID = Tree.click[0];
         var myID = Tree.click[1];
+        
         for (i in cosseno[0][objectName]) {
             if (i == hanID) {
                 $("#cosineValue").attr("value", cosseno[0][objectName][i].cos[myID]);
@@ -376,17 +365,31 @@ var interval = window.setInterval(function() {
 
 
 $(document).on("click", "li.tab_a", function() {
+    cosseno = [];
     var self = this;
     window.setTimeout(function() {
         var id = $(self).find('a').attr("aria-controls");
+        
         Tree.clear();
         Tree.init("HAN", config.index, 'han', "han_tree" + id);
         Tree.init("MYTREE", config.index, config.confName, "my_tree" + id);
 
-        var idHeatMap = $("div.tab-pane.fade.active.in").attr("id");
-        console.log(id);
-        $("div.tab-content").find("div#"+idHeatMap).find("#heatmap").css("height", "900px");
-        $("div.tab-content").find("div#"+idHeatMap).find("#heatmap").highcharts(Heatmap.parse(cosseno));
+
+        $.ajax({
+            url:"data/dblp/newCosine/"+id+"/"+$("#dataconferencia").val()+"_Cossine.json",
+
+            success: function(data) {                                                                                                
+                cosseno = data;
+                $("div.tab-content").find("div#"+id).find("#heatmap").css("height", "900px");
+                $("div.tab-content").find("div#"+id).find("#heatmap").highcharts(Heatmap.parse(cosseno));
+
+            },
+            error: function(data) {
+                cosseno = JSON.parse(data.responseText);
+                //Tree.init("HAN", index, 'han', id);
+                //Tree.init("MYTREE",index, confName, id);
+            }
+        });
 
     }, 800);
 });

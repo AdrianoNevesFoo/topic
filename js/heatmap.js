@@ -64,7 +64,7 @@ var Heatmap = {
     parse:function( obj ){
     	var conference = $("#dataconferencia").val();
   		var year = $("#conferenceYear").val();
-    	this.title = "XOTA";
+    	this.title = "Teste";
     	for(i=1;i<=37;i++){
     		this.labelX.push(i);
     		this.labelY.push(i);
