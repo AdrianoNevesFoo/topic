@@ -32,7 +32,6 @@
 	<div id="Hierarchy">
 		<h1> Hierarchical Topic Trees </h1>
 	</div>
-	
 	<div id="filtros">
 		<label for="database">Database:</label>
 		<select name="" id="database">
@@ -49,7 +48,9 @@
 	</div>
 
 <?php 
-$tabs = array( "k10", "k20", "k50", "k100" ); ?>
+$tabs = array( "k10", "k20", "k50", "k100" ); 
+
+?>
 
 
 <div>
@@ -57,8 +58,15 @@ $tabs = array( "k10", "k20", "k50", "k100" ); ?>
   <!-- Nav tabs -->
   	<!-- <div id="tabs"> -->
 		  <ul class="nav nav-tabs" role="tablist">
-		  	<?php foreach($tabs as $k=>$v ) : ?>
-		    <li id="list" role="presentation" class="tab_a"><a href="#<?php echo $v;?>" aria-controls="<?php echo $v;?>" role="tab" data-toggle="tab"><strong><?php echo $v;?></strong></a></li>
+		  	<?php foreach($tabs as $k=>$v ) : 
+		  		$varClass ="";
+		  		if($v == "k10"){
+		  			$varClass = "active";
+		  		}else{
+		  			$varClass = "tab_a";
+		  		}
+		  	?>
+		    	<li id="list" role="presentation" class="<?php echo $varClass;?>"><a href="#<?php echo $v;?>" aria-controls="<?php echo $v;?>" role="tab" data-toggle="tab"><strong><?php echo $v;?></strong></a></li>
 		    <?php endforeach;?>
 		  </ul>
 

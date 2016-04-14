@@ -4,6 +4,11 @@
   display: block;
   /*border: 1px solid #000;*/
 }
+
+ul.nav.nav-tabs{
+  margin-top: 100px;
+}
+
 #tabs{
   margin-top: 30px;
 }
@@ -83,12 +88,12 @@ span.totaldiffer{
 }
 #features{
   margin-top:30px;
-  margin-left: 550px;
+  margin-left: 666px;
 }
 
 
 #filtros{
-  margin-left:5px;
+  margin-left:645px;
   margin-top:55px;
 
   padding: 4px;

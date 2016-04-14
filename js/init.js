@@ -36,10 +36,7 @@ $(document).ready(function() {
                             $("#topicTitle").html(confName.toUpperCase());
 
                             $("#conferenceYear").change(function() {
-                                var year = $("#conferenceYear").val();
-                                console.log("Ano: " + year);
-                                
-
+                                var year = $("#conferenceYear").val();                                                
                                 var id = $("div.tab-pane.fade.active.in").attr("id");
                                 if (year != -1) {
                                     if (cosseno.length == 0) {
@@ -119,11 +116,11 @@ var Tree = {
                     url: "data/" + index.toLowerCase() + "/json/" + conference.toLowerCase() + ".json",
                     success: function(data) {
                         var han = data;
-                        self.parseConferenceTree(han, id);
+                        self.parseConferenceTree(han, id, "HAN");
                     },
                     error: function(data) {
                         var han = JSON.parse(data.responseText);
-                        self.parseConferenceTree(han, id);
+                        self.parseConferenceTree(han, id, "HAN");
                     }
                 });
                 break;
@@ -133,11 +130,11 @@ var Tree = {
                     url: "data/" + index.toLowerCase() + "/json/" + conference.toLowerCase() + ".json",
                     success: function(data) {
                         var conferenceTree = data;
-                        self.parseConferenceTree(conferenceTree, id);
+                        self.parseConferenceTree(conferenceTree, id, "MYTREE");
                     },
                     error: function(data) {
                         var conferenceTree = JSON.parse(data.responseText);
-                        self.parseConferenceTree(conferenceTree, id);
+                        self.parseConferenceTree(conferenceTree, id, "MYTREE");
                     }
                 });
                 break;
@@ -145,10 +142,12 @@ var Tree = {
     },
 
 
-    parseConferenceTree: function(json, selector) {
+    parseConferenceTree: function(json, selector, treeName) {
         var elements = [];
         var edges = [];
         var year = $("#conferenceYear").val();
+        console.log("IMPRIMINDO YEAR");
+        console.log(year);
         var id = $("div.tab-pane.fade.active.in").attr("id");
         var hash = {
             "k10": 0,
@@ -156,7 +155,14 @@ var Tree = {
             "k50": 2,
             "k100": 3
         };
-        var jsonYear = json[hash[id]][year];
+
+        var hashYear = {
+            "HAN": "ALL",
+            "MYTREE": year                       
+        };
+
+        
+        var jsonYear = json[hash[id]][hashYear[treeName]];
 
 
         for (i in jsonYear) {
