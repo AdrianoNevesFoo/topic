@@ -5,6 +5,12 @@
   /*border: 1px solid #000;*/
 }
 
+#cosine{
+  margin-left: 795px;
+}
+#entropyDHC{
+  margin-left: 750px;
+}
 ul.nav.nav-tabs{
   margin-top: 100px;
 }
@@ -24,6 +30,15 @@ ul.treelist{
 ul.treelist li{
 	width: 49%;
 	display: inline-table;
+}
+
+ul.entropyList{
+  width: 100%;
+  list-style: none;
+}
+ul.entropyList li{
+  width: 49%;
+  display: inline-table;
 }
 
 .myCustomClass{
@@ -87,10 +102,13 @@ span.totaldiffer{
   background-color: white;
 }
 #features{
-  margin-top:30px;
-  margin-left: 666px;
+  margin-top:3px;
+  margin-left: 11px;
 }
 
+#DHCubingEntropy{
+  margin-left: 1600px;
+}
 
 #filtros{
   margin-left:645px;
@@ -105,7 +123,7 @@ span.totaldiffer{
 }
 
 #container{
-  margin-top:205px;
+  margin-top:10px;
 }
 #Hierarchy{  
   color:#FFFFFF;

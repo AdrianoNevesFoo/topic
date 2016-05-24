@@ -102,10 +102,24 @@ $tabs = array( "k10", "k20", "k50", "k100" );
 
 						</li>	
 					</ul>
-				</div>
+
+
+					<ul class="entropyList" >
+						<li>
+							<div class="col-xs-2" id="entropyHAN">
+					        	<label for="ex1">Entropy</label>
+					        	<strong> <input class="form-control" id="entropyHanValue" type="text" readonly> </strong>
+					     	 </div>
+						</li>
+						<li>
+							<div class="col-xs-2" id="entropyDHC">
+					        	<label for="ex1">Entropy</label>
+					        	<strong> <input class="form-control" id="entropyDHCValue" type="text" readonly> </strong>
+					     	</div>
+						</li>
+					</ul>
+
 				<div id ="results">
-					<div class="container" id="features">
-						<!-- <h2>MEasures</h2> -->
 					  <form role="form">
 					    <div class="form-group">
 					      <div class="col-xs-2" id="cosine">
@@ -117,14 +131,9 @@ $tabs = array( "k10", "k20", "k50", "k100" );
 					        <label for="ex1">jaccard</label>
 					        <input class="form-control" id="jaccardValue" type="text" readonly>
 					      </div>
-
-					      <div class="col-xs-2" id="entropy">
-					        <label for="ex1">entropy</label>
-					        <input class="form-control" id="entropyValue" type="text" readonly>
-					      </div>
 					    </div>
 					  </form>
-					</div>
+				</div>
 
 
 					<div id="treeTopics">
@@ -142,6 +151,7 @@ $tabs = array( "k10", "k20", "k50", "k100" );
 
 						<div id="heatmap" ></div>
 				</div>
+
 			</div>
 		    <?php endforeach;?>
 		   

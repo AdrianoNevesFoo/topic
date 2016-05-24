@@ -48,7 +48,7 @@ $(document).ready(function() {
                                                 Tree.tree1 = -1;
                                                 Tree.tree2 = -1;
                                                 cosseno = data;
-                                                console.log(cosseno);
+                                                
                                                 config.confName = confName;
                                                 config.index = index;
 
@@ -146,8 +146,7 @@ var Tree = {
         var elements = [];
         var edges = [];
         var year = $("#conferenceYear").val();
-        console.log("IMPRIMINDO YEAR");
-        console.log(year);
+
         var id = $("div.tab-pane.fade.active.in").attr("id");
         var hash = {
             "k10": 0,
@@ -161,7 +160,7 @@ var Tree = {
             "MYTREE": year                       
         };
 
-        
+        console.log(json[0]);
         var jsonYear = json[hash[id]][hashYear[treeName]];
 
 
@@ -235,8 +234,55 @@ var Tree = {
         for (i in elements) {
             var html = elements[i].data.topic;
 
-            tree.nodes().on("tap", function(evt) {
-                var tree_id = $(evt.cy.container()).attr("id");
+            //************* FUNCAO TAP... APLICA ACAO AO SE MUDAR DE ESTADO NOS NÓS DA ARVORE**********************************************************
+            tree.nodes().on("tap", function(evt) { 
+
+            var nodeID = this.data('id');
+            var tree_id = $(evt.cy.container()).attr("id");
+            var id = $("div.tab-pane.fade.active.in").attr("id");
+            var year = $("#conferenceYear").val();
+            var treeIDSplit = tree_id.split("_");
+            // console.log("YEAR: "+year+"    NodeID: "+nodeID+"     treeID: "+tree_id+"    id:"+id);
+            if(treeIDSplit[0].localeCompare("han") == 0){
+                var conference = $("#dataconferencia").val();
+                $.ajax({
+                    url:"data/dblp/entropy/"+id+"/"+"DBLP.json",
+                    success: function(data) {                                                                                                
+                        var entropyJSON = data;                                            
+                        $("#entropyHanValue").attr("value", entropyJSON[0]["ALL"][nodeID]["entropy"]);
+
+                    },
+                    error: function(data) {
+                        var entropyJSON = JSON.parse(data.responseText);
+
+                    }
+                });
+            }else{
+                var conference = $("#dataconferencia").val();   
+                // console.log("data/dblp/entropy/"+id+"/"+conference+".json");             
+
+                $.ajax({
+                    url:"data/dblp/entropy/"+id+"/"+conference+".json",
+                    success: function(data) {     
+                        // console.log("ENTROOOOOOOOOOOOOOOUUUUUUUUUUUUUUUUUU!!!!!!    YEAR: "+year);
+                        var entropyJSON = data; 
+                        // console.log(entropyJSON[0])
+                        for(i in entropyJSON){
+
+                        }
+                        // console.log(entropyJSON.length);                                                                         
+                        // $("#entropyDHCValue").attr("value", entropyJSON[0][year][nodeID]["entropy"]);
+
+                    },
+                    error: function(data) {
+                        var entropyJSON = JSON.parse(data.responseText);
+                        //Tree.init("HAN", index, 'han', id);
+                        //Tree.init("MYTREE",index, confName, id);
+                    }
+                });
+            }
+
+
 
                 if (Tree.click.length > 0 && Tree.click.length < 2) {
                     var checked = false;
@@ -284,6 +330,7 @@ function rtrim(str) {
 }
 
 var interval = window.setInterval(function() {
+
     if (Tree.click.length == 2) {
 
         var conference = $("#dataconferencia").val();
@@ -293,18 +340,45 @@ var interval = window.setInterval(function() {
         var arrTopic1 = Tree.topic[0].split(",");
         var arrTopic2 = Tree.topic[1].split(",");
 
+        var termsHan = [];
+        var termsDHCubing = [];
+        var contHan = 0;
+        var contDHC = 0;
+
         for (i in arrTopic1) {
             arrTopic1[i] = trim(arrTopic1[i]);
+            var auxHan = arrTopic1[i].split(" ");
+            for(j in auxHan){
+                termsHan[contHan] = auxHan[j];
+                contHan = contHan+1;
+            }            
         }
+        
 
         for (i in arrTopic2) {
             arrTopic2[i] = trim(arrTopic2[i]);
+            var auxDHC = arrTopic2[i].split(" ");
+            for(j in auxDHC){
+                termsDHCubing[contDHC] = auxDHC[j]
+                contDHC = contDHC+1;
+            }
         }
 
+
+        var topicosDHCDifrentes = [];
+        var mySet = new Set();
+        var contadorTopicosDiferentesDHC = 0;
         var topicDiffer1 = Tree.topic[0].split(/(?:,| )+/);
         var topicDiffer2 = Tree.topic[1].split(/(?:,| )+/);
 
 
+        for(i in termsDHCubing){
+            if(termsHan.indexOf(termsDHCubing[i]) == -1){
+                topicosDHCDifrentes[contadorTopicosDiferentesDHC] = termsDHCubing[i];
+                mySet.add(termsDHCubing[i]);
+                contadorTopicosDiferentesDHC = contadorTopicosDiferentesDHC+1;                
+            }
+        }
         var qtdTopicarrTopic1 = arrTopic1.length;
         var qtdTopicarrTopic2 = arrTopic2.length;
 
@@ -323,9 +397,20 @@ var interval = window.setInterval(function() {
         // $("#myModal").find("#my_topic").html('<h4>'+"Topic ID: "+Tree.click[1]+'</h4>'+"<br />"+arrTopic2+"<br /><br /> Quantidade de topicos: "+qtdTopicarrTopic2+"<br/>Quantidade de topicos diferentes: "+qtdTopicosDiferentes);
     
         var id = $("div.tab-pane.fade.active.in").attr("id");
+        console.log("ID: "+id);
+
+        var vetorTermosDiferentes = [];
+        var contador = 0;
+        for (let item of mySet) {
+            vetorTermosDiferentes[contador] = item; 
+            contador++;               
+        }
 
         $("#" + id).find("#han_tree_details").html('<h4>' + "Topic ID: " + Tree.click[0] + '</h4>' + "<br />" + arrTopic1.join(", ") + "<br /><br /> Quantidade de topicos: " + qtdTopicarrTopic1);
-        $("#" + id).find("#my_tree_details").html('<h4>' + "Topic ID: " + Tree.click[1] + '</h4>' + "<br />" + arrTopic2.join(", ") + "<br /><br /> Quantidade de topicos: " + qtdTopicarrTopic2 + "<br/>Quantidade de topicos diferentes: " + qtdTopicosDiferentes);
+        $("#" + id).find("#my_tree_details").html('<h4>' + "Topic ID: " + Tree.click[1] + '</h4>' + "<br />" + arrTopic2.join(", ") + "<br /><br /> Quantidade de topicos: " + qtdTopicarrTopic2 + "<br/>Quantidade de topicos diferentes: " + qtdTopicosDiferentes+"<br/><br />Termos Diferentes: "+vetorTermosDiferentes.join(", "));
+
+
+
 
         qtdTopicosDiferentes = 0;
 
@@ -345,7 +430,7 @@ var interval = window.setInterval(function() {
         if (year == "ALL") {
             objectName = conference;
         }
-        console.log(conference);
+
         var hanID = Tree.click[0];
         var myID = Tree.click[1];
         
@@ -379,7 +464,7 @@ $(document).on("click", "li.tab_a", function() {
         Tree.clear();
         Tree.init("HAN", config.index, 'han', "han_tree" + id);
         Tree.init("MYTREE", config.index, config.confName, "my_tree" + id);
-
+        console.log(id);
 
         $.ajax({
             url:"data/dblp/newCosine/"+id+"/"+$("#dataconferencia").val()+"_Cossine.json",
